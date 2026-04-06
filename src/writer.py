@@ -180,9 +180,9 @@ def run_writing_agent():
         "Escribe en español de forma natural y fluida. "
         "INSTRUCCIONES DE FORMATO Y ESTILO: "
         "1. Inspírate en el Capítulo 1 (narración ágil en primera persona, monólogos en cursiva y humor sutil). "
-        "2. Usa guion largo (—) para diálogos y separa escenas con saltos de línea. "
-        "3. Inicia estrictamente con el encabezado: # Capítulo {chapter_num} — \"Título del Capítulo\". "
-        "4. Importante: fluye naturalmente, no fuerces ni repitas mecánicamente los rasgos físicos o datos específicos de los personajes en cada generación. "
+        "2. Confía en el contexto: fluye orgánicamente sin abusar de repeticiones de conceptos. "
+        "3. Usa guion largo (—) para diálogos y separa escenas con saltos de línea. "
+        "4. Inicia estrictamente con el encabezado: # Capítulo {chapter_num} — \"Título del Capítulo\". "
         "Evita notas del autor o mostrar tus pensamientos tipográficos (<think>)."
     )
 
