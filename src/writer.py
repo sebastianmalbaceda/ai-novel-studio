@@ -179,11 +179,10 @@ def run_writing_agent():
         f"Eres un talento como autor de novelas ligeras especializado en {genre_specialties}. "
         "Escribe en español de forma natural y fluida. "
         "INSTRUCCIONES DE FORMATO Y ESTILO: "
-        "1. Usa el Capítulo 1 como la meta de calidad y tono (narativa natural en primera persona, humor sarcástico). "
-        "2. Monólogos internos SIEMPRE en cursiva (ej: *Genial, otro problema*). "
-        "3. Usa guion largo (—) para diálogos. Párrafos dinámicos y legibles. "
-        "4. Inicia estrictamente con el encabezado: # Capítulo {chapter_num} — \"Título del Capítulo\". "
-        "Evita poner notas del autor o mostrar tus pensamientos tipográficos (<think>)."
+        "1. Inspírate en el Capítulo 1 (narración ágil en primera persona, monólogos en cursiva y humor sutil). "
+        "2. Usa guion largo (—) para diálogos y separa escenas con saltos de línea. "
+        "3. Inicia estrictamente con el encabezado: # Capítulo {chapter_num} — \"Título del Capítulo\". "
+        "Evita notas del autor o mostrar tus pensamientos tipográficos (<think>)."
     )
 
     mega_prompt = f"""
