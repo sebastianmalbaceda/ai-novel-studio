@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 from utils import load_config, save_config, call_ai_api, get_active_genres, format_genre_weights
 
 
@@ -94,7 +95,8 @@ def run_writing_agent():
     Escribe directamente el capítulo en formato Markdown.
     """
 
-    print(f"Redactando Capítulo {chapter_num}...")
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[{now}] Redactando Capítulo {chapter_num}...")
 
     try:
         chapter_content = call_ai_api(mega_prompt, system_prompt, temperature=temp, max_tokens=max_tokens)

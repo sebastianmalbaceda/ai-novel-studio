@@ -34,8 +34,8 @@ Convertir A.I. Novel Studio en la plataforma de referencia para generación aut�
 - [ ] Manejo de errores de API con reintentos (retry con exponential backoff)
 - [ ] Logging estructurado con timestamps
 - [ ] Validación de `config.json` antes de cada ejecución
-- [ ] Resúmenes automáticos post-escritura (condensar capítulo para `resúmenes.md`)
-- [ ] Tests unitarios para `utils.py`
+- [x] Resúmenes automáticos post-escritura (condensar capítulo para `resúmenes.md`)
+- [x] Tests unitarios (cobertura inicial para `utils.py` y `researcher.py`)
 - [ ] Detección de conflictos de git y resolución automática
 
 ---

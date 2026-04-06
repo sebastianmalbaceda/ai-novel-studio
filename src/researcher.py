@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 from utils import load_config, call_ai_api, get_active_genres, format_genre_weights
 
 
@@ -40,7 +41,8 @@ def run_research_agent():
         current_knowledge = ""
         
         with open('../data/research_log.txt', 'a', encoding='utf-8') as f:
-            f.write(f"\n\n============= NUEVA SESIÓN DE INVESTIGACIÓN ({calls_per_run} ITERACIONES) =============\n")
+            now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            f.write(f"\n\n============= NUEVA SESIÓN DE INVESTIGACIÓN ({calls_per_run} ITERACIONES) [{now}] =============\n")
 
             for i in range(1, calls_per_run + 1):
                 print(f"-> Ejecutando iteración {i}/{calls_per_run}...")

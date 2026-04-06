@@ -121,15 +121,27 @@ def call_ai_api(prompt, system_prompt="Eres un útil asistente de escritura.", t
     if extra_body:
         payload.update(extra_body)
 
-    try:
-        response = requests.post(url, headers=headers, json=payload)
-        response.raise_for_status()
+    import time
 
-        data = response.json()
-        return data['choices'][0]['message']['content']
-    except requests.exceptions.RequestException as e:
-        if hasattr(e, 'response') and e.response is not None:
-            print(f"Error en la llamada a la API ({settings.get('api_provider', 'unknown')}): {e.response.text}")
-        else:
-            print(f"Error en la llamada a la API ({settings.get('api_provider', 'unknown')}): {e}")
-        raise
+    max_retries = 3
+    retry_delay = 2
+
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=60)
+            response.raise_for_status()
+
+            data = response.json()
+            return data['choices'][0]['message']['content']
+        except (requests.exceptions.RequestException, KeyError) as e:
+            if attempt < max_retries - 1:
+                print(f"Error en la llamada a la API (Intento {attempt + 1}/{max_retries}): {e}. Reintentando en {retry_delay}s...")
+                time.sleep(retry_delay)
+                retry_delay *= 2
+            else:
+                if hasattr(e, 'response') and e.response is not None:
+                    print(f"Fallo definitivo tras {max_retries} intentos ({settings.get('api_provider', 'unknown')}): {e.response.text}")
+                else:
+                    print(f"Fallo definitivo tras {max_retries} intentos ({settings.get('api_provider', 'unknown')}): {e}")
+                raise
+
