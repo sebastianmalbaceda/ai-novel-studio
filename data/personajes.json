@@ -19,7 +19,7 @@
     "clasificacion": "Principal",
     "rol": "Co-protagonista / Estudiante de intercambio / Infiltrada",
     "edad": "Aparente 17 (170 ciclos Velari)",
-    "descripcion_fisica": "1.75m, cabello plateado en coleta geométrica, ojos violeta analíticos, uniforme siempre impecable.",
+    "descripcion_fisica": "Joven muy alta y pálida. Su mirada es analítica y tiene rasgos llamativos que parecen ligeramente fuera de lugar en este mundo.",
     "personalidad": "Extremadamente literal, curiosa, eficiente pero socialmente analfabeta. Empieza a desarrollar curiosidad humana.",
     "estado_vital": "Activa / En cobertura",
     "relaciones": {
@@ -29,13 +29,13 @@
     },
     "secretos": "Misión real: reactivar el nodo de tránsito. Ha revelado su origen a Haruto y Kenji por error.",
     "arco_actual": "Adaptación cultural acelerada tras comprometer su identidad.",
-    "metas_actuales": ["Protocolo de adaptación", "Navegar el interés invasivo de Kenji", "Evitar reporte de falla a sus superiores"]
+    "metas_actuales": ["Protocolo de adaptación", "Navegar la hiperactividad de Kenji", "Evitar reporte de falla a sus superiores"]
   },
   "Kenji Aoyama": {
     "clasificacion": "Secundario / Alivio cómico",
     "rol": "Amigo / YouTuber paranormal / Detective amateur",
     "edad": 17,
-    "descripcion_fisica": "Gafas de pasta que ajusta dramáticamente, smartphone en mano constantemente.",
+    "descripcion_fisica": "Apariencia de investigador adolescente obsesionado. Nunca suelta su smartphone.",
     "personalidad": "Enérgico, obsesivo con los OVNIs, leal a Haruto pero imprudente por naturaleza.",
     "estado_vital": "Saludable / Exaltado",
     "relaciones": {
@@ -43,7 +43,7 @@
       "Lyra Vel'Kath": "Obsesión de investigación / 'Prueba viviente'"
     },
     "secretos": "Teme que si los aliens existen, él sea el primero en ser abducido.",
-    "arco_actual": "Conseguír la primicia mundial sobre Lyra para sus 47 suscriptores.",
-    "metas_actuales": ["Video viral con prueba definitiva", "No ser expulsado por grabar en el campus"]
+    "arco_actual": "Conseguir evidencia mundial para hacer crecer su pequeño y desconocido canal de videos.",
+    "metas_actuales": ["Hacerse viral con una prueba definitiva", "No ser expulsado por grabar en el campus"]
   }
 }
