@@ -1,0 +1,52 @@
+{
+    "mcpServers": {
+        "_documentation": "Configuración de servidores MCP para extender las capacidades de los agentes IA. Cada servidor añade herramientas específicas (búsqueda web, análisis de imágenes, etc.) que el modelo puede usar si las soporta. La configuración principal de MCP servers para la generación de novelas está en data/config.json → mcp_servers.",
+
+        "minimax_api": {
+            "type": "api",
+            "key": "${MINIMAX_API_KEY}"
+        },
+
+        "minimax_local": {
+            "type": "local",
+            "command": ["uvx", "minimax-coding-plan-mcp", "-y"],
+            "environment": {
+                "MINIMAX_API_KEY": "${MINIMAX_API_KEY}",
+                "MINIMAX_API_HOST": "https://api.minimax.io"
+            },
+            "enabled": true
+        },
+
+        "web_search_tavily": {
+            "type": "local",
+            "command": ["uvx", "tavily-mcp-server"],
+            "environment": {
+                "TAVILY_API_KEY": "${TAVILY_API_KEY}"
+            },
+            "enabled": false,
+            "description": "Búsqueda web via Tavily para investigación de tropos y referencias culturales."
+        },
+
+        "brave_search": {
+            "type": "local",
+            "command": ["uvx", "brave-search-mcp"],
+            "environment": {
+                "BRAVE_API_KEY": "${BRAVE_API_KEY}"
+            },
+            "enabled": false,
+            "description": "Búsqueda web alternativa via Brave Search API."
+        },
+
+        "_example_api_type": {
+            "_comment": "Ejemplo de servidor MCP tipo API (sin comando local, solo endpoint)",
+            "type": "api",
+            "key": "tu-api-key-aqui",
+            "enabled": false,
+            "description": "Ejemplo: algunos proveedores ofrecen MCP como endpoint API directo."
+        },
+
+        "_how_to_add_new": {
+            "_comment": "Para añadir un nuevo MCP server: 1) Copia un bloque existente, 2) Cambia 'command' al ejecutable del MCP, 3) Define las variables de entorno necesarias, 4) Pon 'enabled': true para activarlo."
+        }
+    }
+}

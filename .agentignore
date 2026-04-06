@@ -1,0 +1,33 @@
+# Archivos que los agentes IA NO deben leer ni indexar
+
+# Secretos y credenciales
+.env
+.env.local
+.env.production
+*.key
+*.pem
+*.p12
+
+# Dependencias
+venv/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+
+# Git internals
+.git/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archivos grandes que no aportan contexto
+chapters/cap_*.md
+data/research_log.txt

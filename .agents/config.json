@@ -1,0 +1,31 @@
+{
+  "agent": {
+    "defaultModel": "claude-sonnet-4-6",
+    "fallbackModels": ["glm-5", "qwen-max"],
+    "maxContextTokens": 128000,
+    "toolPermissions": ["file_read", "file_write", "bash", "git"],
+    "restrictedDirectories": ["__pycache__/", ".git/", "venv/"],
+    "autoApprove": ["file_read", "git_status"],
+    "requireConfirmation": ["file_write", "bash", "git_commit"]
+  },
+  "project": {
+    "language": "python",
+    "framework": "github-actions",
+    "packageManager": "pip",
+    "testRunner": "pytest",
+    "linter": "pycompile",
+    "pythonVersion": "3.10+"
+  },
+  "workflows": {
+    "researcher": {
+      "schedule": "*/15 * * * *",
+      "script": "src/researcher.py",
+      "description": "Agente Investigador — genera ideas cada 15 min"
+    },
+    "writer": {
+      "schedule": "0 * * * *",
+      "script": "src/writer.py",
+      "description": "Agente Escritor — redacta capítulos cada hora"
+    }
+  }
+}
