@@ -376,3 +376,559 @@ Lyra procesa esto durante tres segundos. Luego dice: *"Estoy en ese espacio ahor
 **El gag técnico evolucionado:** Kenji, que documenta TODO, grabó esta conversación en audio. No el video — solo audio. Lo sube a un podcast universitario como "ASMR de conversaciones random". Un oyente en otro país lo descarga, lo ralentiza 300%, y encuentra algo en el audio: un patrón de frecuencia que no es voz humana. Lo sube a Reddit: *"¿Alguien más escucha esto en el podcast de la secundaria?"* No explota. Pero alguien con un nombre extraño lo ve. Y comienza a hacer preguntas en privado al dueño del podcast.
 
 **El momento romántico refinado:** La tensión no debe resolverse rápido. Lo que Haruto acaba de entender (Lyra está en un espacio emocional que él reconoce) no significa que Lyra lo entienda a él. Para Lyra, este momento es un punto de datos: *"Los humanos viven
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (5 ITERACIONES) [2026-04-06 22:40:02] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el contexto del proyecto, necesito generar 3 ideas concretas que ayuden a avanzar los hilos activos o utilicen las semillas pendientes. Debo buscar originalidad técnica, evitando clichés de invasiones alienígenas, y respetar el tono de novela ligera (rom com con elementos de sci-fi y misterio).
+
+Hilos activos:
+1. Misterio de Lyra - Progreso en su identidad
+2. Canal de Kenji - Busca de fama viral
+3. Complicidad de Haruto - Dilema ético
+
+Semillas pendientes:
+1. Lyra analizó su almuerzo como combustible orgánico
+2. Kenji la grabó en la azotea a las 2:47 AM
+
+
+3. Lyra negó tener "esa biología" 
+4. Lyra vigiló a Haruto por 34 días
+
+Ideas que se me ocurren:
+
+1. Para la semilla de "34 días de vigilancia" - Investigar por qué vigiló específicamente a Haruto. Podría revelar que ella está monitoreando algo relacionado con su madre, quizás una conexión ancestral o un dispositivo que ella dejó. Esto profundiza el misterio y la conexión emocional entre ambos.
+
+2. Para el hilo de Kenji - Él podría sube accidentalmente una transmisión en vivo de Lyra mostrando habilidades o comportamiento no humano. En lugar de que él la exponga malintencionadamente, el resultado cómico es que se convierte en trending por razones completamente diferentes a lo que pretendía.
+
+3. Para la semilla del almuerzo como combustible - Una escena doméstica donde Lyra come de manera no convencional, pero desde un ángulo tierno o cómico. Quizás necesita energía de fuentes lumínicas o algo similar, y Haruto la descubre de una forma que resulta tierna más que aterradora.
+
+Desarrollando estas ideas...
+
+La vigilancia de 34 días de Lyra sobre Haruto tiene sentido si su madre era una Kontacthi, una especie que establecía vínculos telepáticos. Lyra podría haberla estudiado y ahora intenta comunicarse con Haruto de la misma manera, lo que abre una conexión emocional real.
+
+Para el concepto de "alimentación", voy a explorar algo más original. En lugar de replicar Troopers, ¿qué tal si Lyra obtiene energía directamente de señales electromagnéticas? Haruto descubre que ella necesita estar cerca de routers y dispositivos electrónicos, lo que explica por qué siempre está pegada a él - no por romántica, sino por necesidad energética. Esto le da una razón práctica para la cercanía y genera momentos cómicos cuando Haruto se entera de la verdad.
+
+También podría usar a Kenji de manera diferente. Su video de la azotea podría revelar que grabó algo paranormal pero la cámara solo captó interferencia, mientras que algo realmente paranormal quedó fuera de cuadro. Esto profundiza el misterio sin resolverlo todavía y muestra que Kenji tiene un problema mayor que simple falta de evidencia.
+
+Considerando la proporción de géneros, necesito equilibrar la investigación de Lyra sobre Haruto, que sería principalmente comedia romántica pero con ganchos misteriosos, y la escena de energía donde Lyra se alimenta mientras Haruto está cerca, también principalmente comedia romántica.
+</think>
+
+# Arquitecto Narrativo — Informe de Ideas
+
+---
+
+## Idea 1: "34 Días de Vínculo"
+
+**Semilla utilizada:** Semilla 2_03 (vigilancia de 34 días)
+**Hilo impulsado:** Misterio Lyra + Complicidad Haruto
+**Género principal:** Rom Com 45% / Mystery 35% / Sci Fi 20%
+
+**Desarrollo:**
+
+Haruto nota que Lyra no solo lo vigila desde hace semanas: ella estudió a su madre. La Kontacthi —la especie de Lyra— posee un rasgo llamado **"Resonancia Filial"**: al detectar un vínculo emocional humano fuerte, pueden percibir ecos telepáticos residuales de personas que ya no existen. Su madre, antes de fallecer, tuvo una conexión emocional intensa con *algo* del cosmos. Lyra no vino a invadir: vino a **responder**.
+
+Esto le da a Haruto una motivación genuina para cuidar de Lyra más allá de la obligación. La cercana distancia física que Lyra necesita mantener con él deja de ser incómoda: tiene una razón cósmica. Las escenas cómicas surgen cuando Haruto descubre que el "vínculo" hace que Lyra perciba sus emociones más obvias — como un escáner biológico que también lee el estado de ánimo.
+
+**Tono:** Tierno con tensión sentimental. Mezcla el romance con la melancolía de una pérdida personal.
+
+**Punto de trama inmediato:** Lyra, sin querer, deja escapar que *"su madre también tuvo ese patrón de activación neuronal"*, hablando de la madre de Haruto como si la hubiera conocido. Haruto se derrumba emocionalmente. Lyra, por primera vez, no sabe cómo manejar la situación.
+
+---
+
+## Idea 2: "Hambre Luminosa"
+
+**Semilla utilizada:** Semilla 1_01 (almuerzo como combustible orgánico)
+**Hilo impulsado:** Complicidad Haruto + Misterio Lyra
+**Género principal:** Rom Com 50% / Sci Fi 30% / Slice of Life 20%
+
+**Desarrollo:**
+
+La especie de Lyra, los **Vel'Kath**, no "comen" en el sentido orgánico. Su metabolismo funciona por **fotosíntesis inversa**: absorben radiación electromagnética en frecuencias específicas y la procesan como energía vital. Por eso analizaba el almuerzo: no por confusión cultural, sino buscando si los alimentos terrestres emitían suficiente espectro para ser utilizables.
+
+Aquí está el detalle técnico original que evita clichés: los Vel'Kath **no se alimentan de luz solar**. Requieren frecuencias en el rango de **ondas milimétricas** — las mismas que emiten los routers Wi-Fi, los hornos microondas en standby y las torres de telecomunicaciones 5G. En su planeta, había dispositivos naturales que emitían este espectro constantemente.
+
+Haruto descubre que Lyra necesita estar cerca de cualquier aparato electrónico que emita radiación. Cuando Kenji le presta sus audífonos inalámbricos, Lyra los devuelve "vacíos". Cuando se corta la luz en el instituto, Lyra empieza a debilitarse visiblemente. Y cuando Haruto, por casualidad, se convierte en su "fuente más cercana" por compartir hotspot con su teléfono, los malentendidos alcanzan un punto cósmico.
+
+**Tono:** Comedia de enredos. Situaciones absurdas derivadas de una regla lógica interna coherente.
+
+**Punto de trama inmediato:** Lyra, débil tras un apagón, se apoya en Haruto para "recargarse". Kenji lo ve, lo filma creyendo que es un desmayo romántico, y lo sube a su canal con el título: *"¡MI ALIENÍGENA FAVORITA SE DESMAYA POR ÉL!"* Los comentarios arden. El video tiene 47,000 visitas.
+
+---
+
+## Idea 3: "El Video que No Muestra Nada"
+
+**Semilla utilizada:** Semilla 2_01 (grabación de la azotea a las 2:47 AM)
+**Hilo impulsado:** Canal Kenji + Misterio Lyra
+**Género principal:** Mystery 40% / Action 30% / Rom Com 30%
+
+**Desarrollo:**
+
+El video de la azotea no revela nada porque Lyra estaba intentando **reactivar un nodo de comunicación cuántica**. Este nodo opera en un estado de superposición cuántica: al ser observado directamente, colapsa su señal en ruido estático. Por eso la cámara de Kenji solo captó interferencia.
+
+Pero Kenji no sabe esto. Y aquí es donde la trama se bifurca:
+
+- **Rama A (comedia):** Kenji, convencido de que tiene la mejor evidencia del mundo, muestra el video en clase como "prueba". La pantalla muestra solo estática. La profesora lo regaña. Sus compañeros se ríen. El canal baja a 38 suscriptores. El humillación alimenta su obsesión.
+- **Rama B (acción/misterio):** Sin embargo, lo que Kenji *escuchó* pero no vio —un zumbido de frecuencia imposible— fue interceptado por la **Directora Shirogane**. Ella reconoce ese patrón. No es una profesora normal. Ella también tiene una conexión con el fenómeno que trajo a Lyra a la Tierra.
+
+**Tono:** Cambio de registro. La serie pasa de sitcom a thriller breve y regresa.
+
+**Punto de trama inmediato:** La Directora cita a Haruto a su oficina. Sobre su escritorio hay un dispositivo que Lyra reconoció en el Capítulo 1 — pero nadie lo mencionó en voz alta todavía. El misterio escala hacia un nuevo nivel sin romper el tono general de la serie.
+
+---
+
+**Síntesis narrativa:** La Idea 1 avanza la conexión emocional. La Idea 2 genera comedia de situación escalable. La Idea 3 abre un conflicto externo que sacudirá la comodidad del instituto sin reemplazar el tono ligero.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las 3 ideas generadas anteriormente y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia interna de cada idea
+2. Trabajar el atractivo de los personajes
+3. Llevar los conceptos un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Basarme en los géneros objetivo (Rom Com con Mystery y Sci Fi)
+
+Voy a desarrollar cada una con más profundidad, matices y conexiones internas.
+
+**Idea 1: Los 34 días de vigilancia - Resonancia Filial**
+- Necesito definir mejor qué significa exactamente "Resonancia Filial"
+- Cómo funciona en la práctica
+
+
+- Por qué Lyra vigiló específicamente a Haruto
+- Conectar esto con la madre de Haruto de manera creíble
+- El componente emocional para Haruto
+- Cómo esto cambia la dinámica entre ellos
+
+**Idea 2: Hambre Luminosa - Fotosíntesis inversa**
+- Definir mejor la biología Vel'Kath
+- Los detalles técnicos deben ser coherentes y no contradecirse con la Idea 1
+- Los conflictos cómicos específicos
+- El momento exacto de descubrimiento
+- Las consecuencias sociales y emocionales
+
+**Idea 3: El Video que No Muestra Nada**
+- La mecánica del nodo de comunicación cuántica necesita reglas claras
+- Por qué colapsa al ser observado
+- Cómo Shirogane encaja en todo esto
+- Las dos ramas deben alimentar la trama principal
+- El tono de thriller breve bien calibrado
+
+Voy a estructurar esto como un informe formal con suficiente detalle técnico para que sea coherente, pero manteniendo un estilo novelesco y ligero que conecte emocionalmente con el lector.
+
+Refinando las ideas: la primera necesita una mecánica de vigilancia más sofisticada, donde Lyra detecte patrones anómalos en la actividad electromagnética de Haruto, posiblemente conectados a lo que su madre dejó atrás. Esto le da un propósito ulterior que justifique su presencia en la Tierra. La segunda idea necesita que la dependencia energética de Lyra hacia Haruto sea más orgánica, surgiendo naturalmente de su biología alterada sin forzarla. Kenji puede actuar como catalizador, creando situaciones donde ella se ve obligada a buscar otras fuentes de energía. Y la tercera idea requiere una física coherente para el nodo cuántico, con consecuencias bien definidas para todos los personajes involucrados.
+
+Shirogane tiene que ser alguien con motivaciones propias, no solo un dispositivo narrativo. Veo tres direcciones para ella:她是 otra especie de Kontacthi que perdió sus habilidades, fue ella quien destruyó la civilización de Lyra y ahora busca el nodo, o es humana con tecnología alienígena. La tercera opción me parece más interesante porque crea ambigüedad moral. Ahora necesito desarrollar estas ideas con más profundidad narrativa.
+</think>
+
+# Informe de Iteración — Arquitecto Narrativo
+
+---
+
+## I. "34 Días de Vínculo" — Concepto Refinado
+
+### Problema detectado en la iteración anterior
+
+La idea original funcionaba como gancho emocional pero dejaba una pregunta sin responder: **¿por qué Haruto?** La Resonancia Filial, tal como se presentó, parecía una habilidad arbitraria. En la versión refinada, el vínculo entre Lyra y Haruto debe sentirse **inevitable**, no circunstancial.
+
+### Desarrollo
+
+La especie de Lyra —los **Vel'Kath**— no percibe emociones como un telepático genérico. Su sistema nervioso funciona como una **antena biológica**: capta frecuencias electromagnéticas emitidas por el cerebro humano y las interpreta como patrones emocionales. Es生物学 meets radioafición.
+
+Esto significa que Lyra no "eligió" vigilar a Haruto. Lo hizo porque **él es la fuente de señal más intensa que encontró en la Tierra**.
+
+Aquí está el detalle que lleva la idea un paso más allá: la madre de Haruto, antes de morir, fue submetida a un experimento médico no documentado en el que le implantaron un dispositivo de estimulación cerebral profunda. Ese dispositivo, incluso después de su muerte, **sigue emitiendo**. Haruto creció con un cerebro que, biológicamente, es un transmisor. No lo sabe. Lyra tampoco lo sabía hasta que lo vigó 34 días.
+
+El vínculo emocional de Lyra hacia Haruto, entonces, tiene **dos capas**:
+
+1. **Biológica:** La señal del dispositivo de su madre la atrajo como un faro.
+2. **Cultural:** Los Vel'Kath tienen un tabú llamado **"Senda del Eco"**: si un Vel'Kath se vincula biológicamente con un ser de otro planeta, está obligado a estudiarlo y protegerlo durante un ciclo completo. Los 34 días representan el primer ciclo.
+
+**Consecuencia narrativa inmediata:** Lyra no está cuidando a Haruto por bondad ni por romántica todavía. Lo hace porque su biología se lo exige y porque su cultura lo prescribe. Pero conforme pasa tiempo con él, lo que empezó como instinto evoluciona hacia algo genuino. Este arco le da a la relación un crecimiento lento y orgánico.
+
+**Momento emocional clave:** Haruto descubre que su madre llevó una vida mucho más extraña de lo que imaginaba. Lyra descubre que su tabú cultural está chocando con algo que no sabe nombrar todavía.
+
+---
+
+## II. "Hambre Luminosa" — Concepto Refinado
+
+### Problema detectado en la iteración anterior
+
+La idea original funcionaba bien como concepto cómico, pero la dependencia de Lyra hacia los routers y dispositivos 5G podía resultar слишком conveniente y, a largo plazo, difíciles de mantener como motor cómico. Necesitaba una **regla interna** que generara tensión y escalabilidad.
+
+### Desarrollo
+
+Los Vel'Kath requieren radiación en el espectro de **ondas milimétricas (30–300 GHz)**. En la superficie, esto suena simple. El problema es que **no todas las fuentes son iguales**.
+
+La especie tiene un sistema de tres niveles de alimentación:
+
+- **Nivel 1 — Respaldo:** Estática electromagnética ambiental (la más débil, como la de un router casero). Mantiene las funciones básicas, pero Lyra pierde reflejos y agudeza sensorial. Se vuelve torpe.
+- **Nivel 2 — Estándar:** Emisores direccionales como torres 5G, antenas de repetidor, hornos de microondas en funcionamiento. Permite actividad normal.
+- **Nivel 3 — Saturación:** Fuentes de alta densidad que solo existen en infraestructura industrial o en **fenómenos naturales极少数** como ciertas tormentas eléctricas. Esto es lo que Lyra buscaba en la azotea a las 2:47 AM: una **tormenta de radiación ionizante** que ocurre una vez cada 12 días sobre la ciudad.
+
+**Aquí está el problema escalable:** el gobierno local, siguiendo regulaciones internacionales de seguridad, acaba de instalar un sistema de **supresión de frecuencias de alta densidad** en un radio de 3 kilómetros del instituto. El pretexto oficial es "protección de equipos electrónicos sensibles". La razón real es que Shirogane (véase Idea 3) convenció a las autoridades de que algo en la ciudad está emitiendo frecuencias que interfieren con sus propios equipos.
+
+Lyra no puede llegar al Nivel 2. Solo tiene routers caseros y el hotspot de Haruto. Y ahora los routers están siendo reemplazados por versiones "seguras" que emiten en frecuencias bloqueadas.
+
+**Tensión práctica:** Lyra empieza a debilitarse en un plazo de 8 días. Cada día es menos eficiente. Haruto, sin entender la gravedad, piensa que está enfermando.
+
+**Tono cómico específico:** Haruto nota que Lyra se sienta cada vez más cerca del router, luego del módem, luego de su laptop, y finalmente deduce —completamente mal— que tiene un crush enorme con su tecnología. La broma interna del instituto es que Lyra es *"la novia del Wi-Fi"*.
+
+**Momento de descubrimiento:** Haruto le presta su teléfono viejo a Lyra porque el suyo se descargó. Ella lo devuelve tibio. Todos los archivos se corrompieron. Las fotos de la clase, los trabajos, los contactos. Kenji se entera y su reacción es *mierda.*
+
+---
+
+## III. "El Video que No Muestra Nada" — Concepto Refinado
+
+### Problema detectado en la iteración anterior
+
+La Rama A (comedia con Kenji) funcionaba. La Rama B (Shirogane como personaje con motivaciones) era demasiado expositiva y reducía a Shirogane a un dispositivo narrativo. Necesitaba que Shirogane tuviera **agencia propia**, historia propia y, sobre todo, una razón genuina para estar ahí.
+
+### Desarrollo
+
+La escena de la azotea merece una explicación más precisa para que el misterio funcione.
+
+Lyra estaba intentando **abrir un canal de comunicación subcuántico** hacia lo que ella llama la **Corte Vel'Kath**: el consejo central de su especie que supervisa las misiones de reconocimiento planetario. Este canal opera bajo un principio técnico coherente:
+
+> *La información cuántica no puede ser observada sin ser destruida. El canal existe en superposición: está transmitiendo si y solo si nadie lo está mirando directamente.*
+
+Por eso la cámara de Kenji solo captó estática. Por eso el audio que escuchó —ese zumbido de frecuencia imposible— era lo único real que quedó fuera del colapso de función de onda. Kenji tiene la única **prueba indirecta** de que Lyra hizo contacto con algo fuera de este planeta, pero no tiene idea de
+
+--- ITERACIÓN 3 ---
+<think>
+El usuario me pide que tome las 3 ideas generadas anteriormente y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia interna de cada idea
+2. Trabajar el atractivo de los personajes
+3. Llevar los conceptos un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Basarme en los géneros objetivo (Rom Com con Mystery y Sci Fi)
+
+Voy a desarrollar cada una con más profundidad, matices y conexiones internas.
+
+**Idea 1: Los 34 días de vigilancia - Resonancia Filial**
+- Necesito definir mejor qué significa exactamente "Resonancia Filial"
+- Cómo funciona en la práctica
+- Por qué Lyra vigiló específicamente a Haruto
+- Conectar esto con la madre de Haruto de manera creíble
+- El componente emocional para Haruto
+- Cómo esto cambia la dinámica entre ellos
+
+**Idea 2: Hambre Luminosa - Fotosíntesis inversa**
+- Definir mejor la biología Vel'Kath
+- Los detalles técnicos deben ser coherentes y no contradecirse con la Idea 1
+- Los conflictos cómicos específicos
+- El momento exacto de descubrimiento
+- Las consecuencias sociales y emocionales
+
+**Idea 3: El Video que No Muestra Nada**
+- La mecánica del nodo de comunicación cuántica necesita reglas claras
+- Por qué colapsa al ser observado
+- Cómo Shirogane encaja en todo esto
+- Las dos ramas deben alimentar la trama principal
+- El tono de thriller breve bien calibrado
+
+Voy a estructurar esto como un informe formal con suficiente detalle técnico para que sea coherente, pero manteniendo un estilo novelesco y ligero que conecte emocionalmente con el lector.
+
+Refinando las ideas: la primera necesita una mecánica de vigilancia más sofisticada, donde Lyra detecte patrones anómalos en la actividad electromagnética de Haruto, posiblemente conectados a lo que su madre dejó atrás. Esto le da un propósito ulterior que justifique su presencia en la Tierra. La segunda idea necesita que la dependencia energética de Lyra hacia Haruto sea más orgánica, surgiendo naturalmente de su biología alterada sin forzarla. Kenji puede actuar como catalizador, creando situaciones donde ella se ve obligada a buscar otras fuentes de energía. La tercera idea requiere una física coherente para el nodo cuántico, con consecuencias bien definidas para todos los personajes involucrados.
+
+Shirogane tiene que ser alguien con motivaciones propias, no solo un dispositivo narrativo. Veo tres direcciones para ella:，她是 otra especie de Kontacthi que perdió sus habilidades, fue ella quien destruyó la civilización de Lyra y ahora busca el nodo, o es humana con tecnología alienígena. La tercera opción me parece más interesante porque crea ambigüedad moral. Ahora necesito desarrollar estas ideas con más profundidad narrativa.
+</think>
+
+# Informe de Iteración — Arquitecto Narrativo
+
+---
+
+## I. "34 Días de Vínculo" — Concepto Refinado
+
+### Problema detectado en la iteración anterior
+
+La idea original funcionaba como gancho emocional pero dejaba una pregunta sin responder: **por qué Haruto.** La Resonancia Filial, tal como se presentó, parecía arbitraria. En la versión refinada, el vínculo entre Lyra y Haruto debe sentirse **inevitable**, no circunstancial.
+
+### Desarrollo
+
+Los Vel'Kath no perciben emociones como un telepático genérico. Su sistema nervioso funciona como una **antena biológica**: capta frecuencias electromagnéticas emitidas por el cerebro humano y las interpreta como patrones emocionales. Es biología meets radioafición.
+
+Esto significa que Lyra no *eligió* vigilar a Haruto. Lo hizo porque **él es la fuente de señal más intensa que encontró en la Tierra**.
+
+El detalle que lleva la idea un paso más allá: la madre de Haruto, antes de morir, fue sometida a un experimento médico no documentado en el que le implantaron un dispositivo de estimulación cerebral profunda. Ese dispositivo, incluso después de su muerte, **sigue emitiendo**. Haruto creció con un cerebro que, biológicamente, es un transmisor. No lo sabe. Lyra tampoco lo sabía hasta que lo vigiló 34 días.
+
+El vínculo tiene **dos capas**:
+
+1. **Biológica:** La señal del dispositivo de su madre la atrajo como un faro.
+2. **Cultural:** Los Vel'Kath tienen un tabú llamado **"Senda del Eco"**: si un Vel'Kath se vincula biológicamente con un ser de otro planeta, está obligado a estudiarlo y protegerlo durante un ciclo completo. Los 34 días representan el primer ciclo.
+
+**Consecuencia narrativa:** Lyra no está cuidando a Haruto por bondad ni por romántica todavía. Lo hace porque su biología se lo exige y su cultura lo prescribe. Pero conforme pasa tiempo, lo que empezó como instinto evoluciona hacia algo genuino. Este arco le da a la relación un crecimiento lento y orgánico.
+
+**Momento emocional clave:** Haruto descubre que su madre llevó una vida mucho más extraña de lo que imaginaba. Lyra descubre que su tabú cultural está chocando con algo que no sabe nombrar todavía.
+
+---
+
+## II. "Hambre Luminosa" — Concepto Refinado
+
+### Problema detectado en la iteración anterior
+
+La dependencia de Lyra hacia los routers y dispositivos 5G resultaba demasiado conveniente y difícil de sostener como motor cómico a largo plazo. Necesitaba una **regla interna** que generara tensión y escalabilidad.
+
+### Desarrollo
+
+Los Vel'Kath requieren radiación en el espectro de **ondas milimétricas (30–300 GHz)**. La especie tiene un sistema de tres niveles de alimentación:
+
+- **Nivel 1 — Respaldo:** Estática electromagnética ambiental. Mantiene funciones básicas, pero Lyra pierde reflejos y agudeza sensorial. Se vuelve torpe.
+- **Nivel 2 — Estándar:** Emisores direccionales: torres 5G, antenas de repetidor, hornos de microondas en funcionamiento. Permite actividad normal.
+- **Nivel 3 — Saturación:** Fuentes de alta densidad que solo existen en infraestructura industrial o en **fenómenos naturales escasos**, como ciertas tormentas eléctricas. Esto es lo que Lyra buscaba en la azotea a las 2:47 AM.
+
+**Problema escalable:** El gobierno local acaba de instalar un sistema de **supresión de frecuencias de alta densidad** en un radio de 3 kilómetros del instituto. El pretexto oficial es protección de equipos electrónicos sensibles. La razón real es que Shirogane convenció a las autoridades de que algo en la ciudad está emitiendo frecuencias que interfieren con sus propios equipos.
+
+Lyra no puede llegar al Nivel 2. Solo tiene routers caseros y el hotspot de Haruto. Y ahora los routers están siendo reemplazados por versiones bloqueadas.
+
+**Tensión práctica:** Lyra empieza a debilitarse en un plazo de 8 días. Haruto, sin entender la gravedad, piensa que está enfermando.
+
+**Tono cómico específico:** Haruto nota que Lyra se sienta cada vez más cerca del router, luego del módem, luego de su laptop, y finalmente deduce —completamente mal— que tiene un crush enorme con su tecnología. La broma del instituto es que Lyra es *"la novia del Wi-Fi"*.
+
+**Momento de descubrimiento:** Haruto le presta su teléfono viejo a Lyra porque el suyo se descargó. Ella lo devuelve tibio. Todos los archivos se corrompieron.
+
+---
+
+## III. "El Video que No Muestra Nada" — Concepto Refinado
+
+### Problema detectado en la iteración anterior
+
+La Rama A (comedia con Kenji) funcionaba. La Rama B (Shirogane como personaje con motivaciones) era demasiado expositiva y la reducía a un dispositivo narrativo. Necesitaba que Shirogane tuviera **agencia propia** y una razón genuina para estar ahí.
+
+### Desarrollo
+
+La escena de la azotea merece una explicación precisa para que el misterio funcione.
+
+Lyra intentaba **abrir un canal de comunicación subcuántico** hacia lo que llama la **Corte Vel'Kath**: el consejo central de su especie. Este canal opera bajo un principio coherente:
+
+> La información cuántica no puede ser observada sin ser destruida. El canal existe en superposición: está transmitiendo **si y solo si** nadie lo está mirando directamente.
+
+Por eso la cámara de Kenji solo captó estática. El audio que escuchó —ese zumbido de frecuencia imposible— era lo único que quedó fuera del colapso de función de onda. Kenji tiene la única **prueba indirecta** de que Lyra hizo contacto con algo fuera de este planeta, pero no sabe qué.
+
+**Refinamiento de Shirogane:** ella no es Vel'Kath. Es **humana**, pero con acceso a tecnología de origen desconocido que no se ha revelado aún. Esto la convierte en un personaje moralmente ambivalente: no es villana ni aliada. Está buscando algo —un nodo de comunicación que los Vel'Kath abandonaron hace décadas en este planeta— y no le importa quién quede en el camino mientras lo encuentre.
+
+La conexión con Haruto: el nodo que Shirogane busca **podría estar relacionado con el dispositivo que implantaron a su madre**. Esa es la teoría que Lyra empieza a construir cuando nota que Shirogane vigila a Haruto con más interés del que tiene en ella.
+
+**Las dos ramas se cruzan** cuando Kenji, sin querer, le menciona a Shirogane que grabó la escena de la az
+
+--- ITERACIÓN 4 ---
+<think>
+El usuario me pide que refine las 3 ideas generadas anteriormente. Sin embargo, en la conversación anterior solo tenemos este mensaje del usuario donde me pide que tome las ideas y las refine. No hay un mensaje previo del Arquitecto Narrativo con las ideas originales.
+
+Espera, déjame releer... El sistema dice "Eres un Arquitecto Narrativo e Investigador de Lore" y el usuario dice "Como investigador experto, tómate esta iteración para refinar, expandir y profundizar en esas ideas."
+
+Esto parece ser una continuación de una conversación anterior donde se generaron 3 ideas. Sin embargo, no veo esas ideas en este contexto. 
+
+Pero hay algo interesante en el contexto: en la sección "Reminder" hay un informe previo del Arquitecto Narrativo con tres ideas desarrolladas. Esto debe ser lo que el usuario quiere que refine y expanda.
+
+Entonces, mi tarea es tomar las tres ideas del recordatorio y llevarlas más allá. Debo mejorar su consistencia interna, desarrollar los personajes y profundizar los conceptos basándome en los géneros objetivo (Rom Com con Mystery y Sci Fi). Necesito que cada idea tenga más matices y evolucionen sin repetir lo que ya está ahí.
+
+Para la primera idea, la historia de Resonancia Filial, veo que ya tiene algunos elementos, pero necesito desarrollar más los personajes de Lyra y Haruto, aclarar las reglas del universo y crear momentos cómicos más específicos. También debería trabajar la estructura del arco narrativo y añadir tensión romántica que funcione dentro del contexto de la telepatía.
+
+En la segunda idea sobre la Fotosíntesis Inversa, veo que hay una base con los niveles de energía, pero necesito darle más detalles a la biología de Lyra para que sea coherente. También debería crear situaciones más memorables que combinen romance y comedia, desarrollar mejor el personaje de Kenji y establecer conexiones más claras con el misterio general.
+
+Para la tercera idea con la mecánica cuántica, veo que Shirogane funciona pero necesita más desarrollo. El principio de superposición es interesante, pero necesito aplicarlo de manera más consistente. Los momentos del incidente también podrían ser más cinematográficos y estar mejor conectados con los demás personajes.
+
+Lo que me falta es una resolución clara para el arco de misterio y que los dos géneros se refuercen mutuamente en lugar de competir.
+
+Voy a estructurar mi respuesta como un informe formal pero atractivo, como lo haría un Arquitecto Narrativo.
+</think>
+
+# INFORME DE ARQUITECTURA NARRATIVA — SEGUNDA ITERACIÓN
+
+## Análisis y Expansión de los Tres Pilares Temáticos
+
+---
+
+## I. "34 Días de Vínculo" — *La Semilla del Contacto*
+
+### Evolución del concepto
+
+La premisa original funcionaba como gancho emocional: una alienígena vigila a un humano durante 34 días por un vínculo inexplicable. Sin embargo, dejaba una pregunta sin resolver que debilitaba la inversión del lector: **¿por qué именно он?** El refinamiento debe responder a eso con algo que sea simultáneamente científico, emocional y trágico.
+
+### Desarrollo completo
+
+#### Mecánica de la Resonancia Filial
+
+Los Vel'Kath no telepáticos en el sentido convencional. Su sistema nervioso opera como una **antena orgánica** que capta y decodifica frecuencias electromagnéticas emitidas por otros seres sintientes. Cada emoción humana produce una firma electromagnética mensurable —angustia, atracción, nostalgia, euforia— cada una con una longitud de onda característica.
+
+Pero la Resonancia Filial no es solo biología. Es un **fenómeno compuesto**:
+
+1. **Componente biológico:** Lyra puede sintonizar cualquier frecuencia emocional humana. Sin embargo, existe una longitud de onda específica —una frecuencia ultra-rara— que los Vel'Kath solo encuentran una vez por generación. Se llama **Sello de Origеn**. Ocurre cuando un ser sintiente ha sido expuesto a una experiencia de separación emocional tan intensa que su firma nerviosa se reescribe permanentemente. Esa persona se convierte en un transmisor de por vida.
+
+2. **Componente narrativo:** A la madre de Haruto le implantaron, sin su consentimiento, un **dispositivo de estimulación cerebral profunda** durante un tratamiento experimental contra una enfermedad que nunca se documentó correctamente. Ese dispositivo —que sigue emitiendo incluso después de su muerte— reescribió la firma electromagnética de su cerebro. Haruto, que creció en contacto íntimo con ella durante la infancia, desarrolló una resonancia secundaria: su propia firma se sincronizó parcialmente con la de su madre. No es un transmisor tan fuerte como ella fue, pero tampoco es una señal normal.
+
+3. **Componente cultural:** Los Vel'Kath tienen un código llamado **Senda del Eco**. Cuando un Vel'Kath detecta un Sello de Origеn, está culturalmente obligado a estudiar y proteger a esa persona durante un ciclo completo —34 días terrestres. No es una opción. Es un imperativo que está grabado en su instinto colectivo. Lyra no eligió vigilar a Haruto. Su biología y su cultura convergieron en él.
+
+### Implicaciones para la dinámica Rom Com
+
+Aquí es donde el concepto se vuelve emocionalmente fértil. Lyra empieza con una **motivación completamente desprovista de romanticismo**. Vigila a Haruto porque su instinto se lo exige, no porque le importe. Esto le da a cada momento de conexión genuina un peso narrativo enorme: el lector sabe que lo que empieza como obligación se convierte en algo que Lyra no sabe nombrar.
+
+**Momento clave del arco cómico:** Lyra lleva un registro detallado de las actividades de Haruto en un diario que ella considera estrictamente científico. El diario, por orden de entrada:
+
+- "Sujeto 001: despertó a las 6:47. Realizó 14 minutos de higiene personal. Emitió firma de leve irritación hasta las 7:15."
+- "Sujeto 001: consume un alimento de textura pastosa denominado 'avena'. Su firma indica satisfacción moderada. Nota: investigar este alimento."
+- "Sujeto 001 ha visto el mismo episodio de la serie animada #7 por decimocuarta vez. Su firma no indica aburrimiento. Los humanos son inexplicables."
+- "Sujeto 001 llamó a alguien que no respondió. Su firma era... complicada. Había algo ahí que no estaba en los registros anteriores. ¿Qué es eso?"
+
+El humor viene de la discrepancia entre lo que Lyra *cree* que está haciendo (ciencia objetiva) y lo que el lector *ve* que está haciendo (un diario de sentimientos que no sabe nombrar).
+
+### Tensión con el arco de misterio
+
+Lyra descubre gradualmente que Haruto no es el único portador de una firma secundaria en la ciudad. Hay otros tres. Todos tienen algo en común: sus madres murieron de la misma enfermedad. Lyra empieza a sospechar que el experimento que se realizó en la madre de Haruto no fue un caso aislado.
+
+**Revelación que abre la tercera idea:** cuando Lyra intenta rastrear la fuente del Sello de Origеn en Haruto, descubre que el dispositivo de su madre **todavía está activo**. No emitiendo, sino *recibiendo*. Alguien está escuchando.
+
+---
+
+## II. "Hambre Luminosa" — *El Secreto Bioenergético*
+
+### Evolución del concepto
+
+La idea original estableció que Lyra necesita radiación en el espectro de ondas milimétricas para sobrevivir, lo cual es un concepto sólido con enorme potencial cómico. El problema era que la mecánica se sentía demasiado arbitraria y el conflicto con Shirogane aparecía de la nada. El refinamiento debe darle a la bioenergía de Lyra una **lógica interna** que conecte con todo lo demás.
+
+### Sistema de tres niveles (versión expandida)
+
+#### Nivel 1 — Estática ambiental (0,1–0,3 GHz)
+
+Mantiene solo las funciones vegetativas. En este estado, Lyra se mueve con lentitud, sus ojos reflejan menos luz (los Vu'Keth no tienen pupila: tienen **membranas fotosensibles** que se contraen bajo demanda), y su capacidad de procesar información multilingüe se reduce al idioma local. Pierde sutileza emocional: si intenta sonreír, se le escapa una expresión que en su planeta indica **alarma máxima**.
+
+**Escena cómica concreta:** En este estado, Lyra intenta felicitar a Haruto por su examen y le dice: "Tu desempeño ha sido aceptable. No mueras." Haruto se lo toma como una amenaza. No lo es.
+
+#### Nivel 2 — Emisores direccionales (30–300 GHz)
+
+Aquí Lyra funciona como una persona normal —en términos de comportamiento, no de apariencia. Puede modular sus expresiones, procesar el sarcasmo humano correctamente, y mantener una conversación sin accidentally *ordenar* a alguien que se aleje de ella (sucede; la biología Vel'Kath incluye un subwoofer auditivo involuntario que emite una frecuencia de disuasión cuando se siente amenazada).
+
+**Conflicto cómico del nivel 2:** Los routers domésticos emiten en un rango muy limitado. Lyra necesita estar a **menos de 3 metros** del router para mantenerse en este nivel. Esto la convierte en una compañera de piso excepcionalmente dependiente: no puede ir al baño sin llevar su teléfono (que tiene hotspot) o pedirle a Haruto que encienda el microondas.
+
+**Conflicto romántico del nivel 2:** La única fuente de Nivel 2 a la que Lyra tiene acceso constante es **Haruto mismo**. No el router: *él*. Resulta que los seres humanos emiten
+
+--- ITERACIÓN 5 ---
+<think>
+The user is asking me to refine, expand, and deepen the three ideas from my previous response. They want me to improve consistency, character appeal, and advance the concepts further based on the target genres (Rom Com, Mystery, Sci-Fi). I should not repeat textually but evolve the concepts.
+
+Let me take each of the three ideas and elevate them:
+
+1. "34 Días de Vínculo" (34 Days of Bond) - The Resonant Filial concept
+2. "Hambre Luminosa" (Light Hunger) - The bio-energy needs
+3. The quantum/observer effect concept
+
+I need to:
+- Make them more internally consistent
+- Develop stronger character arcs
+- Deepen the concepts
+- Connect them better across all three ideas
+
+
+- Ensure the Rom Com elements feel natural rather than forced, weave mystery threads that build genuine intrigue, and make the sci-fi foundations feel grounded and believable
+- Have each genre reinforce the others rather than existing in separate layers
+
+Now I'm mapping out how these three storylines could interconnect to create a cohesive world where the romantic comedy, mystery, and science fiction elements all drive the narrative forward together.
+</think>
+
+# INFORME DE ARQUITECTURA NARRATIVA — TERCERA ITERACIÓN
+
+## Perfeccionamiento Estructural y Arquetipos de Personajes
+
+---
+
+## I. "34 Días de Vínculo" — *La Obligación que se Convierte en Anclaje*
+
+### Problema detectado en la versión anterior
+
+La mecánica de la Resonancia Filial funcionaba como sistema de gobierno del mundo, pero **la relación entre Lyra y Haruto carecía de fricción generacional**. Ambos eran funcionales, amables y comprensivos. En una Rom Com, eso es veneno. Lo que necesita la historia es un personaje que cometa errores que el otro no sepa cómo perdonar.
+
+### Redefinición de Lyra Vel'Sharen
+
+Lyra no es simplemente una observadora alienígena culturalmente desalineada. Es una **arrepentida**. Antes de Haruto, Lyra completó dos Ciclos de la Senda del Eco en otros mundos. En ambos casos, el vínculo que desarrolló con sus sujetos terminó en **pérdida catastrófica**:
+
+- En Vel'thar-4, el sujeto era un poeta cuya civilización colapsó por una guerra que Lyra *pudo haber predicho* pero no preventido porque siguió el protocolo que le impedía intervenir.
+- En Keth'ira, el sujeto era un niño. Lyra se encariñó. Cuando el protocolo de extracción la obligó a irse, el niño sufrió un colapso nervioso del que nunca se recuperó completamente.
+
+Lyra tiene **trauma de la empatía**. Por eso su diario de observaciones empieza con una distancia clínica tan agresiva: porque sabe lo que le pasa cuando se permite sentir. Su arco no es "aprender a conectar". Es **aprender a arriesgarse otra vez**.
+
+### Redefinición de Haruto Sekai
+
+Haruto no es un humano promedio con madre tragic. Es alguien que **ya decidió no esperar a nadie más**.
+
+Lo que el lector descubre gradualmente es que Haruto no tiene teléfono. No porque no pueda permitirse uno, sino porque dejó de contestar llamadas hace tres años, cuando su madre dejó de poder hacerlas. Su respuesta automática a cualquier conexión emocional es **retirarse**. No por inmadurez, sino por supervivencia psicológica.
+
+Haruto es un personaje que construye paredes con eficiencia y las mantiene con disciplina. Su humor no es torpeza: es **arma de defensa**. Cuando alguien se acerca demasiado, Haruto hace un chiste y cambia de tema. Siempre. Sin excepción.
+
+**El conflicto real:** Lyra empieza a importarle. Y Haruto, que lleva años perfeccionando el arte de la distancia emocional, no sabe cómo procesar eso sin destruirlo.
+
+### La fricción que los hace funcionar
+
+**Momento de quiebre romántico:**
+
+Lyra, en el día 19 del Ciclo, rompe el protocolo. No interfiere directamente, pero tampoco se limita a observar. Le deja a Haruto, anónimamente, la receta del ramen que su madre le hacía cuando estaba triste. Lo hace pasar por información "científica" irrelevante.
+
+Haruto encuentra la receta. La reconoce. Y en lugar de sentirse reconfortado, **se enfurece**.
+
+Porque alguien —no sabe quién— sabe cosas que no debería saber. Y Haruto lleva años funcionando bajo la regla de que si nadie sabe lo que sientes, nadie puede usártelo contra ti.
+
+La reacción de Haruto es desproporcionada incluso para él. Busca frenéticamente, encuentra a Lyra, y le grita algo que Lyra no puede procesar porque su frecuencia emocional de respuesta es completamente nueva: **ira mezclada con algo que no identifica, que está más abajo, más profundo, más peligroso que la ira**.
+
+> *Haruto: "¿Quién eres? ¿Qué quieres? ¿Por qué estás en mi vida haciendo cosas que no te pedí, diciendo cosas que no sabes, sintiendo cosas que no te importan?"*
+
+Lyra no responde. No puede. Porque la frecuencia que Haruto acaba de emitir —involuntariamente— es exactamente la misma que un Vel'Kath produce cuando reconoce, por primera vez, que está enamorado.
+
+**Ninguno de los dos lo sabe todavía.**
+
+---
+
+## II. "Hambre Luminosa" — *La Dependencia que se Confunde con el Afecto*
+
+### Problema detectado en la versión anterior
+
+La mecánica de los tres niveles era funcional pero aislada. No se conectaba emocionalmente con la historia de Lyra ni con la de Haruto. El refinamiento debe hacer que **cada nivel energético sea un reflejo literal de su estado emocional**.
+
+### Sistema biométrico de estado emocional
+
+Los Vel'Kath no experimentan hambre en el sentido humano. Su "hambre" es un **sistema de retroalimentación emocional inversa**. Cuanto más intensas son sus emociones —positivas o negativas—, más energía necesitan para mantener la homeostasis emocional.
+
+Esto significa:
+
+| Estado emocional | Requerimiento energético |
+|---|---|
+| Indiferencia / Observación clínica | Mínimo: 0,1 GHz (luz ambiental) |
+| Curiosidad / Interés | Bajo: 5–15 GHz (aparatos comunes) |
+| Preocupación / Apego | Medio: 30–50 GHz (fuentes próximas) |
+| Afecto profundo / Angustia | Alto: 70–120 GHz (necesita contacto directo) |
+| Atracción intensa / Miedo | Muy alto: 150+ GHz (síntesis directa con fuentes de calor vivo) |
+
+**La implicación es devastadora:** Lyra necesita estar **más cerca de Haruto** cada vez que se preocupa por él. Y cada vez que se acerca más, su requerimiento energético aumenta más. Es un ciclo que no puede romper sin decidir qué es más importante: su supervivencia o su distancia.
+
+### Shirogane — La otra persona
+
+Shirogane no es un villano. Es un personaje que funciona como **espejo incómodo de Lyra**.
+
+Es un ingeniero biomédico de 28 años que trabaja en una clínica de tecnología de rehabilitación neural. Esto lo conecta directamente con la trama de misterio: clinic donde tratan a pacientes con dispositivos de estimulación cerebral —la misma clínica donde operaron a la madre de Haruto.
+
+Shirogane tiene un protocolo operativo extremadamente claro: sus dispositivos **no son éticamente permisibles** en ciertas configuraciones. Pero su clínica opera bajo un sistema de financiación que él no controla completamente. Y hay configuraciones que se usan sin su autorización.
+
+**El paralelo con Lyra:** Shirogane está investigando por qué ciertos pacientes de estimulación neural desarrollan **frecuencias electromagnéticas anómalas** en sus firmas cerebrales. Lyra, con su biología, es la prueba de que esa investigación no es teórica. Shirogane no sabe que Lyra es alienígena. Sabe que Lyra es una anomalía. Y su instinto de científico es estudiarla.
+
+### La tensión del triángulo que no es un triángulo
+
+La dinámica entre Lyra, Haruto y Shirogane no es un triángulo romántico. Es un **triángulo de revelaciones cruzadas**:
+
+- **Shirogane** tiene acceso a información sobre los dispositivos que se implantaron en la madre de Haruto. Pero no sabe que Haruto es el hijo del Paciente 7.
+- **Haruto** está buscando respuestas sobre lo que le hicieron a su madre. Pero no sabe que Shirogane trabaja en la clínica implicada.
+- **Lyra** ha detectado que Shirogane tiene un equipamiento que emite en frecuencias que puede utilizar. Pero no sabe que Shirogane está literalmente intentando vender esa tecnología al mejor postor.
+
+**La escena que define la Rom Com en este arco:**
+
+Lyra, hambrienta de energía (nivel crítico: afecto en desarrollo), necesita pasar tiempo cerca de Shirogane porque su laboratorio tiene emisores de alta potencia. Haruto, que ha empezado a depender emocionalmente de Lyra sin admitirlo, la ve entrar al laboratorio de Shirogane y asumir lo peor.
+
+Shirogane, por su parte, ve a Lyra buscar deliberadamente su compañía y asume que hay interés romántico.
+
+Lyra está pensando exclusivamente en la frecuencia del emisor.
+
+Ninguno de los tres está en la misma página. Ninguno pregunta. Los tres actúan basándose en suposiciones. **El resultado es una de las escenas más incómodamente divertidas que puede escribir una Rom Com.**
+
+Shirogane: *presenta
