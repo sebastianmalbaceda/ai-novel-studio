@@ -239,3 +239,41 @@ Haruto despierta en su segundo día de convivencia con la verdad sobre Lyra, int
 *Nota para autor: capítulo funciona como acelerador de tensión. La revelación sobre la madre crea un vínculo entre tramas que conviene desarrollar o resolver en capítulos posteriores.*
 
 ---
+
+### Capítulo 4
+
+<think>
+El usuario me pide resumir el Capítulo 4 de una novela, pero el extracto que me proporciona está claramente titled "Capítulo 3 — Canibalismo Mediático", no "Capítulo 4". Esto es un error en la solicitud del usuario.
+
+Sin embargo, debo revisar lo que realmente necesito hacer:
+1. El usuario quiere un resumen del CAPÍTULO 4
+2. El extracto proporcionado es del CAPÍTULO 3
+
+Debo señalar esta discrepancia al usuario. No puedo inventar contenido para un Capítulo 4 que no me ha sido proporcionado. Sería irresponsable de mi parte crear un resumen falso.
+
+Voy a señalar amablemente que el extracto corresponde al Capítulo 3, no al 4, y preguntar si desea que resuma el Capítulo 3 o si tiene el texto del Capítulo 4 que pueda proporcionarme.
+
+Alternativamente, quizás el usuario cometió un error tipográfico y realmente quiere el resumen del Capítulo 3. Debería ofrecer ambas opciones.
+</think>
+
+## ⚠️ Observación importante
+
+El extracto que has proporcionado corresponde al **Capítulo 3 — "Canibalismo Mediático"**, no al Capítulo 4.
+
+Necesito que me proporciones el texto del **Capítulo 4** para poder generar el resumen que necesitas.
+
+---
+
+### Lo que puedo ofrecerte:
+
+1. **Si deseas el resumen del Capítulo 3**: Puedo elaborarlo ahora mismo con la información proporcionada.
+
+2. **Si tienes el texto del Capítulo 4**: Compártelo y generaré el resumen siguiendo la estructura que solicitaste (eventos clave, cambios en relaciones, hilos abiertos).
+
+3. **Si el número de capítulo es un error tipográfico**: Confírmame y procedo con el Capítulo 3.
+
+---
+
+**¿Cuál prefieres?**
+
+---
