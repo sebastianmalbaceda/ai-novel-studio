@@ -97,3 +97,38 @@ Diana alzó la mano.
 —Es un término genérico, Diana —respondió Kenji, cuyo tono
 
 ---
+
+### Capítulo 3
+
+<think>
+The user is asking me to write Chapter 2 of their novel "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" based on the provided brainstorming notes and draft content. However, the actual text provided appears to be from Chapter 2, not Chapter 3.
+
+Let me re-read the request: "Resume el CAPÍTULO 3 de la novela" - but the excerpt provided seems to be Chapter 2 content. 
+
+Wait, looking at the system prompt, it says "Eres un editor literario experto que sintetiza tramas para mantener la continuidad de la saga." - I'm supposed to be a literary editor who synthesizes plots to maintain saga continuity.
+
+
+The user's original request was in Spanish asking for a summary of Chapter 3, but the provided excerpt is clearly Chapter 2 content. I need to ask for clarification on which chapter they actually want summarized, since there's a mismatch between what they're asking for and what they've provided.
+</think>
+
+## Observación importante
+
+He detectado una **inconsistencia** entre lo que solicitas y el material que proporcionas:
+
+| Tu solicitud | Material proporcionado |
+|---|---|
+| **Resumen del CAPÍTULO 3** | Contenido que corresponde al **Capítulo 2** (reunión del club, Morozov como evaluador, carrera de obstáculos) |
+
+### ¿Cómo procedo?
+
+Necesito que me confirmes una de estas dos opciones:
+
+1. **¿Deseas que resuma el Capítulo 2?** → Puedo hacerlo de inmediato con el material proporcionado, identificando los hilos abiertos y la situación de los personajes.
+
+2. **¿Deseas que primero escriba el Capítulo 3** basándome en tus notas y la cliffhanger del Capítulo 2, y luego lo resuma? → En este caso, necesitaría:
+   - Elcliffhanger final que specifies para el final del Capítulo 3
+   - Confirmación de hacia dónde lleva la trama (¿trayectoria de Morozov, profundización en Trina, giro romántico, combinación?)
+
+Por favor, indícame la dirección que prefieres tomar para darte el contenido útil que necesitas como autor.
+
+---
