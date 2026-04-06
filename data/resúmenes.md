@@ -173,3 +173,69 @@ Me quedé parado en el pasillo, con la carpeta del Consejo Estudiantil en una ma
 
 ---
 
+
+### Capítulo 3
+
+<think>
+El usuario me pide que resuma el Capítulo 3 de una novela ligera japonesa de ficción científica/romance escolar. Necesito crear un resumen conciso (máximo 200 palabras) que incluya:
+
+1. Eventos clave de la trama
+2. Cambios en relaciones o estado de los personajes
+3. Hilos de trama abiertos o misterios sin resolver
+
+El tono debe ser objetivo y útil para el autor en futuras entregas.
+
+Analizando el texto:
+
+**Eventos clave:**
+- Haruto se despierta y procesa la situación (Lyra es alienígena)
+- Va al instituto en bicicleta, pensando en los 44 días que Lyra lo observó
+- Recibe mensaje de Kenji sobre una "prueba definitiva" al día siguiente
+- Tiene una revelación importante: conecta a su madre (profesora de astronomía, proyecto especial) con Lyra
+
+**Estado emocional del protagonista:**
+- Confusión, estrés
+- Se siente elegido pero no sabe por qué
+- Desconfianza pero también curiosidad
+
+**Relaciones:**
+- Haruto-Lyra: tensión, secretos revelados
+- Haruto-Kenji: amigo cómplice con evidencia
+- Haruto-madre: posible conexión con el misterio
+
+**Hilos abiertos:**
+- ¿Por qué Lyra observó a Haruto 44 días?
+- ¿Qué es la "prueba definitiva" de Kenji?
+- ¿Qué conexión tiene la madre con todo esto?
+- ¿Qué hace especial a Haruto?
+
+Voy a estructurar el resumen de forma clara y útil.
+</think>
+
+# Resumen — Capítulo 3: «Cuarenta y Siete Suscriptores»
+
+## Eventos clave
+
+Haruto despierta en su segundo día de convivencia con la verdad sobre Lyra, intentando mantener su rutina normal mientras procesa la información. Kenji le ha enviado un mensaje amenazante: posee un video de Lyra levitando en la azotea y planea una "prueba definitiva" al día siguiente. Durante su trayecto en bicicleta al instituto, Haruto conecta fragmentos: Lyra lo observó durante 44 días, y su madre trabaja en un proyecto especial de astronomía con documentos secretos. Esta revelación le detiene en medio de un paso de peatones.
+
+## Estado de los personajes
+
+**Haruto**: en estado de denial funcional, alternando entre el sarcasmo como mecanismo de defensa y la incredulidad genuina. Su nivel de estrés aumenta progresivamente.
+
+**Lyra**: ausente en este capítulo, pero su presencia se siente a través de los recuerdos de Haruto.
+
+**Kenji**: posicionado como agente del caos, retiene evidencia crítica.
+
+**Madre de Haruto**: emerge como variable potencial en el misterio.
+
+## Hilos de trama abiertos
+
+- **Identidad de Lyra**: ¿por qué observó específicamente a Haruto durante 44 días?
+- **La prueba de Kenji**: ¿cómo reaccionará Lyra ante la exposición pública?
+- **Conexión materna**: ¿trabajo del madre es coincidencia o tiene relación con la llegada de Lyra?
+- **Propósito de Lyra**: continúa sin resolverse.
+
+---
+*Nota para autor: capítulo funciona como acelerador de tensión. La revelación sobre la madre crea un vínculo entre tramas que conviene desarrollar o resolver en capítulos posteriores.*
+
+---
