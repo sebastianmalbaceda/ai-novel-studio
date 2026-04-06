@@ -15,7 +15,11 @@
         "_comment": "Servidores MCP disponibles para extender capacidades del modelo. Cada servidor añade herramientas como búsqueda web, análisis de imágenes, etc. Se activan con enabled:true.",
         "minimax": {
             "type": "local",
-            "command": ["uvx", "minimax-coding-plan-mcp", "-y"],
+            "command": [
+                "uvx",
+                "minimax-coding-plan-mcp",
+                "-y"
+            ],
             "environment": {
                 "MINIMAX_API_KEY": "${AI_API_KEY}",
                 "MINIMAX_API_HOST": "https://api.minimax.io"
@@ -25,7 +29,10 @@
         },
         "web_search": {
             "type": "local",
-            "command": ["uvx", "tavily-mcp-server"],
+            "command": [
+                "uvx",
+                "tavily-mcp-server"
+            ],
             "environment": {
                 "TAVILY_API_KEY": "${TAVILY_API_KEY}"
             },
@@ -34,7 +41,10 @@
         },
         "brave_search": {
             "type": "local",
-            "command": ["uvx", "brave-search-mcp"],
+            "command": [
+                "uvx",
+                "brave-search-mcp"
+            ],
             "environment": {
                 "BRAVE_API_KEY": "${BRAVE_API_KEY}"
             },
@@ -46,18 +56,16 @@
         "title": "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!",
         "current_arc": "Arco 1: Primer Contacto — Introducción y descubrimiento del misterio principal",
         "target_chapter_words": 1500,
-        "last_chapter_number": 1
+        "last_chapter_number": 2
     },
     "genre_weights": {
         "_comment": "Pesos de 0-100 para cada género. Los géneros con peso > 0 influyen activamente en la narrativa. La suma de los pesos activos DEBE ser 100. Géneros en 0 están disponibles para activarse en cualquier momento.",
-
         "___DEMOGRAFÍA___": "---",
         "shonen": 0,
         "shojo": 0,
         "seinen": 0,
         "josei": 0,
         "kodomomuke": 0,
-
         "___ACCIÓN_Y_AVENTURA___": "---",
         "action": 25,
         "adventure": 0,
@@ -65,7 +73,6 @@
         "military": 0,
         "survival": 0,
         "battle_royale": 0,
-
         "___COMEDIA___": "---",
         "rom_com": 40,
         "comedy": 0,
@@ -73,7 +80,6 @@
         "parody": 0,
         "slapstick": 0,
         "satire": 0,
-
         "___ROMANCE___": "---",
         "romance": 0,
         "harem": 0,
@@ -87,7 +93,6 @@
         "boys_love_bl": 0,
         "girls_love_gl": 0,
         "otome_game": 0,
-
         "___CIENCIA_FICCIÓN___": "---",
         "sci_fi": 15,
         "space_opera": 0,
@@ -102,7 +107,6 @@
         "ai_artificial_intelligence": 0,
         "biopunk": 0,
         "solarpunk": 0,
-
         "___FANTASÍA___": "---",
         "fantasy": 0,
         "high_fantasy": 0,
@@ -117,7 +121,6 @@
         "werewolves": 0,
         "yokai_spirits": 0,
         "demons_maou": 0,
-
         "___ISEKAI_Y_REENCARNACIÓN___": "---",
         "isekai": 0,
         "reincarnation": 0,
@@ -126,7 +129,6 @@
         "summoned_hero": 0,
         "trapped_in_a_game": 0,
         "second_chance": 0,
-
         "___PROGRESIÓN_Y_SISTEMAS___": "---",
         "litrpg": 0,
         "progression_fantasy": 0,
@@ -135,14 +137,12 @@
         "tower_climbing": 0,
         "hunter_gate": 0,
         "leveling": 0,
-
         "___CULTIVO_ORIENTAL___": "---",
         "cultivation": 0,
         "xianxia": 0,
         "wuxia": 0,
         "xuanhuan": 0,
         "murim": 0,
-
         "___MISTERIO_Y_THRILLER___": "---",
         "mystery": 10,
         "detective": 0,
@@ -151,7 +151,6 @@
         "crime": 0,
         "conspiracy": 0,
         "whodunit": 0,
-
         "___HORROR___": "---",
         "horror": 0,
         "cosmic_horror": 0,
@@ -159,7 +158,6 @@
         "psychological_horror": 0,
         "body_horror": 0,
         "ghost_story": 0,
-
         "___VIDA_COTIDIANA___": "---",
         "slice_of_life": 10,
         "school_life": 0,
@@ -171,7 +169,6 @@
         "sports": 0,
         "club_activities": 0,
         "cgdct": 0,
-
         "___DRAMA___": "---",
         "drama": 0,
         "tragedy": 0,
@@ -179,14 +176,12 @@
         "family": 0,
         "workplace": 0,
         "political": 0,
-
         "___HISTÓRICO___": "---",
         "historical": 0,
         "jidaigeki_samurai": 0,
         "alternate_history": 0,
         "historical_romance": 0,
         "war": 0,
-
         "___SOBRENATURAL_Y_PODERES___": "---",
         "superpower": 0,
         "esper_psychic": 0,
@@ -195,13 +190,11 @@
         "magic_academy": 0,
         "necromancy": 0,
         "elemental_magic": 0,
-
         "___MADUREZ_Y_CONTENIDO___": "---",
         "ecchi": 0,
         "gender_bender": 0,
         "age_gap": 0,
         "taboo": 0,
-
         "___TEMÁTICAS_ESPECIALES___": "---",
         "overpowered_mc": 0,
         "weak_to_strong": 0,
