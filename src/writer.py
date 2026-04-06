@@ -10,6 +10,33 @@ def read_file(filepath):
     return ""
 
 
+def generate_chapter_summary(chapter_content, chapter_num, config):
+    """Llama a la IA para resumir el capítulo recién escrito."""
+    system_prompt = "Eres un editor literario experto que sintetiza tramas para mantener la continuidad de la saga."
+    
+    prompt = f"""
+    Resume el CAPÍTULO {chapter_num} de la novela "{config['story_status']['title']}" de forma concisa (máximo 200 palabras).
+    
+    EXTRACTO DEL CAPÍTULO:
+    {chapter_content[:2000]}  # Enviamos solo el inicio y fin si es muy largo, o lo necesario para captar el tono
+    
+    DEBES INCLUIR:
+    1. Eventos clave de la trama.
+    2. Cambios en las relaciones o estado de los personajes.
+    3. Hilos de trama abiertos o misterios sin resolver.
+    
+    Utiliza un tono objetivo y enfocado en la utilidad para el autor en futuras entregas.
+    """
+    
+    try:
+        summary = call_ai_api(prompt, system_prompt, temperature=0.5)
+        return summary.strip()
+    except Exception as e:
+        print(f"Aviso: Falló la generación del resumen, pero el capítulo se guardó: {e}")
+        return "Resumen no disponible debido a error técnico."
+
+
+
 def run_writing_agent():
     """
     Agente Escritor: compila toda la información y redacta un capítulo.
@@ -79,6 +106,13 @@ def run_writing_agent():
 
         print(f"Capítulo {chapter_num} guardado con éxito.")
 
+        # --- GENERAR RESUMEN PARA MEMORIA (Contexto futuro) ---
+        print("Generando resumen del capítulo para la memoria de la historia...")
+        summary = generate_chapter_summary(chapter_content, chapter_num, config)
+        
+        with open('../data/resúmenes.md', 'a', encoding='utf-8') as f:
+            f.write(f"\n### Capítulo {chapter_num}\n\n{summary}\n\n---\n")
+        
         # Actualizar estado en config.json
         config['story_status']['last_chapter_number'] = chapter_num
         save_config(config)
