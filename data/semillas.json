@@ -1,0 +1,26 @@
+{
+  "semilla_1_01": {
+    "detalle": "Lyra analizó su almuerzo como combustible orgánico.",
+    "capitulo_plantado": 1,
+    "potencial_pago": "Revelación de que su especie consume energía de forma no humana.",
+    "estado": "Pendiente"
+  },
+  "semilla_2_01": {
+    "detalle": "Kenji grabó a Lyra en la azotea a las 2:47 AM sola.",
+    "capitulo_plantado": 2,
+    "potencial_pago": "Lyra estaba intentando comunicarse o reactivar el nodo.",
+    "estado": "Creciendo"
+  },
+  "semilla_2_02": {
+    "detalle": "Lyra confesó que 'su especie no tiene esa biología' tras negar ser reptiliana.",
+    "capitulo_plantado": 2,
+    "potencial_pago": "Haruto descubrirá la especie exacta de Lyra y su cultura real.",
+    "estado": "Pendiente"
+  },
+  "semilla_2_03": {
+    "detalle": "Lyra mencionó que vigiló a Haruto por 34 días antes de llegar.",
+    "capitulo_plantado": 2,
+    "potencial_pago": "¿Por qué Haruto específicamente? ¿Su madre?",
+    "estado": "Pendiente"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "capitulo_1": {
+    "dia": 1,
+    "resumen": "Llegada de Lyra Vel'Kath al Instituto Takahara como estudiante de intercambio. Haruto Mizuki es asignado como su guía oficial.",
+    "eventos_clave": [
+      "Primer contacto en el aula",
+      "Incidente del almuerzo: Lyra analiza comida orgánicamente",
+      "Cruce de miradas en el pasillo al atardecer"
+    ],
+    "revelaciones": [
+      "Kenji sospecha de origen alienígena",
+      "Haruto nota comportamiento anómalo"
+    ],
+    "estado_ambiente": "Misterio incipiente / Tono escolar"
+  },
+  "capitulo_2": {
+    "dia": 2,
+    "resumen": "Seguimiento y revelación accidental. Kenji acosa a Lyra con grabaciones mientras Haruto intenta mediar.",
+    "eventos_clave": [
+      "Lyra revela haber vigilado a Haruto por 34 días",
+      "Kenji muestra video de Lyra en la azotea (2:47 AM)",
+      "Confesión accidental de Lyra: 'No soy reptiliana... mi especie no tiene la biología...'"
+    ],
+    "revelaciones": [
+      "Confirmación total de origen extraterrestre para Haruto y Kenji",
+      "Misión secreta de Lyra: 'Comprometer cobertura'"
+    ],
+    "estado_ambiente": "Tensión cómica / Secreto compartido / Riesgo de filtración"
+  }
+}

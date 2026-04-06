@@ -1,0 +1,20 @@
+{
+  "misterio_lyra": {
+    "descripcion": "La verdadera identidad y propósito de Lyra Vel'Kath en la Tierra.",
+    "progreso": "Haruto y Kenji saben que es alienígena. Kenji cree que es reptiliana, Lyra lo negó vagamente.",
+    "tension": 8,
+    "proximo_paso": "Ocultamiento a la Directora Shirogane y el resto del instituto."
+  },
+  "canal_kenji": {
+    "descripcion": "La búsqueda de fama viral de Kenji mediante fenómenos paranormales.",
+    "progreso": "47 suscriptores. Tiene un video de Lyra en la azotea.",
+    "tension": 3,
+    "proximo_paso": "Intentar grabar una 'prueba definitiva' de origen biológico no humano."
+  },
+  "complicidad_haruto": {
+    "descripcion": "El dilema ético de Haruto entre proteger a Lyra y mantener su vida normal.",
+    "progreso": "Asignado como su guía, ya se ha convertido en su cómplice involuntario.",
+    "tension": 5,
+    "proximo_paso": "Lidiar con la vigilancia de Lyra sobre su persona."
+  }
+}

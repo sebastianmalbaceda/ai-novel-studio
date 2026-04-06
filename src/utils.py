@@ -30,6 +30,51 @@ def save_personajes(personajes_data):
         json.dump(personajes_data, f, indent=2, ensure_ascii=False)
 
 
+def load_cronologia():
+    """Lee el archivo de cronología (memoria temporal)."""
+    path = '../data/cronología.json'
+    if not os.path.exists(path):
+        return {}
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def save_cronologia(cronologia_data):
+    """Guarda actualizaciones en el archivo de cronología."""
+    with open('../data/cronología.json', 'w', encoding='utf-8') as f:
+        json.dump(cronologia_data, f, indent=2, ensure_ascii=False)
+
+
+def load_hilos():
+    """Lee el archivo de hilos narrativos (subtramas)."""
+    path = '../data/hilos_narrativos.json'
+    if not os.path.exists(path):
+        return {}
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def save_hilos(hilos_data):
+    """Guarda actualizaciones en el archivo de hilos narrativos."""
+    with open('../data/hilos_narrativos.json', 'w', encoding='utf-8') as f:
+        json.dump(hilos_data, f, indent=2, ensure_ascii=False)
+
+
+def load_semillas():
+    """Lee el archivo de semillas (foreshadowing)."""
+    path = '../data/semillas.json'
+    if not os.path.exists(path):
+        return {}
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def save_semillas(semillas_data):
+    """Guarda actualizaciones en el archivo de semillas."""
+    with open('../data/semillas.json', 'w', encoding='utf-8') as f:
+        json.dump(semillas_data, f, indent=2, ensure_ascii=False)
+
+
 def load_canon():
     """Lee el archivo de canon (hechos inamovibles)."""
     path = '../data/canon.md'

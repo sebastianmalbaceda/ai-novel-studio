@@ -1,26 +1,49 @@
 {
   "Haruto Mizuki": {
-    "rol": "Protagonista",
+    "clasificacion": "Principal",
+    "rol": "Protagonista / Estudiante / Narrador",
     "edad": 17,
-    "descripcion_fisica": "Cabello oscuro algo revuelto, uniforme escolar estándar, apariencia de estudiante promedio pero con mirada curiosa.",
-    "personalidad": "Observador, un poco cínico respecto a las modas de internet (como los vídeos de Kenji), pero protector y con sentido del del deber.",
-    "estado_actual": "Intrigado por el comportamiento de la nueva estudiante de intercambio.",
-    "evolucion": "Comienza como un estudiante normal que busca una vida tranquila."
+    "descripcion_fisica": "Cabello oscuro algo revuelto, uniforme escolar estándar, ojos oscuros con mirada inquisitiva pero cansada.",
+    "personalidad": "Observador, cínico con las conspiraciones, protector de su entorno cotidiano, procrastinador.",
+    "estado_vital": "Saludable",
+    "relaciones": {
+      "Lyra Vel'Kath": "Compañera / Responsabilidad asignada / Creciente tensión cómica",
+      "Kenji Aoyama": "Mejor amigo / Contraste de cordura",
+      "Directora Shirogane": "Autoridad temida / Sospecha incipiente"
+    },
+    "secretos": "No confía plenamente en la directora. Sospecha que su madre oculta algo de su trabajo en astronomía.",
+    "arco_actual": "Garantizar la cobertura de Lyra mientras Kenji la acosa con grabaciones.",
+    "metas_actuales": ["Graduarse sin incidentes", "Evitar que Kenji suba vídeos de Lyra"]
   },
   "Lyra Vel'Kath": {
-    "rol": "Co-protagonista / Interés misterioso",
-    "edad": "Aparente 17",
-    "descripcion_fisica": "Altura de 1.75m, rascacielos con uniforme, cabello plateado-blanquecino en coleta precisa, ojos de un violeta intenso que parecen analíticos.",
-    "personalidad": "Habla con cadencia técnica ('Unidad Mizuki', 'noted'), desconoce las normas sociales humanas (comida, baños, zapatos de interior), muestra una curiosidad científica por el entorno.",
-    "estado_actual": "Asignada a una 'unidad educativa' para observación cultural.",
-    "evolucion": "Observada a medianoche en la azotea mirando al cielo con nostalgia."
+    "clasificacion": "Principal",
+    "rol": "Co-protagonista / Estudiante de intercambio / Infiltrada",
+    "edad": "Aparente 17 (170 ciclos Velari)",
+    "descripcion_fisica": "1.75m, cabello plateado en coleta geométrica, ojos violeta analíticos, uniforme siempre impecable.",
+    "personalidad": "Extremadamente literal, curiosa, eficiente pero socialmente analfabeta. Empieza a desarrollar curiosidad humana.",
+    "estado_vital": "Activa / En cobertura",
+    "relaciones": {
+      "Haruto Mizuki": "Guía oficial / 'Unidad Mizuki' / Fuente de datos sociales",
+      "Kenji Aoyama": "Sujeto de observación ruidoso / 'Aoyama'",
+      "Directora Shirogane": "Punto de contacto administrativo (bajo sospecha)"
+    },
+    "secretos": "Misión real: reactivar el nodo de tránsito. Ha revelado su origen a Haruto y Kenji por error.",
+    "arco_actual": "Adaptación cultural acelerada tras comprometer su identidad.",
+    "metas_actuales": ["Protocolo de adaptación", "Navegar el interés invasivo de Kenji", "Evitar reporte de falla a sus superiores"]
   },
-  "Kenji": {
-    "rol": "Amigo del protagonista / Alivio cómico",
+  "Kenji Aoyama": {
+    "clasificacion": "Secundario / Alivio cómico",
+    "rol": "Amigo / YouTuber paranormal / Detective amateur",
     "edad": 17,
-    "descripcion_fisica": "Gafas (gesto ensayado), siempre con su smartphone grabando, 47 suscriptores.",
-    "personalidad": "Entusiasta de las conspiraciones, OVNIs y reptilianos, detecta señales electromagnéticas anómalas.",
-    "estado_actual": "Convencido de que Lyra es de otro mundo tras verla hablar.",
-    "evolucion": "El motor de las situaciones de riesgo por su curiosidad paranoica."
+    "descripcion_fisica": "Gafas de pasta que ajusta dramáticamente, smartphone en mano constantemente.",
+    "personalidad": "Enérgico, obsesivo con los OVNIs, leal a Haruto pero imprudente por naturaleza.",
+    "estado_vital": "Saludable / Exaltado",
+    "relaciones": {
+      "Haruto Mizuki": "Mejor amigo / Aliado escéptico",
+      "Lyra Vel'Kath": "Obsesión de investigación / 'Prueba viviente'"
+    },
+    "secretos": "Teme que si los aliens existen, él sea el primero en ser abducido.",
+    "arco_actual": "Conseguír la primicia mundial sobre Lyra para sus 47 suscriptores.",
+    "metas_actuales": ["Video viral con prueba definitiva", "No ser expulsado por grabar en el campus"]
   }
 }

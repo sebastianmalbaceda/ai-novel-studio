@@ -1,7 +1,7 @@
 import os
 import json
 from datetime import datetime
-from utils import load_config, save_config, call_ai_api, get_active_genres, format_genre_weights, load_personajes, save_personajes, load_canon
+from utils import load_config, save_config, call_ai_api, get_active_genres, format_genre_weights, load_personajes, save_personajes, load_cronologia, save_cronologia, load_hilos, save_hilos, load_semillas, save_semillas, load_canon
 
 
 def read_file(filepath):
@@ -42,46 +42,73 @@ def generate_chapter_summary(chapter_content, chapter_num, config):
         return "Resumen no disponible debido a error técnico."
 
 
-def update_memory_with_ai(chapter_content, config):
-    """Analiza el capítulo para extraer nuevos detalles de personajes y canon."""
+def update_memory_with_ai(chapter_content, chapter_num, config):
+    """Analiza el capítulo para extraer nuevos detalles de personajes y cronología."""
     personajes = load_personajes()
+    cronologia = load_cronologia()
+    hilos = load_hilos()
+    semillas = load_semillas()
     canon = load_canon()
     
-    system_prompt = "Eres un analista de continuidad literaria. Tu misión es extraer hechos nuevos y rasgos de personajes de un texto narrativo."
+    system_prompt = (
+        "Eres un experto en continuidad Narrativa y Lore Master de nivel profesional. "
+        "Tu objetivo es mantener una coherencia absoluta, detectando evolución de personajes, "
+        "rastreando hilos narrativos abiertos y gestionando el foreshadowing (semillas)."
+    )
     
     prompt = f"""
-    Basado en este capítulo, ¿hay nuevos detalles sobre los personajes o hechos inamovibles (canon)?
+    Analiza a fondo el CAPÍTULO {chapter_num} para actualizar la arquitectura de la novela.
     
-    ACTUALES PERSONAJES:
-    {json.dumps(personajes, indent=2, ensure_ascii=False)}
+    ESTADO ACTUAL:
+    - Personajes: {json.dumps(personajes, indent=2, ensure_ascii=False)}
+    - Cronología: {json.dumps(cronologia, indent=2, ensure_ascii=False)}
+    - Hilos Narrativos: {json.dumps(hilos, indent=2, ensure_ascii=False)}
+    - Semillas (Foreshadowing): {json.dumps(semillas, indent=2, ensure_ascii=False)}
+    - Canon: {canon}
     
-    ACTUAL CANON:
-    {canon}
-    
-    CAPÍTULO:
+    TEXTO DEL CAPÍTULO A ANALIZAR:
     {chapter_content}
     
-    RESPONDE ÚNICAMENTE CON UN JSON que contenga dos claves: "personajes_actualizados" (el objeto completo de personajes con cambios) y "hechos_canon_nuevos" (una lista de strings con frases cortas de hechos nuevos). 
-    Si no hay cambios, devuelve los datos actuales.
+    DEBES GENERAR ÚNICAMENTE UN JSON con cinco claves:
+    1. "personajes_actualizados": Personajes con cambios en 'estado_vital', 'relaciones', 'secretos', 'notas_evolucion' o 'metas'.
+    2. "nuevo_evento_cronologia": Detalles para la cronología (dia, resumen, eventos_clave, revelaciones, ambiente).
+    3. "hilos_actualizados": Evolución de las subtramas (puedes añadir hilos nuevos o actualizar el 'progreso' y 'tension' de los existentes).
+    4. "semillas_nuevas": Lista de objetos con 'detalle', 'capitulo_plantado', 'potencial_pago' y 'estado' para foreshadowing plantado ahora.
+    5. "hechos_canon_nuevos": Frases cortas de hechos inamovibles.
+
+    REGLA DE EXCELENCIA: Detecta detalles pequeños que puedan servir de semillas futuras. Si una semilla antigua se ha 'cosechado' (usado) en este capítulo, indícalo en el análisis para marcarla como resuelta.
     """
     
     try:
-        # Usamos temperature baja para precisión
         response = call_ai_api(prompt, system_prompt, temperature=0.2)
-        # Extraer JSON de la respuesta (a veces la IA añade texto extra)
         import re
         json_match = re.search(r'\{.*\}', response, re.DOTALL)
         if json_match:
             data = json.loads(json_match.group())
-            if "personajes_actualizados" in data:
-                save_personajes(data["personajes_actualizados"])
+            
+            # Persistencia de datos
+            if "personajes_actualizados" in data: save_personajes(data["personajes_actualizados"])
+            if "nuevo_evento_cronologia" in data:
+                cronologia[f"capitulo_{chapter_num}"] = data["nuevo_evento_cronologia"]
+                save_cronologia(cronologia)
+            if "hilos_actualizados" in data: save_hilos(data["hilos_actualizados"])
+            
+            # Gestión de semillas (añadir nuevas)
+            if "semillas_nuevas" in data and data["semillas_nuevas"]:
+                current_semillas = load_semillas()
+                for i, s in enumerate(data["semillas_nuevas"]):
+                    current_semillas[f"semilla_{chapter_num}_{i}"] = s
+                save_semillas(current_semillas)
+            
+            # Actualizar canon
             if "hechos_canon_nuevos" in data and data["hechos_canon_nuevos"]:
                 with open('../data/canon.md', 'a', encoding='utf-8') as f:
                     for hecho in data["hechos_canon_nuevos"]:
                         f.write(f"\n- {hecho}")
-            print("Memoria de personajes y canon actualizada.")
+                        
+            print(f"Sistema de Excelencia Narrativa actualizado tras el Capítulo {chapter_num}.")
     except Exception as e:
-        print(f"No se pudo actualizar la memoria automática: {e}")
+        print(f"Error al actualizar la memoria de excelencia: {e}")
 def clean_model_output(content):
     """Limpia la salida del modelo de trazas de razonamiento y otros elementos no deseados."""
     import re
@@ -98,7 +125,7 @@ def clean_model_output(content):
         trimmed = line.strip()
         if not found_start:
             # Buscamos el inicio real del capítulo (título o primer párrafo sustancial)
-            if trimmed.upper().startswith('CAPÍTULO') or trimmed.startswith('#'):
+            if re.match(r'^#?\s*CAP[ÍI]TULO', trimmed, re.IGNORECASE):
                 found_start = True
                 cleaned_lines.append(line)
             elif trimmed and not trimmed.startswith(('<', '{', '[')):
@@ -127,6 +154,9 @@ def run_writing_agent():
     resumen = read_file('../data/resúmenes.md')
     research_notes = read_file('../data/research_log.txt')
     personajes = json.dumps(load_personajes(), indent=2, ensure_ascii=False)
+    cronologia = json.dumps(load_cronologia(), indent=2, ensure_ascii=False)
+    hilos = json.dumps(load_hilos(), indent=2, ensure_ascii=False)
+    semillas = json.dumps(load_semillas(), indent=2, ensure_ascii=False)
     canon = load_canon()
 
     chapter_num = config['story_status']['last_chapter_number'] + 1
@@ -147,10 +177,13 @@ def run_writing_agent():
 
     system_prompt = (
         f"Eres un aclamado autor de novelas ligeras especializado en {genre_specialties}. "
-        "REGLA CRÍTICA DE IDIOMA: Escribe EXCLUSIVAMENTE en ESPAÑOL. Prohibido usar Spanglish o términos técnicos en inglés (como 'Noted', 'atmospheres', 'programming', 'duty'). "
-        "No uses caracteres chinos o japoneses en el cuerpo del texto fuera de nombres propios. "
-        "REGLA CRÍTICA DE FORMATO: Escribe SOLO el contenido de la historia. ABSOLUTAMENTE NINGÚN rastro de pensamientos, razonamientos (<think>) o notas del modelo. "
-        "Empieza directamente con el título del capítulo siguiendo el formato: # CAPÍTULO X: [TÍTULO]."
+        "REGLA DE IDIOMA: Escribe principalmente en ESPAÑOL. "
+        "ESTILO GOLD STANDARD (CUIDADO EXTREMO): "
+        "1. PÁRRAFOS: Deben ser cortos, dinámicos y separados por una línea en blanco. "
+        "2. DIÁLOGOS: Utiliza EXCLUSIVAMENTE la raya o guion largo (—) para diálogos y acotaciones. "
+        "Ejemplo: — Hola, Haruto —dijo ella con una sonrisa —. ¿Listo para el examen? "
+        "3. ENCABEZADO: Empieza directamente con el formato: # Capítulo {chapter_num} — \"Título del Capítulo\". "
+        "PROHIBIDO: No uses pensamientos tipográficos (<think>), ni notas del modelo, ni bloques de código markdown."
     )
 
     mega_prompt = f"""
@@ -161,6 +194,15 @@ def run_writing_agent():
 
     [HECHOS CANÓNICOS (HISTORIAL DE EVENTOS)]
     {canon}
+
+    [CRONOLOGÍA MAESTRA (ORDEN DE LOS HECHOS)]
+    {cronologia}
+
+    [HILOS NARRATIVOS ACTIVOS (SUBTRAMAS)]
+    {hilos}
+
+    [SEMILLAS DE LORE Y FORESHADOWING (PLANIFICACIÓN)]
+    {semillas}
 
     [REGLAS ADICIONALES DEL MUNDO (BIBLIA)]
     {biblia}
@@ -199,9 +241,9 @@ def run_writing_agent():
         chapter_filename = f"../chapters/cap_{chapter_num:03d}.md"
         with open(chapter_filename, 'w', encoding='utf-8') as f:
             # Si el contenido ya trae su propio header de Capítulo, lo respetamos. 
-            # Si no, lo añadimos nosotros con el formato correcto.
+            # Si no, lo añadimos nosotros con el formato Gold Standard.
             if not cleaned_content.upper().startswith('# CAPÍTULO') and not cleaned_content.upper().startswith('CAPÍTULO'):
-                 f.write(f"# CAPÍTULO {chapter_num}\n\n")
+                 f.write(f"# Capítulo {chapter_num} — \"Título del Capítulo\"\n\n")
             f.write(cleaned_content)
 
         print(f"Capítulo {chapter_num} guardado con éxito.")
@@ -213,9 +255,9 @@ def run_writing_agent():
         with open('../data/resúmenes.md', 'a', encoding='utf-8') as f:
             f.write(f"\n### Capítulo {chapter_num}\n\n{summary}\n\n---\n")
         
-        # --- ACTUALIZAR MEMORIA DE PERSONAJES Y CANON ---
-        print("Actualizando memoria de personajes y canon...")
-        update_memory_with_ai(chapter_content, config)
+        # --- ACTUALIZAR MEMORIA PROFUNDA (Personajes + Cronología + Canon) ---
+        print("Actualizando memoria avanzada de la historia...")
+        update_memory_with_ai(chapter_content, chapter_num, config)
         
         # Actualizar estado en config.json
         config['story_status']['last_chapter_number'] = chapter_num

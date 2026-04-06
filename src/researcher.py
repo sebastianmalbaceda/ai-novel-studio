@@ -1,6 +1,7 @@
 import os
+import json
 from datetime import datetime
-from utils import load_config, call_ai_api, get_active_genres, format_genre_weights
+from utils import load_config, call_ai_api, get_active_genres, format_genre_weights, load_hilos, load_semillas
 
 
 def run_research_agent():
@@ -19,17 +20,35 @@ def run_research_agent():
     # Obtener géneros activos dinámicamente
     active_genres = get_active_genres(config)
     genre_text = format_genre_weights(active_genres)
+    
+    # NUEVO: Cargar contexto estratégico (Memoria de Excelencia)
+    hilos = load_hilos()
+    semillas = load_semillas()
 
-    system_prompt = "Eres un investigador experto en tropos literarios, ciencia ficción y manga."
+    system_prompt = (
+        "Eres un Arquitecto Narrativo e Investigador de Lore. "
+        "Tu misión es proporcionar ideas técnicas y narrativas que mantengan la coherencia "
+        "y ayuden a evolucionar los hilos de la trama y las semillas de misterio."
+    )
 
     prompt = f"""
-    Realiza una investigación y lluvia de ideas sobre el siguiente tema:
-    "{research_focus}"
+    PROYECTO ACTUAL: "{config['story_status']['title']}"
+    FOCO DE INVESTIGACIÓN: "{research_focus}"
 
-    Busca formas originales de integrar estos elementos en una historia que combina los siguientes géneros con sus pesos de influencia:
+    CONTEXTO DE LA TRAMA (HILOS ACTIVOS):
+    {json.dumps(hilos, indent=2, ensure_ascii=False)}
+
+    SEMILLAS DE MISTERIO PENDIENTES (FORESHADOWING):
+    {json.dumps(semillas, indent=2, ensure_ascii=False)}
+
+    GÉNEROS ACTIVOS (INFLUENCIA):
     {genre_text}
 
-    Genera 3 ideas concretas (eventos, revelaciones de misterio o interacciones entre personajes).
+    TU MISIÓN:
+    1. Genera 3 ideas concretas que ayuden a avanzar alguno de los HILOS ACTIVOS o que utilicen una de las SEMILLAS PENDIENTES.
+    2. Busca originalidad técnica (ej. si investigas alienígenas, no uses lo típico, busca una base científica o mística única).
+    3. Asegura que las ideas respeten el tono de Novela Ligera.
+    
     Devuelve solo el texto de tus ideas, estructurado en puntos.
     """
 
