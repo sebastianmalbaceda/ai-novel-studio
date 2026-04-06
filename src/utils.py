@@ -123,12 +123,13 @@ def call_ai_api(prompt, system_prompt="Eres un útil asistente de escritura.", t
 
     import time
 
-    max_retries = 3
-    retry_delay = 2
+    max_retries = 5
+    retry_delay = 5
 
     for attempt in range(max_retries):
         try:
-            response = requests.post(url, headers=headers, json=payload, timeout=60)
+            # Aumentamos timeout a 300s para modelos complejos como M2.7
+            response = requests.post(url, headers=headers, json=payload, timeout=300)
             response.raise_for_status()
 
             data = response.json()
