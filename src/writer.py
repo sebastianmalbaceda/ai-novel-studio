@@ -182,6 +182,7 @@ def run_writing_agent():
         "1. Inspírate en el Capítulo 1 (narración ágil en primera persona, monólogos en cursiva y humor sutil). "
         "2. Usa guion largo (—) para diálogos y separa escenas con saltos de línea. "
         "3. Inicia estrictamente con el encabezado: # Capítulo {chapter_num} — \"Título del Capítulo\". "
+        "4. Importante: fluye naturalmente, no fuerces ni repitas mecánicamente los rasgos físicos o datos específicos de los personajes en cada generación. "
         "Evita notas del autor o mostrar tus pensamientos tipográficos (<think>)."
     )
 
