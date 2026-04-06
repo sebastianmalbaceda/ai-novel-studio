@@ -14,6 +14,10 @@ def read_file(filepath):
 
 def generate_chapter_summary(chapter_content, chapter_num, config):
     """Llama a la IA para resumir el capítulo recién escrito."""
+    # Limpiamos el contenido por si acaso para el resumen también
+    import re
+    chapter_content = re.sub(r'<think>.*?</think>', '', chapter_content, flags=re.DOTALL)
+    
     system_prompt = "Eres un editor literario experto que sintetiza tramas para mantener la continuidad de la saga."
     
     prompt = f"""
@@ -78,7 +82,33 @@ def update_memory_with_ai(chapter_content, config):
             print("Memoria de personajes y canon actualizada.")
     except Exception as e:
         print(f"No se pudo actualizar la memoria automática: {e}")
-
+def clean_model_output(content):
+    """Limpia la salida del modelo de trazas de razonamiento y otros elementos no deseados."""
+    import re
+    # Eliminar bloques <think>...</think>
+    content = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL)
+    # Eliminar bloques (Pensamiento: ...) si existieran
+    content = re.sub(r'\(Pensamiento:.*?\)', '', content, flags=re.DOTALL)
+    
+    lines = content.split('\n')
+    cleaned_lines = []
+    found_start = False
+    
+    for line in lines:
+        trimmed = line.strip()
+        if not found_start:
+            # Buscamos el inicio real del capítulo (título o primer párrafo sustancial)
+            if trimmed.upper().startswith('CAPÍTULO') or trimmed.startswith('#'):
+                found_start = True
+                cleaned_lines.append(line)
+            elif trimmed and not trimmed.startswith(('<', '{', '[')):
+                # Si encontramos texto que no es un tag ni un header, asumimos que es el inicio
+                found_start = True
+                cleaned_lines.append(line)
+        else:
+             cleaned_lines.append(line)
+             
+    return '\n'.join(cleaned_lines).strip()
 
 
 def run_writing_agent():
@@ -117,8 +147,10 @@ def run_writing_agent():
 
     system_prompt = (
         f"Eres un aclamado autor de novelas ligeras especializado en {genre_specialties}. "
-        "REGLA CRÍTICA: Escribe SOLO el contenido de la historia. No incluyas razonamientos, notas de autor, "
-        "ni etiquetas de 'Thinking' o pensamientos internos en el formato final. Empieza directamente con el texto."
+        "REGLA CRÍTICA DE IDIOMA: Escribe EXCLUSIVAMENTE en ESPAÑOL. Prohibido usar Spanglish o términos técnicos en inglés (como 'Noted', 'atmospheres', 'programming', 'duty'). "
+        "No uses caracteres chinos o japoneses en el cuerpo del texto fuera de nombres propios. "
+        "REGLA CRÍTICA DE FORMATO: Escribe SOLO el contenido de la historia. ABSOLUTAMENTE NINGÚN rastro de pensamientos, razonamientos (<think>) o notas del modelo. "
+        "Empieza directamente con el título del capítulo siguiendo el formato: # CAPÍTULO X: [TÍTULO]."
     )
 
     mega_prompt = f"""
@@ -160,10 +192,17 @@ def run_writing_agent():
     try:
         chapter_content = call_ai_api(mega_prompt, system_prompt, temperature=temp, max_tokens=max_tokens)
 
+        # Nueva limpieza profunda del output del modelo
+        cleaned_content = clean_model_output(chapter_content)
+
         # Guardar el capítulo
         chapter_filename = f"../chapters/cap_{chapter_num:03d}.md"
         with open(chapter_filename, 'w', encoding='utf-8') as f:
-            f.write(f"# Capítulo {chapter_num}\n\n{chapter_content}")
+            # Si el contenido ya trae su propio header de Capítulo, lo respetamos. 
+            # Si no, lo añadimos nosotros con el formato correcto.
+            if not cleaned_content.upper().startswith('# CAPÍTULO') and not cleaned_content.upper().startswith('CAPÍTULO'):
+                 f.write(f"# CAPÍTULO {chapter_num}\n\n")
+            f.write(cleaned_content)
 
         print(f"Capítulo {chapter_num} guardado con éxito.")
 
