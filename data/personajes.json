@@ -1,0 +1,26 @@
+{
+  "Haruto Mizuki": {
+    "rol": "Protagonista",
+    "edad": 17,
+    "descripcion_fisica": "Cabello oscuro algo revuelto, uniforme escolar estándar, apariencia de estudiante promedio pero con mirada curiosa.",
+    "personalidad": "Observador, un poco cínico respecto a las modas de internet (como los vídeos de Kenji), pero protector y con sentido del del deber.",
+    "estado_actual": "Intrigado por el comportamiento de la nueva estudiante de intercambio.",
+    "evolucion": "Comienza como un estudiante normal que busca una vida tranquila."
+  },
+  "Lyra Vel'Kath": {
+    "rol": "Co-protagonista / Interés misterioso",
+    "edad": "Aparente 17",
+    "descripcion_fisica": "Altura de 1.75m, rascacielos con uniforme, cabello plateado-blanquecino en coleta precisa, ojos de un violeta intenso que parecen analíticos.",
+    "personalidad": "Habla con cadencia técnica ('Unidad Mizuki', 'noted'), desconoce las normas sociales humanas (comida, baños, zapatos de interior), muestra una curiosidad científica por el entorno.",
+    "estado_actual": "Asignada a una 'unidad educativa' para observación cultural.",
+    "evolucion": "Observada a medianoche en la azotea mirando al cielo con nostalgia."
+  },
+  "Kenji": {
+    "rol": "Amigo del protagonista / Alivio cómico",
+    "edad": 17,
+    "descripcion_fisica": "Gafas (gesto ensayado), siempre con su smartphone grabando, 47 suscriptores.",
+    "personalidad": "Entusiasta de las conspiraciones, OVNIs y reptilianos, detecta señales electromagnéticas anómalas.",
+    "estado_actual": "Convencido de que Lyra es de otro mundo tras verla hablar.",
+    "evolucion": "El motor de las situaciones de riesgo por su curiosidad paranoica."
+  }
+}

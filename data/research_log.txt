@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 
 ============= NUEVA SESIÓN DE INVESTIGACIÓN (5 ITERACIONES) [2026-04-06 18:12:20] =============
@@ -402,3 +403,10 @@ Su relación con el dolor no es de evitación ni de atracción. Es de *negociaci
 **Papel:** Irene no es una villain en el sentido convencional. Es una sobreviviente que ha llegado a una conclusión pragmática: si el mundo genera peso suficiente para matar gente, la única forma de sobrevivir es crear un sistema de distribución. No distribuye el peso equitativamente —lo distribuye *estratégicamente*. Los objetos con peso se convierten en infraestructura: puentes, cimientos, paredes de retención. Irene es esencialmente una arquitecta del trauma ajeno. Y su argumento es difícil de refutar porque funciona.
 
 **La dinámica con Emilio:** Irene fue la estudiante que entrenó a Marcos en el concepto 1 original. Ahora trabaja con Emilio informalmente —compra su kesshō, le da consejos, lo mantiene funcionando porque un proveedor functional es más útil que un proveedor que se derrumba. Irene representa la versión de Emilio dentro de quince años si no cambia: alguien que ha encontrado un sistema que funciona pero que ha dejado de preguntarse si debería funcionar. La tensión entre ellos es que Irene genuinamente quiere a Emilio, de la misma forma en que un maestro quiere a un estudiante
+=======
+Haruto confronta a Lyra en el pasillo. Ella intenta actuar de forma normal pero usa términos técnicos para describir su 'procesamiento de datos social'. 
+Kenji aparece grabando a escondidillas, convencido de que Lyra tiene un dispositivo oculto.
+Lyra revela accidentalmente una habilidad menor (fuerza sobrehumana o reflejos imposibles) al salvar a Haruto de un accidente menor (una maceta cayendo o algo similar).
+Haruto comienza a cuestionar si debe ayudar a Lyra a esconderse o exponerla.
+ Tono: Tensión contenida con destellos de humor.
+>>>>>>> Stashed changes

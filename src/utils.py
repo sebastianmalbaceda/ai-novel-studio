@@ -15,6 +15,30 @@ def save_config(config_data):
         json.dump(config_data, f, indent=4, ensure_ascii=False)
 
 
+def load_personajes():
+    """Lee el archivo de personajes (memoria de largo plazo)."""
+    path = '../data/personajes.json'
+    if not os.path.exists(path):
+        return {}
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def save_personajes(personajes_data):
+    """Guarda actualizaciones en el archivo de personajes."""
+    with open('../data/personajes.json', 'w', encoding='utf-8') as f:
+        json.dump(personajes_data, f, indent=2, ensure_ascii=False)
+
+
+def load_canon():
+    """Lee el archivo de canon (hechos inamovibles)."""
+    path = '../data/canon.md'
+    if not os.path.exists(path):
+        return ""
+    with open(path, 'r', encoding='utf-8') as f:
+        return f.read()
+
+
 def get_active_genres(config):
     """
     Extrae los géneros activos (peso > 0) del config.
