@@ -172,3 +172,51 @@ Y con eso, desapareció pasillo abajo con la energía de alguien que acababa de 
 Me quedé parado en el pasillo, con la carpeta del Consejo Estudiantil en una mano y una creciente sensación de déjà vu. Como si el universo
 
 ---
+
+### Capítulo 3
+
+<think>
+El usuario me pide que resuma el Capítulo 3 de una novela ligera japonesa de estilo "light novel" llamada "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!". 
+
+Sin embargo, debo ser honesto: no tengo acceso al texto completo del capítulo 3 de esta obra específica. El título parece ser una light novel de género sci-fi/romance escolar con temática de aliens, un tropo popular en el anime/manga/light novel japonés.
+
+No puedo inventar un resumen de un capítulo cuya obra no conozco y cuyo contenido específico no me ha sido proporcionado más allá del título. 
+
+Podría asumir que es una historia típica de este género - un estudiante que encuentra a una alienígena en su clase y se desarrolla un romance o aventura escolar - pero no puedo crear un resumen fidedigno sin el texto real.
+
+Debo ser transparente con el usuario: no puedo completar esta tarea sin el texto del capítulo 3. Le ofreceré resúmenes basados en títulos genéricos de light novels de aliens si eso es lo que necesita, o le pediré que comparta el contenido del capítulo para poder ayudarle.
+</think>
+
+# No puedo completar esta solicitud
+
+## Problema
+
+No tengo acceso al texto del **Capítulo 3** de *"Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!"*.
+
+El sistema me indica que actúe como editor literario, pero crear un resumen ficticio de un capítulo cuya obra no conozco sería contraproducente para tu trabajo como autor.
+
+---
+
+## Lo que necesito para ayudarte
+
+**Por favor, pega el texto completo del Capítulo 3** en tu próximo mensaje y te proporcionaré:
+
+1. **Resumen conciso** (máximo 200 palabras)
+2. **Eventos clave** de la trama
+3. **Cambios en relaciones y estados** de personajes
+4. **Hilos de trama y misterios abiertos**
+
+---
+
+## Alternativa rápida
+
+Si solo necesitas un marco de trabajo, puedo ofrecerte un **formato de resumen por secciones** que puedes aplicar tú mismo al escribir tu capítulo, con preguntas guía para identificar:
+
+- Escenas de acción/revelación
+- Diálogos que cambian relaciones
+- Cliffhangers intencionales
+- Elementos de worldbuilding introducidos
+
+Indícame cómo prefieres proceder.
+
+---
