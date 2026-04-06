@@ -132,9 +132,13 @@ def call_ai_api(prompt, system_prompt="Eres un útil asistente de escritura.", t
             response = requests.post(url, headers=headers, json=payload, timeout=300)
             response.raise_for_status()
 
+            # Validar que los datos no sean nulos para evitar TypeError: 'NoneType' object is not subscriptable
             data = response.json()
+            if data is None:
+                raise ValueError("La API devolvió 'null' como respuesta JSON.")
+                
             return data['choices'][0]['message']['content']
-        except (requests.exceptions.RequestException, KeyError) as e:
+        except (requests.exceptions.RequestException, KeyError, TypeError, ValueError, json.JSONDecodeError) as e:
             if attempt < max_retries - 1:
                 print(f"Error en la llamada a la API (Intento {attempt + 1}/{max_retries}): {e}. Reintentando en {retry_delay}s...")
                 time.sleep(retry_delay)
