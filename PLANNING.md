@@ -1,4 +1,4 @@
-# PLANNING.md — Tareas de Implementación
+﻿# PLANNING.md — Tareas de Implementación
 
 > **Última actualización:** 2026-04-06  
 > **Sprint actual:** v1.0 — MVP

@@ -1,4 +1,4 @@
-# API Reference — A.I. Novel Studio
+﻿# API Reference — A.I. Novel Studio
 
 > **Versión:** 1.0.0  
 > **Última actualización:** 2026-04-06
@@ -79,7 +79,7 @@ Ejecuta el ciclo completo del agente investigador:
 3. Llama a la API de IA
 4. Añade resultados a `data/research_log.txt` (append mode)
 
-**Trigger:** GitHub Actions cada 15 minutos.
+**Trigger:** GitHub Actions cada 30 minutos.
 
 ---
 
@@ -106,4 +106,4 @@ Ejecuta el ciclo completo del agente escritor:
 5. Actualiza `last_chapter_number` en config
 6. Vacía `research_log.txt`
 
-**Trigger:** GitHub Actions cada hora.
+**Trigger:** GitHub Actions cada 2 horas.

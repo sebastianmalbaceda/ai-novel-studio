@@ -1,4 +1,4 @@
-# SPEC.md — Especificación del Sistema A.I. Novel Studio
+﻿# SPEC.md — Especificación del Sistema A.I. Novel Studio
 
 > **Versión:** 1.0.0  
 > **Última actualización:** 2026-04-06  
@@ -22,7 +22,7 @@ A.I. Novel Studio es un sistema de generación automatizada de literatura (Novel
 
 ### RF-02: Agente Investigador
 
-- El agente investigador DEBE ejecutarse cada 15 minutos (cron: `*/15 * * * *`).
+- El agente investigador DEBE ejecutarse cada 30 minutos (cron: `*/30 * * * *`).
 - DEBE leer la configuración dinámica desde `data/config.json`.
 - DEBE generar ideas basadas en los pesos de género configurados.
 - DEBE añadir resultados en modo append a `data/research_log.txt`.
@@ -30,7 +30,7 @@ A.I. Novel Studio es un sistema de generación automatizada de literatura (Novel
 
 ### RF-03: Agente Escritor
 
-- El agente escritor DEBE ejecutarse cada hora (cron: `0 * * * *`).
+- El agente escritor DEBE ejecutarse cada 2 horas (cron: `0 * * * *`).
 - DEBE leer la Biblia de la novela (`data/biblia.md`).
 - DEBE leer los resúmenes acumulados (`data/resúmenes.md`).
 - DEBE consumir el log de investigación completo (`data/research_log.txt`).

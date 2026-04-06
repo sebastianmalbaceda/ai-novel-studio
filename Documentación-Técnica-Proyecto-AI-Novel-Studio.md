@@ -1,4 +1,4 @@
-# Documentación Técnica: Proyecto "A.I. Novel Studio" (Estudio Autónomo v1.1)
+﻿# Documentación Técnica: Proyecto "A.I. Novel Studio" (Estudio Autónomo v1.1)
 
 ## 1. Visión General del Proyecto
 "A.I. Novel Studio" es un sistema de generación automatizada de literatura (Novelas Ligeras, Webnovels) impulsado por modelos de Inteligencia Artificial. Está diseñado para operar de forma **100% autónoma** utilizando **GitHub Actions** como orquestador.
@@ -11,10 +11,10 @@ El sistema implementa un bucle de retroalimentación constante:
 
 ```mermaid
 graph TD
-    A[Cron: cada 15 min] --> B[Agente Investigador]
+    A[Cron: cada 30 min] --> B[Agente Investigador]
     B --> C{Pensamiento Profundo}
     C -->|Iteración 1..N| D[research_log.txt]
-    E[Cron: cada 1 hora] --> F[Agente Escritor]
+    E[Cron: cada 2 horas] --> F[Agente Escritor]
     D --> F
     G[biblia.md] --> F
     H[resúmenes.md] --> F
@@ -56,7 +56,7 @@ El archivo `config.json` es el cerebro del estudio. Permite ajustar la "personal
     }
 }
 ```
-*   **researcher_calls_per_run**: Controla cuántas veces "piensa" el investigador cada 15 minutos.
+*   **researcher_calls_per_run**: Controla cuántas veces "piensa" el investigador cada 30 minutos.
 *   **api_key_env**: Nombre de la variable de entorno que contiene la clave (ej. `AI_API_KEY`).
 
 ---
@@ -71,8 +71,8 @@ El motor incluye **Exponential Backoff Retry**. Si la API falla por saturación 
 
 El sistema se despliega mediante dos archivos `.yml` en `.github/workflows/`:
 
-1.  **cron_researcher.yml**: Lluvia de ideas y planificación (cada 15 min).
-2.  **cron_writer.yml**: Redacción de capítulo, auto-resumen y publicación (cada 1 hora).
+1.  **cron_researcher.yml**: Lluvia de ideas y planificación (cada 30 min).
+2.  **cron_writer.yml**: Redacción de capítulo, auto-resumen y publicación (cada 2 horas).
 
 ### Requisitos de Seguridad en GitHub:
 1.  **Secrets**: Crear `AI_API_KEY` en `Settings > Secrets > Actions`.

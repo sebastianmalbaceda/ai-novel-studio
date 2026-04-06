@@ -1,4 +1,4 @@
-# 📖 A.I. Novel Studio
+﻿# 📖 A.I. Novel Studio
 
 > **Sistema autónomo de generación de Novelas Ligeras impulsado por Inteligencia Artificial**
 
@@ -15,8 +15,8 @@
 
 El sistema no solo genera texto — **investiga intensivamente** para enriquecer la trama, diversificar giros argumentales y maximizar la calidad narrativa a través de un flujo asíncrono de dos velocidades:
 
-- 🔬 **Agente Investigador** — Se ejecuta cada 15 minutos, realizando brainstorming y buscando tropos literarios
-- ✍️ **Agente Escritor** — Se ejecuta cada hora, compilando la investigación en un nuevo capítulo
+- 🔬 **Agente Investigador** — Se ejecuta cada 30 minutos, realizando brainstorming y buscando tropos literarios
+- ✍️ **Agente Escritor** — Se ejecuta cada 2 horas, compilando la investigación en un nuevo capítulo
 
 ## 🏗️ Arquitectura
 
@@ -30,8 +30,8 @@ El sistema se divide en tres capas:
                         │
 ┌───────────────────────▼─────────────────────────────┐
 │          CAPA DE EJECUCIÓN (GitHub Actions)          │
-│   cron_researcher.yml (*/15 min)                    │
-│   cron_writer.yml     (cada hora)                   │
+│   cron_researcher.yml (*/30 min)                    │
+│   cron_writer.yml     (cada 2 horas)                   │
 └───────────────────────┬─────────────────────────────┘
                         │
 ┌───────────────────────▼─────────────────────────────┐
@@ -45,8 +45,8 @@ El sistema se divide en tres capas:
 ```
 AI-Novel-Studio/
 ├── .github/workflows/
-│   ├── cron_researcher.yml     # Agente investigador (cada 15 min)
-│   └── cron_writer.yml         # Agente escritor (cada hora)
+│   ├── cron_researcher.yml     # Agente investigador (cada 30 min)
+│   └── cron_writer.yml         # Agente escritor (cada 2 horas)
 ├── src/
 │   ├── researcher.py           # Lógica del Agente Investigador
 │   ├── writer.py               # Lógica del Agente Escritor
@@ -116,7 +116,7 @@ El archivo `data/config.json` permite controlar la dirección de la historia **s
 
 - Navega a la carpeta `chapters/` del repositorio
 - Los capítulos se publican en formato Markdown (`.md`)
-- Cada hora se genera un nuevo capítulo automáticamente
+- cada 2 horas se genera un nuevo capítulo automáticamente
 
 ## 📖 Documentación
 

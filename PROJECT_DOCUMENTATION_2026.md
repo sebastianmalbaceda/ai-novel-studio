@@ -1,4 +1,4 @@
-# Software Project Documentation — Complete Reference (2026)
+﻿# Software Project Documentation — Complete Reference (2026)
 
 > **Audience:** Human developers and AI coding agents.
 > **Purpose:** Canonical reference for structuring a modern software repository.

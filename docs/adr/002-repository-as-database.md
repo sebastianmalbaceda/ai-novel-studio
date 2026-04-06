@@ -1,4 +1,4 @@
-# ADR-002: Repositorio como Base de Datos
+﻿# ADR-002: Repositorio como Base de Datos
 
 **Estado:** Aceptado  
 **Fecha:** 2026-04-06  
@@ -35,6 +35,6 @@ Usar **archivos dentro del repositorio** (JSON para config, Markdown para conten
 
 ## Mitigaciones
 
-- El scheduling de workflows minimiza conflictos (escritor en minuto 0, investigador en 15/30/45)
+- El scheduling de workflows minimiza conflictos (escritor en minuto 0, investigador en 0/30)
 - Los archivos son pequeños (KB, no MB)
-- El `research_log.txt` se vacía cada hora, controlando el crecimiento
+- El `research_log.txt` se vacía cada 2 horas, controlando el crecimiento

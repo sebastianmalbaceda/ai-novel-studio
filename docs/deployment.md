@@ -1,4 +1,4 @@
-# Deployment — A.I. Novel Studio
+﻿# Deployment — A.I. Novel Studio
 
 ## Entorno de Ejecución
 
@@ -36,8 +36,8 @@ Seleccionar: **Read and write permissions**
 ### 4. Verificar Workflows
 
 Los workflows se activarán automáticamente según sus schedules cron:
-- **Investigador:** Cada 15 minutos
-- **Escritor:** Cada hora
+- **Investigador:** cada 30 minutos
+- **Escritor:** cada 2 horas
 
 ### Ejecución Manual
 

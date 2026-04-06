@@ -1,4 +1,4 @@
-# ADR-001: GitHub Actions como Orquestador
+﻿# ADR-001: GitHub Actions como Orquestador
 
 **Estado:** Aceptado  
 **Fecha:** 2026-04-06  
@@ -6,7 +6,7 @@
 
 ## Contexto
 
-El sistema necesita ejecutar scripts de Python de forma periódica (cada 15 minutos y cada hora) sin mantener un servidor dedicado encendido 24/7. Se evaluaron las siguientes opciones:
+El sistema necesita ejecutar scripts de Python de forma periódica (cada 30 minutos y cada 2 horas) sin mantener un servidor dedicado encendido 24/7. Se evaluaron las siguientes opciones:
 
 1. **Servidor VPS** (DigitalOcean, AWS EC2)
 2. **Serverless Functions** (AWS Lambda, Google Cloud Functions)

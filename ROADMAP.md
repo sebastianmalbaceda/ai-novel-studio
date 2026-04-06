@@ -1,4 +1,4 @@
-# ROADMAP.md — Hoja de Ruta de A.I. Novel Studio
+﻿# ROADMAP.md — Hoja de Ruta de A.I. Novel Studio
 
 > **Última actualización:** 2026-04-06
 
@@ -12,14 +12,14 @@ Convertir A.I. Novel Studio en la plataforma de referencia para generación aut�
 
 ## v1.0 — MVP: Generación Autónoma Básica ✅ (Actual)
 
-**Objetivo:** Sistema funcional end-to-end que genera capítulos cada hora.
+**Objetivo:** Sistema funcional end-to-end que genera capítulos cada 2 horas.
 
 - [x] Estructura de repositorio definida
 - [x] Agente Investigador (`researcher.py`)
 - [x] Agente Escritor (`writer.py`)
 - [x] Utilidades compartidas (`utils.py`)
-- [x] GitHub Actions: cron investigador (15 min)
-- [x] GitHub Actions: cron escritor (1 hora)
+- [x] GitHub Actions: cron investigador (30 min)
+- [x] GitHub Actions: cron escritor (2 horas)
 - [x] Panel de control vía `config.json`
 - [x] Biblia de la novela (mundo, personajes, reglas)
 - [x] Sistema de resúmenes acumulativos

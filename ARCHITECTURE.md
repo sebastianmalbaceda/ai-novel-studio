@@ -1,4 +1,4 @@
-# ARCHITECTURE.md — Arquitectura del Sistema A.I. Novel Studio
+﻿# ARCHITECTURE.md — Arquitectura del Sistema A.I. Novel Studio
 
 > **Versión:** 1.0.0  
 > **Última actualización:** 2026-04-06
@@ -24,7 +24,7 @@ A.I. Novel Studio utiliza una arquitectura de tres capas sin servidor (serverles
 │                                                                   │
 │   ┌─────────────────────┐      ┌───────────────────────────┐     │
 │   │  cron_researcher    │      │  cron_writer              │     │
-│   │  (cada 15 min)      │      │  (cada 1 hora)            │     │
+│   │  (cada 30 min)      │      │  (cada 2 horas)            │     │
 │   │                     │      │                           │     │
 │   │  → researcher.py    │      │  → writer.py              │     │
 │   │  → utils.py         │      │  → utils.py               │     │
@@ -69,7 +69,7 @@ A.I. Novel Studio utiliza una arquitectura de tres capas sin servidor (serverles
 4. Llamar a la API de IA
 5. Append del resultado a `data/research_log.txt`
 
-**Trigger:** `cron_researcher.yml` cada 15 minutos.
+**Trigger:** `cron_researcher.yml` cada 30 minutos.
 
 ### 2.3 `src/writer.py` — Agente Escritor
 
@@ -83,7 +83,7 @@ A.I. Novel Studio utiliza una arquitectura de tres capas sin servidor (serverles
 5. Actualizar `last_chapter_number` en config
 6. Vaciar `data/research_log.txt`
 
-**Trigger:** `cron_writer.yml` cada hora.
+**Trigger:** `cron_writer.yml` cada 2 horas.
 
 ---
 
@@ -92,13 +92,13 @@ A.I. Novel Studio utiliza una arquitectura de tres capas sin servidor (serverles
 ```
 ┌──────────────┐    ┌────────────────┐    ┌───────────────────┐
 │ config.json  │───▶│ researcher.py  │───▶│ research_log.txt  │
-│ (parámetros) │    │ (cada 15 min)  │    │ (append mode)     │
+│ (parámetros) │    │ (cada 30 min)  │    │ (append mode)     │
 └──────────────┘    └────────────────┘    └────────┬──────────┘
                                                    │
 ┌──────────────┐    ┌────────────────┐             │
 │ biblia.md    │───▶│                │◄────────────┘
 │ resúmenes.md │───▶│  writer.py     │
-│ config.json  │───▶│  (cada hora)   │
+│ config.json  │───▶│  (cada 2 horas)   │
 └──────────────┘    └───────┬────────┘
                             │
                     ┌───────▼────────┐    ┌──────────────────┐
@@ -144,7 +144,7 @@ cron_writer.yml     ──runs──▶ writer.py
 ### ADR-003: Dos Velocidades de Ejecución
 
 **Contexto:** Se quiere maximizar el uso de tokens de API sin sacrificar calidad.  
-**Decisión:** Investigador rápido (15 min) + Escritor pausado (1h).  
+**Decisión:** Investigador rápido (30 min) + Escritor pausado (2h).  
 **Consecuencias:** La investigación se acumula proporcionando contexto rico al escritor. El escritor tiene ~4 informes de investigación por ciclo.
 
 ### ADR-004: API Compatible con OpenAI
@@ -170,7 +170,7 @@ cron_writer.yml     ──runs──▶ writer.py
 
 ## 7. Limitaciones Conocidas
 
-1. **Concurrencia:** Si el investigador y escritor se ejecutan simultáneamente, puede haber conflictos de git. Mitigado por el scheduling (escritor al minuto 0, investigador en 15/30/45).
+1. **Concurrencia:** Si el investigador y escritor se ejecutan simultáneamente, puede haber conflictos de git. Mitigado por el scheduling (escritor al minuto 0, investigador en 0/30).
 2. **Contexto limitado:** El tamaño del mega-prompt está limitado por la ventana de contexto del modelo.
 3. **Rate limiting:** APIs gratuitas pueden tener límites de solicitudes por minuto.
 4. **Drift narrativo:** Sin supervisión humana, la historia puede derivar temáticamente.

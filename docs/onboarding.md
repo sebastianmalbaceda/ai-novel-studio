@@ -1,4 +1,4 @@
-# Onboarding — A.I. Novel Studio
+﻿# Onboarding — A.I. Novel Studio
 
 > Guía para nuevos desarrolladores que se incorporan al proyecto.
 
@@ -6,8 +6,8 @@
 
 A.I. Novel Studio genera novelas ligeras de forma autónoma usando IA. El sistema funciona con dos agentes:
 
-1. **Investigador** — Cada 15 minutos investiga tropos, ideas y giros argumentales.
-2. **Escritor** — Cada hora compila la investigación y escribe un capítulo.
+1. **Investigador** — cada 30 minutos investiga tropos, ideas y giros argumentales.
+2. **Escritor** — cada 2 horas compila la investigación y escribe un capítulo.
 
 Todo se ejecuta en GitHub Actions. No hay servidor.
 

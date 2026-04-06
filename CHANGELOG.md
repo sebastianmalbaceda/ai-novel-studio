@@ -1,4 +1,4 @@
-# Changelog
+﻿# Changelog
 
 Todos los cambios notables en este proyecto se documentan en este archivo.
 
@@ -19,8 +19,8 @@ y este proyecto adhiere al [Versionado Semántico](https://semver.org/lang/es/).
 
 ### Añadido
 - Estructura completa del repositorio
-- Agente Investigador (`src/researcher.py`) — ejecución cada 15 minutos
-- Agente Escritor (`src/writer.py`) — ejecución cada hora
+- Agente Investigador (`src/researcher.py`) — ejecución cada 30 minutos
+- Agente Escritor (`src/writer.py`) — ejecución cada 2 horas
 - Utilidades compartidas (`src/utils.py`) — llamadas API, configuración
 - Panel de control dinámico (`data/config.json`)
 - Biblia de la novela con mundo, personajes y reglas (`data/biblia.md`)
