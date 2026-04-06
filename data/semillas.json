@@ -5,8 +5,14 @@
     "potencial_pago": "Revelación de que su especie consume energía de forma no humana.",
     "estado": "Pendiente"
   },
+  "semilla_1_02": {
+    "detalle": "Lyra en la azotea a medianoche con ojos que brillan con luz propia, expresión de nostalgia y miedo.",
+    "capitulo_plantado": 1,
+    "potencial_pago": "Lyra intentaba comunicarse con su especie o reactivar el nodo de tránsito.",
+    "estado": "Creciendo"
+  },
   "semilla_2_01": {
-    "detalle": "Kenji grabó a Lyra en la azotea a las 2:47 AM sola.",
+    "detalle": "Kenji grabó a Lyra en la azotea a las 2:47 AM sola e inmóvil durante una hora.",
     "capitulo_plantado": 2,
     "potencial_pago": "Lyra estaba intentando comunicarse o reactivar el nodo.",
     "estado": "Creciendo"
@@ -21,6 +27,36 @@
     "detalle": "Lyra mencionó que vigiló a Haruto por 34 días antes de llegar.",
     "capitulo_plantado": 2,
     "potencial_pago": "¿Por qué Haruto específicamente? ¿Su madre?",
+    "estado": "Cosechada"
+  },
+  "semilla_3_01": {
+    "detalle": "La madre de Haruto es profesora de astronomía con un proyecto secreto y documentos que no deja ver.",
+    "capitulo_plantado": 3,
+    "potencial_pago": "La madre trabaja con o para una organización que conoce la existencia alienígena. Posible conexión con la Zona Gris.",
+    "estado": "Creciendo"
+  },
+  "semilla_3_02": {
+    "detalle": "Lyra revela que 'todo está conectado': la madre, el nodo, la Directora.",
+    "capitulo_plantado": 3,
+    "potencial_pago": "Los tres elementos forman parte de una red más amplia de conocimiento sobre la presencia alienígena.",
+    "estado": "Creciendo"
+  },
+  "semilla_4_01": {
+    "detalle": "Watcher_0: usuario anónimo en Discord que identifica la frecuencia de distorsión como algo que 'no debería existir en un entorno urbano'.",
+    "capitulo_plantado": 4,
+    "potencial_pago": "Watcher_0 podría ser un agente de la Zona Gris, la Directora Shirogane, o un desertor alienígena.",
+    "estado": "Creciendo"
+  },
+  "semilla_4_02": {
+    "detalle": "Lyra detecta un tercer dispositivo de vigilancia (no de Kenji) moviéndose hacia el ala administrativa.",
+    "capitulo_plantado": 4,
+    "potencial_pago": "Alguien dentro del instituto está monitorizando activamente a Lyra.",
+    "estado": "Creciendo"
+  },
+  "semilla_4_03": {
+    "detalle": "Lyra se encierra en su habitación y emite un zumbido en un idioma desconocido, como un transformador eléctrico.",
+    "capitulo_plantado": 4,
+    "potencial_pago": "Lyra se comunica con su especie o intenta reactivar algo. Haruto no puede ayudar con esto.",
     "estado": "Pendiente"
   }
 }

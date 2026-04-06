@@ -1,86 +1,87 @@
 import os
 import json
+import time
 import requests
 
 
 def load_config():
     """Lee el archivo de configuración con los parámetros dinámicos."""
-    with open('../data/config.json', 'r', encoding='utf-8') as f:
+    with open("../data/config.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def save_config(config_data):
     """Guarda actualizaciones en el archivo de configuración."""
-    with open('../data/config.json', 'w', encoding='utf-8') as f:
-        json.dump(config_data, f, indent=4, ensure_ascii=False)
+    with open("../data/config.json", "w", encoding="utf-8") as f:
+        json.dump(config_data, f, indent=2, ensure_ascii=False)
 
 
 def load_personajes():
     """Lee el archivo de personajes (memoria de largo plazo)."""
-    path = '../data/personajes.json'
+    path = "../data/personajes.json"
     if not os.path.exists(path):
         return {}
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def save_personajes(personajes_data):
     """Guarda actualizaciones en el archivo de personajes."""
-    with open('../data/personajes.json', 'w', encoding='utf-8') as f:
+    with open("../data/personajes.json", "w", encoding="utf-8") as f:
         json.dump(personajes_data, f, indent=2, ensure_ascii=False)
 
 
 def load_cronologia():
     """Lee el archivo de cronología (memoria temporal)."""
-    path = '../data/cronología.json'
+    path = "../data/cronología.json"
     if not os.path.exists(path):
         return {}
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def save_cronologia(cronologia_data):
     """Guarda actualizaciones en el archivo de cronología."""
-    with open('../data/cronología.json', 'w', encoding='utf-8') as f:
+    with open("../data/cronología.json", "w", encoding="utf-8") as f:
         json.dump(cronologia_data, f, indent=2, ensure_ascii=False)
 
 
 def load_hilos():
     """Lee el archivo de hilos narrativos (subtramas)."""
-    path = '../data/hilos_narrativos.json'
+    path = "../data/hilos_narrativos.json"
     if not os.path.exists(path):
         return {}
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def save_hilos(hilos_data):
     """Guarda actualizaciones en el archivo de hilos narrativos."""
-    with open('../data/hilos_narrativos.json', 'w', encoding='utf-8') as f:
+    with open("../data/hilos_narrativos.json", "w", encoding="utf-8") as f:
         json.dump(hilos_data, f, indent=2, ensure_ascii=False)
 
 
 def load_semillas():
     """Lee el archivo de semillas (foreshadowing)."""
-    path = '../data/semillas.json'
+    path = "../data/semillas.json"
     if not os.path.exists(path):
         return {}
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def save_semillas(semillas_data):
     """Guarda actualizaciones en el archivo de semillas."""
-    with open('../data/semillas.json', 'w', encoding='utf-8') as f:
+    with open("../data/semillas.json", "w", encoding="utf-8") as f:
         json.dump(semillas_data, f, indent=2, ensure_ascii=False)
 
 
 def load_canon():
     """Lee el archivo de canon (hechos inamovibles)."""
-    path = '../data/canon.md'
+    path = "../data/canon.md"
     if not os.path.exists(path):
         return ""
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, "r", encoding="utf-8") as f:
         return f.read()
 
 
@@ -93,9 +94,9 @@ def get_active_genres(config):
         dict: Diccionario {nombre_genero: peso} solo para géneros con peso > 0.
     """
     genres = {}
-    for key, value in config.get('genre_weights', {}).items():
+    for key, value in config.get("genre_weights", {}).items():
         # Ignorar separadores de categoría y comentarios
-        if key.startswith('_'):
+        if key.startswith("_"):
             continue
         if isinstance(value, (int, float)) and value > 0:
             genres[key] = value
@@ -114,18 +115,23 @@ def format_genre_weights(genres):
     """
     if not genres:
         return "No hay géneros con peso definido."
-    
+
     lines = []
     for name, weight in sorted(genres.items(), key=lambda x: x[1], reverse=True):
-        display_name = name.replace('_', ' ').title()
+        display_name = name.replace("_", " ").title()
         lines.append(f"- {display_name}: {weight}%")
     return "\n".join(lines)
 
 
-def call_ai_api(prompt, system_prompt="Eres un útil asistente de escritura.", temperature=0.7, max_tokens=2000):
+def call_ai_api(
+    prompt,
+    system_prompt="Eres un útil asistente de escritura.",
+    temperature=0.7,
+    max_tokens=2000,
+):
     """
     Realiza la llamada genérica a cualquier API compatible con el formato OpenAI.
-    Soporta cualquier proveedor (Minimax, OpenAI, Anthropic-compatible, 
+    Soporta cualquier proveedor (Minimax, OpenAI, Anthropic-compatible,
     DeepSeek, Groq, Mistral, local, etc.) configurado en data/config.json.
 
     La función lee del config:
@@ -149,10 +155,10 @@ def call_ai_api(prompt, system_prompt="Eres un útil asistente de escritura.", t
         requests.exceptions.HTTPError: Si la petición HTTP falla.
     """
     config = load_config()
-    settings = config['system_settings']
+    settings = config["system_settings"]
 
     # Leer el nombre de la variable de entorno para la API Key
-    api_key_env = settings.get('api_key_env', 'AI_API_KEY')
+    api_key_env = settings.get("api_key_env", "AI_API_KEY")
     api_key = os.environ.get(api_key_env)
     if not api_key:
         raise ValueError(
@@ -162,15 +168,12 @@ def call_ai_api(prompt, system_prompt="Eres un útil asistente de escritura.", t
         )
 
     # URL del endpoint — completamente configurable
-    url = settings.get('api_host', 'https://api.minimax.io/v1/chat/completions')
-    model_name = settings.get('model_name', 'MiniMax-M1')
+    url = settings.get("api_host", "https://api.minimax.io/v1/chat/completions")
+    model_name = settings.get("model_name", "MiniMax-M1")
 
     # Headers base + extras configurables
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
-    }
-    extra_headers = settings.get('extra_headers', {})
+    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    extra_headers = settings.get("extra_headers", {})
     if extra_headers:
         headers.update(extra_headers)
 
@@ -179,18 +182,16 @@ def call_ai_api(prompt, system_prompt="Eres un útil asistente de escritura.", t
         "model": model_name,
         "messages": [
             {"role": "system", "content": system_prompt},
-            {"role": "user", "content": prompt}
+            {"role": "user", "content": prompt},
         ],
         "temperature": temperature,
-        "max_tokens": max_tokens
+        "max_tokens": max_tokens,
     }
 
     # Parámetros extra del body (útil para proveedores con opciones especiales)
-    extra_body = settings.get('extra_body_params', {})
+    extra_body = settings.get("extra_body_params", {})
     if extra_body:
         payload.update(extra_body)
-
-    import time
 
     max_retries = 5
     retry_delay = 5
@@ -205,17 +206,28 @@ def call_ai_api(prompt, system_prompt="Eres un útil asistente de escritura.", t
             data = response.json()
             if data is None:
                 raise ValueError("La API devolvió 'null' como respuesta JSON.")
-                
-            return data['choices'][0]['message']['content']
-        except (requests.exceptions.RequestException, KeyError, TypeError, ValueError, json.JSONDecodeError) as e:
+
+            return data["choices"][0]["message"]["content"]
+        except (
+            requests.exceptions.RequestException,
+            KeyError,
+            TypeError,
+            ValueError,
+            json.JSONDecodeError,
+        ) as e:
             if attempt < max_retries - 1:
-                print(f"Error en la llamada a la API (Intento {attempt + 1}/{max_retries}): {e}. Reintentando en {retry_delay}s...")
+                print(
+                    f"Error en la llamada a la API (Intento {attempt + 1}/{max_retries}): {e}. Reintentando en {retry_delay}s..."
+                )
                 time.sleep(retry_delay)
                 retry_delay *= 2
             else:
-                if hasattr(e, 'response') and e.response is not None:
-                    print(f"Fallo definitivo tras {max_retries} intentos ({settings.get('api_provider', 'unknown')}): {e.response.text}")
+                if hasattr(e, "response") and e.response is not None:
+                    print(
+                        f"Fallo definitivo tras {max_retries} intentos ({settings.get('api_provider', 'unknown')}): {e.response.text}"
+                    )
                 else:
-                    print(f"Fallo definitivo tras {max_retries} intentos ({settings.get('api_provider', 'unknown')}): {e}")
+                    print(
+                        f"Fallo definitivo tras {max_retries} intentos ({settings.get('api_provider', 'unknown')}): {e}"
+                    )
                 raise
-

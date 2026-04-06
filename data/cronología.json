@@ -4,12 +4,13 @@
     "resumen": "Llegada de Lyra Vel'Kath al Instituto Takahara como estudiante de intercambio. Haruto Mizuki es asignado como su guía oficial.",
     "eventos_clave": [
       "Primer contacto en el aula",
-      "Incidente del almuerzo: Lyra analiza comida orgánicamente",
-      "Cruce de miradas en el pasillo al atardecer"
+      "Tour del instituto con Lyra: preguntas literales y comportamiento anómalo",
+      "Haruto ve a Lyra en la azotea a medianoche con ojos que brillan"
     ],
     "revelaciones": [
       "Kenji sospecha de origen alienígena",
-      "Haruto nota comportamiento anómalo"
+      "Haruto nota comportamiento anómalo",
+      "Lyra observa las estrellas con nostalgia y miedo"
     ],
     "estado_ambiente": "Misterio incipiente / Tono escolar"
   },
@@ -26,5 +27,38 @@
       "Misión secreta de Lyra: 'Comprometer cobertura'"
     ],
     "estado_ambiente": "Tensión cómica / Secreto compartido / Riesgo de filtración"
+  },
+  "capitulo_3": {
+    "dia": 3,
+    "resumen": "Haruto procesa la revelación y conecta a su madre con el misterio. Lyra negocia con Kenji para mantener el secreto.",
+    "eventos_clave": [
+      "Haruto conecta a su madre (astronomía, proyecto secreto) con Lyra",
+      "Lyra confirma que Haruto y Kenji llegaron a la conclusión correcta",
+      "Trato: Kenji no publica el video a cambio de la verdad eventualmente",
+      "Lyra revela que la madre de Haruto es 'la clave de todo'"
+    ],
+    "revelaciones": [
+      "La madre de Haruto podría estar relacionada con la llegada de Lyra",
+      "Lyra vigila a la Directora Shirogane con sospecha",
+      "Todo está conectado: madre, nodo, directora"
+    ],
+    "estado_ambiente": "Revelaciones graduales / Tensión creciente / Misterio familiar"
+  },
+  "capitulo_4": {
+    "dia": 4,
+    "resumen": "Aparece Watcher_0. Kenji descubre distorsiones lumínicas en la azotea del edificio B. Alguien más los está vigilando.",
+    "eventos_clave": [
+      "Kenji cita a Haruto y Lyra en la azotea del edificio B",
+      "Diez fotos con distorsión lumínica inexplicable en la misma zona",
+      "Lyra detecta un tercer dispositivo de vigilancia moviéndose al ala administrativa",
+      "Watcher_0 aparece en el Discord de Kenji con conocimiento técnico",
+      "Haruto ordena borrar el servidor de Discord"
+    ],
+    "revelaciones": [
+      "Alguien más sabe lo que está buscando y está dentro del instituto",
+      "Watcher_0 emite desde el edificio A o la oficina administrativa",
+      "Lyra necesita algo que Haruto no puede darle (zumbido nocturno)"
+    ],
+    "estado_ambiente": "Amenaza externa / Paranoia / Nueva facción en juego"
   }
 }

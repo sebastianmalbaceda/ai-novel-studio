@@ -1,26 +1,33 @@
 import os
 import json
 from datetime import datetime
-from utils import load_config, call_ai_api, get_active_genres, format_genre_weights, load_hilos, load_semillas
+from utils import (
+    load_config,
+    call_ai_api,
+    get_active_genres,
+    format_genre_weights,
+    load_hilos,
+    load_semillas,
+)
 
 
 def run_research_agent():
     """
     Agente Investigador: genera ideas y tropos literarios.
-    Se ejecuta cada 15 minutos via GitHub Actions.
+    Se ejecuta cada 30 minutos via GitHub Actions.
     Los resultados se añaden en modo append a research_log.txt.
 
     Funciona con cualquier modelo de IA configurado en data/config.json.
     Lee los géneros activos dinámicamente (cualquier género con peso > 0).
     """
     config = load_config()
-    research_focus = config['dynamic_instructions']['current_research_focus']
-    temp = config['system_settings']['temperature_research']
+    research_focus = config["dynamic_instructions"]["current_research_focus"]
+    temp = config["system_settings"]["temperature_research"]
 
     # Obtener géneros activos dinámicamente
     active_genres = get_active_genres(config)
     genre_text = format_genre_weights(active_genres)
-    
+
     # NUEVO: Cargar contexto estratégico (Memoria de Excelencia)
     hilos = load_hilos()
     semillas = load_semillas()
@@ -32,7 +39,7 @@ def run_research_agent():
     )
 
     prompt = f"""
-    PROYECTO ACTUAL: "{config['story_status']['title']}"
+    PROYECTO ACTUAL: "{config["story_status"]["title"]}"
     FOCO DE INVESTIGACIÓN: "{research_focus}"
 
     CONTEXTO DE LA TRAMA (HILOS ACTIVOS):
@@ -52,20 +59,22 @@ def run_research_agent():
     Devuelve solo el texto de tus ideas, estructurado en puntos.
     """
 
-    calls_per_run = config['system_settings'].get('researcher_calls_per_run', 1)
+    calls_per_run = config["system_settings"].get("researcher_calls_per_run", 1)
 
     print(f"Iniciando ciclo de investigación profunda ({calls_per_run} iteraciones)...")
 
     try:
         current_knowledge = ""
-        
-        with open('../data/research_log.txt', 'a', encoding='utf-8') as f:
+
+        with open("../data/research_log.txt", "a", encoding="utf-8") as f:
             now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            f.write(f"\n\n============= NUEVA SESIÓN DE INVESTIGACIÓN ({calls_per_run} ITERACIONES) [{now}] =============\n")
+            f.write(
+                f"\n\n============= NUEVA SESIÓN DE INVESTIGACIÓN ({calls_per_run} ITERACIONES) [{now}] =============\n"
+            )
 
             for i in range(1, calls_per_run + 1):
                 print(f"-> Ejecutando iteración {i}/{calls_per_run}...")
-                
+
                 if i == 1:
                     actual_prompt = prompt
                 else:
@@ -80,12 +89,14 @@ def run_research_agent():
                     """
 
                 # Llamada al modelo
-                research_output = call_ai_api(actual_prompt, system_prompt, temperature=temp)
+                research_output = call_ai_api(
+                    actual_prompt, system_prompt, temperature=temp
+                )
                 current_knowledge = research_output
 
                 # Añadir el resultado interactivo de esta ronda al log, para que quede registro
                 f.write(f"\n--- ITERACIÓN {i} ---\n{research_output}\n")
-                
+
                 print(f"   [Iteración {i} completada]")
 
         print("Investigación completada y guardada evolutivamente en research_log.txt")

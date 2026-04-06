@@ -7,29 +7,31 @@
     "personalidad": "Observador, cínico con las conspiraciones, protector de su entorno cotidiano, procrastinador.",
     "estado_vital": "Saludable",
     "relaciones": {
-      "Lyra Vel'Kath": "Compañera / Responsabilidad asignada / Creciente tensión cómica",
-      "Kenji Aoyama": "Mejor amigo / Contraste de cordura",
-      "Directora Shirogane": "Autoridad temida / Sospecha incipiente"
+      "Lyra Vel'Kath": "Compañera de homestay / Cómplice / Creciente tensión cómica y emocional",
+      "Kenji Aoyama": "Mejor amigo / Aliado en el secreto",
+      "Directora Shirogane": "Autoridad temida / Sospecha de vigilancia activa",
+      "Madre": "Profesora de astronomía con proyecto secreto / Posible clave del misterio"
     },
-    "secretos": "No confía plenamente en la directora. Sospecha que su madre oculta algo de su trabajo en astronomía.",
-    "arco_actual": "Garantizar la cobertura de Lyra mientras Kenji la acosa con grabaciones.",
-    "metas_actuales": ["Graduarse sin incidentes", "Evitar que Kenji suba vídeos de Lyra"]
+    "secretos": "Sabe que Lyra es alienígena. Sospecha que su madre oculta algo relacionado con el trabajo en astronomía.",
+    "arco_actual": "Proteger a Lyra mientras descubre la conexión entre su madre y la presencia alienígena.",
+    "metas_actuales": ["Mantener el secreto de Lyra", "Descubrir la conexión de su madre", "Evitar que Watcher_0 los encuentre"]
   },
   "Lyra Vel'Kath": {
     "clasificacion": "Principal",
     "rol": "Co-protagonista / Estudiante de intercambio / Infiltrada",
     "edad": "Aparente 17 (170 ciclos Velari)",
-    "descripcion_fisica": "1.75m, cabello plateado en coleta geométrica, ojos violeta analíticos, uniforme siempre impecable.",
-    "personalidad": "Extremadamente literal, curiosa, eficiente pero socialmente analfabeta. Empieza a desarrollar curiosidad humana.",
-    "estado_vital": "Activa / En cobertura",
+    "descripcion_fisica": "1.75m, cabello plateado en coleta geométrica, ojos violeta analíticos que brillan con luz propia, uniforme siempre impecable.",
+    "personalidad": "Extremadamente literal, curiosa, eficiente pero socialmente analfabeta. Empieza a desarrollar curiosidad humana y conflicto emocional.",
+    "estado_vital": "Activa / Cobertura comprometida",
     "relaciones": {
-      "Haruto Mizuki": "Guía oficial / 'Unidad Mizuki' / Fuente de datos sociales",
-      "Kenji Aoyama": "Sujeto de observación ruidoso / 'Aoyama'",
-      "Directora Shirogane": "Punto de contacto administrativo (bajo sospecha)"
+      "Haruto Mizuki": "Guía oficial / Anfitrión de homestay / Fuente de datos sociales / Confianza creciente",
+      "Kenji Aoyama": "Sujeto de observación ruidoso / Aliado reticente",
+      "Directora Shirogane": "Punto de contacto administrativo / Sospecha de vigilancia mutua",
+      "Watcher_0": "Entidad desconocida que emite desde el ala administrativa"
     },
-    "secretos": "Misión real: reactivar el nodo de tránsito. Ha revelado su origen a Haruto y Kenji por error.",
-    "arco_actual": "Adaptación cultural acelerada tras comprometer su identidad.",
-    "metas_actuales": ["Protocolo de adaptación", "Navegar el interés invasivo de Kenji", "Evitar reporte de falla a sus superiores"]
+    "secretos": "Misión real: verificar/reactivar el nodo de tránsito bajo el instituto. Ha revelado su origen a Haruto y Kenji por error. Detecta dispositivos de captura en un radio de 200m.",
+    "arco_actual": "Adaptación cultural acelerada tras comprometer su identidad. Investigar la fuente de Watcher_0.",
+    "metas_actuales": ["Protocolo de adaptación", "Evitar que la información llegue a autoridades superiores", "Investigar a Watcher_0", "Determinar el rol de la madre de Haruto"]
   },
   "Kenji Aoyama": {
     "clasificacion": "Secundario / Alivio cómico",
@@ -39,11 +41,11 @@
     "personalidad": "Enérgico, obsesivo con los OVNIs, leal a Haruto pero imprudente por naturaleza.",
     "estado_vital": "Saludable / Exaltado",
     "relaciones": {
-      "Haruto Mizuki": "Mejor amigo / Aliado escéptico",
-      "Lyra Vel'Kath": "Obsesión de investigación / 'Prueba viviente'"
+      "Haruto Mizuki": "Mejor amigo / Cómplice en el secreto",
+      "Lyra Vel'Kath": "Obsesión de investigación / Trato: no publicar a cambio de verdad"
     },
-    "secretos": "Teme que si los aliens existen, él sea el primero en ser abducido.",
-    "arco_actual": "Conseguír la primicia mundial sobre Lyra para sus 47 suscriptores.",
-    "metas_actuales": ["Video viral con prueba definitiva", "No ser expulsado por grabar en el campus"]
+    "secretos": "Tiene video de Lyra en la azotea como seguro. Tiene un servidor de Discord con 32 personas donde comparte hallazgos.",
+    "arco_actual": "Mantener el secreto de Lyra mientras busca respuestas. Preocupado por Watcher_0.",
+    "metas_actuales": ["Conseguir la verdad completa de Lyra", "No ser expulsado", "Entender quién es Watcher_0"]
   }
 }

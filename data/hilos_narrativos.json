@@ -1,20 +1,32 @@
 {
   "misterio_lyra": {
     "descripcion": "La verdadera identidad y propósito de Lyra Vel'Kath en la Tierra.",
-    "progreso": "Haruto y Kenji saben que es alienígena. Kenji cree que es reptiliana, Lyra lo negó vagamente.",
-    "tension": 8,
-    "proximo_paso": "Ocultamiento a la Directora Shirogane y el resto del instituto."
+    "progreso": "Haruto y Kenji saben que es alienígena. Lyra admitió haber comprometido su cobertura. Se reveló que la madre de Haruto es 'la clave de todo'.",
+    "tension": 9,
+    "proximo_paso": "Descubrir la conexión exacta entre la madre de Haruto y la misión de Lyra."
   },
   "canal_kenji": {
     "descripcion": "La búsqueda de fama viral de Kenji mediante fenómenos paranormales.",
-    "progreso": "47 suscriptores. Tiene un video de Lyra en la azotea.",
-    "tension": 3,
-    "proximo_paso": "Intentar grabar una 'prueba definitiva' de origen biológico no humano."
+    "progreso": "47 suscriptores. Tiene video de Lyra en la azotea como seguro. Tiene un servidor de Discord con 32 personas donde compartió fotos de la distorsión.",
+    "tension": 6,
+    "proximo_paso": "Mantener el secreto mientras busca respuestas. Watcher_0 apareció en su servidor."
   },
   "complicidad_haruto": {
     "descripcion": "El dilema ético de Haruto entre proteger a Lyra y mantener su vida normal.",
-    "progreso": "Asignado como su guía, ya se ha convertido en su cómplice involuntario.",
-    "tension": 5,
-    "proximo_paso": "Lidiar con la vigilancia de Lyra sobre su persona."
+    "progreso": "Se ha convertido en cómplice activo de Lyra. Sospecha que su madre tiene relación con todo.",
+    "tension": 7,
+    "proximo_paso": "Investigar el proyecto secreto de su madre."
+  },
+  "watcher_0": {
+    "descripcion": "Una entidad desconocida que monitorea las mismas anomalías que Kenji y que parece saber más de lo que debería.",
+    "progreso": "Apareció en el Discord de Kenji comentando sobre la distorsión lumínica. Lyra detectó que emite desde dentro del instituto, probablemente el edificio A o la oficina administrativa.",
+    "tension": 8,
+    "proximo_paso": "Identificar a Watcher_0. Podría ser la Directora Shirogane, un agente de la Zona Gris, o alguien más."
+  },
+  "nodo_transito": {
+    "descripcion": "El nodo de tránsito alienígena bajo el Instituto Takahara que Lyra debe verificar/reactivar.",
+    "progreso": "Kenji fotografió distorsiones lumínicas en la azotea que coinciden con la ubicación del nodo. La distorsión aparece a horas irregulares.",
+    "tension": 7,
+    "proximo_paso": "Lyra necesita investigar el nodo sin ser detectada por Watcher_0."
   }
 }
