@@ -35,24 +35,21 @@ def generate_chapter_summary(chapter_content, chapter_num, config):
     )
 
     system_prompt = (
-        "Eres un editor literario experto que sintetiza tramas para mantener la continuidad de la saga. "
-        "PROHIBIDO mostrar pensamientos internos, bloques <think>, notas meta o advertencias al usuario. "
-        "Devuelve ÚNICAMENTE el texto del resumen, sin encabezados adicionales, sin notas al autor, sin disclaimers."
+        "Eres un editor literario experto. Resume tramas en máximo 200 palabras. "
+        "RESPONDE SOLO CON TEXTO PLANO en español. "
+        "PROHIBIDO: bloques <think>, notas al autor, disclaimers, tablas, listas con viñetas, "
+        "encabezados markdown, advertencias, preguntas al usuario, o cualquier texto que no sea "
+        "parte directa del resumen narrativo."
     )
 
     prompt = f"""
-    Resume el CAPÍTULO {chapter_num} de la novela "{config["story_status"]["title"]}" de forma concisa (máximo 200 palabras).
+    Resume el CAPÍTULO {chapter_num} de la novela "{config["story_status"]["title"]}" en un párrafo fluido de máximo 200 palabras.
 
-    EXTRACTO DEL CAPÍTULO:
+    EXTRACTO:
     {chapter_content[:2000]}
 
-    DEBES INCLUIR:
-    1. Eventos clave de la trama.
-    2. Cambios en las relaciones o estado de los personajes.
-    3. Hilos de trama abiertos o misterios sin resolver.
-
-    Utiliza un tono objetivo y enfocado en la utilidad para el autor en futuras entregas.
-    Devuelve solo el texto del resumen, sin comentarios adicionales.
+    Incluye: eventos clave, cambios en relaciones, hilos abiertos.
+    Devuelve SOLO el texto del resumen, nada más.
     """
 
     try:
@@ -137,13 +134,41 @@ def update_memory_with_ai(chapter_content, chapter_num, config):
         print(f"Error al actualizar la memoria de excelencia: {e}")
 
 
+def validate_chapter_language(content, chapter_num):
+    """Valida que el capítulo esté en español puro sin caracteres de otros idiomas."""
+    # Detectar caracteres CJK (chino, japonés kanji), cirílico, etc.
+    cjk_pattern = re.compile(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uff00-\uffef]")
+    cyrillic_pattern = re.compile(r"[\u0400-\u04ff]")
+    greek_pattern = re.compile(r"[\u0370-\u03ff]")
+    arabic_pattern = re.compile(r"[\u0600-\u06ff]")
+
+    issues = []
+    if cjk_pattern.search(content):
+        matches = cjk_pattern.findall(content)
+        issues.append(f"Caracteres CJK detectados: {''.join(matches[:10])}")
+    if cyrillic_pattern.search(content):
+        matches = cyrillic_pattern.findall(content)
+        issues.append(f"Caracteres cirílicos detectados: {''.join(matches[:10])}")
+    if greek_pattern.search(content):
+        matches = greek_pattern.findall(content)
+        issues.append(f"Caracteres griegos detectados: {''.join(matches[:10])}")
+    if arabic_pattern.search(content):
+        matches = arabic_pattern.findall(content)
+        issues.append(f"Caracteres árabes detectados: {''.join(matches[:10])}")
+
+    if issues:
+        print(f"VALIDACIÓN FALLIDA Capítulo {chapter_num}:")
+        for issue in issues:
+            print(f"  - {issue}")
+        return False
+    return True
+
+
 def clean_model_output(content):
     """Limpia la salida del modelo de trazas de razonamiento y otros elementos no deseados."""
-
-    # Eliminar bloques <think>...</think>
     content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL)
-    # Eliminar bloques (Pensamiento: ...) si existieran
     content = re.sub(r"\(Pensamiento:.*?\)", "", content, flags=re.DOTALL)
+    content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL)
 
     lines = content.split("\n")
     cleaned_lines = []
@@ -152,12 +177,10 @@ def clean_model_output(content):
     for line in lines:
         trimmed = line.strip()
         if not found_start:
-            # Buscamos el inicio real del capítulo (título o primer párrafo sustancial)
             if re.match(r"^#?\s*CAP[ÍI]TULO", trimmed, re.IGNORECASE):
                 found_start = True
                 cleaned_lines.append(line)
             elif trimmed and not trimmed.startswith(("<", "{", "[")):
-                # Si encontramos texto que no es un tag ni un header, asumimos que es el inicio
                 found_start = True
                 cleaned_lines.append(line)
         else:
@@ -206,21 +229,24 @@ def run_writing_agent():
         genre_specialties = "ficción general"
 
     system_prompt = (
-        f"Eres un talento como autor de novelas ligeras especializado en {genre_specialties}. "
-        "Escribe EXCLUSIVAMENTE en español correcto y fluido. "
-        "PROHIBIDO usar palabras en inglés, chino u otros idiomas dentro de frases en español. "
+        f"Eres un autor profesional de novelas ligeras japonesas traducidas al español, especializado en {genre_specialties}. "
+        "ESCRIBE ÚNICAMENTE EN ESPAÑOL. ESTÁ TERMINANTEMENTE PROHIBIDO usar caracteres o palabras en cualquier otro idioma: "
+        "ni inglés, ni chino, ni japonés (kanji/kana), ni ruso, ni coreano, ni árabe, ni portugués, ni francés. "
+        "Si el modelo intenta insertar caracteres no latinos, el capítulo será RECHAZADO automáticamente. "
         "REGLAS DE CONTINUIDAD OBLIGATORIAS: "
-        "1. NO inventes elementos que no estén en la BIBLIA, PERSONAJES, CRONOLOGÍA o RESÚMENES proporcionados. "
-        "2. NO añadas objetos físicos, implantes, dispositivos corporales o poderes nuevos a los personajes si no están documentados. "
-        "3. NO cambies la situación vital de los personajes (dónde viven, con quién) sin base en los resúmenes anteriores. "
-        "4. NO introduzcas personajes nuevos sin justificación narrativa clara. "
-        "5. Mantén coherencia absoluta con los eventos de los capítulos previos. "
-        "INSTRUCCIONES DE FORMATO Y ESTILO: "
-        "1. Narración ágil en primera persona, monólogos internos en cursiva y humor sutil. "
-        "2. Fluye orgánicamente sin abusar de repeticiones de conceptos. "
-        "3. Usa guion largo (—) para diálogos y separa escenas con saltos de línea. "
-        '4. Inicia estrictamente con el encabezado: # Capítulo {chapter_num} — "Título del Capítulo". '
-        "Evita notas del autor o mostrar tus pensamientos tipográficos (<think>)."
+        "1. SOLO usa personajes, lugares y objetos que estén documentados en los archivos de memoria proporcionados. "
+        "2. PROHIBIDO inventar: implantes corporales, dispositivos internos, poderes ocultos, tarjetas de acceso especiales, "
+        "   profesores nuevos, familiares inexistentes, organizaciones secretas no mencionadas. "
+        "3. NO cambies dónde viven los personajes ni su situación vital sin base explícita en los resúmenes anteriores. "
+        "4. NO introduzcas personajes nuevos. Los únicos personajes existentes son: Haruto Mizuki, Lyra Vel'Kath, "
+        "   Kenji Aoyama, Directora Shirogane, y la madre de Haruto. "
+        "5. El capítulo debe continuar exactamente desde donde terminó el anterior. "
+        "INSTRUCCIONES DE FORMATO: "
+        "1. Narración en primera persona desde la perspectiva de Haruto Mizuki. "
+        "2. Monólogos internos en cursiva (*texto*). "
+        "3. Diálogos con guion largo (—). "
+        '4. Inicia estrictamente con: # Capítulo {chapter_num} — "Título del Capítulo". '
+        "5. El capítulo debe tener un cierre completo, nunca terminar a mitad de frase."
     )
 
     mega_prompt = f"""
@@ -270,49 +296,65 @@ def run_writing_agent():
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[{now}] Redactando Capítulo {chapter_num}...")
 
-    try:
-        chapter_content = call_ai_api(
-            mega_prompt, system_prompt, temperature=temp, max_tokens=max_tokens
-        )
+    max_attempts = 3
+    for attempt in range(1, max_attempts + 1):
+        try:
+            chapter_content = call_ai_api(
+                mega_prompt, system_prompt, temperature=temp, max_tokens=max_tokens
+            )
 
-        # Nueva limpieza profunda del output del modelo
-        cleaned_content = clean_model_output(chapter_content)
+            cleaned_content = clean_model_output(chapter_content)
 
-        # Guardar el capítulo
-        chapter_filename = f"../chapters/cap_{chapter_num:03d}.md"
-        with open(chapter_filename, "w", encoding="utf-8") as f:
-            # Si el contenido ya trae su propio header de Capítulo, lo respetamos.
-            # Si no, lo añadimos nosotros con el formato Gold Standard.
-            if not cleaned_content.upper().startswith(
-                "# CAPÍTULO"
-            ) and not cleaned_content.upper().startswith("CAPÍTULO"):
-                f.write(f'# Capítulo {chapter_num} — "Título del Capítulo"\n\n')
-            f.write(cleaned_content)
+            if not validate_chapter_language(cleaned_content, chapter_num):
+                if attempt < max_attempts:
+                    print(f"  Reintentando ({attempt + 1}/{max_attempts})...")
+                    mega_prompt += "\n\nIMPORTANTE: El intento anterior fue rechazado por contener caracteres de otros idiomas (chino, ruso, etc.). Escribe EXCLUSIVAMENTE en español con caracteres latinos."
+                    continue
+                else:
+                    print(
+                        f"ERROR: Capítulo {chapter_num} rechazado tras {max_attempts} intentos por contaminación lingüística."
+                    )
+                    raise RuntimeError(
+                        f"El capítulo {chapter_num} contiene caracteres no permitidos tras {max_attempts} intentos."
+                    )
 
-        print(f"Capítulo {chapter_num} guardado con éxito.")
+            # Guardar el capítulo
+            chapter_filename = f"../chapters/cap_{chapter_num:03d}.md"
+            with open(chapter_filename, "w", encoding="utf-8") as f:
+                if not cleaned_content.upper().startswith(
+                    "# CAPÍTULO"
+                ) and not cleaned_content.upper().startswith("CAPÍTULO"):
+                    f.write(f'# Capítulo {chapter_num} — "Título del Capítulo"\n\n')
+                f.write(cleaned_content)
 
-        # --- GENERAR RESUMEN PARA MEMORIA (Contexto futuro) ---
-        print("Generando resumen del capítulo para la memoria de la historia...")
-        summary = generate_chapter_summary(chapter_content, chapter_num, config)
+            print(f"Capítulo {chapter_num} guardado con éxito.")
 
-        with open("../data/resúmenes.md", "a", encoding="utf-8") as f:
-            f.write(f"\n### Capítulo {chapter_num}\n\n{summary}\n\n---\n")
+            # --- GENERAR RESUMEN PARA MEMORIA (Contexto futuro) ---
+            print("Generando resumen del capítulo para la memoria de la historia...")
+            summary = generate_chapter_summary(chapter_content, chapter_num, config)
 
-        # --- ACTUALIZAR MEMORIA PROFUNDA (Personajes + Cronología + Canon) ---
-        print("Actualizando memoria avanzada de la historia...")
-        update_memory_with_ai(chapter_content, chapter_num, config)
+            with open("../data/resúmenes.md", "a", encoding="utf-8") as f:
+                f.write(f"\n### Capítulo {chapter_num}\n\n{summary}\n\n---\n")
 
-        # Actualizar estado en config.json
-        config["story_status"]["last_chapter_number"] = chapter_num
-        save_config(config)
+            # --- ACTUALIZAR MEMORIA PROFUNDA (Personajes + Cronología + Canon) ---
+            print("Actualizando memoria avanzada de la historia...")
+            update_memory_with_ai(chapter_content, chapter_num, config)
 
-        # Limpiar el registro de investigación para el siguiente ciclo horario
-        with open("../data/research_log.txt", "w", encoding="utf-8") as f:
-            f.write("")
+            # Actualizar estado en config.json
+            config["story_status"]["last_chapter_number"] = chapter_num
+            save_config(config)
 
-    except Exception as e:
-        print(f"Error durante la escritura del capítulo: {e}")
-        raise
+            # Limpiar el registro de investigación para el siguiente ciclo horario
+            with open("../data/research_log.txt", "w", encoding="utf-8") as f:
+                f.write("")
+
+            break  # Éxito, salir del loop
+
+        except RuntimeError:
+            raise
+        except Exception as e:
+            print(f"Error durante la escritura del capítulo: {e}")
+            raise
 
 
 if __name__ == "__main__":
