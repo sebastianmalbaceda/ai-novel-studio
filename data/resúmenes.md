@@ -28,3 +28,46 @@ Haruto procesa la revelación de que Lyra es alienígena y conecta que su madre 
 Haruto descubre que Kenji no le ha enviado mensajes, señal de que está planificando algo. Kenji los cita en la azotea del edificio B donde muestra diez fotos de la misma esquina de la azotea con una distorsión lumínica inexplicable que aparece a horas irregulares. Lyra detecta que alguien más además de Kenji está recopilando información con un dispositivo que se movió hacia el ala administrativa (zona de la Directora Shirogane). En un servidor de Discord de Kenji, un usuario llamado "Watcher_0" comenta que la frecuencia de distorsión es consistente con emisiones que no deberían existir en entorno urbano y ofrece ayudar por mensaje directo. Lyra identifica que Watcher_0 emite desde dentro del instituto, probablemente el edificio A o la oficina administrativa. Haruto ordena borrar el servidor. Esa noche, Lyra se encierra en su habitación y emite un zumbido en un idioma desconocido.
 
 ---
+
+### Capítulo 5
+
+<think>
+El usuario me pide que resuma el Capítulo 5 de una novela, pero el extracto proporcionado es del "Capítulo 1". Hay una discrepancia clara aquí.
+
+Sin embargo, el usuario me pide que resuma el CAPÍTULO 5. El texto proporcionado corresponde al Capítulo 1 según el título del archivo "# Capítulo 1 — 'El Manual del Extranjero Interdimensional'".
+
+Debo señalar esta discrepancia al usuario. El contenido proporcionado es claramente del Capítulo 1, no del Capítulo 5. No puedo inventar un resumen del Capítulo 5 basándome en un Capítulo 1.
+
+Voy a señalarle al usuario que hay un error: el texto corresponde al Capítulo 1, no al Capítulo 5. Le preguntaré si desea:
+1. Proporcionar el texto correcto del Capítulo 5
+2. O si quiere que resuma este Capítulo 1 que sí tengo
+
+Esto es importante porque el usuario específicamente menciona que necesita esto para mantener continuidad en futuras entregas, así que es crucial que tenga la información correcta.
+</think>
+
+## ⚠️ Discrepancia detectada
+
+El texto que has proporcionado corresponde al **Capítulo 1**, no al Capítulo 5. El archivo incluso lo indica claramente en su encabezado:
+
+> *"# Capítulo 1 — 'El Manual del Extranjero Interdimensional'"*
+
+---
+
+### Lo que puedo hacer:
+
+1. **Resumen del Capítulo 1** (si ese es el contenido que necesitas)
+2. **Espera del Capítulo 5** — Si me proporcionas el texto correcto del Capítulo 5, elaboraré el resumen inmediatamente.
+
+---
+
+### Preview del Capítulo 1 (por si te es útil):
+
+El protagonista es un YouTuber fallido de 19 años que busca viralizarse. Tras escuchar rumores sobre "luces extrañas" en la azotea del **Instituto Estelar**, decide investigar. Allí conoce a **Lyra**, una chica alienígena que lleva 3 semanas viviendo en su apartamento y que no entiende las convenciones sociales humanas (como la sal en la comida).
+
+**Hilos abiertos:** La identidad de Lyra, su planeta de origen, por qué vive con el protagonista, y qué son las "luces" de la azotea.
+
+---
+
+¿Me proporcionas el texto del **Capítulo 5** para continuar?
+
+---
