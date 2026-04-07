@@ -71,3 +71,40 @@ El protagonista es un YouTuber fallido de 19 años que busca viralizarse. Tras e
 ¿Me proporcionas el texto del **Capítulo 5** para continuar?
 
 ---
+
+### Capítulo 6
+
+<think>
+The user is asking me to summarize Chapter 6 of a novel called "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" However, the text they provided is Chapter 4, not Chapter 6. Let me re-read the request.
+
+They ask for a summary of "CAPÍTULO 6" but the provided excerpt is labeled as "Capítulo 4". I should note this discrepancy and either summarize the provided chapter or let them know.
+
+Wait, looking more carefully - they say "Resume el CAPÍTULO 6" but the text says "Capítulo 4". There's a mismatch. I think the user might have made a copy-paste error, or perhaps the document has the wrong chapter title. 
+
+Given that the user wants me to act as a literary editor, I should address the mismatch but still work with what's available. They want a concise summary of maximum 200 words covering key plot events, character relationship changes, and any open threads or unresolved mysteries, written in an objective, author-focused tone. Since I only have Chapter 4's content, I'll work with that material and clarify the chapter numbering discrepancy in my response. Estoy reconociendo la discrepancia en la numeración del capítulo, pero procederé con el resumen del material proporcionado.
+
+</think>
+
+> **Nota de edición:** El documento proporcionado está etiquetado como "Capítulo 4 — 'El Canal de los 47 Suscriptores'", no como Capítulo 6. Asumo que se trata de un error de etiquetado y resumo el texto entregado.
+
+---
+
+## Resumen: Capítulo 4 — "El Canal de los 47 Suscriptores"
+
+### Eventos clave
+- Lyra vive con el narrador desde hace tres semanas y ya no es una figura exclusivamente lógica: ha desarrollado **"humor por accidente"**, diciendo cosas absurdas con seriedad completa, lo que resulta cómico.
+- Kenji discussion reveals su canal de YouTube sigue estancado en **47 suscriptores**, y su relación con el algoritmo de la plataforma se ha vuelto una fuente de frustración y humor.
+- La madre del narrador observa las interacciones del grupo con una expresión procesando información sin commentarla.
+
+### Cambios en relaciones
+- **Lyra-narrador:** Intimidad creciente. El narrador ya anticipa las intervenciones de Lyra como algo normal.
+- **Madre-narrador:** Tensión sutil. La madre cambia su forma de mirarlo: no con sospecha, sino con **"reconocimiento"**, como si supiera algo que él desconoce. Esto contradice su rol como personaje que "no sabe que Lyra es alienígena".
+
+### Hilos abiertos
+- **El reconocimiento de la madre:** ¿Qué sabe exactamente la madre? ¿Sospecha la naturaleza de Lyra o intuye otra cosa? Este es el misterio central generado por este capítulo.
+- **El humor emergente de Lyra:** ¿Es un desarrollo natural o un rasgo deliberado de su especie?
+- El capítulo se corta abruptamente con Kenji dando un codazo al narrador, sugiriendo que **la madre fue interrumpida o estaba a punto de intervenir/sospechar públicamente**.
+
+**Tono del capítulo:** Comedia cotidiana con tensión maternal subyacente. Funcional como setup para una escena de confrontación o revelación.
+
+---
