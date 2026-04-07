@@ -28,3 +28,48 @@ Haruto procesa la revelación de que Lyra es alienígena y conecta que su madre 
 Haruto descubre que Kenji no le ha enviado mensajes, señal de que está planificando algo. Kenji los cita en la azotea del edificio B donde muestra diez fotos de la misma esquina de la azotea con una distorsión lumínica inexplicable que aparece a horas irregulares. Lyra detecta que alguien más además de Kenji está recopilando información con un dispositivo que se movió hacia el ala administrativa (zona de la Directora Shirogane). En un servidor de Discord de Kenji, un usuario llamado "Watcher_0" comenta que la frecuencia de distorsión es consistente con emisiones que no deberían existir en entorno urbano y ofrece ayudar por mensaje directo. Lyra identifica que Watcher_0 emite desde dentro del instituto, probablemente el edificio A o la oficina administrativa. Haruto ordena borrar el servidor. Esa noche, Lyra se encierra en su habitación y emite un zumbido en un idioma desconocido.
 
 ---
+
+### Capítulo 5
+
+<think>
+El usuario me pide un resumen literario del Capítulo 5 de la novela "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!". Debo seguir las instrucciones del sistema: ser conciso (máximo 200 palabras), objetivo y útil para el autor.
+
+Debo incluir:
+1. Eventos clave de la trama
+2. Cambios en las relaciones o estado de los personajes
+3. Hilos de trama abiertos o misterios sin resolver
+
+No debo usar encabezados, bloques de pensamiento, ni comentarios adicionales. Solo texto del resumen.
+
+Voy a sintetizar la información del extracto:
+
+EVENTOS CLAVE:
+- La mañana después de un evento inexplicable (el zumbido que hizo temblar los cristales)
+- Desayuno tenso entre el protagonista y Lyra
+- Lyra demuestra que ha estado monitoreando las ondas cerebrales del protagonista
+- Lyra hace preguntas sobre los sueños extraños del protagonista
+
+CAMBIOS EN RELACIONES:
+- Tensión palpable entre ambos, pero sin ruptura definitiva
+- Lyra muestra preocupación genuina por primera vez (matiz nuevo en sus ojos violeta)
+- El protagonista nota que Lyra ha estado escuchándolo/monitoreándolo más de lo normal
+- Se rompe ligeramente la dinámica analítica/distante de Lyra
+
+HILOS ABIERTOS:
+- El origen del zumbido de Lyra
+- Los sueños "no míos" del protagonista (como un canal de noticias no controllable)
+- Qué significa que Lyra supiera exactamente cuándo despertó
+
+
+- El cambio en el comportamiento de Lyra y si hay una conexión con sus propias capacidades alienígenas
+- La preocupación genuina de Lyra y qué la triggers
+- El misterio de cómo Lyra puede percibir y monitorear al protagonista con tanta precisión
+</think>
+
+El protagonista despierta tras el misterioso zumbido que Lyra emitió, sintiendo que algo se ha alterado entre ambos. Durante el desayuno, Lyra mantiene una compostura impecable mientras corta su toast en fragmentos de 2.3 centímetros exactos, y ambos evitan mirarse en un silencio tenso.
+
+El conflicto se rompe cuando Lyra revela que ha estado monitoreando las ondas cerebrales del protagonista, sabiendo exactamente cuándo despertó. Le pregunta si tuvo pesadillas, y él describe sueños "no suyos", como si alguien hubiera sintonizado un canal de noticias en su cabeza sin poder cambiarlo. Lyra reacciona con una pausa de 0.7 segundos antes de pedirle que defina "no míos".
+
+Los hilos abiertos incluyen: la causa y consecuencias del zumbido alienígena, la naturaleza de los sueños interferidos del protagonista, y hasta qué punto Lyra ha estado monitoreando sus funciones biológicas sin su consentimiento. También se sugiere que el zumbido podría estar relacionado con estos sueños compartidos o con algún proceso alienígena, y que Lyra podría estar más afectada de lo que aparenta.
+
+---
