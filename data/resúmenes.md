@@ -97,3 +97,64 @@ Mizuki despierta al día cinco de tener a Lyra en su casa, preocupado por su pro
 *Nota para autor: El fragmento termina abruptamente. Asegurar continuidad si se retoma la escena.*
 
 ---
+
+### Capítulo 6
+
+<think>
+El usuario me pide resumir el CAPÍTULO 6 de una novela, pero el extracto que proporciona es del "Capítulo 5" titulad "Interferencia de Señales". 
+
+Debo ser honesto: el usuario me está pidiendo información sobre un capítulo que no me ha proporcionado. Solo me dio contenido del Capítulo 5, pero pide un resumen del Capítulo 6.
+
+Sin embargo, el usuario podría estar cometiendo un error tipográfico y querer el resumen del Capítulo 5 (que es el que proporcionó), o podría estar probando sinoto el contenido completo de un libro que no me han dado.
+
+Analizando las instrucciones del sistema:
+- Soy un editor literario que sintetiza tramas para mantener continuidad de la saga
+- El usuario me pide un resumen máximo 200 palabras con:
+  1. Eventos clave
+  2. Cambios en relaciones/estado de personajes
+  3. Hilos de trama abiertos
+
+El problema es que solo me dio contenido del Capítulo 5, no del 6. Debo señalarle esto amablemente y ofrecerle opciones.
+
+O bien, podría interpretarse como que el usuario quiere que yo RESUMA ese capítulo 5 (a pesar del título de su solicitud) porque quizás no tiene el capítulo 6 aún, o simplemente cometió un error.
+
+Creo que lo más profesional es:
+
+
+1. Aclarar que solo me proporcionó el contenido del Capítulo 5, no del 6
+2. Ofrecerle un resumen del Capítulo 5 en caso de que haya sido un error
+3. O esperar a que me proporcione el contenido del Capítulo 6
+
+Voy a ser directo pero amable, señalándole la discrepancia.
+</think>
+
+# ⚠️ Aviso importante
+
+He detectado una **discrepancia** entre lo solicitado y el material proporcionado:
+
+- **Solicitas:** Resumen del **Capítulo 6**
+- **Extracto recibido:** Contenido del **Capítulo 5** ("Interferencia de Señales")
+
+---
+
+## Opciones disponibles:
+
+### Opción A: Resumen del Capítulo 5 (que proporcionaste)
+
+Si deseas que resuma el contenido del **Capítulo 5**, aquí lo tengo listo. El capítulo presenta:
+
+- **Lyra** intenta contactar su planeta toda la noche mediante comunicación cuántica
+- **Yuuto** descubre que son ~462 intentos/mes (casi 90/día en 5 días)
+- Se menciona un **zumbido de 12.4 GHz** a las 2:47 AM (dato técnico)
+- El **nodo metálico** de Yuuto vibula cuando experimenta estrés
+- Se establece la teoría de que ambos son "anómalos": ni humanos completos ni lo que Lyra es
+
+### Opción B: Esperar el Capítulo 6
+
+Si ya tienes el contenido del **Capítulo 6**, por favor pégalo y lo resumiré inmediatamente.
+
+---
+
+**¿Qué prefieres?**
+
+---
