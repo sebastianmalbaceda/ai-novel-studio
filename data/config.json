@@ -56,7 +56,7 @@
     "title": "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!",
     "current_arc": "Arco 1: Primer Contacto — Introducción y descubrimiento del misterio principal",
     "target_chapter_words": 1500,
-    "last_chapter_number": 5
+    "last_chapter_number": 6
   },
   "genre_weights": {
     "_comment": "Pesos de 0-100 para cada género. Los géneros con peso > 0 influyen activamente en la narrativa. La suma de los pesos activos DEBE ser 100. Géneros en 0 están disponibles para activarse en cualquier momento.",

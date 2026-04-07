@@ -58,3 +58,26 @@ Resumo en un párrafo fluido:
 - Sin bloquesEl protagonista despierta a las 2:47 de la madrugada perturbado por una sensación de presión eléctrica en el aire y descubre que de la habitación de Lyra emana un zumbido imposible de procesar: tres tonos superpuestos que desafían toda comprensión humana y que su cerebro rechaza como lenguaje. Cuando el sonido cesa, escucha una frase en japonés con acento extranjero que dice: «No está lista. Necesito más tiempo.» El joven permanece despierto hasta el amanecer intentando convencerse de que lo soñó, pero al levantarse a las seis encuentra a Lyra en la cocina aparentemente normal y humana, preparando té y disculpándose por el ruido. La escena revela la brecha entre lo que Lyra es en realidad y lo que aparenta ser, plantificando una tensión constante entre ambos roommates. El hilo abierto principal es la identidad verdadera de Lyra y qué o quién no está listo, mientras el protagonista sigue sin atreverse a confrontarla directamente sobre lo que presenció.
 
 ---
+
+### Capítulo 6
+
+<think>
+The user wants me to summarize Chapter 6 of the novel "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" in a fluid paragraph of maximum 200 words.
+
+Key elements to include:
+- Events
+- Relationship changes
+- Open threads
+
+Let me extract the relevant information from the text:
+
+The chapter opens with the narrator unable to sleep, haunted by a three-tone buzzing sound. He goes to the kitchen where Lyra is making tea wearing his shirt. There's tension between them. Lyra apologizes for the noise from the previous night and reveals she has "episodes" and isn't ready for "what's coming." She raises her eyes and the narrator notices her eyes are human - brown with golden flecks. There's an incomplete sentence at the end where the narrator starts to define what Lyra is to him.
+
+
+Now I'm going to write a summary in Spanish that captures the chapter's key events, the tension between the characters, Lyra's vulnerability about her episodes, and the unfinished thought about their relationship, keeping it under 200 words and maintaining a fluid narrative style.
+
+</think>
+
+El narrador pasa una noche inquieta, perseguido por un zumbido de tres tonos que su cerebro no puede procesar. Al día siguiente, Lyra lo espera en la cocina preparando té, vestida con la camiseta del joven. Hay un silencio tenso entre ambos, pero Lyra rompe el hielo disculpándose por los ruidos de la noche anterior. Admite que sufre "episodios" y que no está lista para algo que se avecina, generando una intrigue sobre qué amenaza se aproxima. El momento de mayor impacto ocurre cuando Lyra alza la mirada y el narrador descubre que sus ojos son completamente humanos, marrones con motitas doradas, contradiciendo todo lo que asumía sobre ella. El capítulo cierra con la frase a medias del narrador, quien intenta definir qué es Lyra para él —compañera, inquilina, o algo sin nombre— sin encontrar palabras, sugiriendo que los límites entre ambas categorías se han vuelto difusos.
+
+---
