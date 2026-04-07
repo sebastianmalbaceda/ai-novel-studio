@@ -34,20 +34,25 @@ def generate_chapter_summary(chapter_content, chapter_num, config):
         r"<think>.*?</think>", "", chapter_content, flags=re.DOTALL
     )
 
-    system_prompt = "Eres un editor literario experto que sintetiza tramas para mantener la continuidad de la saga."
+    system_prompt = (
+        "Eres un editor literario experto que sintetiza tramas para mantener la continuidad de la saga. "
+        "PROHIBIDO mostrar pensamientos internos, bloques <think>, notas meta o advertencias al usuario. "
+        "Devuelve ÚNICAMENTE el texto del resumen, sin encabezados adicionales, sin notas al autor, sin disclaimers."
+    )
 
     prompt = f"""
     Resume el CAPÍTULO {chapter_num} de la novela "{config["story_status"]["title"]}" de forma concisa (máximo 200 palabras).
-    
+
     EXTRACTO DEL CAPÍTULO:
     {chapter_content[:2000]}
-    
+
     DEBES INCLUIR:
     1. Eventos clave de la trama.
     2. Cambios en las relaciones o estado de los personajes.
     3. Hilos de trama abiertos o misterios sin resolver.
-    
+
     Utiliza un tono objetivo y enfocado en la utilidad para el autor en futuras entregas.
+    Devuelve solo el texto del resumen, sin comentarios adicionales.
     """
 
     try:
@@ -99,8 +104,6 @@ def update_memory_with_ai(chapter_content, chapter_num, config):
 
     try:
         response = call_ai_api(prompt, system_prompt, temperature=0.2)
-        import re
-
         json_match = re.search(r"\{.*\}", response, re.DOTALL)
         if json_match:
             data = json.loads(json_match.group())
@@ -166,7 +169,7 @@ def clean_model_output(content):
 def run_writing_agent():
     """
     Agente Escritor: compila toda la información y redacta un capítulo.
-    Se ejecuta cada hora via GitHub Actions.
+    Se ejecuta cada 2 horas via GitHub Actions.
     Toma la biblia, resúmenes y notas de investigación para escribir.
 
     Funciona con cualquier modelo de IA configurado en data/config.json.
@@ -205,11 +208,16 @@ def run_writing_agent():
     system_prompt = (
         f"Eres un talento como autor de novelas ligeras especializado en {genre_specialties}. "
         "Escribe EXCLUSIVAMENTE en español correcto y fluido. "
-        "PROHIBIDO usar palabras en inglés dentro de frases en español (no code-switching). "
-        "Traduce siempre al español: 'shedding' → 'soltando hojas', 'motion blur' → 'movimiento borroso', 'shove' → 'empujar', 'level' → 'nivel', etc. "
+        "PROHIBIDO usar palabras en inglés, chino u otros idiomas dentro de frases en español. "
+        "REGLAS DE CONTINUIDAD OBLIGATORIAS: "
+        "1. NO inventes elementos que no estén en la BIBLIA, PERSONAJES, CRONOLOGÍA o RESÚMENES proporcionados. "
+        "2. NO añadas objetos físicos, implantes, dispositivos corporales o poderes nuevos a los personajes si no están documentados. "
+        "3. NO cambies la situación vital de los personajes (dónde viven, con quién) sin base en los resúmenes anteriores. "
+        "4. NO introduzcas personajes nuevos sin justificación narrativa clara. "
+        "5. Mantén coherencia absoluta con los eventos de los capítulos previos. "
         "INSTRUCCIONES DE FORMATO Y ESTILO: "
-        "1. Inspírate en el Capítulo 1 (narración ágil en primera persona, monólogos en cursiva y humor sutil). "
-        "2. Confía en el contexto: fluye orgánicamente sin abusar de repeticiones de conceptos. "
+        "1. Narración ágil en primera persona, monólogos internos en cursiva y humor sutil. "
+        "2. Fluye orgánicamente sin abusar de repeticiones de conceptos. "
         "3. Usa guion largo (—) para diálogos y separa escenas con saltos de línea. "
         '4. Inicia estrictamente con el encabezado: # Capítulo {chapter_num} — "Título del Capítulo". '
         "Evita notas del autor o mostrar tus pensamientos tipográficos (<think>)."
@@ -247,12 +255,14 @@ def run_writing_agent():
 
     [INSTRUCCIONES DE ESTILO]
     {style}
-    
+
     OBJETIVOS:
     1. El capítulo debe tener aproximadamente {config["story_status"]["target_chapter_words"]} palabras.
     2. Mantén un equilibrio natural entre los géneros según sus pesos de influencia.
     3. Respeta estrictamente los rasgos físicos y personalidades definidos en la MEMORIA DETALLADA.
     4. NO INVENTES NOMBRES DE PERSONAJES NUEVOS para roles principales a menos que sea necesario y justificado por la trama.
+    5. CONTINUIDAD: El capítulo anterior fue el {config["story_status"]["last_chapter_number"]}. Continúa la historia desde donde quedó, respetando todos los eventos, relaciones y secretos establecidos.
+    6. PROHIBIDO añadir implantes, objetos corporales, poderes ocultos o situaciones de convivencia que no estén documentados en los archivos de memoria proporcionados.
 
     Escribe el capítulo en formato Markdown. Empieza directamente con el cuerpo del capítulo.
     """
