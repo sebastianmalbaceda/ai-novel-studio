@@ -28,3 +28,72 @@ Haruto procesa la revelación de que Lyra es alienígena y conecta que su madre 
 Haruto descubre que Kenji no le ha enviado mensajes, señal de que está planificando algo. Kenji los cita en la azotea del edificio B donde muestra diez fotos de la misma esquina de la azotea con una distorsión lumínica inexplicable que aparece a horas irregulares. Lyra detecta que alguien más además de Kenji está recopilando información con un dispositivo que se movió hacia el ala administrativa (zona de la Directora Shirogane). En un servidor de Discord de Kenji, un usuario llamado "Watcher_0" comenta que la frecuencia de distorsión es consistente con emisiones que no deberían existir en entorno urbano y ofrece ayudar por mensaje directo. Lyra identifica que Watcher_0 emite desde dentro del instituto, probablemente el edificio A o la oficina administrativa. Haruto ordena borrar el servidor. Esa noche, Lyra se encierra en su habitación y emite un zumbido en un idioma desconocido.
 
 ---
+
+### Capítulo 5
+
+<think>
+El usuario me pide que resuma el Capítulo 5 de manera concisa, siguiendo un formato específico que incluye:
+1. Eventos clave de la trama
+2. Cambios en las relaciones o estado de los personajes
+3. Hilos de trama abiertos o misterios sin resolver
+
+Debo usar un tono objetivo y enfocado en utilidad para el autor.
+
+El texto proporcionado es un fragmento del capítulo que está cortado (termina en medio de una frase). Debo trabajar con lo que tengo.
+
+Analicemos el contenido del fragmento:
+
+**Eventos clave:**
+- Es el día 5 desde que Lyra vive con Mizuki
+- Mizuki decide interrogar a su madre sobre un "proyecto secreto"
+- La madre ya salió hacia la universidad, dejó una nota
+- Lyra no durmió en toda la noche (preocupación)
+- Lyra intentó comunicación cuántica durante la noche pero falló
+- Mizuki descubre esto cuando confronta a Lyra sobre un "zumbido"
+- Se menciona un "nodo de tránsito degradado"
+- Lyra intentó contactar su "puerto de origen" pero no pudo
+
+**Cambios en relaciones/personajes:**
+- Mizuki está preocupado/ansioso (pesadez, agotamiento)
+- Lyra está preocupada (ojos más oscuros, no durmió)
+- La madre aplica "protocolo de investigación" incluso con su hijo
+- La dinámica entre Mizuki y Lyra avanza: hay confrontación directa, Mizuki observa comportamientos de Lyra
+
+**Hilos abiertos:**
+- ¿Qué es el "proyecto secreto" de la madre?
+- ¿Cuál es el "puerto de origen" de Lyra?
+- ¿Qué pasó con el nodo de tránsito?
+- ¿Por qué la madre sabía que Mizuki necesitaba descansar?
+
+
+- ¿Por qué la madre sabía que Mizuki necesitaba descansar?
+
+Ahora debo estructurar esto de forma concisa, máximo 200 palabras, en español.
+</think>
+
+# Resumen Capítulo 5 — "Informe de la Sincronicidad"
+
+## Eventos clave de la trama
+
+Mizuki despierta al día cinco de tener a Lyra en su casa, preocupado por su promedio académico. Descubre que su madre ya salió a la universidad (usó "protocolo de investigación" y dejó una nota). Lyra, sentada en el comedor sin haber dormido, revela que durante la noche intentó comunicarse con su "puerto de origen" mediante comunicación cuántica de corto alcance, pero el **nodo de tránsito está degradado** y el enlace falló. Mizuki confronta a Lyra sobre el "zumbido" nocturno, obteniendo información parcial sobre sus intentos de contactar a los suyos.
+
+## Cambios en relaciones/estado de personajes
+
+| Personaje | Estado/Desarrollo |
+|-----------|-------------------|
+| **Mizuki** | Agotado, adoptó actitud confrontacional con Lyra; mantiene su humor irónico como mecanismo de defensa. |
+| **Lyra** | Preocupación visible (ojos más oscuros);没能 dormir; muestra disposición a explicar aspectos técnicos de su tecnología. |
+| **Madre** | Ausente en la escena; se revela que actúa con lógica científica incluso en lo doméstico; mantiene el "proyecto secreto". |
+
+## Hilos de trama abiertos
+
+- **El proyecto secreto de la madre**: ¿Cómo está relacionado con Lyra?
+- **El puerto de origen de Lyra**: ¿Qué planeta/civilización? ¿Por qué necesita contactarlo?
+- **El nodo de tránsito degradado**: ¿Daño causado por llegada a Tierra o por sabotaje?
+- **El zumbido/comunicación cuántica**: ¿Puede还有其他 seres en Earth que detecten la señal?
+- **La nota en el refrigerador**: ¿Qué instrucciones dejó la madre para Mizuki?
+
+---
+*Nota para autor: El fragmento termina abruptamente. Asegurar continuidad si se retoma la escena.*
+
+---
