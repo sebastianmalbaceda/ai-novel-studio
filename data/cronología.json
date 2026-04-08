@@ -60,5 +60,40 @@
       "Lyra necesita algo que Haruto no puede darle (zumbido nocturno)"
     ],
     "estado_ambiente": "Amenaza externa / Paranoia / Nueva facción en juego"
+  },
+  "capitulo_5": {
+    "dia": 5,
+    "resumen": "Haruto descubre que Lyra necesita la frecuencia Schumann (7.83 Hz) para mantener su forma física. Su cuerpo emite algo que Lyra necesita. Ella fue seleccionada para observarlo 34 días antes de llegar.",
+    "eventos_clave": [
+      "Lyra emite un zumbido de tres tonos a las 2:47 AM",
+      "Haruto la descubre con los dedos translúcidos",
+      "Lyra revela que necesita la frecuencia Schumann y la interferencia artificial la está afectando",
+      "Lyra confiesa que Haruto 'emite algo' que su cuerpo necesita",
+      "Alguien más observa a Haruto por esa razón",
+      "Lyra debe elegir entre su misión original y quedarse"
+    ],
+    "revelaciones": [
+      "Haruto no es humano normal: emite una estructura que su cuerpo necesita",
+      "Lyra fue seleccionada por su capacidad de estabilidad, pero mantener la forma es un efecto colateral",
+      "Hay alguien más observando a Haruto por lo que emite"
+    ],
+    "estado_ambiente": "Intimidad forzada / Revelación emocional / Conflicto interno"
+  },
+  "capitulo_6": {
+    "dia": 6,
+    "resumen": "Kenji descubre que la subdirectora Nishimura tiene archivos sobre anomalías electromagnéticas en el instituto desde hace siete años. Lyra investiga el perímetro mientras los misterios se acumulan.",
+    "eventos_clave": [
+      "Kenji revela que midió frecuencias cerca de Lyra y los datos se vuelven 'locos'",
+      "Un rumor en tercero menciona archivos de 'anomalías electromagnéticas' bajo la fotocopiadora",
+      "Documentos con firma de Nishimura, subdirectora, con datos de 7 años",
+      "Lyra desaparece a 'investigar el perímetro'",
+      "Haruto sospecha que los documentos fueron dejados a propósito"
+    ],
+    "revelaciones": [
+      "La subdirectora Nishimura monitoriza anomalías electromagnéticas desde hace 7 años",
+      "Lyra genera un campo que no debería poder generar",
+      "Alguien dejó los documentos deliberadamente para que alguien los encontrara"
+    ],
+    "estado_ambiente": "Conspiración institucional / Tensión adolescente / Misterio profundo"
   }
 }

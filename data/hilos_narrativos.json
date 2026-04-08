@@ -1,32 +1,38 @@
 {
   "misterio_lyra": {
     "descripcion": "La verdadera identidad y propósito de Lyra Vel'Kath en la Tierra.",
-    "progreso": "Haruto y Kenji saben que es alienígena. Lyra admitió haber comprometido su cobertura. Se reveló que la madre de Haruto es 'la clave de todo'.",
+    "progreso": "Lyra vive en homestay con Haruto. Ha revelado que necesita la frecuencia Schumann (7.83 Hz) para mantener su forma física. Eligió quedarse aunque su misión original era diferente.",
+    "tension": 8,
+    "proximo_paso": "Descubrir qué significa exactamente la elección de Lyra de quedarse."
+  },
+  "emisiones_haruto": {
+    "descripcion": "Haruto emite 'algo' — una estructura en lugar de ruido blanco — que el cuerpo de Lyra necesita para funcionar.",
+    "progreso": "Revelado en cap 5. Lyra fue seleccionada para observarlo por esa razón. Alguien más también lo vigila por lo que emite.",
     "tension": 9,
-    "proximo_paso": "Descubrir la conexión exacta entre la madre de Haruto y la misión de Lyra."
-  },
-  "canal_kenji": {
-    "descripcion": "La búsqueda de fama viral de Kenji mediante fenómenos paranormales.",
-    "progreso": "47 suscriptores. Tiene video de Lyra en la azotea como seguro. Tiene un servidor de Discord con 32 personas donde compartió fotos de la distorsión.",
-    "tension": 6,
-    "proximo_paso": "Mantener el secreto mientras busca respuestas. Watcher_0 apareció en su servidor."
-  },
-  "complicidad_haruto": {
-    "descripcion": "El dilema ético de Haruto entre proteger a Lyra y mantener su vida normal.",
-    "progreso": "Se ha convertido en cómplice activo de Lyra. Sospecha que su madre tiene relación con todo.",
-    "tension": 7,
-    "proximo_paso": "Investigar el proyecto secreto de su madre."
+    "proximo_paso": "¿Qué es exactamente lo que emite Haruto? ¿Está relacionado con la madre? ¿Por qué alguien más lo necesita?"
   },
   "watcher_0": {
     "descripcion": "Una entidad desconocida que monitorea las mismas anomalías que Kenji y que parece saber más de lo que debería.",
-    "progreso": "Apareció en el Discord de Kenji comentando sobre la distorsión lumínica. Lyra detectó que emite desde dentro del instituto, probablemente el edificio A o la oficina administrativa.",
+    "progreso": "Apareció en el Discord de Kenji. Lyra detectó que emite desde dentro del instituto. Parece estar guiando o acorralando a Lyra deliberadamente.",
     "tension": 8,
-    "proximo_paso": "Identificar a Watcher_0. Podría ser la Directora Shirogane, un agente de la Zona Gris, o alguien más."
+    "proximo_paso": "Identificar a Watcher_0. ¿Es la subdirectora Nishimura? ¿La Directora Shirogane? ¿Un agente de la Zona Gris?"
   },
   "nodo_transito": {
     "descripcion": "El nodo de tránsito alienígena bajo el Instituto Takahara que Lyra debe verificar/reactivar.",
-    "progreso": "Kenji fotografió distorsiones lumínicas en la azotea que coinciden con la ubicación del nodo. La distorsión aparece a horas irregulares.",
+    "progreso": "Las distorsiones lumínicas que fotografió Kenji coinciden con la ubicación del nodo. Lyra necesita investigar el nodo sin ser detectada.",
     "tension": 7,
-    "proximo_paso": "Lyra necesita investigar el nodo sin ser detectada por Watcher_0."
+    "proximo_paso": "Lyra 'investiga el perímetro'. ¿Encontrará el nodo? ¿Qué encontrará?"
+  },
+  "archivos_nishimura": {
+    "descripcion": "La subdirectora Nishimura posee archivos sobre anomalías electromagnéticas en el instituto desde hace 7 años.",
+    "progreso": "Kenji descubrió los archivos en la fotocopiadora. Datos de 7 años con firma de Nishimura nivel 2. Los documentos fueron dejados a propósito.",
+    "tension": 7,
+    "proximo_paso": "¿Los archivos fueron dejados para que Kenji los encontrara? ¿Qué sabe exactamente Nishimura?"
+  },
+  "complicidad_haruto": {
+    "descripcion": "El dilema ético de Haruto entre proteger a Lyra y mantener su vida normal.",
+    "progreso": "Se ha convertido en cómplice activo de Lyra. Ha descubierto que su propia existencia es parte del misterio.",
+    "tension": 7,
+    "proximo_paso": "Haruto debe procesar que su cuerpo hace algo único. ¿Qué significa para su identidad?"
   }
 }

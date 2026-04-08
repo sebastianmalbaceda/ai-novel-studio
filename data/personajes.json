@@ -12,7 +12,7 @@
       "Directora Shirogane": "Autoridad temida / Sospecha de vigilancia activa",
       "Madre": "Profesora de astronomía con proyecto secreto / Posible clave del misterio"
     },
-    "secretos": "Sabe que Lyra es alienígena. Sospecha que su madre oculta algo relacionado con el trabajo en astronomía.",
+    "secretos": "Sabe que Lyra es alienígena. Sospecha que su madre oculta algo relacionado con el trabajo en astronomía. Emite 'algo' (una estructura) que el cuerpo de Lyra necesita y que alguien más también observa.",
     "arco_actual": "Proteger a Lyra mientras descubre la conexión entre su madre y la presencia alienígena.",
     "metas_actuales": ["Mantener el secreto de Lyra", "Descubrir la conexión de su madre", "Evitar que Watcher_0 los encuentre"]
   },
@@ -44,8 +44,21 @@
       "Haruto Mizuki": "Mejor amigo / Cómplice en el secreto",
       "Lyra Vel'Kath": "Obsesión de investigación / Trato: no publicar a cambio de verdad"
     },
-    "secretos": "Tiene video de Lyra en la azotea como seguro. Tiene un servidor de Discord con 32 personas donde comparte hallazgos.",
-    "arco_actual": "Mantener el secreto de Lyra mientras busca respuestas. Preocupado por Watcher_0.",
-    "metas_actuales": ["Conseguir la verdad completa de Lyra", "No ser expulsado", "Entender quién es Watcher_0"]
+    "secretos": "Tiene video de Lyra en la azotea como seguro. Investiga anomalías electromagnéticas con equipamiento propio. Sospecha que la subdirectora Nishimura tiene archivos sobre fenómenos anómalos.",
+    "arco_actual": "Investigar activamente las anomalías del instituto. Descubrir qué sabe la subdirectora Nishimura. Entender la conexión entre Haruto y las frecuencias.",
+    "metas_actuales": ["Investigar las anomalías electromagnéticas", "Proteger el secreto de Lyra", "Descubrir qué es lo que Haruto emite"]
+  },
+  "Subdirectora Nishimura": {
+    "clasificacion": "Secundaria",
+    "rol": "Autoridad escolar / Monitora de anomalías",
+    "descripcion_fisica": "Desconocida en el texto.",
+    "personalidad": "Desconocida en el texto.",
+    "estado_vital": "Desconocido.",
+    "relaciones": {
+      "Instituto Takahara": "Gestión administrativa y archivos de seguridad"
+    },
+    "secretos": "Tiene archivos sobre anomalías electromagnéticas en el instituto desde hace 7 años. Acceso nivel 2.",
+    "arco_actual": "Aparición reciente en la narrativa. Su rol y motivaciones son desconocidas.",
+    "metas_actuales": ["Desconocidas"]
   }
 }

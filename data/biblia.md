@@ -21,6 +21,8 @@
 3. **La tecnología alienígena** no es mágica: sigue principios científicos avanzados (manipulación gravitacional, nanomáquinas, comunicación cuántica).
 4. **El Instituto Takahara** es un punto geográfico de interés porque se construyó sobre un antiguo "nodo de tránsito" alienígena desactivado.
 5. **La barrera emocional:** Los alienígenas de la especie Velari tienen dificultad para comprender las emociones humanas complejas (especialmente el sarcasmo y el amor romántico).
+6. **Frecuencia Schumann:** La resonancia electromagnética terrestre (7.83 Hz) es necesaria para que los Velari mantengan su integridad estructural. Una interferencia artificial ha degradado esta frecuencia en la zona, causando inestabilidad en Lyra.
+7. **Sistema de homestay:** Lyra vive en la casa de la familia Mizuki como parte de su cobertura de estudiante de intercambio, organizada por la madre de Haruto.
 
 ---
 
@@ -29,25 +31,28 @@
 ### Haruto Mizuki (水樹 遥人)
 - **Rol:** Protagonista masculino. Narrador principal.
 - **Edad:** 17 años, segundo año de instituto.
-- **Personalidad:** Sarcástico pero amable. Nerd de ciencia ficción que irónicamente no cree en alienígenas. Procrastinador profesional. Tiene un monólogo interno hiperativo que funciona como canal cómico.
+- **Personalidad:** Sarcástico pero amable. Nerd de ciencia ficción que irónicamente no cree en alienígenas. Procrastinador profesional. Tiene un monólogo interno hiperactivo que funciona como canal cómico.
 - **Trasfondo:** Hijo único. Su madre es profesora de astronomía (lo que plantará semillas de la trama). Su padre trabaja fuera y solo viene los fines de semana.
+- **Revelación clave (cap 5):** Su cuerpo emite "algo" — una estructura en lugar de ruido blanco — que el cuerpo de Lyra necesita para funcionar. Esta emisión es la razón por la que fue vigilado 34 días antes de conocer a Lyra. También alguien más lo observa por esta razón.
 - **Motivación:** Quiere una vida tranquila para graduarse, ir a la universidad y diseñar videojuegos. La llegada de Lyra destruye ese plan.
 - **Arco narrativo:** De escéptico pasivo a héroe reluctante que protege a Lyra y descubre secretos sobre su propia familia.
 
 ### Lyra Vel'Kath
 - **Rol:** Protagonista femenina. Interés romántico principal.
 - **Edad aparente:** 17 años (edad real: ~170 ciclos solares Velari ≈ comparable a adolescente).
-- **Especie:** Velari — humanoides altos, esbeltos, con ojos que cambian ligeramente de tono según su estado emocional (pista sutil para lectores).
-- **Personalidad:** Curiosamente literal. Tiene dificultades con el humor humano, los dobles sentidos y las metáforas. Es extremadamente competente en combate y tecnología, pero socialmente torpe.
-- **Trasfondo:** Enviada a la Tierra como observadora de bajo nivel. Su misión real (oculta incluso a ella) es verificar si el nodo de tránsito bajo el instituto puede reactivarse.
-- **Motivación:** Completar su misión y regresar. Conflicto: empieza a desarrollar vínculos emocionales con humanos (especialmente Haruto).
+- **Especie:** Velari — humanoides altos, esbeltos, con ojos que cambian ligeramente de tono según su estado emocional (pista sutil para lectores). Ojos violeta, se vuelven marrones con motitas doradas cuando baja la guardia emocionalmente.
+- **Personalidad:** Curiosamente literal. Tiene dificultades con el humor humano, los dobles sentidos y las metáforas. Es extremadamente competente en combate y tecnología, pero socialmente torpe. Empieza a desarrollar vínculos emocionales genuinos.
+- **Trasfondo:** Enviada a la Tierra como observadora de bajo nivel. Su misión real (oculta incluso a ella) es verificar si el nodo de tránsito bajo el instituto puede reactivarse. Desde hace tres años necesita la frecuencia Schumann (7.83 Hz) para mantener su integridad estructural, y ha descubierto que el cuerpo de Haruto emite algo que ella necesita.
+- **Vivienda:** Sistema de homestay organizado por la madre de Haruto (profesora de astronomía). Lyra vive en la casa de la familia Mizuki, compart habitación con Haruto (situación que genera tensión cómica).
+- **Motivación:** Completar su misión y regresar. Conflicto: empieza a desarrollar vínculos emocionales con humanos (especialmente Haruto) y debe elegir entre su misión original y quedarse.
 - **Arco narrativo:** De observadora fría a alguien que cuestiona las órdenes de su especie por los lazos que ha formado.
+- **Revelación clave (cap 5):** Necesita la frecuencia Schumann para mantener su forma física. Si la frecuencia baja, sus dedos se vuelven translúcidos. Haruto emite "algo" que su cuerpo necesita. Alguien más también observa a Haruto por esa razón.
 
 ### Kenji Aoyama (青山 健二)
-- **Rol:** Mejor amigo del protagonista. Alivio cómico.
+- **Rol:** Mejor amigo del protagonista. Alivio cómico / Detective amateur.
 - **Edad:** 17 años.
-- **Personalidad:** Extrovertido, impulsivo, obsesionado con teorías conspirativas y OVNIs (irónicamente es el primero en estar "casi en lo correcto"). Tiene un canal de YouTube sobre fenómenos paranormales con 47 suscriptores.
-- **Función narrativa:** Contraste cómico con Haruto. Sus locas teorías son tratadas como chiste hasta que resultan ser parcialmente verdaderas.
+- **Personalidad:** Extrovertido, impulsivo, obsesionado con teorías conspirativas y OVNIs (irónicamente es el primero en estar "casi en lo correcto"). Tiene un canal de YouTube sobre fenómenos paranormales. Ha evolucionado de YouTuber a investigador activo de anomalías electromagnéticas.
+- **Función narrativa:** Contraste cómico con Haruto. Sus locas teorías son tratadas como chiste hasta que resultan ser parcialmente verdaderas. Investiga las anomalías electromagnéticas del instituto con equipamiento propio.
 
 ### Directora Akemi Shirogane (白銀 朱美)
 - **Rol:** Antagonista ambigua.
