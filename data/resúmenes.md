@@ -40,3 +40,29 @@ El protagonista despierta a las 2:47 de la madrugada perturbado por una sensaci�
 El narrador pasa una noche inquieta, perseguido por un zumbido de tres tonos que su cerebro no puede procesar. Al día siguiente, Lyra lo espera en la cocina preparando té, vestida con la camiseta del joven. Hay un silencio tenso entre ambos, pero Lyra rompe el hielo disculpándose por los ruidos de la noche anterior. Admite que sufre episodios y que no está lista para algo que se avecina, generando intriga sobre qué amenaza se aproxima. El momento de mayor impacto ocurre cuando Lyra alza la mirada y el narrador descubre que sus ojos son completamente humanos, marrones con motitas doradas, contradiciendo todo lo que asumía sobre ella. Kenji descubre que la subdirectora Nishimura tiene archivos sobre anomalías electromagnéticas en el instituto desde hace siete años, y que Lyra genera un campo que no debería poder generar. El capítulo cierra con la pregunta de si la están guiando o acorralando.
 
 ---
+
+### Capítulo 7
+
+<think>
+The user wants me to summarize Chapter 7 of a novel called "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" in a fluid paragraph of maximum 200 words. They want it in plain text, Spanish, without any markdown formatting, lists, or other elements.
+
+The chapter is titled "Zona Muerta" and the protagonist wakes up to find Lyra missing from her futon. He finds her in the kitchen wearing his t-shirt, with her silver hair in a makeshift bun, looking out the window.
+
+Let me write a summary that captures the key events, relationship changes, and open threads.
+
+Key elements:
+- Protagonist wakes up and notices Lyra is gone from the futon
+- He finds her in the kitchen, she doesn't turn around
+- She was wearing his gray t-shirt
+- She has silver hair in a bun with a pencil
+- Something ominous is coming - she said "algo se avecina"
+- She mentioned she's not ready and has had episodes
+- There's tension/mystery building
+- The chapter ends with her reflection in the glass and an ominous feeling
+
+Let me write this in Spanish, in a fluid paragraph, under 200 words.
+</think>
+
+Al despertar antes del amanecer, el protagonista descubre que Lyra ha desaparecido del futón donde dormía. La búsqueda lo conduce a la cocina, donde la encuentra contemplando el exterior mientras viste una camiseta suya con el logo de una franquicia de videojuegos extinta, el cabello plateado recogido con un lápiz de química. Cuando la saluda, Lyra permanece inmóvil frente al cristal sin girarse, y el reflejo en el vidrio sugiere que algo la atormenta. La tensión narrativa se construye sobre las advertencias que ella emitió previamente —algo se avecina, no está lista, ha sufrido episodios—, revelando que su vulnerabilidad emocional es mayor de lo que aparenta. El detalle doméstico de llevarla puesta su ropa sleeping indica una intimidad progresiva entre ambos, aunque la frialdad de su reacción en este capítulo sugiere que la cercanía también implica exposición a sus secretos más oscuros. El título "Zona Muerta" anticipa un territorio emocional o físico donde ambos deberán adentrarse, dejando abierto qué tipo de amenaza enfrenta Lyra y hasta qué punto el protagonista podrá ayudarla.
+
+---
