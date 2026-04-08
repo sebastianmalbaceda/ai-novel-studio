@@ -161,3 +161,29 @@ Debo escribir un párrafo fluido en español, sin ningún tipo de formato especi
 El amanecer encuentra a Haruto observando a Lyra inmóvil junto a la ventana, llevando puesta su camiseta gris del festival de videojuegos STARBOUND '98, con su cabello plateado recogido y sus manos apoyadas contra el cristal. Ella no se ha movido en toda la noche, y cuando finalmente habla, su voz suena inhabitualmente suave y frágil, revelando que tiene algo importante que confesarle. Al girarse parcialmente para mirarlo a través del reflejo, Haruto nota que sus ojos marrones con motas doradas siguen siendo los mismos, pero algo ha cambiado en la dinámica entre ellos; ella comienza a decir «Durante mucho tiempo…» dejando un hilo abierto sobre qué secreto o confesión estaba conteniendo y que ahora necesita finalmente compartir.
 
 ---
+
+### Capítulo 11
+
+<think>
+El usuario me pide que resuma el Capítulo 11 de una novela de ciencia ficción/romance en máximo 200 palabras. Debo seguir reglas estrictas: solo texto plano en español, sin bloques de pensamiento, sin notas al autor, sin tablas, sin listas, sin encabezados markdown, sin advertencias, sin preguntas. Solo un párrafo fluido con los eventos clave, cambios en relaciones y hilos abiertos.
+
+Voy a identificar los elementos clave del capítulo:
+
+1. Lyra revela que su misión original era estudiar un nodo, analizar anomalías, documentar y retirarse
+2. Conoce a Haruto y "todo cambió"
+3. Haruto le pregunta por qué él importaba si es "una persona cualquiera"
+4. Lyra le dice que no es una persona cualquiera
+5. El capítulo termina en una revelación importante pero se corta
+
+Hilos abiertos:
+- La verdadera naturaleza/capacidades de Lyra
+- El nodo que debía estudiar
+- Por qué Haruto es especial para ella
+- La misión de Lyra y su relación con Haruto
+
+Ahora voy a escribir el resumen en español, máximo 200 palabras, en un párrafo fluido, sin ningún elemento prohibido.
+</think>
+
+En este capítulo, Lyra finalmente revela parte de su misión original: fue enviada únicamente para verificar un nodo, analizar anomalías y retirarse sin involucrarse emocionalmente. Sin embargo, confiesa que encontrar a Haruto lo cambió todo, desatando la confusión del joven, quien se pregunta por qué él sería relevante si es solo una persona común. Lyra se adelanta hacia él descalza sobre la madera y, por primera vez, habla sin el tono de turista confundida, sino con la certeza de alguien que ha llegado a una conclusión importante, aunque el texto se corta antes de completarla. Ella le dice que Haruto no es una persona cualquiera y que hay algo en él que aún no comprende del todo. El capítulo deja abierto qué descubrió exactamente Lyra sobre Haruto, qué es el nodo, por qué su presencia lo alteró todo y qué implicaciones tiene que ella no haya cumplido con su protocolo de extracción.
+
+---
