@@ -207,3 +207,25 @@ Voy a escribir un resumen narrativo fluido en español.
 Tras semanas de convivencia y sospechas, Lyra finalmente revela a Haruto toda la verdad en la cocina al amanecer: ella no es humana, proviene de un lugar muy lejano y su misión original consistía en verificar, analizar y reportar sobre algo oculto bajo el instituto. Haruto admite que siempre lo intuyó, pues percibía una extraña frecuencia que alteraba su ser y hacía resonar su alma con ella. Lyra confiesa que planned originally completar un procedimiento rutinario de su especie, pero algo cambió durante su estancia. El momento marca un punto de inflexión en su relación, pasando de ser compañeros de clase con secretos a una conexión profunda basada en la verdad compartida. Quedan abiertos hilos sobre qué exactamente estudia Lyra bajo el instituto, por qué su especie ha enviado miles de missiones similares, y cómo afectará esta revelación el futuro de ambos.
 
 ---
+
+### Capítulo 13
+
+<think>
+Me piden resumir el Capítulo 13 de una novela light novel titled "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!". Debo crear un resumen narrativo fluido en español, máximo 200 palabras, incluyendo eventos clave, cambios en relaciones y hilos abiertos. Debo responder SOLO con texto plano, sin bloques XML, sin encabezados, sin listas, sin notas, sin preguntas.
+
+El capítulo se titula "El Peso de Cuarenta Segundos" y parece ser sobre Haruto (el protagonista) hablando con Lyra (la alienígena). Ella acaba de revelar algo importante. Haruto ha estado experimentando cambios físicos (hormigueo, despertares parciales). Lyra le revela que lo ha estado vigilando por 34 días antes de llegar. Haruto está molesto por la vigilancia. Hay tensión emocional y una revelación sobre él siendo "una anomalía magnética" que ella necesita.
+
+Necesito escribir un resumen fluido que incluya:
+- La revelación de Lyra sobre haberlo vigilado 34 días antes de llegar
+- La revelación de que Haruto tiene algo especial (anomalía magnética)
+- La tensión emocional entre ellos
+- Los síntomas físicos de Haruto
+- Los hilos abiertos (¿por qué lo vigilan? ¿qué significa ser una anomalía? ¿qué necesita ella de él?)
+
+Debo mantenerlo en máximo 200 palabras, un párrafo fluido, en español, sin formato.
+
+</think>
+
+Haruto despierta cada hora sintiendo cambios en su cuerpo y un persistente hormigueo en sus dedos desde que descubrió a Lyra translúcida. Ella finalmente rompe el silencio y revela que lo ha estado vigilando treinta y cuatro días antes de llegar a la Tierra. Haruto, agotado por semanas sin dormir bien, le confiesa que su molestia no es por ser especial, sino por la vigilancia misma. Lyra escucha su reproche y algo en su expresión cambia de forma casi imperceptible. El capítulo cierra con la tensión sin resolverse: Haruto sabe que posee algo único que Lyra necesita —lo denominan "anomalía magnética"—, pero las razones exactas de su relevancia interplanetaria y el propósito real de ella permanecen ocultos, mientras los síntomas físicos de él continúan intensificándose sin explicación.
+
+---
