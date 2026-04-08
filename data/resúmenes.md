@@ -229,3 +229,27 @@ Debo mantenerlo en máximo 200 palabras, un párrafo fluido, en español, sin fo
 Haruto despierta cada hora sintiendo cambios en su cuerpo y un persistente hormigueo en sus dedos desde que descubrió a Lyra translúcida. Ella finalmente rompe el silencio y revela que lo ha estado vigilando treinta y cuatro días antes de llegar a la Tierra. Haruto, agotado por semanas sin dormir bien, le confiesa que su molestia no es por ser especial, sino por la vigilancia misma. Lyra escucha su reproche y algo en su expresión cambia de forma casi imperceptible. El capítulo cierra con la tensión sin resolverse: Haruto sabe que posee algo único que Lyra necesita —lo denominan "anomalía magnética"—, pero las razones exactas de su relevancia interplanetaria y el propósito real de ella permanecen ocultos, mientras los síntomas físicos de él continúan intensificándose sin explicación.
 
 ---
+
+### Capítulo 14
+
+<think>
+El usuario quiere que resuma el capítulo 14 de una novela ligera. Debo crear un resumen fluido en español, máximo 200 palabras, incluyendo eventos clave, cambios en relaciones y hilos abiertos. Debo responder SOLO con texto plano, sin markdown, tablas, listas, ni ningún otro formato.
+
+El capítulo parece ser el momento de una confesión donde el protagonista descubre que Lyra ha estado observándolo durante 34 días. Es un momento tenso de revelación. Debo mantenerlo en un párrafo fluido.
+
+Puntos clave:
+- El protagonista confiesa/descubre que Lyra lo ha estado observando
+- Han pasado 34 días desde que Lyra lo supo
+- El protagonista reacciona con agotamiento más que con rabia
+- Hay una pregunta importante: ¿por qué él?
+- Lyra usa la camiseta del protagonista
+- Hay un despertar en el protagonista (hormigueo en las yemas, presión en las sienes)
+- Relación tensa pero sin ruptura
+- Se abre la pregunta de la motivación de Lyra
+
+Voy a escribir el resumen en español de forma fluida.
+</think>
+
+El protagonista confiesa ante Lyra y descubre que ella ha conocido su naturaleza especial desde hace treinta y cuatro días, incluso antes de acercarse a él. En lugar de la reacción furiosa que cualquiera esperaría, siente un extraño agotamiento mixto con una conexión física inusual: un hormigueo en las yemas de los dedos y una presión en las sienes que sugiere algo despertando dentro de él. Lyra, quien todavía lleva puesta la camiseta gris del protagonista, se acerca para responder su pregunta fundamental: ¿por qué él, siendo una persona completamente normal? La tensión entre ambos permanece pero sin ruptura definitiva, quedando abierto el misterio sobre los verdaderos motivos de Lyra para observarlo durante semanas, qué tipo de evaluación realizaba y qué significado tiene el despertar interno que experimenta el protagonista ante la proximidad de la alienígena.
+
+---
