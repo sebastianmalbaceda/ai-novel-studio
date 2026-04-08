@@ -187,3 +187,23 @@ Ahora voy a escribir el resumen en español, máximo 200 palabras, en un párraf
 En este capítulo, Lyra finalmente revela parte de su misión original: fue enviada únicamente para verificar un nodo, analizar anomalías y retirarse sin involucrarse emocionalmente. Sin embargo, confiesa que encontrar a Haruto lo cambió todo, desatando la confusión del joven, quien se pregunta por qué él sería relevante si es solo una persona común. Lyra se adelanta hacia él descalza sobre la madera y, por primera vez, habla sin el tono de turista confundida, sino con la certeza de alguien que ha llegado a una conclusión importante, aunque el texto se corta antes de completarla. Ella le dice que Haruto no es una persona cualquiera y que hay algo en él que aún no comprende del todo. El capítulo deja abierto qué descubrió exactamente Lyra sobre Haruto, qué es el nodo, por qué su presencia lo alteró todo y qué implicaciones tiene que ella no haya cumplido con su protocolo de extracción.
 
 ---
+
+### Capítulo 12
+
+<think>
+El usuario me pide resumir el Capítulo 12 de una novela ligera japonesa en un máximo de 200 palabras, en español, como texto plano narrativo. Debo incluir eventos clave, cambios en relaciones y hilos abiertos. No debo usar bloques de pensamiento, markdown, tablas, listas, ni ninguna estructura especial.
+
+El capítulo 12 se titula "El Idioma que No Traduce". En este capítulo, Lyra finalmente revela a Haruto que ella no es humana, que viene de otro lugar muy lejano para estudiar algo bajo el instituto. Haruto había sospechado esto pero escuchar la verdad de sus labios marca un punto de inflexión.
+
+Debo condensar esto en un párrafo fluido, máximo 200 palabras, incluyendo:
+- La revelación de Lyra sobre su origen alienígena
+- La escena en la cocina al amanecer
+- El cambio en la relación entre ellos
+- Hilos abiertos para la trama
+
+Voy a escribir un resumen narrativo fluido en español.
+</think>
+
+Tras semanas de convivencia y sospechas, Lyra finalmente revela a Haruto toda la verdad en la cocina al amanecer: ella no es humana, proviene de un lugar muy lejano y su misión original consistía en verificar, analizar y reportar sobre algo oculto bajo el instituto. Haruto admite que siempre lo intuyó, pues percibía una extraña frecuencia que alteraba su ser y hacía resonar su alma con ella. Lyra confiesa que planned originally completar un procedimiento rutinario de su especie, pero algo cambió durante su estancia. El momento marca un punto de inflexión en su relación, pasando de ser compañeros de clase con secretos a una conexión profunda basada en la verdad compartida. Quedan abiertos hilos sobre qué exactamente estudia Lyra bajo el instituto, por qué su especie ha enviado miles de missiones similares, y cómo afectará esta revelación el futuro de ambos.
+
+---
