@@ -253,3 +253,24 @@ Voy a escribir el resumen en español de forma fluida.
 El protagonista confiesa ante Lyra y descubre que ella ha conocido su naturaleza especial desde hace treinta y cuatro días, incluso antes de acercarse a él. En lugar de la reacción furiosa que cualquiera esperaría, siente un extraño agotamiento mixto con una conexión física inusual: un hormigueo en las yemas de los dedos y una presión en las sienes que sugiere algo despertando dentro de él. Lyra, quien todavía lleva puesta la camiseta gris del protagonista, se acerca para responder su pregunta fundamental: ¿por qué él, siendo una persona completamente normal? La tensión entre ambos permanece pero sin ruptura definitiva, quedando abierto el misterio sobre los verdaderos motivos de Lyra para observarlo durante semanas, qué tipo de evaluación realizaba y qué significado tiene el despertar interno que experimenta el protagonista ante la proximidad de la alienígena.
 
 ---
+
+### Capítulo 15
+
+<think>
+El usuario me pide que resuma el Capítulo 15 de una novela de ciencia ficción/romance en máximo 200 palabras, en un párrafo fluido. Debo incluir eventos clave, cambios en relaciones y hilos abiertos. Debo responder SOLO con texto plano, sin markdown, sin listas, sin bloques de análisis.
+
+El capítulo trata sobre:
+- Una conversación intensa entre el narrador y Lyra en la cocina
+- Lyra menciona algo sobre el cuaderno del narrador
+- Ella revela que tiene ojos marrones (no violeta como normalmente)
+- Lyra dice que el narrador "emite algo que ella necesita"
+- Ella le pregunta si quiere que se quede
+- Lyra menciona que tiene instrucciones de retirarse si causa daño
+- Hay una revelación sobre que alguien más observa al narrador
+
+Debo condensar esto en un párrafo fluido de máximo 200 palabras.
+</think>
+
+En la intimidad de la cocina, Lyra confronta al narrador sobre una frase incompleta en su cuaderno mientras su reflejo en el cristal muestra unos ojos marrones que contrastan con su habitual color violeta, revelando una vulnerabilidad nunca antes vista. La tensión alcanza su punto máximo cuando Lyra admite que necesita algo que el narrador emite, y que existe una entidad externa que lo observa por esa razón. Ella le pide claridad sobre si desea que permanezca a su lado, explicando que su especie tiene protocolos de eficiencia que incluyen retirarse si su presencia genera daño neto. El narrador, overwhelmed por semanas de insomnio y la sobrecarga de revelaciones, cuestiona la justicia de una decisión que considera imposible. El capítulo cierra con la palabra "Instrucciones" quedando suspendida en el aire, abriendo múltiples interrogantes: quién otorga esas órdenes, qué significa el "peso" que el narrador emite, por qué Lyra tiene los ojos marrones en ese momento, y qué sucedería si decidiera marcharse. La relación entre ambos da un giro hacia la intimidad y la interdependencia, mientras el misterio sobre la verdadera naturaleza y propósito de Lyra se profundiza.
+
+---
