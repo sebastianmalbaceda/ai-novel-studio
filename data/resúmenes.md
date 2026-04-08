@@ -66,3 +66,33 @@ Let me write this in Spanish, in a fluid paragraph, under 200 words.
 Al despertar antes del amanecer, el protagonista descubre que Lyra ha desaparecido del futón donde dormía. La búsqueda lo conduce a la cocina, donde la encuentra contemplando el exterior mientras viste una camiseta suya con el logo de una franquicia de videojuegos extinta, el cabello plateado recogido con un lápiz de química. Cuando la saluda, Lyra permanece inmóvil frente al cristal sin girarse, y el reflejo en el vidrio sugiere que algo la atormenta. La tensión narrativa se construye sobre las advertencias que ella emitió previamente —algo se avecina, no está lista, ha sufrido episodios—, revelando que su vulnerabilidad emocional es mayor de lo que aparenta. El detalle doméstico de llevarla puesta su ropa sleeping indica una intimidad progresiva entre ambos, aunque la frialdad de su reacción en este capítulo sugiere que la cercanía también implica exposición a sus secretos más oscuros. El título "Zona Muerta" anticipa un territorio emocional o físico donde ambos deberán adentrarse, dejando abierto qué tipo de amenaza enfrenta Lyra y hasta qué punto el protagonista podrá ayudarla.
 
 ---
+
+### Capítulo 8
+
+<think>
+El usuario me pide que resuma el capítulo 8 de una novela ligera en maximum 200 palabras, en un párrafo fluido en español, incluyendo eventos clave, cambios en relaciones y hilos abiertos. Debo devolver SOLO el texto del resumen, sin markdown, sin bloques de pensamiento, sin tablas, sin listas, sin nada que no sea el resumen narrativo.
+
+Voy a analizar el contenido del capítulo 8 basado en el fragmento proporcionado:
+
+1. Es muy temprano en la mañana (6 AM)
+2. Haruto encuentra a Lyra de pie frente a la ventana, inmóvil, usando su camiseta
+3. Lyra no durmió durante la noche
+4. Hay una tensión emocional - Lyra tiene algo que decirle a Haruto
+5. Ella estaba "evaluando si debía decirte algo"
+6. Hay un momento de vulnerabilidad: Lyra está conteniendo emociones (ojos brillantes/húmedos)
+7. La relación entre ellos ha evolucionado - Haruto ahora siente "preocupación genuina por alguien que hace menos de un mes era una desconocida"
+8. Lyra se siente cómoda usando la camiseta de Haruto
+9. El capítulo termina en un momento de tensión emocional
+
+Basándome en el contexto del capítulo y la novela en general, puedo inferir que:
+- Lyra probablemente va a revelar algo importante sobre sí misma o su misión
+- El vínculo emocional entre ellos se está profundizando
+- Hay un hilo abierto sobre qué quiere decirle Lyra
+
+Voy a escribir un resumen fluido en español:
+
+</think>
+
+En la cocina al amanecer, Haruto descubre a Lyra inmóvil frente a la ventana, enfundada en su camiseta gris y con el cabello plateado recogido, sin haber dormido en toda la noche. Aunque ella lleva semanas habituando la casa, este silencio inquietante revela que algo ha cambiado: ahora existe entre ellos una preocupación genuina que antes no existía. Lyra confiesa que necesitaba evaluar si debía decirle algo importante, y cuando finalmente gira hacia él, su expresión contenida —ojos húmedos, labios apretados— indica que está a punto de revelar algo significativo sobre su verdadera naturaleza o misión. El capítulo deja abierto qué secreto guardará Lyra y cómo cambiará la dinámica entre ambos, estableciendo que su convivencia ya no es mera proximidad sino un vínculo real cargado de responsabilidad emocional.
+
+---
