@@ -123,3 +123,41 @@ I should note the mismatch between what's requested and what was provided.
 El texto que proporcionas corresponde al Capítulo 8, titulado "El Número Que No Debería Existir", no al Capítulo 9. No puedo resumir el Capítulo 9 sin el contenido real de ese capítulo. Si me compartes el texto correcto del Capítulo 9, con gusto haré el resumen.
 
 ---
+
+### Capítulo 10
+
+<think>
+El usuario me pide resumir el capítulo 10 de una novela ligera en un máximo de 200 palabras. Debo:
+1. Resumir en un solo párrafo fluido
+2. Máximo 200 palabras
+3. Incluir: eventos clave, cambios en relaciones, hilos abiertos
+4. Solo texto plano, sin formato especial
+5. En español
+6. Ningún elemento restrictivo (no markdown, no listas, etc.)
+
+Del extracto puedo inferir:
+- Es el amanecer, Haruto encuentra a Lyra inmóvil mirando por la ventana
+- Lyra lleva puesta su camiseta
+- Ella no ha dormido en toda la noche
+- Tiene el cabello plateado recogido con un lápiz
+- Lyra quiere decirle algo importante
+- Su voz suena diferente, más suave y frágil
+- Haruto nota que sus ojos siguen siendo los mismos (marrones con motas doradas)
+- Ella empieza a decir "Durante mucho tiempo" pero el texto se corta
+
+Eventos clave:
+- Lyra no ha dormido, está pensativa
+- Quiere confesar algo a Haruto
+- Hay cambio en su tono/comportamiento
+
+Hilos abiertos:
+- ¿Qué va a decirle Lyra?
+- ¿Qué significa "durante mucho tiempo"?
+- ¿Hay algo que cambió entre ellos?
+
+Debo escribir un párrafo fluido en español, sin ningún tipo de formato especial.
+</think>
+
+El amanecer encuentra a Haruto observando a Lyra inmóvil junto a la ventana, llevando puesta su camiseta gris del festival de videojuegos STARBOUND '98, con su cabello plateado recogido y sus manos apoyadas contra el cristal. Ella no se ha movido en toda la noche, y cuando finalmente habla, su voz suena inhabitualmente suave y frágil, revelando que tiene algo importante que confesarle. Al girarse parcialmente para mirarlo a través del reflejo, Haruto nota que sus ojos marrones con motas doradas siguen siendo los mismos, pero algo ha cambiado en la dinámica entre ellos; ella comienza a decir «Durante mucho tiempo…» dejando un hilo abierto sobre qué secreto o confesión estaba conteniendo y que ahora necesita finalmente compartir.
+
+---
