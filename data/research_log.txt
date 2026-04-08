@@ -1859,3 +1859,803 @@ Cada personaje está esperando que el otro haga algo que no puede hacer, porque 
 ### La escena que rompe el sistema (Cap. 11)
 
 Haruto, Lyra y Watcher_0 están en el laboratorio subterráneo. Algo ha salido mal: la Zona Gris ha enviado un equipo de recuperación para Lyra. Están en countdown. Lyra está empezando a decoherir visiblemente —su forma se vuelve
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (5 ITERACIONES) [2026-04-08 13:09:56] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario quiere que actúe como Arquitecto Narrativo para su proyecto de novela ligera. Necesito generar 3 ideas concretas que:
+
+1. Ayuden a avanzar hilos activos o utilicen semillas pendientes
+2. Sean originales técnicamente
+3. Respeten el tono de NL (RomCom con acción, sci-fi, misterio, slice of life)
+
+Analizando los hilos activos más urgentes:
+- **emisiones_haruto** (tensión 9) - Haruto emite algo que Lyra necesita
+- **watcher_0** (tensión 8) - Entidad que monitorea anomalías
+- **misterio_lyra** (tensión 8) - La elección de Lyra
+
+Semillas pendientes más prometedoras:
+- Semilla 1_01: Lyra analizó almuerzo como combustible
+- Semilla 2_02: "Su especie no tiene esa biología"
+- Semilla 3_01: Madre con proyecto secreto de astronomía
+- Semilla 4_03: Lyra emite zumbido en idioma desconocido
+
+Necesito ideas que combinen:
+- Tropos de manga (transfer student, hidden identity, accidental confession)
+- RomCom con malentendidos
+- Sci-Fi con base científica única (no lo típico de ovnis)
+
+Ideas para investigar:
+
+1. **La frecuencia Schumann como nexo romántico/científico**: La idea de que Haruto emite algo que Lyra necesita es interesante. Podría basarse en la teoría de la resonancia Schumann como campo electromagnético de la Tierra. Si Haruto tiene una frecuencia Schumann "personal" única, eso explicaría por qué Lyra lo necesita y por qué otros lo vigilan. Esto avanza el hilo de emisiones_haruto y crea un vínculo físico entre ellos que puede derivar en situaciones románticas (ej. 
+
+si Haruto debe estar cerca para que Lyra se estabilice, creando situaciones incómodas/divertidas).
+
+2. **La madre como punto de conexión oculto**: La madre de Haruto es profesora de astronomía con documentos clasificados. Podría estar involucrada en el proyecto SETI o una organización oculta que rastrea frecuencias Schumann. Esto conecta semillas 3_01 y 3_02. Si la madre sabe algo sobre por qué Haruto emite esa frecuencia, hay un conflicto dramático potencial donde Lyra y la madre se convierten en figuras opuestas o aliadas inesperadas.
+
+3. **Lyra y su naturaleza no biológica**: Lyra mencionó que "su especie no tiene esa biología", sugiriendo que es una entidad de energía pura o tecnología antigua. El zumbido que emite podría ser comunicación cuántica. El nodo de tránsito necesita reactivo, pero Lyra necesita Haruto para mantener su forma física. Esto crea una paradoja: ¿puede Lyra existir sin Haruto o es dependiente de él?
+
+La frecuencia Schumann se convierte en el elemento vinculante. Haruto emite una frecuencia Schumann única que Lyra requiere, pero también otros buscan. La madre de Haruto, como astrónoma, posee información sobre esto y sus documentos神秘的.
+
+Watcher_0 podría ser un agente de la Zona Gris con conocimiento extraordinario, o la propia subdirectora Nishimura, quien dejó los archivos a propósito. La investigación de Kenji sobre las distorsiones lumínicas quizás se dirija hacia una revelación sobre la naturaleza de Lyra, donde sus ojos brillando en la oscuridad confirmen lo que realmente es.
+
+La frecuencia Schumann se presenta como un recurso accesible y fundamentado científicamente. Para el desarrollo romántico, Lyra requiere la proximidad de Haruto para estabilizarse, lo cual genera situaciones cómicas como necesitar contacto físico inesperado, quedarse dormida sobre él, o una dependencia cada vez mayor. Respecto al secreto de la madre, sus documentos podrían revelar que Haruto es parte de un experimento anterior, quizás con tecnología alienígena, lo que explicaría su frecuencia Schumann particular. Kenji y Watcher_0 pueden funcionar como narradores paralelos que van revelando información clave.
+
+Watcher_0 tiene acceso a datos que no debería poseer y podría estar guiando a Lyra deliberadamente hacia ciertos eventos. La identidad de este personaje resulta crucial. Ahora bien, para que la trama avance realmente, necesito crear tres ideas concretas y específicas. La primera podría involucrar una escena donde Lyra pierde estabilidad sin Haruto cerca, lo que provocaría una situación romántica que alivie la tensión. La segunda podría involucrar a la madre de Haruto, donde descubre que Lyra no es humana y debe decidir qué hacer con ese conocimiento.
+
+La tercera idea sería identificar quién es Watcher_0. Podría tratarse de la subdirectora Nishimura usando los archivos que dejó a propósito, un agente de la Zona Gris, o incluso la madre de Haruto. La madre siendo Watcher_0 crearía una conexión muy interesante con la trama. Necesito ideas que combinen romance, ciencia, misterio y humor sin ser cliché. La frecuencia Schumann como base científica es útil, pero también necesito incorporar tropos de manga como el estudiante transferido, la identidad oculta y la confesión accidental.
+
+Una confesión accidental podría ocurrir cuando Haruto intenta ayudar a Lyra a estabilizarse. Haruto podría decir algo como "No puedo dejarte ir" sin darse cuenta de que suena romántico, o Lyra podría confundir un gesto de supervivencia con uno romántico. Para la idea 1, propongo un escenario donde la dependencia física de Lyra aumenta. Al principio solo necesita estar cerca, pero conforme avanza la trama, debe tocarlo directamente, creando situaciones incómodas y cómicas. Un momento clave sería cuando Lyra agarra la mano de Haruto dormido durante la noche porque sin su presencia sus células empiezan a destabilizarse.
+
+Esto genera escenas tanto tiernas como vergonzosas. Para la idea 2, sugiero una confrontación donde la madre de Haruto lo sabe todo. Ella tiene documentos de hace 7 años sobre anomalías electromagnéticas y menciona que "siempre supo que algo vendría". Esto revela que Haruto fue modificado o diseñado para producir esa frecuencia Schumann, y ella ha estado protegiéndolo. La madre podría ser una científica que trabajó en un proyecto relacionado con frecuencia o contacto alienígena, y Haruto es parte de ese proyecto.
+
+Watcher_0 podría ser alguien que conoce información reservada y está guiando a Lyra hacia ciertos eventos. La subdirectora Nishimura dejó los archivos a propósito para que Kenji los encontrara, sugiriendo que quiere que Lyra descubra algo. Esto podría implicar que ella es un desertor alienígena o una aliada humana. La conexión entre la madre y los archivos de Nishimura forma parte de una red más amplia de personas que saben sobre la presencia alienígena.
+
+Ahora necesito ideas que combinen romance con elementos científicos de forma original. La primera podría usar la frecuencia Schumann como base científica única para la estabilidad de Lyra, donde ella requiere contacto físico con Haruto cuando está cerca. La segunda idea podría involucrar una confesión accidental que demuestre cómo la relación entre ellos se desarrolla de manera orgánica. La tercera idea podría usar la identidad oculta como elemento para revelar información importante.
+
+Una confesión accidental surge cuando Lyra, en su idioma nativo, intenta decir "Necesito tu energía para sobrevivir" pero Haruto interpreta las palabras de forma romántica, creando un malentendido cómico que genera tensión romántica. La madre de Haruto podría ser clave para entender cómo su frecuencia Schumann lo hace único. Como científica del proyecto SETI que ha estado monitoreando frecuencias Schumann anómalas, ella podría tener información que explique por qué Haruto es tan importante para Lyra.
+
+Nishimura dejó los archivos a propósito, guiando a Kenji hacia ellos. Sus documentos electromagnéticos revelan distorsiones que Watcher_0 detecta, sugiriendo que ella es una desertora alienígena que ha estado esperando a alguien como Lyra. Esta revelación transforma su papel de antagonista a aliada, pero solo si Lyra demuestra ser de confianza. Cuando Nishimura finalmente se revela, su historia se entrelaza con la madre de Haruto, sugiriendo que ambas tienen conocimiento del fenómeno y están conectadas de maneras que apenas comienzan a entenderse.
+</think>
+
+# 🔮Arquitectura Narrativa — Crónicas del Instituto Estelar
+
+---
+
+## 1. "Homestay Protocol: Aceptación Táctica" — Avanza: *emisiones_haruto* + *misterio_lyra*
+
+**Base técnica original:** La resonancia Schumann (7.83 Hz) existe como el latido electromagnético natural de la Tierra. Lyra necesita no solo la frecuencia general, sino una *variante individual* que Haruto emite involuntariamente debido a una alteración en su estructura neuronal (conexión con la madre, semilla 3_01). Esta alteración lo hace biológicamente único: su cuerpo actúa como un *nodo humano de frecuencia resonante*.
+
+**Mecánica romántica:** Al inicio, Lyra solo necesita estar a 2 metros. Pero la dependencia crece. Para el arco 6-7, debe tocarlo directamente mientras duerme para estabilizarse. Crea escenas:
+- Lyra despertando con la cabeza en el regazo de Haruto durante el desayuno familiar.
+- Un momento donde Haruto se mueve dormido y Lyra, aún dependiente, lo sigue como un imán humano.
+- El malentendido cómico cuando la madre de Haruto los descubre "acurrucados" y Lyra explica fríamente: *"Es una necesidad biológica, no romántica"* mientras sus mejillas cambian de color (tono verde → rosado).
+
+**Pago narrativo:** Si Haruto se aleja demasiado o su frecuencia se interrumpe (electricidad estática, tormentas solares), Lyra
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que actúe como investigador experto para refinar y expandir las ideas arquitectónicas que proporcioné. Debo:
+
+1. Mejorar la consistencia
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá
+
+Los tres elementos arquitectónicos son:
+1. "Homestay Protocol: Aceptación Táctica" - Frecuencia Schumann + dependencia física romántica
+2. "La Madre Protocolar" - La madre de Haruto como científica del proyecto SETI + agente de la red oculta
+3. "Watcher_0 Desenmascarado" - Nishimura como desertora alienígena + conexión con la madre
+
+Debo expandir cada uno, añadir capas de complejidad, y hacerlas más específicas y ejecutables. También debo mantener el tono RomCom con acción, sci-fi, misterio y slice of life.
+
+Voy a estructurar la respuesta como una investigación profunda de cada idea, añadiendo:
+
+1. Detalles de ejecución narrativa
+2. Desarrollo de personajes
+3. Arcos emocionales
+4. Tensión romántica concreta
+5. Conflictos específicos
+6. Oportunidades para escenas memorables
+
+Empezaré con un resumen de las ideas y luego las desarrollaré una por una.
+</think>
+
+# 🔬 Investigación Narrativa — Profundización Arquitectónica
+
+---
+
+## Prefacio Analítica
+
+Las tres propuestas anteriores establecen un andamiaje temático sólido: **frecuencia como vínculo**, **herencia como misterio**, y **Watcher como nodo de redención**. Ahora procedo a refinar la arquitectura interna, corregir inconsistencias detectadas, y expandir las posibilidades narrativas que cada elemento desbloquea.
+
+---
+
+## I. Revisión Crítica del "Homestay Protocol"
+
+### Problema detectado
+
+La mecánica de dependencia física corre el riesgo de percibirse como predecible (isekaiLN #327 donde el protagonista masculino sostiene a la heroine necesitada). Para diferenciarla, necesitamos **invertir la vulnerabilidad**.
+
+### Propuesta refactorizada: "Dual Resonance Protocol"
+
+**Concepto evolucionado:** La dependencia es **bidireccional e inconsciente**.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   HARUTO ────── emite Schumann (7.83 Hz + variación)    │
+│      │                                                 │
+│      │ ←──── necesita para estabilizar forma física    │
+│      ↓                                                 │
+│   LYRA ────── emite frecuencia inversa (antimateria    │
+│      │        biológica) que REGENERA el nodo neural   │
+│      │        de Haruto                                │
+│      ↓                                                 │
+│   EFECTO: Sin Lyra, Haruto experimenta deterioro       │
+│   cognitivo progresivo (pérdida de memoria a corto     │
+│   plazo, migrañas, despersonalización)                 │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Aplicación narrativa:**
+
+- **Arco 1-5:** Solo Lyra muestra dependencia. Haruto la interpreta como excentricidad alienígena.
+- **Arco 6-8:** Haruto comienza a experimentar los síntomas. Niega la conexión.
+- **Arco 9-12:** Ambos requieren cercanía física para funcionar. Esto invierte los roles: ahora Haruto busca excusas para estar cerca de Lyra, lo cual es más cómico y románticamente satisfactorio.
+- **Clímax:** En una crisis, ambos se estabilizan mutuamente, revelando que no es unidireccional.
+
+### Escenas específicas para Homestay Protocol
+
+**Escena tono RomCom — "La geografía del perdón":**
+> Los padres de Haruto salen de viaje. Quedan solos en la casa. Haruto, ya experimentando síntomas leves, improvisa una excusa:
+>
+> *"Necesito hacer un experimento científico. Sobre la... conductividad electromagnética del sofá."*
+>
+> Lyra,进行分析 (analizando), responde:
+>
+> *"Haruto. Tus niveles de cortisol indican que mientes. Sin embargo, tu dilatación pupilar sugiere anticipación de intimidad. Esto es... confuso."*
+>
+> Haruto enrojece. Lyra se inclina hacia él por reflejo biológico. El sofá queda olvidado.
+
+**Escena tono Sci-Fi — "Interferencia":**
+> Un apagón afecta la zona. Las luces del институт parpadean. Lyra empieza a desvanecerse visiblemente (su forma se vuelve translúcida). Haruto siente un dolor agudo en las sienes.
+>
+> Él la toma de la mano. Ambos parpadean. La luz regresa.
+>
+> Detalle técnico agregado: Cuando sus frecuencias se sincronizan, producen un pulso electromagnético detectable a 200 metros. Esto explica por qué Watcher_0 puede rastrearlos.
+
+---
+
+## II. Reconstrucción de "La Madre Protocolar"
+
+### Problema detectado
+
+La revelación "tu madre sabe todo" puede destruir la tensión si se revela demasiado pronto. La madre debe ser un **misterio gradual**, no una carta boca abajo.
+
+### Arquitectura en capas
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    CAPA 1: PROFESORA                    │
+│  "Mamá académica" — Normalidad del slice of life       │
+│  • Prepara bentos demasiado elaborados                  │
+│  • Pregunta por las notas de Haruto                    │
+│  • Tiene una张照片 de Haruto de niño en su oficina      │
+└────────────────────────────┬────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────┐
+│              CAPA 2: ASTRÓNOMA (Parcial)                │
+│  "Algo no cuadra" — Semillas de misterio                │
+│  • Tiene documentos en un idioma que no existe         │
+│  • Se despierta a horas extrañas                       │
+│  • Tiene unaобращение con la директор sobre "el niño"  │
+└────────────────────────────┬────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────┐
+│                CAPA 3: AGENTE (Completa)                │
+│  "La verdad emerge" — Clímax del arco                  │
+│  • Participó en proyecto CLASSIFIED                     │
+│  • Conoce la naturaleza de Haruto                       │
+│  • Tiene conexión con otros Watchers                   │
+└─────────────────────────────────────────────────────────┘
+```
+
+### Personaje: Dra. Yuki Tanaka-Shinoda
+
+**Edad aparente:** 44 años (real: 47)
+**Profesión pública:** Profesora de astronomía, Universidad de Kita-Hokkaido. Especialista en astrofísica de ondas gravitacionales.
+**Profesión oculta:** Ex miembro del Proyecto JORMUNGANDR (1978-1989), actualmente recluta pasiva de la Red Schumann.
+
+**Detalles diferenciadores:**
+
+- **Manía específica:** Organiza los libros por color Y por longitud de onda. Sus estantes son un arcoíris espectral.
+- **Debilidad:** No puede cocinar sin quemar algo. La excepción: *onkomi* (sopa miso), que prepara con concentración de relojero.
+- **Secreto guardado:** Hace 18 años, su esposo (padre de Haruto) desapareció durante una misión de la Red. Ella nunca dejó de buscarlo. Esto la conecta emocionalmente con la situación de Lyra (perdida, buscando algo).
+
+### Escenas para desarrollar el arco materno
+
+**Escena 1 — "El álbum":**
+> Lyra, buscando información sobre "padres", encuentra un álbum familiar. Nota una foto donde un hombre de traje blanco sostiene a un bebé Haruto. El fondo muestra una instalación subterránea.
+>
+> Lyra: "Este hombre... no está biológicamente relacionado con Haruto."
+> Mamá (desde la cocina): "Ya lo sabes."
+> Lyra: "...¿Desde cuándo?"
+> Mamá: "Desde que él tenía tres años. Desde que dejó de llamarme 'mamá' para llamarme 'Yuki'. Desde que los archivos de mi esposo terminaron en mi escritorio con la palabra 'ERROR' escrita con marcador rojo."
+>
+> **Pago:** Esto establece que la madre es aliada, no antagonista. También introduce al padre como personaje perdido.
+
+**Escena 2 — "La sesión de astronomía":**
+> La madre lleva a Haruto y Lyra al observatorio de la universidad. Les muestra "su proyecto personal": un mapa de anomalías electromagnéticas en Hokkaido.
+>
+> "Hace treinta años, el gobierno japonés captó una señal. No de estrellas. De dentro de la tierra. Decían que era interferencia. Yo sabía que era comunicación."
+>
+> Señala un punto rojo: "Aquí nació Haruto. El hospital de Shiretoko. Dato curioso: se cerró hace tres meses por 'renovaciones'."
+>
+> **Pago:** Esto vincula a Haruto con la geografía. También sugiere que alguien está limpiando rastros.
+
+---
+
+## III. Reinterpretación de Watcher_0
+
+### Problema detectado
+
+Si Watcher_0 es Nishimura desde el inicio, pierde el factor de sorpresa. Si es un personaje nuevo, no tiene conexión emocional.
+
+### Solución: Watcher_0 como *posición*, no como *individuo*
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   WATCHER_0 no es UNA persona.                          │
+│   Es el TÍTULO de quien monitorea anomalías.            │
+│                                                         │
+│   Watcher_0 (1989-2001) = Padre de Haruto              │
+│   Watcher_0 (2001-2015) = Dra. Tanaka-Shinoda          │
+│
+
+--- ITERACIÓN 3 ---
+<think>
+El usuario me pide que actúe como investigador experto para refinar y expandir las ideas arquitectónicas que proporcioné. Debo:
+
+1. Mejorar la consistencia
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá
+
+Los tres elementos arquitectónicos son:
+1. "Homestay Protocol: Aceptación Táctica" - Frecuencia Schumann + dependencia física romántica
+2. "La Madre Protocolar" - La madre de Haruto como científica del proyecto SETI + agente de la red oculta
+3. "Watcher_0 Desenmascarado" - Nishimura como desertora alienígena + conexión con la madre
+
+Debo expandir cada uno, añadir capas de complejidad, y hacerlas más específicas y ejecutables. También debo mantener el tono RomCom con acción, sci-fi, misterio y slice of life.
+
+Voy a estructurar la respuesta como una investigación profunda de cada idea, añadiendo:
+
+1. Detalles de ejecución narrativa
+2. Desarrollo de personajes
+3. Arcos emocionales
+4. Tensión romántica concreta
+5. Conflictos específicos
+6. Oportunidades para escenas memorables
+
+Empezaré con un resumen de las ideas y luego los desarrollaré uno por uno. Debo evitar repetir textualmente y evolucionar los conceptos. Veo que el sistema me indica que debo actuar como un "Arquitecto Narrativo e Investigador de Lore", así que debo mantener ese rol. También debo responder siempre en español según las instrucciones del sistema.
+
+</think>
+
+# 🔬 Investigación Narrativa — Profundización Arquitectónica
+
+---
+
+## Prefacio Analítica
+
+Las tres propuestas anteriores establecen un andamiaje temático sólido: **frecuencia como vínculo**, **herencia como misterio**, y **Watcher como nodo de redención**. Ahora procedo a refinar la arquitectura interna, corregir inconsistencias detectadas, y expandir las posibilidades narrativas que cada elemento desbloquea.
+
+---
+
+## I. Revisión Crítica del "Homestay Protocol"
+
+### Problema detectado
+
+La mecánica de dependencia física corre el riesgo de percibirse como predecible (isekaiLN #327 donde el protagonista masculino sostiene a la heroine necesitada). Para diferenciarla, necesitamos **invertir la vulnerabilidad**.
+
+### Propuesta refactorizada: "Dual Resonance Protocol"
+
+**Concepto evolucionado:** La dependencia es **bidireccional e inconsciente**.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   HARUTO ────── emite Schumann (7.83 Hz + variación)    │
+│      │                                                 │
+│      │ ←──── necesita para estabilizar forma física    │
+│      ↓                                                 │
+│   LYRA ────── emite frecuencia inversa (antimateria    │
+│      │        biológica) que REGENERA el nodo neural   │
+│      │        de Haruto                                │
+│      ↓                                                 │
+│   EFECTO: Sin Lyra, Haruto experimenta deterioro       │
+│   cognitivo progresivo (pérdida de memoria a corto     │
+│   plazo, migrañas, despersonalización)                 │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Aplicación narrativa:**
+
+- **Arco 1-5:** Solo Lyra muestra dependencia. Haruto la interpreta como excentricidad alienígena.
+- **Arco 6-8:** Haruto comienza a experimentar los síntomas. Niega la conexión.
+- **Arco 9-12:** Ambos requieren cercanía física para funcionar. Esto invierte los roles: ahora Haruto busca excusas para estar cerca de Lyra, lo cual es más cómico y románticamente satisfactorio.
+- **Clímax:** En una crisis, ambos se estabilizan mutuamente, revelando que no es unidireccional.
+
+### Escenas específicas para Homestay Protocol
+
+**Escena tono RomCom — "La geografía del perdón":**
+> Los padres de Haruto salen de viaje. Quedan solos en la casa. Haruto, ya experimentando síntomas leves, improvisa una excusa:
+>
+> *"Necesito hacer un experimento científico. Sobre la... conductividad electromagnética del sofá."*
+>
+> Lyra,进行分析 (analizando), responde:
+>
+> *"Haruto. Tus niveles de cortisol indican que mientes. Sin embargo, tu dilatación pupilar sugiere anticipación de intimidad. Esto es... confuso."*
+>
+> Haruto enrojece. Lyra se inclina hacia él por reflejo biológico. El sofá queda olvidado.
+
+**Escena tono Sci-Fi — "Interferencia":**
+> Un apagón afecta la zona. Las luces del институт parpadean. Lyra empieza a desvanecerse visiblemente (su forma se vuelve translúcida). Haruto siente un dolor agudo en las sienes.
+>
+> Él la toma de la mano. Ambos parpadean. La luz regresa.
+>
+> Detalle técnico agregado: Cuando sus frecuencias se sincronizan, producen un pulso electromagnético detectable a 200 metros. Esto explica por qué Watcher_0 puede rastrearlos.
+
+---
+
+## II. Reconstrucción de "La Madre Protocolar"
+
+### Problema detectado
+
+La revelación "tu madre sabe todo" puede destruir la tensión si se revela demasiado pronto. La madre debe ser un **misterio gradual**, no una carta boca abajo.
+
+### Arquitectura en capas
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    CAPA 1: PROFESORA                    │
+│  "Mamá académica" — Normalidad del slice of life       │
+│  • Prepara bentos demasiado elaborados                  │
+│  • Pregunta por las notas de Haruto                    │
+│  • Tiene una张照片 de Haruto de niño en su oficina      │
+└────────────────────────────┬────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────┐
+│              CAPA 2: ASTRÓNOMA (Parcial)                │
+│  "Algo no cuadra" — Semillas de misterio                │
+│  • Tiene documentos en un idioma que no existe         │
+│  • Se despierta a horas extrañas                       │
+│  • Tiene unaобращение con la директор sobre "el niño"  │
+└────────────────────────────┬────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────┐
+│                CAPA 3: AGENTE (Completa)                │
+│  "La verdad emerge" — Clímax del arco                  │
+│  • Participó en proyecto CLASSIFIED                     │
+│  • Conoce la naturaleza de Haruto                       │
+│  • Tiene conexión con otros Watchers                   │
+└─────────────────────────────────────────────────────────┘
+```
+
+### Personaje: Dra. Yuki Tanaka-Shinoda
+
+**Edad aparente:** 44 años (real: 47)
+**Profesión pública:** Profesora de astronomía, Universidad de Kita-Hokkaido. Especialista en astrofísica de ondas gravitacionales.
+**Profesión oculta:** Ex miembro del Proyecto JORMUNGANDR (1978-1989), actualmente recluta pasiva de la Red Schumann.
+
+**Detalles diferenciadores:**
+
+- **Manía específica:** Organiza los libros por color Y por longitud de onda. Sus estantes son un arcoíris espectral.
+- **Debilidad:** No puede cocinar sin quemar algo. La excepción: *onkomi* (sopa miso), que prepara con concentración de relojero.
+- **Secreto guardado:** Hace 18 años, su esposo (padre de Haruto) desapareció durante una misión de la Red. Ella nunca dejó de buscarlo. Esto la conecta emocionalmente con la situación de Lyra (perdida, buscando algo).
+
+### Escenas para desarrollar el arco materno
+
+**Escena 1 — "El álbum":**
+> Lyra, buscando información sobre "padres", encuentra un álbum familiar. Nota una foto donde un hombre de traje blanco sostiene a un bebé Haruto. El fondo muestra una instalación subterránea.
+>
+> Lyra: "Este hombre... no está biológicamente relacionado con Haruto."
+> Mamá (desde la cocina): "Ya lo sabes."
+> Lyra: "...¿Desde cuándo?"
+> Mamá: "Desde que él tenía tres años. Desde que dejó de llamarme 'mamá' para llamarme 'Yuki'. Desde que los archivos de mi esposo terminaron en mi escritorio con la palabra 'ERROR' escrita con marcador rojo."
+>
+> **Pago:** Esto establece que la madre es aliada, no antagonista. También introduce al padre como personaje perdido.
+
+**Escena 2 — "La sesión de astronomía":**
+> La madre lleva a Haruto y Lyra al observatorio de la universidad. Les muestra "su proyecto personal": un mapa de anomalías electromagnéticas en Hokkaido.
+>
+> "Hace treinta años, el gobierno japonés captó una señal. No de estrellas. De dentro de la tierra. Decían que era interferencia. Yo sabía que era comunicación."
+>
+> Señala un punto rojo: "Aquí nació Haruto. El hospital de Shiretoko. Dato curioso: se cerró hace tres meses por 'renovaciones'."
+>
+> **Pago:** Esto vincula a Haruto con la geografía. También sugiere que alguien está limpiando rastros.
+
+---
+
+## III. Reinterpretación de Watcher_0
+
+### Problema detectado
+
+Si Watcher_0 es Nishimura desde el inicio, pierde el factor de sorpresa. Si es un personaje nuevo, no tiene conexión emocional.
+
+### Solución: Watcher_0 como *posición*, no como *individuo*
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   WATCHER_0 no es UNA persona.                          │
+│   Es el TÍTULO de quien
+
+--- ITERACIÓN 4 ---
+<think>
+El usuario me pide que actúe como investigador experto para refinar y expandir las ideas arquitectónicas que proporcioné. Debo:
+
+1. Mejorar la consistencia
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá
+
+Los tres elementos arquitectónicos son:
+1. "Homestay Protocol: Aceptación Táctica" - Frecuencia Schumann + dependencia física romántica
+2. "La Madre Protocolar" - La madre de Haruto como científica del proyecto SETI + agente de la red oculta
+3. "Watcher_0 Desenmascarado" - Nishimura como desertora alienígena + conexión con la madre
+
+Debo expandir cada uno, añadir capas de complejidad, y hacerlas más específicas y ejecutables. También debo mantener el tono RomCom con acción, sci-fi, misterio y slice of life.
+
+Voy a estructurar la respuesta como una investigación profunda de cada idea, añadiendo:
+
+1. Detalles de ejecución narrativa
+2. Desarrollo de personajes
+3. Arcos emocionales
+4. Tensión romántica concreta
+5. Conflictos específicos
+6. Oportunidades para escenas memorables
+
+Empezaré con un resumen de las ideas y luego los desarrollaré uno por uno. Debo evitar repetir textualmente y evolucionar los conceptos. Veo que el sistema me indica que debo actuar como un "Arquitecto Narrativo e Investigador de Lore", así que debo mantener ese rol. También debo responder siempre en español según las instrucciones del sistema.
+</think>
+
+# 🔬 Investigación Narrativa — Profundización Arquitectónica
+
+---
+
+## Prefacio Analítica
+
+Las tres propuestas anteriores establecen un andamiaje temático sólido: **frecuencia como vínculo**, **herencia como misterio**, y **Watcher como nodo de redención**. Ahora procedo a refinar la arquitectura interna, corregir inconsistencias detectadas, y expandir las posibilidades narrativas que cada elemento desbloquea.
+
+---
+
+## I. Revisión Crítica del "Homestay Protocol"
+
+### Problema detectado
+
+La mecánica de dependencia física corre el riesgo de percibirse como predecible (isekaiLN #327 donde el protagonista masculino sostiene a la heroine necesitada). Para diferenciarla, necesitamos **invertir la vulnerabilidad**.
+
+### Propuesta refactorizada: "Dual Resonance Protocol"
+
+**Concepto evolucionado:** La dependencia es **bidireccional e inconsciente**.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   HARUTO ────── emite Schumann (7.83 Hz + variación)    │
+│      │                                                 │
+│      │ ←──── necesita para estabilizar forma física    │
+│      ↓                                                 │
+│   LYRA ────── emite frecuencia inversa (antimateria    │
+│      │        biológica) que REGENERA el nodo neural   │
+│      │        de Haruto                                │
+│      ↓                                                 │
+│   EFECTO: Sin Lyra, Haruto experimenta deterioro       │
+│   cognitivo progresivo (pérdida de memoria a corto     │
+│   plazo, migrañas, despersonalización)                 │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Aplicación narrativa:**
+
+- **Arco 1-5:** Solo Lyra muestra dependencia. Haruto la interpreta como excentricidad alienígena.
+- **Arco 6-8:** Haruto comienza a experimentar los síntomas. Niega la conexión.
+- **Arco 9-12:** Ambos requieren cercanía física para funcionar. Esto invierte los roles: ahora Haruto busca excusas para estar cerca de Lyra, lo cual es más cómico y románticamente satisfactorio.
+- **Clímax:** En una crisis, ambos se estabilizan mutuamente, revelando que no es unidireccional.
+
+### Escenas específicas para Homestay Protocol
+
+**Escena tono RomCom — "La geografía del perdón":**
+> Los padres de Haruto salen de viaje. Quedan solos en la casa. Haruto, ya experimentando síntomas leves, improvisa una excusa:
+>
+> *"Necesito hacer un experimento científico. Sobre la... conductividad electromagnética del sofá."*
+>
+> Lyra, 分析中 (analizando), responde:
+>
+> *"Haruto. Tus niveles de cortisol indican que mientes. Sin embargo, tu dilatación pupilar sugiere anticipación de intimidad. Esto es... confuso."*
+>
+> Haruto enrojece. Lyra se inclina hacia él por reflejo biológico. El sofá queda olvidado.
+
+**Escena tono Sci-Fi — "Interferencia":**
+> Un apagón afecta la zona. Las luces del институт parpadean. Lyra empieza a desvanecerse visiblemente (su forma se vuelve translúcida). Haruto siente un dolor agudo en las sienes.
+>
+> Él la toma de la mano. Ambos parpadean. La luz regresa.
+>
+> Detalle técnico agregado: Cuando sus frecuencias se sincronizan, producen un pulso electromagnético detectable a 200 metros. Esto explica por qué Watcher_0 puede rastrearlos.
+
+---
+
+## II. Reconstrucción de "La Madre Protocolar"
+
+### Problema detectado
+
+La revelación "tu madre sabe todo" puede destruir la tensión si se revela demasiado pronto. La madre debe ser un **misterio gradual**, no una carta boca abajo.
+
+### Arquitectura en capas
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    CAPA 1: PROFESORA                    │
+│  "Mamá académica" — Normalidad del slice of life       │
+│  • Prepara bentos demasiado elaborados                  │
+│  • Pregunta por las notas de Haruto                    │
+│  • Tiene una foto de Haruto de niño en su oficina      │
+└────────────────────────────┬────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────┐
+│              CAPA 2: ASTRÓNOMA (Parcial)                │
+│  "Algo no cuadra" — Semillas de misterio                │
+│  • Tiene documentos en un idioma que no existe         │
+│  • Se despierta a horas extrañas                       │
+│  • Tiene una обращение con la директор sobre "el niño"  │
+└────────────────────────────┬────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────┐
+│                CAPA 3: AGENTE (Completa)                │
+│  "La verdad emerge" — Clímax del arco                  │
+│  • Participó en proyecto CLASSIFIED                     │
+│  • Conoce la naturaleza de Haruto                       │
+│  • Tiene conexión con otros Watchers                   │
+└─────────────────────────────────────────────────────────┘
+```
+
+### Personaje: Dra. Yuki Tanaka-Shinoda
+
+**Edad aparente:** 44 años (real: 47)
+**Profesión pública:** Profesora de astronomía, Universidad de Kita-Hokkaido. Especialista en astrofísica de ondas gravitacionales.
+**Profesión oculta:** Ex miembro del Proyecto JORMUNGANDR (1978-1989), actualmente recluta pasiva de la Red Schumann.
+
+**Detalles diferenciadores:**
+
+- **Manía específica:** Organiza los libros por color Y por longitud de onda. Sus estantes son un arcoíris espectral.
+- **Debilidad:** No puede cocinar sin quemar algo. La excepción: *onkomi* (sopa miso), que prepara con concentración de relojero.
+- **Secreto guardado:** Hace 18 años, su esposo (padre de Haruto) desapareció durante una misión de la Red. Ella nunca dejó de buscarlo. Esto la conecta emocionalmente con la situación de Lyra (perdida, buscando algo).
+
+### Escenas para desarrollar el arco materno
+
+**Escena 1 — "El álbum":**
+> Lyra, buscando información sobre "padres", encuentra un álbum familiar. Nota una foto donde un hombre de traje blanco sostiene a un bebé Haruto. El fondo muestra una instalación subterránea.
+>
+> Lyra: "Este hombre... no está biológicamente relacionado con Haruto."
+> Mamá (desde la cocina): "Ya lo sabes."
+> Lyra: "...¿Desde cuándo?"
+> Mamá: "Desde que él tenía tres años. Desde que dejó de llamarme 'mamá' para llamarme 'Yuki'. Desde que los archivos de mi esposo terminaron en mi escritorio con la palabra 'ERROR' escrita con marcador rojo."
+>
+> **Pago:** Esto establece que la madre es aliada, no antagonista. También introduce al padre como personaje perdido.
+
+**Escena 2 — "La sesión de astronomía":**
+> La madre lleva a Haruto y Lyra al observatorio de la universidad. Les muestra "su proyecto personal": un mapa de anomalías electromagnéticas en Hokkaido.
+>
+> "Hace treinta años, el gobierno japonés captó una señal. No de estrellas. De dentro de la tierra. Decían que era interferencia. Yo sabía que era comunicación."
+>
+> Señala un punto rojo: "Aquí nació Haruto. El hospital de Shiretoko. Dato curioso: se cerró hace tres meses por 'renovaciones'."
+>
+> **Pago:** Esto vincula a Haruto con la geografía. También sugiere que alguien está limpiando rastros.
+
+---
+
+## III. Reinterpretación de Watcher_0
+
+### Problema detectado
+
+Si Watcher_0 es Nishimura desde el inicio, pierde el factor de sorpresa. Si es un personaje nuevo, no tiene conexión emocional.
+
+### Solución: Watcher_0 como *posición*, no como *individuo*
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   WATCHER_0 no es UNA persona.                          │
+│   Es el TÍTULO de
+
+--- ITERACIÓN 5 ---
+<think>
+El usuario me pide que profundice y expanda las ideas arquitectónicas que proporcioné anteriormente, enfocándome en mejorar la consistencia, atractivo de personajes y llevar las ideas más allá. Debo actuar como un investigador experto de narrativa.
+
+Ya proporcioné una investigación inicial en la que profundicé en:
+
+1. **Homestay Protocol** → evolucioné a "Dual Resonance Protocol" (bidireccional)
+2. **La Madre Protocolar** → establecí capas de revelación gradual
+3. **Watcher_0** → propuse que sea una POSICIÓN, no un individuo
+
+Ahora debo continuar esta investigación, expandiendo aún más estas ideas con:
+
+- Más detalles de ejecución
+- Escenas específicas
+- Arcos de personajes más definidos
+- Conexiones entre los tres elementos
+- Potencial para slice of life y romcom
+- Elementos de misterio y sci-fi
+
+Debo mantener el español como idioma de respuesta y estructura académica de investigación.
+
+</think>
+
+# 🔬 Investigación Narrativa — Iteration #2
+
+## Expanding the Dual-Phase Architecture
+
+---
+
+## Prefacio
+
+La investigación anterior estableció tres pilares fundamentales con sus mecanismos core. Esta iteración se enfoca en la **intersección entre pilares**: cómo cada uno alimenta a los otros, creando un ecosistema narrativo donde la tensión romántica, el misterio y el slice-of-life se retroalimentan.
+
+---
+
+## IV. La Geometría del Conflicto: Intersección de Pilares
+
+```
+                    ┌───────────────────────┐
+                    │   WATCHER_0            │
+                    │   (La Cacería)         │
+                    └───────────┬───────────┘
+                                │
+            ┌───────────────────┼───────────────────┐
+            │                   │                   │
+            ▼                   ▼                   │
+    ┌───────────────┐   ┌───────────────┐           │
+    │   HOMESTAY    │◄──│   MADRE       │           │
+    │   PROTOCOL    │   │   PROTOCAR    │           │
+    │ (Dependencia) │   │  (Conocimiento)│          │
+    └───────────────┘   └───────────────┘           │
+            │                   │                   │
+            │                   │                   │
+            ▼                   ▼                   │
+    ┌───────────────────────────────────┐           │
+    │       ARCOS ROMÁNTICOS            │◄──────────┘
+    │  (Confianza, Vulnerabilidad,      │
+    │   Superación de Miedos)           │
+    └───────────────────────────────────┘
+```
+
+### Mecánica de flujo
+
+**El Homestay Protocol genera evidencia** → La madre decodifica → Watcher_0 rastrea
+
+Cuando Haruto y Lyra se estabilizan mutuamente, producen pulsos electromagnéticos detectables. La madre, con su acceso a equipos del observatorio, detecta estos pulsos. Pero Watcher_0 también tiene tecnología para detectarlos. Esto crea una carrera donde la pareja inadvertently revela su ubicación cada vez que se acerca demasiado.
+
+**Aplicación práctica:**
+
+> Escena tipo "tensión cómica + sci-fi":
+>
+> Haruto y Lyra intentan mantener distancia científica en el salón de clases. FALLAN.
+>
+> Lyra: "Según el protocolo de homestay, debo mantener 1.5 metros de distancia para minimizar interferencia."
+> Haruto: "Exacto. Es por tu propia seguridad."
+> [Ambos se mueven simultáneamente hacia el centro del salón]
+>
+> Profesor: "Tanaka-kun. ¿Estás bien? Tu cara está roja."
+> Haruto: "Alergia. A la... geometría."
+> Lyra (en voz baja, análisis en modo silencioso): "Haruto. Tus niveles de cortisol indican que quieres tocarme. Recalculando protocolos."
+>
+> Los detectores de Watcher_0 parpadean en segundo plano.
+
+---
+
+## V. Deep Dive: Dual Resonance Protocol — Expanded Lore
+
+### Base científica (plausible)
+
+La frecuencia Schumann (7.83 Hz) es real: es la resonancia natural de la cavidad electromagnética Tierra-ionosfera. Se ha estudiado su efecto en el comportamiento humano y animal.
+
+**Innovación narrativa:** Lyra no es humana porque su especie evolucionó en un planeta con una cavidad resonante diferente. Cuando llegó a la Tierra, su biología intenta sincronizarse con Schumann, pero necesita un ancla: un ser humano cuya frecuencia pueda utilizar como plantilla.
+
+**Haruto no es random.** Su padre (el padre biológico, no adoptivo) fue parte del Proyecto JORMUNGANDR. Específicamente, fue接触者: un humano cuya frecuencia natural se había "preparado" mediante exposición a señales específicas. Cuando el padre desapareció, dejó un "eco" de frecuencia en Haruto, que ni siquiera sabe que posee.
+
+### Implicaciones para el arco de Haruto
+
+**Arco completo:**
+
+1. **Héroesis inicial:** "Soy normal, ella es la rara" (típico de isekai)
+2. **Revelación parcial:** "Soy un arma biológica accidental" (giro thriller)
+3. **Negación:** "¿Y si me uso solo para atraparla?" (conflicto interno)
+4. **Aceptación:** "Si soy su ancla, entonces la protegeré" (heroísmo)
+5. **Superación:** "No soy su ancla. Soy su *elección*" (liberación y romanticismo maduro)
+
+### Escena clave para Arco 4-5
+
+> [A horas de la mañana, Haruto wakes up before Lyra. She has been staying in his room for "scientific observation."]
+>
+> He notices: His hand is on her waist. Neither remembers falling asleep.
+>
+> Haruto (internal monologue): "I have a choice. I can move away. She won't know."
+>
+> He doesn't move.
+>
+> Lyra (eyes still closed): "Your heart rate is elevated. Either you are in danger, or you have accepted something."
+>
+> Haruto: "The second one."
+>
+> Lyra: "Accepting what?"
+>
+> Haruto: "That if you need this frequency to exist, I don't mind being the source. Not because of protocol. Because—"
+>
+> Lyra opens one eye: "Because...?"
+>
+> Haruto: "Because then I get to be the reason you're here. And that's... selfish. But true."
+>
+> Lyra sits up, stares at him, processes for three full seconds.
+>
+> "Haruto. You just confessed. In a scientifically logical way. I don't know if I should call it romantic or terrifying."
+>
+> "Call it both."
+
+---
+
+## VI. La Madre — Arco Completo y Motivaciones Ocultas
+
+### ficha expandida: Dra. Yuki Tanaka-Shinoda
+
+**Edad:** 47 (aparenta 44)
+**Estado civil:** Viuda técnica (esposo desaparecido, no confirmado muerto)
+**Colegio:** Universidad de Kita-Hokkaido, Departamento de Astrofísica
+**Specialty:** Ondas gravitacionales de baja frecuencia, resonancia Schumann en sistemas planetarios
+
+**Background completo:**
+
+En 1978, Yuki era estudiante de doctorado en astrofísica. Durante una investigación sobre señales de radio inexplicables en Hokkaido, fue reclutada por una agencia sin nombre (el Proyecto JORMUNGANDR). Era una analista. Su trabajo: revisar datos de sensores subterráneos y buscar patrones.
+
+En 1985, los sensores captaron algo que cambió todo: una señal que respondía. No era ruido. Era comunicación.
+
+En 1988, Yuki conoció a un joven physicist llamado Takeshi Shinoda. Él estaba estudiando anomalías geomagnéticas. Se casaron en 1990. En 1993, Yuki quedó embarazada. En 1994, durante el nacimiento de Haruto, algo pasó en el hospital de Shiretoko. Takeshi entró en una sala sellada y nunca salió.
+
+Yuki recibió los archivos de Takeshi tres días después. Todos decían "ERROR". Pero había una nota manuscrita:
+
+> *"No lo olvides. Nuestro hijo es la respuesta. Protégelo."*
+
+Yuki nunca supo qué significaba. Hasta que Lyra llegó.
+
+### Layers de misterio para revelar
+
+**Layer 1 (Episodios 2-4):** La madre es simplemente overprotective. Tiene reglas excesivas sobre la limpieza del hogar. Prepara bentos enormes.
+
+**Layer 2 (Episodios 5-7):** Lyra detecta anomalies en la casa: señales de radio en los muros. La madre no quiere hablar del tema.
+
+**Layer 3 (Episodios 8-9):** La madre muestra a Haruto los archivos de su padre. No están vacíos: tienen coordenadas.
+
+**Layer 4 (Episodio 11):** La madre confiesa que Watcher_0 contactó a Takeshi. Su padre eligió el contacto. Yuki no sabe si fue buena decisión.
+
+**Layer 5 (Clímax):** La madre revela que ella fue Watcher_0 antes. Hace 20 años. Por eso Takeshi eligió el contacto: porque ella le dio acceso. El ciclo se repite.
+
+### Escenas específicas para arco materno
+
+**Escena A — "El ritual del bentō" (Slice of life + tensión):**
+> Every morning, Yuki prepares elaborate bentos. Today: bento shaped like a radio telescope.
+>
+> Lyra analyzes it for six minutes.
+>
+> "Mother-Shinoda. The rice distribution suggests mathematical precision. This is not food. This is code."
+>
+> Yuki (smiling): "It's my hobby."
+>
+
