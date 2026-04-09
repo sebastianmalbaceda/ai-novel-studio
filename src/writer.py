@@ -53,13 +53,26 @@ def generate_chapter_summary(chapter_content, chapter_num, config):
     """
 
     try:
-        summary = call_ai_api(prompt, system_prompt, temperature=0.5)
-        return summary.strip()
-    except Exception as e:
-        print(
-            f"Aviso: Falló la generación del resumen, pero el capítulo se guardó: {e}"
+        response = call_ai_api(prompt, system_prompt, temperature=0.2)
+        summary = response.strip()
+        summary = re.sub(
+            r"<extra_thought>.*?</extra_thought>", "", summary, flags=re.DOTALL
         )
-        return "Resumen no disponible debido a error técnico."
+        summary = re.sub(r"<think>.*?</think>", "", summary, flags=re.DOTALL)
+        summary = re.sub(r"\(Pensamiento:.*?\)", "", summary, flags=re.DOTALL)
+        summary = re.sub(r"\[NOTAS?:.*?\]", "", summary, flags=re.DOTALL)
+        summary = re.sub(r"<\|.*?\|>", "", summary, flags=re.DOTALL)
+        summary = re.sub(r"\*\*.*?\*\*", "", summary, flags=re.DOTALL)
+        summary = summary.strip()
+        if len(summary) < 30:
+            print(
+                f"  WARN: Resumen demasiado corto ({len(summary)} chars), descartado."
+            )
+            summary = f"(Resumen del capítulo {chapter_num} no disponible)"
+        return summary
+    except Exception as e:
+        print(f"  WARN: Error generando resumen: {e}")
+        return f"(Resumen del capítulo {chapter_num} no disponible)"
 
 
 def update_memory_with_ai(chapter_content, chapter_num, config):
@@ -101,40 +114,33 @@ def update_memory_with_ai(chapter_content, chapter_num, config):
 
     try:
         response = call_ai_api(prompt, system_prompt, temperature=0.2)
-        json_match = re.search(r"\{.*\}", response, re.DOTALL)
-        if json_match:
-            data = json.loads(json_match.group())
 
-            # Persistencia de datos
-            if "personajes_actualizados" in data:
-                save_personajes(data["personajes_actualizados"])
-            if "nuevo_evento_cronologia" in data:
-                cronologia[f"capitulo_{chapter_num}"] = data["nuevo_evento_cronologia"]
-                save_cronologia(cronologia)
-            if "hilos_actualizados" in data:
-                save_hilos(data["hilos_actualizados"])
+        summary = response.strip()
+        summary = re.sub(
+            r"<extra_thought>.*?</extra_thought>", "", summary, flags=re.DOTALL
+        )
+        summary = re.sub(r"<think>.*?</think>", "", summary, flags=re.DOTALL)
+        summary = re.sub(r"\(Pensamiento:.*?\)", "", summary, flags=re.DOTALL)
+        summary = re.sub(r"\[NOTAS?:.*?\]", "", summary, flags=re.DOTALL)
+        summary = re.sub(r"<\|.*?\|>", "", summary, flags=re.DOTALL)
+        summary = re.sub(r"\{.*?\}", "", summary, flags=re.DOTALL)
+        summary = re.sub(r"\*\*.*?\*\*", "", summary, flags=re.DOTALL)
+        summary = summary.strip()
 
-            # Gestión de semillas (añadir nuevas)
-            if "semillas_nuevas" in data and data["semillas_nuevas"]:
-                current_semillas = load_semillas()
-                for i, s in enumerate(data["semillas_nuevas"]):
-                    current_semillas[f"semilla_{chapter_num}_{i}"] = s
-                save_semillas(current_semillas)
-
-            # Actualizar canon
-            if "hechos_canon_nuevos" in data and data["hechos_canon_nuevos"]:
-                with open("../data/canon.md", "a", encoding="utf-8") as f:
-                    for hecho in data["hechos_canon_nuevos"]:
-                        f.write(f"\n- {hecho}")
-
+        if len(summary) < 30:
             print(
-                f"Sistema de Excelencia Narrativa actualizado tras el Capítulo {chapter_num}."
+                f"  WARN: Resumen demasiado corto ({len(summary)} chars), descartado."
             )
+            summary = f"(Resumen del capítulo {chapter_num} no disponible)"
+
+        return summary
+
     except Exception as e:
-        print(f"Error al actualizar la memoria de excelencia: {e}")
+        print(f"  WARN: Error generando resumen: {e}")
+        return f"(Resumen del capítulo {chapter_num} no disponible)"
 
 
-def validate_chapter_language(content, chapter_num):
+def update_memory_with_ai(chapter_content, chapter_num, config):
     """Valida que el capítulo esté en español puro sin caracteres de otros idiomas."""
     # Detectar caracteres CJK (chino, japonés kanji), cirílico, etc.
     cjk_pattern = re.compile(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uff00-\uffef]")
