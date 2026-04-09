@@ -324,3 +324,36 @@ I need to write a summary in plain text, no markdown, no lists, no headers, no d
 Al amanecer, Lyra, vestida con la camiseta del protagonist, se prepara para revelar su secreto. Con una vulnerabilidad que no le había visto antes, le confiesa que no es humana y que proviene de un lugar muy lejano, advertencia que llevaba tiempo flotando entre ambos. El protagonist, exhausto por semanas de insomnio y síntomas extraños —hormigueo en los dedos, presión en las sienes y despertares a las 2:47 de la madrugada—, siente que finalmente se nombra lo que ya sospechaba. El peso de esa confesión se acumula en su pecho mientras escucha en silencio, aware de que algo está a punto de cambiar irreversiblemente en su relación y en todo lo que creía saber sobre Lyra. La revelación abre un hilo pendiente: ¿cuál es el límite de tiempo que menciona antes de que sea "demasiado tarde"?
 
 ---
+
+### Capítulo 18
+
+<think>
+The user wants me to summarize Chapter 18 of a novel called "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" in a single fluid paragraph of maximum 200 words. They want me to include key events, relationship changes, and open threads. I need to return only the summary text, nothing else.
+
+Let me write this summary based on the provided extract. The chapter is titled "Las Cosas Que No Se Dicen" (The Things Unsaid).
+
+Key events:
+- Lyra confesses something (we don't know full details from the extract)
+- The protagonist reacts with shock
+
+
+- Lyra reveals she was "designed" and came from somewhere where intelligence is measured differently
+- She was designed to adapt, study, and leave no traces
+- The protagonist reveals he suspected the truth since the first week of class
+- They discuss the beginning of their relationship
+
+Relationship changes:
+- The truth between them is finally out in the open
+- Their dynamic shifts from suspicion to openness
+
+Open threads:
+- What exactly did Lyra come to Earth for?
+- What happens now that the truth is revealed?
+
+I'm crafting the summary in Spanish, hitting around 200 words with all the key plot points and relationship dynamics intact.
+
+</think>
+
+El protagonista finalmente confronta a Lyra en la cocina al amanecer, y ella admite ser de otro mundo, revelando que fue diseñada específicamente para adaptarse, estudiar y no dejar rastros. La confesión impacta al joven, quien confiesa a su vez que sospechaba la verdad desde la primera semana de clase, al notar detalles como su forma extraña de describir los onigiri, su desconcierto ante los anuncios del metro y el día que intentó usar el control remoto como teléfono. Lyra asiente, como si ya esperaba esa respuesta, confirmando que ambos cargaban ese secreto en silencio. La revelación transforma la cocina familiar en un umbral entre dos realidades, donde objetos cotidianos como la tetera y los platos siguen igual, pero todo ha cambiado emocionalmente entre ellos. Se abre una nueva fase en su relación, ahora sin máscaras ni ocultaciones, aunque queda pendiente el propósito real de Lyra en la Tierra y las consecuencias de su confesión.
+
+---
