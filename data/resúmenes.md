@@ -83,13 +83,13 @@ Lyra revela que ha estado vigilando a Haruto treinta y cuatro días antes de lle
 
 ---
 
-### Capítulo 14 — "Opciones"
+### Capítulo 14 — "Límites de la Coherencia"
 
 Haruto descubre que es una anomalía magnética cuyo cuerpo emite una señal que Lyra necesita. Tiene tres opciones: olvidar, huir o quedarse. Kenji aparece y Haruto le cuenta todo. Lyra decide que ya no hay necesidad de fingir.
 
 ---
 
-### Capítulo 15 — "Las Respuestas Sin Dar"
+### Capítulo 15 — "El Peso de las Respuestas Sin Dar"
 
 Kenji encuentra en los archivos de Nishimura un expediente sobre sujetos de frecuencia anómala con fotos del protagonista a los doce años y de Lyra en 2019. Watcher_0 es una consciencia artificial originada en el nodo Takahara. El ancla y el peso —Haruto y Lyra— están en proximidad. Nishimura lleva siete años monitoreando todo. Deben hablar con la madre de Haruto.
 

@@ -287,12 +287,11 @@ def run_writing_agent():
         "3. Diálogos con guion largo (—). "
         '4. Inicia estrictamente con: # Capítulo {chapter_num} — "Título del Capítulo". '
         "REGLAS DEL TÍTULO: "
-        "a) El título debe tener entre 2 y 6 palabras. "
-        "b) Evita repetir palabras usadas en títulos anteriores: Frecuencia, Peso, Coherencia, Protocolo. "
-        "c) Prefiere títulos CONCRETOS (un objeto, un momento, un número) sobre abstractos. "
-        "d) Buenos ejemplos de títulos de esta serie: 'La Chica del Cielo', 'Canibalismo Mediático', 'Cuarenta y Siete Suscriptores', 'Zona Muerta', 'Café a las 6 AM'. "
-        "e) Malos ejemplos: 'El Peso de las Respuestas Sin Dar', 'Límites de la Coherencia', 'Frecuencia de Resonancia' (demasiado abstracto o repetitivo). "
-        "f) El título debe evocar el momento más significativo del capítulo, no resumirlo."
+        "a) Longitud: entre 2 y 6 palabras. "
+        "b) El título debe capturar el momento más significativo o evocador del capítulo, no resumirlo. "
+        "c) Evita títulos que empiecen con 'El Peso de', 'Límites de', 'La Frecuencia de' repetidamente. "
+        "d) Buenos referentes de esta serie: 'La Chica del Cielo', 'Canibalismo Mediático', 'Cuarenta y Siete Suscriptores', 'Zona Muerta', 'Café a las 6 AM'. "
+        "e) Sé creativo pero ancla el título en algo concreto del capítulo."
         "5. El capítulo debe tener un cierre completo, nunca terminar a mitad de frase."
     )
 
