@@ -357,3 +357,43 @@ I'm crafting the summary in Spanish, hitting around 200 words with all the key p
 El protagonista finalmente confronta a Lyra en la cocina al amanecer, y ella admite ser de otro mundo, revelando que fue diseñada específicamente para adaptarse, estudiar y no dejar rastros. La confesión impacta al joven, quien confiesa a su vez que sospechaba la verdad desde la primera semana de clase, al notar detalles como su forma extraña de describir los onigiri, su desconcierto ante los anuncios del metro y el día que intentó usar el control remoto como teléfono. Lyra asiente, como si ya esperaba esa respuesta, confirmando que ambos cargaban ese secreto en silencio. La revelación transforma la cocina familiar en un umbral entre dos realidades, donde objetos cotidianos como la tetera y los platos siguen igual, pero todo ha cambiado emocionalmente entre ellos. Se abre una nueva fase en su relación, ahora sin máscaras ni ocultaciones, aunque queda pendiente el propósito real de Lyra en la Tierra y las consecuencias de su confesión.
 
 ---
+
+### Capítulo 19
+
+<think>
+The user wants me to summarize Chapter 19 of a novel in maximum 200 words. I need to:
+- Write in plain text in Spanish
+- No markdown formatting
+- No bullet lists
+- No tables
+- No author notes
+- No disclaimers
+- No questions to the user
+- Just the narrative summary itself
+- Maximum 200 words
+- Include: key events, relationship changes, open threads
+
+From the extract, I can see:
+- Chapter 19 titled "Las Palabras que Pesan" (The Words that Weigh)
+- The narrator has discovered Lyra is an extraterrestrial
+- There's a confession scene after Lyra told him the truth
+- The narrator is processing this information in a humorous/awkward way (asking about onigiri comments)
+- Lyra steps toward him uncertainly, as if unsure if she has permission to approach
+- The scene ends with Lyra appearing uncertain - contrasting with how she seemed before
+
+Key elements:
+- After-confession silence/density
+- Lyra dressed in STARBOUND shirt, silver hair
+- Narrator's internal monologue processing the revelation
+- Comedic deflection about cultural comments (onigiri)
+- Lyra's physical hesitation to approach
+- Physical intimacy/tension building
+- Open thread: the narrator's acceptance or reaction
+
+Let me write a fluid summary paragraph in Spanish.
+
+</think>
+
+El narrador procesa la confesión de Lyra sobre su origen extraterrestre en un momento de silencio denso y cargado de significado. Recordando cómo la conoce —en la cocina, en el sofá, en tiendas a horas absurdas— comprende que esa familiaridad ahora se mezcla con un misterio que lo sobrepasa. Su estrategia para manejar el shock es la ironía: le pregunta si sus comentarios sobre el arroz eran "contexto biológico" en lugar de culturales, llenando el vacío con humor para no enfrentar lo inexplicable. Lyra responde con naturalidad, confirmando ambas cosas, y da un paso hacia él con evidente incertidumbre, como si temiera que su revelación hubiera roto algo entre ellos. El gesto de Lyra —dudosa, vulnerable— contrasta con la imagen que el narrador tenía de ella y abre un hilo sobre cómo continuará su relación ahora que la verdad está entre ambos, flotando como una burbuja a punto de estallar.
+
+---
