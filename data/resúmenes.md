@@ -274,3 +274,28 @@ Debo condensar esto en un párrafo fluido de máximo 200 palabras.
 En la intimidad de la cocina, Lyra confronta al narrador sobre una frase incompleta en su cuaderno mientras su reflejo en el cristal muestra unos ojos marrones que contrastan con su habitual color violeta, revelando una vulnerabilidad nunca antes vista. La tensión alcanza su punto máximo cuando Lyra admite que necesita algo que el narrador emite, y que existe una entidad externa que lo observa por esa razón. Ella le pide claridad sobre si desea que permanezca a su lado, explicando que su especie tiene protocolos de eficiencia que incluyen retirarse si su presencia genera daño neto. El narrador, overwhelmed por semanas de insomnio y la sobrecarga de revelaciones, cuestiona la justicia de una decisión que considera imposible. El capítulo cierra con la palabra "Instrucciones" quedando suspendida en el aire, abriendo múltiples interrogantes: quién otorga esas órdenes, qué significa el "peso" que el narrador emite, por qué Lyra tiene los ojos marrones en ese momento, y qué sucedería si decidiera marcharse. La relación entre ambos da un giro hacia la intimidad y la interdependencia, mientras el misterio sobre la verdadera naturaleza y propósito de Lyra se profundiza.
 
 ---
+
+### Capítulo 16
+
+<think>
+The user wants me to summarize Chapter 16 of the novel "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" in a fluid paragraph of maximum 200 words.
+
+Let me analyze the key events:
+
+1. The protagonist wakes up multiple times at 2:47 AM with physical symptoms (tingling fingertips, pressure in temples)
+2. He counts ceiling cracks - always eleven
+3. Lyra also doesn't sleep, her breathing is deeper, more meditative, as if listening to something
+4. He questions why he was watched for 34 days and selected for "stability"
+5. In the morning, Lyra is standing at the window in his grey T-shirt, silver hair tied with a chemistry pencil, staring at something beyond the glass/beyond the city
+
+
+6. When he tries to touch her shoulder, he feels that something will change
+7. Lyra says she needs to tell him something - her voice is vulnerable and fragile, different from before
+
+The chapter establishes a shift in their dynamic, with Lyra preparing to reveal something significant and the protagonist becoming aware of his own mysterious selection. Several mysteries remain unresolved: why he was specifically chosen for this stability, what Lyra's been listening to during those sleepless nights, and what transformation awaits them both. The narrative sets up an impending confession that will likely explain the tension building between them.
+
+</think>
+
+Durante varias noches, el protagonista despierta a la misma hora, las 2:47, con hormigueo en los dedos y presión en las sienes, contando siempre las once grietas del techo. Lyra tampoco duerme; él percibe su respiración profunda y meditativa, como si escuchara algo invisible. Ambos cuestionan la razón de su selección: ¿estabilidad para qué, para quién? A la mañana siguiente, Lyra aparece inmóvil frente a la ventana con la camiseta gris del protagonista, el cabello plateado recogido con un lápiz de química, mirando hacia algo más allá de la ciudad. Cuando él intenta tocarla, algo lo detiene: intuye que el contacto cambiará algo indefinible. Lyra finalmente habla con una voz nueva, vulnerable y frágil, diferente a la del调查中 la turista confundida o la científica curiosa, anunciando que necesita decirle algo. El capítulo cierra ese momento de tensión emocional donde ella está a punto de revelar un secreto que podría transformar su relación, mientras el peso de cuarenta segundos —la duración de esos despertares— planea sobre ambos como una cuenta regresiva.
+
+---
