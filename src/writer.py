@@ -166,9 +166,13 @@ def validate_chapter_language(content, chapter_num):
 
 def clean_model_output(content):
     """Limpia la salida del modelo de trazas de razonamiento y otros elementos no deseados."""
+    content = re.sub(
+        r"<extra_thought>.*?</extra_thought>", "", content, flags=re.DOTALL
+    )
     content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL)
     content = re.sub(r"\(Pensamiento:.*?\)", "", content, flags=re.DOTALL)
-    content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL)
+    content = re.sub(r"\[NOTAS?:.*?\]", "", content, flags=re.DOTALL)
+    content = re.sub(r"<\|.*?\|>", "", content, flags=re.DOTALL)
 
     lines = content.split("\n")
     cleaned_lines = []
@@ -187,6 +191,36 @@ def clean_model_output(content):
             cleaned_lines.append(line)
 
     return "\n".join(cleaned_lines).strip()
+
+
+def validate_chapter_completeness(content, chapter_num):
+    """Verifica que el capítulo no termine a mitad de frase."""
+    content = content.strip()
+    if not content:
+        return False
+
+    last_lines = content.split("\n")[-5:]
+    last_text = " ".join(line.strip() for line in last_lines if line.strip())
+
+    incomplete_indicators = [
+        last_text.rstrip().endswith(","),
+        last_text.rstrip().endswith("—"),
+        last_text.rstrip().endswith("-"),
+        last_text.rstrip().endswith("..."),
+    ]
+
+    if any(incomplete_indicators):
+        print(f"VALIDACIÓN FALLIDA: El capítulo {chapter_num} termina incompletamente.")
+        print(f"  Última línea: '{last_lines[-1].strip()}'")
+        return False
+
+    if len(last_text) < 20:
+        print(
+            f"VALIDACIÓN FALLIDA: El capítulo {chapter_num} es demasiado corto o está vacío."
+        )
+        return False
+
+    return True
 
 
 def run_writing_agent():
@@ -305,17 +339,28 @@ def run_writing_agent():
 
             cleaned_content = clean_model_output(chapter_content)
 
+            validation_failed = False
+            failure_reason = ""
+
             if not validate_chapter_language(cleaned_content, chapter_num):
+                failure_reason = "caracteres de otros idiomas"
+                validation_failed = True
+
+            if not validate_chapter_completeness(cleaned_content, chapter_num):
+                failure_reason = "cierre incompleto o capítulo demasiado corto"
+                validation_failed = True
+
+            if validation_failed:
                 if attempt < max_attempts:
                     print(f"  Reintentando ({attempt + 1}/{max_attempts})...")
-                    mega_prompt += "\n\nIMPORTANTE: El intento anterior fue rechazado por contener caracteres de otros idiomas (chino, ruso, etc.). Escribe EXCLUSIVAMENTE en español con caracteres latinos."
+                    mega_prompt += f"\n\nIMPORTANTE: El intento anterior fue rechazado por {failure_reason}. Reescribe el capítulo asegurándote de: (1) usar SOLO caracteres latinos del español, (2) terminar con un cierre completo de escena, no a mitad de frase."
                     continue
                 else:
                     print(
-                        f"ERROR: Capítulo {chapter_num} rechazado tras {max_attempts} intentos por contaminación lingüística."
+                        f"ERROR: Capítulo {chapter_num} rechazado tras {max_attempts} intentos por {failure_reason}."
                     )
                     raise RuntimeError(
-                        f"El capítulo {chapter_num} contiene caracteres no permitidos tras {max_attempts} intentos."
+                        f"El capítulo {chapter_num} no pasó validación tras {max_attempts} intentos."
                     )
 
             # Guardar el capítulo

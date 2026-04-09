@@ -19,381 +19,78 @@ Haruto descubre que ha sido asignado oficialmente como tutor de Lyra. Su madre r
 
 ### Capítulo 3 — "Cuarenta y Siete Suscriptores"
 
-Haruto procesa la revelación de que Lyra es alienígena y conecta que su madre (profesora de astronomía con un proyecto secreto) podría estar relacionada con la presencia de Lyra. En el aula vacía, Lyra confirma que tanto Haruto como Kenji han llegado a la conclusión correcta sobre su origen. Kenji llega con lo que considera "prueba definitiva" y amenaza con publicar. Lyra negocia un trato: Kenji mantiene el video como seguro pero no lo publica, y a cambio ella le contará la verdad eventualmente. Lyra menciona que todo está conectado: la madre de Haruto, el nodo bajo el instituto, y la Directora Shirogane. Revela que la madre de Haruto es "la clave de todo".
+Haruto procesa la revelación de que Lyra es alienígena y conecta que su madre (profesora de astronomía con un proyecto secreto) podría estar relacionada con la presencia de Lyra. En el aula vacía, Lyra confirma que tanto Haruto como Kenji han llegado a la conclusión correcta sobre su origen. Kenji llega con lo que considera "prueba definitiva" y amenaza con publicar. Lyra negocia un trato: Kenji mantiene el video como seguro pero no lo publica, y a cambio ella le cuente la verdad eventualmente. Lyra menciona que todo está conectado: la madre de Haruto, el nodo bajo el instituto, y la Directora Shirogane. Revela que la madre de Haruto es "la clave de todo".
 
 ---
 
 ### Capítulo 4 — "Canibalismo Mediático"
 
-Haruto descubre que Kenji no le ha enviado mensajes, señal de que está planificando algo. Kenji los cita en la azotea del edificio B donde muestra diez fotos de la misma esquina de la azotea con una distorsión lumínica inexplicable que aparece a horas irregulares. Lyra detecta que alguien más además de Kenji está recopilando información con un dispositivo que se movió hacia el ala administrativa (zona de la Directora Shirogane). En un servidor de Discord de Kenji, un usuario llamado "Watcher_0" comenta que la frecuencia de distorsión es consistente con emisiones que no deberían existir en entorno urbano y ofrece ayudar por mensaje directo. Lyra identifica que Watcher_0 emite desde dentro del instituto, probablemente el edificio A o la oficina administrativa. Haruto ordena borrar el servidor. Esa noche, Lyra se encierra en su habitación y emite un zumbido en un idioma desconocido.
+Haruto descubre que Kenji no le ha enviado mensajes, señal de que está planificando algo. Kenji los cita en la azotea del edificio B donde muestra diez fotos de la misma esquina de la azotea con una distorsión lumínica inexplicable que aparece a horas irregulares. Lyra detecta que alguien más además de Kenji está recopilando información con un dispositivo que se movió hacia el ala administrativa (zona de la Directora Shirogane). En un servidor de Discord de Kenji, un usuario llamado "Watcher_0" comenta que la frecuencia de distorsión es consistente con emisiones que no deberían existir en entorno urbano y ofrece ayuda. Lyra identifica que Watcher_0 emite desde dentro del instituto, probablemente el edificio A o la oficina administrativa. Haruto ordena borrar el servidor. Esa noche, Lyra se encierra en su habitación y emite un zumbido en un idioma desconocido.
 
 ---
 
 ### Capítulo 5 — "Frecuencia"
 
-El protagonista despierta a las 2:47 de la madrugada perturbado por una sensación de presión eléctrica en el aire y descubre que de la habitación de Lyra emana un zumbido imposible de procesar: tres tonos superpuestos que desafían toda comprensión humana y que su cerebro rechaza como lenguaje. Cuando el sonido cesa, escucha una frase en japonés con acento extranjero que dice: «No está lista. Necesito más tiempo.» El joven permanece despierto hasta el amanecer intentando convencerse de que lo soñó, pero al levantarse a las seis encuentra a Lyra en la cocina aparentemente normal y humana, preparando té y disculpándose por el ruido. Se revela que Lyra necesita la frecuencia Schumann (7.83 Hz) para mantener su integridad estructural y que desde hace tres años ha habido una interferencia artificial que la afecta. Lyra confiesa que el cuerpo de Haruto emite algo que su cuerpo necesita, y que fue seleccionada para observarlo precisamente por esa razón. Alguien más también vigila a Haruto por lo que emite. Lyra debe elegir entre su misión original o quedarse.
+El protagonista despierta a las 2:47 de la madrugada perturbado por un zumbido imposible de procesar: tres tonos superpuestos que desafían toda comprensión humana. Cuando el sonido cesa, escucha una frase en japonés: «No está lista. Necesito más tiempo.» Al amanecer, Lyra se disculpa por el ruido. Se revela que Lyra necesita la frecuencia Schumann (7.83 Hz) para mantener su integridad estructural y que desde hace tres años una interferencia artificial la está afectando. Lyra confiesa que el cuerpo de Haruto emite algo que su cuerpo necesita, y que fue seleccionada para observarlo precisamente por esa razón. Alguien más también vigila a Haruto por lo que emite. Lyra debe elegir entre su misión original y quedarse.
 
 ---
 
 ### Capítulo 6 — "La Distancia Incorrecta"
 
-El narrador pasa una noche inquieta, perseguido por un zumbido de tres tonos que su cerebro no puede procesar. Al día siguiente, Lyra lo espera en la cocina preparando té, vestida con la camiseta del joven. Hay un silencio tenso entre ambos, pero Lyra rompe el hielo disculpándose por los ruidos de la noche anterior. Admite que sufre episodios y que no está lista para algo que se avecina, generando intriga sobre qué amenaza se aproxima. El momento de mayor impacto ocurre cuando Lyra alza la mirada y el narrador descubre que sus ojos son completamente humanos, marrones con motitas doradas, contradiciendo todo lo que asumía sobre ella. Kenji descubre que la subdirectora Nishimura tiene archivos sobre anomalías electromagnéticas en el instituto desde hace siete años, y que Lyra genera un campo que no debería poder generar. El capítulo cierra con la pregunta de si la están guiando o acorralando.
+Kenji descubre que la subdirectora Nishimura posee archivos sobre anomalías electromagnéticas en el instituto desde hace siete años. Lyra revela que sofre episodios y que no está lista para algo que se avecina. El momento clave ocurre cuando Lyra alza la mirada y el protagonista descubre que sus ojos son marrones con motitas doradas. Kenji descubre que Lyra genera un campo que no debería poder generar. El capítulo cierra con la pregunta de si la están guiando o acorralando.
 
 ---
 
-### Capítulo 7
+### Capítulo 7 — "Zona Muerta"
 
-<think>
-The user wants me to summarize Chapter 7 of a novel called "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" in a fluid paragraph of maximum 200 words. They want it in plain text, Spanish, without any markdown formatting, lists, or other elements.
-
-The chapter is titled "Zona Muerta" and the protagonist wakes up to find Lyra missing from her futon. He finds her in the kitchen wearing his t-shirt, with her silver hair in a makeshift bun, looking out the window.
-
-Let me write a summary that captures the key events, relationship changes, and open threads.
-
-Key elements:
-- Protagonist wakes up and notices Lyra is gone from the futon
-- He finds her in the kitchen, she doesn't turn around
-- She was wearing his gray t-shirt
-- She has silver hair in a bun with a pencil
-- Something ominous is coming - she said "algo se avecina"
-- She mentioned she's not ready and has had episodes
-- There's tension/mystery building
-- The chapter ends with her reflection in the glass and an ominous feeling
-
-Let me write this in Spanish, in a fluid paragraph, under 200 words.
-</think>
-
-Al despertar antes del amanecer, el protagonista descubre que Lyra ha desaparecido del futón donde dormía. La búsqueda lo conduce a la cocina, donde la encuentra contemplando el exterior mientras viste una camiseta suya con el logo de una franquicia de videojuegos extinta, el cabello plateado recogido con un lápiz de química. Cuando la saluda, Lyra permanece inmóvil frente al cristal sin girarse, y el reflejo en el vidrio sugiere que algo la atormenta. La tensión narrativa se construye sobre las advertencias que ella emitió previamente —algo se avecina, no está lista, ha sufrido episodios—, revelando que su vulnerabilidad emocional es mayor de lo que aparenta. El detalle doméstico de llevarla puesta su ropa sleeping indica una intimidad progresiva entre ambos, aunque la frialdad de su reacción en este capítulo sugiere que la cercanía también implica exposición a sus secretos más oscuros. El título "Zona Muerta" anticipa un territorio emocional o físico donde ambos deberán adentrarse, dejando abierto qué tipo de amenaza enfrenta Lyra y hasta qué punto el protagonista podrá ayudarla.
+Lyra informa que el punto de origen de la anomalía electromagnética no es el ala administrativa sino algo más profundo: bajo todo el edificio. El edificio A está construido sobre una estructura alienígena geométrica con una firma de frecuencia similar a la de Lyra. Watcher_0 no es un observador externo sino parte del sistema mismo. Kenji cita urgentemente al protagonista a la fotocopiadora. Nishimura dejó documentos a propósito para que alguien los encontrara. Todo indica que alguien quiere que descubran la verdad.
 
 ---
 
-### Capítulo 8
+### Capítulo 8 — "Frecuencia de Resonancia"
 
-<think>
-El usuario me pide que resuma el capítulo 8 de una novela ligera en maximum 200 palabras, en un párrafo fluido en español, incluyendo eventos clave, cambios en relaciones y hilos abiertos. Debo devolver SOLO el texto del resumen, sin markdown, sin bloques de pensamiento, sin tablas, sin listas, sin nada que no sea el resumen narrativo.
-
-Voy a analizar el contenido del capítulo 8 basado en el fragmento proporcionado:
-
-1. Es muy temprano en la mañana (6 AM)
-2. Haruto encuentra a Lyra de pie frente a la ventana, inmóvil, usando su camiseta
-3. Lyra no durmió durante la noche
-4. Hay una tensión emocional - Lyra tiene algo que decirle a Haruto
-5. Ella estaba "evaluando si debía decirte algo"
-6. Hay un momento de vulnerabilidad: Lyra está conteniendo emociones (ojos brillantes/húmedos)
-7. La relación entre ellos ha evolucionado - Haruto ahora siente "preocupación genuina por alguien que hace menos de un mes era una desconocida"
-8. Lyra se siente cómoda usando la camiseta de Haruto
-9. El capítulo termina en un momento de tensión emocional
-
-Basándome en el contexto del capítulo y la novela en general, puedo inferir que:
-- Lyra probablemente va a revelar algo importante sobre sí misma o su misión
-- El vínculo emocional entre ellos se está profundizando
-- Hay un hilo abierto sobre qué quiere decirle Lyra
-
-Voy a escribir un resumen fluido en español:
-
-</think>
-
-En la cocina al amanecer, Haruto descubre a Lyra inmóvil frente a la ventana, enfundada en su camiseta gris y con el cabello plateado recogido, sin haber dormido en toda la noche. Aunque ella lleva semanas habituando la casa, este silencio inquietante revela que algo ha cambiado: ahora existe entre ellos una preocupación genuina que antes no existía. Lyra confiesa que necesitaba evaluar si debía decirle algo importante, y cuando finalmente gira hacia él, su expresión contenida —ojos húmedos, labios apretados— indica que está a punto de revelar algo significativo sobre su verdadera naturaleza o misión. El capítulo deja abierto qué secreto guardará Lyra y cómo cambiará la dinámica entre ambos, estableciendo que su convivencia ya no es mera proximidad sino un vínculo real cargado de responsabilidad emocional.
+Lyra confiesa que necesita la frecuencia Schumann para funcionar y que Haruto emite algo que estabiliza su frecuencia. Cuando ella se acerca demasiado, se genera retroalimentación que afecta dispositivos electrónicos en un radio de cuatrocientos metros. El capítulo avanza hacia la elección de Lyra de quedarse, estableciendo que la proximidad física entre ellos no es solo emocional sino también biológica.
 
 ---
 
-### Capítulo 9
+### Capítulo 9 — "El Número Que No Debería Existir"
 
-<think>The user is asking me to summarize Chapter 9 of a novel called "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" However, they've provided an extract that is clearly labeled as "Capítulo 8" (Chapter 8) - the header says "# Capítulo 8 — 'El Número Que No Debería Existir'".
-
-So there's a mismatch here. The user asks for Chapter 9 but provides Chapter 8's content. I need to handle this carefully.
-
-Wait, let me re-read the instructions. The system prompt says I should summarize in maximum 200 words, respond ONLY with plain text in Spanish, and PROHIBITED: blocks , notes to the author, disclaimers, tables, bullet lists, markdown headings, warnings, questions to the user, or any text that is not part of the narrative summary directly.
-
-The user provides Chapter 8 content but asks for Chapter 9. I have two options:
-1. Summarize the content provided (which is actually Chapter 8) and note the discrepancy
-2. Explain that the content provided is Chapter 8, not Chapter 9
-
-But the instructions also say "PROHIBIDO: preguntas al usuario" (questions to the user), so I shouldn't ask clarifying questions. 
-
-However, I also need to be honest about what I'm being given. The user explicitly asks to summarize Chapter 9, but the text provided is clearly Chapter 8. I should point this out in a simple, direct way since making up a summary of a chapter I haven't seen would be inappropriate.
-
-Let me respond simply stating that the provided text corresponds to Chapter 8, not Chapter 9, and I cannot summarize Chapter 9 without the actual content.
-
-Actually, re-reading the request more carefully - the user asks me to summarize Chapter 9, and then provides an extract. The extract is clearly marked as Chapter 8. I should be straightforward about this discrepancy.
-
-I should note the mismatch between what's requested and what was provided.
-</think>
-
-El texto que proporcionas corresponde al Capítulo 8, titulado "El Número Que No Debería Existir", no al Capítulo 9. No puedo resumir el Capítulo 9 sin el contenido real de ese capítulo. Si me compartes el texto correcto del Capítulo 9, con gusto haré el resumen.
+La madre de Haruto es una Integrada: alguien de la especie de Lyra que eligió vivir como humana. Lleva décadas en la Tierra antes de que él naciera. El video muestra a la madre hace doce años hablando con una entidad no humana que dice: "El niño puede escuchar." El sótano del observatorio guarda secretos que nadie más ha encontrado.
 
 ---
 
-### Capítulo 10
+### Capítulo 10 — "La Frecuencia de Quedarse"
 
-<think>
-El usuario me pide resumir el capítulo 10 de una novela ligera en un máximo de 200 palabras. Debo:
-1. Resumir en un solo párrafo fluido
-2. Máximo 200 palabras
-3. Incluir: eventos clave, cambios en relaciones, hilos abiertos
-4. Solo texto plano, sin formato especial
-5. En español
-6. Ningún elemento restrictivo (no markdown, no listas, etc.)
-
-Del extracto puedo inferir:
-- Es el amanecer, Haruto encuentra a Lyra inmóvil mirando por la ventana
-- Lyra lleva puesta su camiseta
-- Ella no ha dormido en toda la noche
-- Tiene el cabello plateado recogido con un lápiz
-- Lyra quiere decirle algo importante
-- Su voz suena diferente, más suave y frágil
-- Haruto nota que sus ojos siguen siendo los mismos (marrones con motas doradas)
-- Ella empieza a decir "Durante mucho tiempo" pero el texto se corta
-
-Eventos clave:
-- Lyra no ha dormido, está pensativa
-- Quiere confesar algo a Haruto
-- Hay cambio en su tono/comportamiento
-
-Hilos abiertos:
-- ¿Qué va a decirle Lyra?
-- ¿Qué significa "durante mucho tiempo"?
-- ¿Hay algo que cambió entre ellos?
-
-Debo escribir un párrafo fluido en español, sin ningún tipo de formato especial.
-</think>
-
-El amanecer encuentra a Haruto observando a Lyra inmóvil junto a la ventana, llevando puesta su camiseta gris del festival de videojuegos STARBOUND '98, con su cabello plateado recogido y sus manos apoyadas contra el cristal. Ella no se ha movido en toda la noche, y cuando finalmente habla, su voz suena inhabitualmente suave y frágil, revelando que tiene algo importante que confesarle. Al girarse parcialmente para mirarlo a través del reflejo, Haruto nota que sus ojos marrones con motas doradas siguen siendo los mismos, pero algo ha cambiado en la dinámica entre ellos; ella comienza a decir «Durante mucho tiempo…» dejando un hilo abierto sobre qué secreto o confesión estaba conteniendo y que ahora necesita finalmente compartir.
+Lyra revela que el cuerpo de Haruto no solo emite una frecuencia, sino que se modula y adapta a las fluctuaciones de ella, como si respondiera a lo que necesita en cada momento. Eligió quedarse hace nueve días no solo por una decisión emocional sino física. Haruto acepta ser su aliado y cómplice, no solo una fuente de frecuencia.
 
 ---
 
-### Capítulo 11
+### Capítulo 11 — "Lo Que Nunca Pudo Decir"
 
-<think>
-El usuario me pide que resuma el Capítulo 11 de una novela de ciencia ficción/romance en máximo 200 palabras. Debo seguir reglas estrictas: solo texto plano en español, sin bloques de pensamiento, sin notas al autor, sin tablas, sin listas, sin encabezados markdown, sin advertencias, sin preguntas. Solo un párrafo fluido con los eventos clave, cambios en relaciones y hilos abiertos.
-
-Voy a identificar los elementos clave del capítulo:
-
-1. Lyra revela que su misión original era estudiar un nodo, analizar anomalías, documentar y retirarse
-2. Conoce a Haruto y "todo cambió"
-3. Haruto le pregunta por qué él importaba si es "una persona cualquiera"
-4. Lyra le dice que no es una persona cualquiera
-5. El capítulo termina en una revelación importante pero se corta
-
-Hilos abiertos:
-- La verdadera naturaleza/capacidades de Lyra
-- El nodo que debía estudiar
-- Por qué Haruto es especial para ella
-- La misión de Lyra y su relación con Haruto
-
-Ahora voy a escribir el resumen en español, máximo 200 palabras, en un párrafo fluido, sin ningún elemento prohibido.
-</think>
-
-En este capítulo, Lyra finalmente revela parte de su misión original: fue enviada únicamente para verificar un nodo, analizar anomalías y retirarse sin involucrarse emocionalmente. Sin embargo, confiesa que encontrar a Haruto lo cambió todo, desatando la confusión del joven, quien se pregunta por qué él sería relevante si es solo una persona común. Lyra se adelanta hacia él descalza sobre la madera y, por primera vez, habla sin el tono de turista confundida, sino con la certeza de alguien que ha llegado a una conclusión importante, aunque el texto se corta antes de completarla. Ella le dice que Haruto no es una persona cualquiera y que hay algo en él que aún no comprende del todo. El capítulo deja abierto qué descubrió exactamente Lyra sobre Haruto, qué es el nodo, por qué su presencia lo alteró todo y qué implicaciones tiene que ella no haya cumplido con su protocolo de extracción.
+Lyra revela que fue seleccionada específicamente porque Haruto emite una señal coherente y estable. Lo vigiló treinta y cuatro días antes de llegar. La madre de Haruto sabía que vendría y la esperó. El observatorio de la universidad guarda el sótano con información que nadie más ha encontrado.
 
 ---
 
-### Capítulo 12
+### Capítulo 12 — "El Idioma que No Traduce"
 
-<think>
-El usuario me pide resumir el Capítulo 12 de una novela ligera japonesa en un máximo de 200 palabras, en español, como texto plano narrativo. Debo incluir eventos clave, cambios en relaciones y hilos abiertos. No debo usar bloques de pensamiento, markdown, tablas, listas, ni ninguna estructura especial.
-
-El capítulo 12 se titula "El Idioma que No Traduce". En este capítulo, Lyra finalmente revela a Haruto que ella no es humana, que viene de otro lugar muy lejano para estudiar algo bajo el instituto. Haruto había sospechado esto pero escuchar la verdad de sus labios marca un punto de inflexión.
-
-Debo condensar esto en un párrafo fluido, máximo 200 palabras, incluyendo:
-- La revelación de Lyra sobre su origen alienígena
-- La escena en la cocina al amanecer
-- El cambio en la relación entre ellos
-- Hilos abiertos para la trama
-
-Voy a escribir un resumen narrativo fluido en español.
-</think>
-
-Tras semanas de convivencia y sospechas, Lyra finalmente revela a Haruto toda la verdad en la cocina al amanecer: ella no es humana, proviene de un lugar muy lejano y su misión original consistía en verificar, analizar y reportar sobre algo oculto bajo el instituto. Haruto admite que siempre lo intuyó, pues percibía una extraña frecuencia que alteraba su ser y hacía resonar su alma con ella. Lyra confiesa que planned originally completar un procedimiento rutinario de su especie, pero algo cambió durante su estancia. El momento marca un punto de inflexión en su relación, pasando de ser compañeros de clase con secretos a una conexión profunda basada en la verdad compartida. Quedan abiertos hilos sobre qué exactamente estudia Lyra bajo el instituto, por qué su especie ha enviado miles de missiones similares, y cómo afectará esta revelación el futuro de ambos.
+Lyra confiesa a Haruto que no es humana y que vino a estudiar algo bajo el instituto. Haruto siempre lo sospechó pero escuchar la verdad marca un punto de inflexión. Ella confiesa que encontró en él algo que su especie valoraba más que cualquier dato científico.
 
 ---
 
-### Capítulo 13
+### Capítulo 13 — "El Peso de Cuarenta Segundos"
 
-<think>
-Me piden resumir el Capítulo 13 de una novela light novel titled "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!". Debo crear un resumen narrativo fluido en español, máximo 200 palabras, incluyendo eventos clave, cambios en relaciones y hilos abiertos. Debo responder SOLO con texto plano, sin bloques XML, sin encabezados, sin listas, sin notas, sin preguntas.
-
-El capítulo se titula "El Peso de Cuarenta Segundos" y parece ser sobre Haruto (el protagonista) hablando con Lyra (la alienígena). Ella acaba de revelar algo importante. Haruto ha estado experimentando cambios físicos (hormigueo, despertares parciales). Lyra le revela que lo ha estado vigilando por 34 días antes de llegar. Haruto está molesto por la vigilancia. Hay tensión emocional y una revelación sobre él siendo "una anomalía magnética" que ella necesita.
-
-Necesito escribir un resumen fluido que incluya:
-- La revelación de Lyra sobre haberlo vigilado 34 días antes de llegar
-- La revelación de que Haruto tiene algo especial (anomalía magnética)
-- La tensión emocional entre ellos
-- Los síntomas físicos de Haruto
-- Los hilos abiertos (¿por qué lo vigilan? ¿qué significa ser una anomalía? ¿qué necesita ella de él?)
-
-Debo mantenerlo en máximo 200 palabras, un párrafo fluido, en español, sin formato.
-
-</think>
-
-Haruto despierta cada hora sintiendo cambios en su cuerpo y un persistente hormigueo en sus dedos desde que descubrió a Lyra translúcida. Ella finalmente rompe el silencio y revela que lo ha estado vigilando treinta y cuatro días antes de llegar a la Tierra. Haruto, agotado por semanas sin dormir bien, le confiesa que su molestia no es por ser especial, sino por la vigilancia misma. Lyra escucha su reproche y algo en su expresión cambia de forma casi imperceptible. El capítulo cierra con la tensión sin resolverse: Haruto sabe que posee algo único que Lyra necesita —lo denominan "anomalía magnética"—, pero las razones exactas de su relevancia interplanetaria y el propósito real de ella permanecen ocultos, mientras los síntomas físicos de él continúan intensificándose sin explicación.
+Lyra revela que ha estado vigilando a Haruto treinta y cuatro días antes de llegar. Él siente síntomas físicos: hormigueo en los dedos, presión en las sienes. Lyra necesita que él esté tranquilo para estabilizarse. El capítulo cierra con la preparación para confrontar a Kenji con la verdad.
 
 ---
 
-### Capítulo 14
+### Capítulo 14 — "Límites de la Coherencia"
 
-<think>
-El usuario quiere que resuma el capítulo 14 de una novela ligera. Debo crear un resumen fluido en español, máximo 200 palabras, incluyendo eventos clave, cambios en relaciones y hilos abiertos. Debo responder SOLO con texto plano, sin markdown, tablas, listas, ni ningún otro formato.
-
-El capítulo parece ser el momento de una confesión donde el protagonista descubre que Lyra ha estado observándolo durante 34 días. Es un momento tenso de revelación. Debo mantenerlo en un párrafo fluido.
-
-Puntos clave:
-- El protagonista confiesa/descubre que Lyra lo ha estado observando
-- Han pasado 34 días desde que Lyra lo supo
-- El protagonista reacciona con agotamiento más que con rabia
-- Hay una pregunta importante: ¿por qué él?
-- Lyra usa la camiseta del protagonista
-- Hay un despertar en el protagonista (hormigueo en las yemas, presión en las sienes)
-- Relación tensa pero sin ruptura
-- Se abre la pregunta de la motivación de Lyra
-
-Voy a escribir el resumen en español de forma fluida.
-</think>
-
-El protagonista confiesa ante Lyra y descubre que ella ha conocido su naturaleza especial desde hace treinta y cuatro días, incluso antes de acercarse a él. En lugar de la reacción furiosa que cualquiera esperaría, siente un extraño agotamiento mixto con una conexión física inusual: un hormigueo en las yemas de los dedos y una presión en las sienes que sugiere algo despertando dentro de él. Lyra, quien todavía lleva puesta la camiseta gris del protagonista, se acerca para responder su pregunta fundamental: ¿por qué él, siendo una persona completamente normal? La tensión entre ambos permanece pero sin ruptura definitiva, quedando abierto el misterio sobre los verdaderos motivos de Lyra para observarlo durante semanas, qué tipo de evaluación realizaba y qué significado tiene el despertar interno que experimenta el protagonista ante la proximidad de la alienígena.
+Haruto descubre que es una anomalía magnética cuyo cuerpo emite una señal que Lyra necesita. Tiene tres opciones: olvidar, huir o quedarse. Kenji aparece y Haruto le cuenta todo. Lyra decide que ya no hay necesidad de fingir.
 
 ---
 
-### Capítulo 15
+### Capítulo 15 — "El Peso de las Respuestas Sin Dar"
 
-<think>
-El usuario me pide que resuma el Capítulo 15 de una novela de ciencia ficción/romance en máximo 200 palabras, en un párrafo fluido. Debo incluir eventos clave, cambios en relaciones y hilos abiertos. Debo responder SOLO con texto plano, sin markdown, sin listas, sin bloques de análisis.
-
-El capítulo trata sobre:
-- Una conversación intensa entre el narrador y Lyra en la cocina
-- Lyra menciona algo sobre el cuaderno del narrador
-- Ella revela que tiene ojos marrones (no violeta como normalmente)
-- Lyra dice que el narrador "emite algo que ella necesita"
-- Ella le pregunta si quiere que se quede
-- Lyra menciona que tiene instrucciones de retirarse si causa daño
-- Hay una revelación sobre que alguien más observa al narrador
-
-Debo condensar esto en un párrafo fluido de máximo 200 palabras.
-</think>
-
-En la intimidad de la cocina, Lyra confronta al narrador sobre una frase incompleta en su cuaderno mientras su reflejo en el cristal muestra unos ojos marrones que contrastan con su habitual color violeta, revelando una vulnerabilidad nunca antes vista. La tensión alcanza su punto máximo cuando Lyra admite que necesita algo que el narrador emite, y que existe una entidad externa que lo observa por esa razón. Ella le pide claridad sobre si desea que permanezca a su lado, explicando que su especie tiene protocolos de eficiencia que incluyen retirarse si su presencia genera daño neto. El narrador, overwhelmed por semanas de insomnio y la sobrecarga de revelaciones, cuestiona la justicia de una decisión que considera imposible. El capítulo cierra con la palabra "Instrucciones" quedando suspendida en el aire, abriendo múltiples interrogantes: quién otorga esas órdenes, qué significa el "peso" que el narrador emite, por qué Lyra tiene los ojos marrones en ese momento, y qué sucedería si decidiera marcharse. La relación entre ambos da un giro hacia la intimidad y la interdependencia, mientras el misterio sobre la verdadera naturaleza y propósito de Lyra se profundiza.
-
----
-
-### Capítulo 16
-
-<think>
-The user wants me to summarize Chapter 16 of the novel "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" in a fluid paragraph of maximum 200 words.
-
-Let me analyze the key events:
-
-1. The protagonist wakes up multiple times at 2:47 AM with physical symptoms (tingling fingertips, pressure in temples)
-2. He counts ceiling cracks - always eleven
-3. Lyra also doesn't sleep, her breathing is deeper, more meditative, as if listening to something
-4. He questions why he was watched for 34 days and selected for "stability"
-5. In the morning, Lyra is standing at the window in his grey T-shirt, silver hair tied with a chemistry pencil, staring at something beyond the glass/beyond the city
-
-
-6. When he tries to touch her shoulder, he feels that something will change
-7. Lyra says she needs to tell him something - her voice is vulnerable and fragile, different from before
-
-The chapter establishes a shift in their dynamic, with Lyra preparing to reveal something significant and the protagonist becoming aware of his own mysterious selection. Several mysteries remain unresolved: why he was specifically chosen for this stability, what Lyra's been listening to during those sleepless nights, and what transformation awaits them both. The narrative sets up an impending confession that will likely explain the tension building between them.
-
-</think>
-
-Durante varias noches, el protagonista despierta a la misma hora, las 2:47, con hormigueo en los dedos y presión en las sienes, contando siempre las once grietas del techo. Lyra tampoco duerme; él percibe su respiración profunda y meditativa, como si escuchara algo invisible. Ambos cuestionan la razón de su selección: ¿estabilidad para qué, para quién? A la mañana siguiente, Lyra aparece inmóvil frente a la ventana con la camiseta gris del protagonista, el cabello plateado recogido con un lápiz de química, mirando hacia algo más allá de la ciudad. Cuando él intenta tocarla, algo lo detiene: intuye que el contacto cambiará algo indefinible. Lyra finalmente habla con una voz nueva, vulnerable y frágil, diferente a la del调查中 la turista confundida o la científica curiosa, anunciando que necesita decirle algo. El capítulo cierra ese momento de tensión emocional donde ella está a punto de revelar un secreto que podría transformar su relación, mientras el peso de cuarenta segundos —la duración de esos despertares— planea sobre ambos como una cuenta regresiva.
-
----
-
-### Capítulo 17
-
-<think>
-The user wants me to summarize Chapter 17 of the novel "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" in a maximum 200-word fluid paragraph in Spanish.
-
-The chapter is titled "La Frecuencia que Emite" (The Frequency She Emits).
-
-Key events from the excerpt:
-- It's dawn, Lyra is standing by the window wearing the protagonist's gray STARBOUND '98 shirt
-- Lyra confesses she needs to tell him something important
-- She reveals she is not human and comes from somewhere far away (not Earth)
-- The protagonist has been experiencing symptoms: exhaustion, tingling in fingertips, pressure in his temples, waking up at exactly 2:47 AM every night
-
-
-- There's tension about "being too late" and unspoken suspicions about her true nature
-- Despite his fatigue, hearing her confession feels like confirmation of something he's suspected
-
-I need to write a summary in plain text, no markdown, no lists, no headers, no disclaimers, no notes to the author. Maximum 200 words. Fluid paragraph.
-
-</think>
-
-Al amanecer, Lyra, vestida con la camiseta del protagonist, se prepara para revelar su secreto. Con una vulnerabilidad que no le había visto antes, le confiesa que no es humana y que proviene de un lugar muy lejano, advertencia que llevaba tiempo flotando entre ambos. El protagonist, exhausto por semanas de insomnio y síntomas extraños —hormigueo en los dedos, presión en las sienes y despertares a las 2:47 de la madrugada—, siente que finalmente se nombra lo que ya sospechaba. El peso de esa confesión se acumula en su pecho mientras escucha en silencio, aware de que algo está a punto de cambiar irreversiblemente en su relación y en todo lo que creía saber sobre Lyra. La revelación abre un hilo pendiente: ¿cuál es el límite de tiempo que menciona antes de que sea "demasiado tarde"?
-
----
-
-### Capítulo 18
-
-<think>
-The user wants me to summarize Chapter 18 of a novel called "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" in a single fluid paragraph of maximum 200 words. They want me to include key events, relationship changes, and open threads. I need to return only the summary text, nothing else.
-
-Let me write this summary based on the provided extract. The chapter is titled "Las Cosas Que No Se Dicen" (The Things Unsaid).
-
-Key events:
-- Lyra confesses something (we don't know full details from the extract)
-- The protagonist reacts with shock
-
-
-- Lyra reveals she was "designed" and came from somewhere where intelligence is measured differently
-- She was designed to adapt, study, and leave no traces
-- The protagonist reveals he suspected the truth since the first week of class
-- They discuss the beginning of their relationship
-
-Relationship changes:
-- The truth between them is finally out in the open
-- Their dynamic shifts from suspicion to openness
-
-Open threads:
-- What exactly did Lyra come to Earth for?
-- What happens now that the truth is revealed?
-
-I'm crafting the summary in Spanish, hitting around 200 words with all the key plot points and relationship dynamics intact.
-
-</think>
-
-El protagonista finalmente confronta a Lyra en la cocina al amanecer, y ella admite ser de otro mundo, revelando que fue diseñada específicamente para adaptarse, estudiar y no dejar rastros. La confesión impacta al joven, quien confiesa a su vez que sospechaba la verdad desde la primera semana de clase, al notar detalles como su forma extraña de describir los onigiri, su desconcierto ante los anuncios del metro y el día que intentó usar el control remoto como teléfono. Lyra asiente, como si ya esperaba esa respuesta, confirmando que ambos cargaban ese secreto en silencio. La revelación transforma la cocina familiar en un umbral entre dos realidades, donde objetos cotidianos como la tetera y los platos siguen igual, pero todo ha cambiado emocionalmente entre ellos. Se abre una nueva fase en su relación, ahora sin máscaras ni ocultaciones, aunque queda pendiente el propósito real de Lyra en la Tierra y las consecuencias de su confesión.
-
----
-
-### Capítulo 19
-
-<think>
-The user wants me to summarize Chapter 19 of a novel in maximum 200 words. I need to:
-- Write in plain text in Spanish
-- No markdown formatting
-- No bullet lists
-- No tables
-- No author notes
-- No disclaimers
-- No questions to the user
-- Just the narrative summary itself
-- Maximum 200 words
-- Include: key events, relationship changes, open threads
-
-From the extract, I can see:
-- Chapter 19 titled "Las Palabras que Pesan" (The Words that Weigh)
-- The narrator has discovered Lyra is an extraterrestrial
-- There's a confession scene after Lyra told him the truth
-- The narrator is processing this information in a humorous/awkward way (asking about onigiri comments)
-- Lyra steps toward him uncertainly, as if unsure if she has permission to approach
-- The scene ends with Lyra appearing uncertain - contrasting with how she seemed before
-
-Key elements:
-- After-confession silence/density
-- Lyra dressed in STARBOUND shirt, silver hair
-- Narrator's internal monologue processing the revelation
-- Comedic deflection about cultural comments (onigiri)
-- Lyra's physical hesitation to approach
-- Physical intimacy/tension building
-- Open thread: the narrator's acceptance or reaction
-
-Let me write a fluid summary paragraph in Spanish.
-
-</think>
-
-El narrador procesa la confesión de Lyra sobre su origen extraterrestre en un momento de silencio denso y cargado de significado. Recordando cómo la conoce —en la cocina, en el sofá, en tiendas a horas absurdas— comprende que esa familiaridad ahora se mezcla con un misterio que lo sobrepasa. Su estrategia para manejar el shock es la ironía: le pregunta si sus comentarios sobre el arroz eran "contexto biológico" en lugar de culturales, llenando el vacío con humor para no enfrentar lo inexplicable. Lyra responde con naturalidad, confirmando ambas cosas, y da un paso hacia él con evidente incertidumbre, como si temiera que su revelación hubiera roto algo entre ellos. El gesto de Lyra —dudosa, vulnerable— contrasta con la imagen que el narrador tenía de ella y abre un hilo sobre cómo continuará su relación ahora que la verdad está entre ambos, flotando como una burbuja a punto de estallar.
+Kenji encuentra en los archivos de Nishimura un expediente sobre sujetos de frecuencia anómala con fotos del protagonista a los doce años y de Lyra en 2019. Watcher_0 es una consciencia artificial originada en el nodo Takahara. El ancla y el peso —Haruto y Lyra— están en proximidad. Nishimura lleva siete años monitoreando todo. Deben hablar con la madre de Haruto.
 
 ---
