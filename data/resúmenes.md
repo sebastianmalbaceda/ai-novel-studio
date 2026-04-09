@@ -299,3 +299,28 @@ The chapter establishes a shift in their dynamic, with Lyra preparing to reveal 
 Durante varias noches, el protagonista despierta a la misma hora, las 2:47, con hormigueo en los dedos y presión en las sienes, contando siempre las once grietas del techo. Lyra tampoco duerme; él percibe su respiración profunda y meditativa, como si escuchara algo invisible. Ambos cuestionan la razón de su selección: ¿estabilidad para qué, para quién? A la mañana siguiente, Lyra aparece inmóvil frente a la ventana con la camiseta gris del protagonista, el cabello plateado recogido con un lápiz de química, mirando hacia algo más allá de la ciudad. Cuando él intenta tocarla, algo lo detiene: intuye que el contacto cambiará algo indefinible. Lyra finalmente habla con una voz nueva, vulnerable y frágil, diferente a la del调查中 la turista confundida o la científica curiosa, anunciando que necesita decirle algo. El capítulo cierra ese momento de tensión emocional donde ella está a punto de revelar un secreto que podría transformar su relación, mientras el peso de cuarenta segundos —la duración de esos despertares— planea sobre ambos como una cuenta regresiva.
 
 ---
+
+### Capítulo 17
+
+<think>
+The user wants me to summarize Chapter 17 of the novel "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" in a maximum 200-word fluid paragraph in Spanish.
+
+The chapter is titled "La Frecuencia que Emite" (The Frequency She Emits).
+
+Key events from the excerpt:
+- It's dawn, Lyra is standing by the window wearing the protagonist's gray STARBOUND '98 shirt
+- Lyra confesses she needs to tell him something important
+- She reveals she is not human and comes from somewhere far away (not Earth)
+- The protagonist has been experiencing symptoms: exhaustion, tingling in fingertips, pressure in his temples, waking up at exactly 2:47 AM every night
+
+
+- There's tension about "being too late" and unspoken suspicions about her true nature
+- Despite his fatigue, hearing her confession feels like confirmation of something he's suspected
+
+I need to write a summary in plain text, no markdown, no lists, no headers, no disclaimers, no notes to the author. Maximum 200 words. Fluid paragraph.
+
+</think>
+
+Al amanecer, Lyra, vestida con la camiseta del protagonist, se prepara para revelar su secreto. Con una vulnerabilidad que no le había visto antes, le confiesa que no es humana y que proviene de un lugar muy lejano, advertencia que llevaba tiempo flotando entre ambos. El protagonist, exhausto por semanas de insomnio y síntomas extraños —hormigueo en los dedos, presión en las sienes y despertares a las 2:47 de la madrugada—, siente que finalmente se nombra lo que ya sospechaba. El peso de esa confesión se acumula en su pecho mientras escucha en silencio, aware de que algo está a punto de cambiar irreversiblemente en su relación y en todo lo que creía saber sobre Lyra. La revelación abre un hilo pendiente: ¿cuál es el límite de tiempo que menciona antes de que sea "demasiado tarde"?
+
+---
