@@ -81,7 +81,7 @@
   },
   "capitulo_6": {
     "dia": 6,
-    "resumen": "Kenji descubre que la subdirectora Nishimura tiene archivos sobre anomalías electromagnéticas en el instituto desde hace siete años. Lyra investiga el perímetro mientras los misterios se acumulan.",
+    "resumen": "Kenji descubre que la subdirectora Nishimura tiene archivos sobre anomalías electromagnéticas en el instituto desde hace siete años. Lyra revela que sufre episodios y que no está lista para algo que se avecina.",
     "eventos_clave": [
       "Kenji revela que midió frecuencias cerca de Lyra y los datos se vuelven 'locos'",
       "Un rumor en tercero menciona archivos de 'anomalías electromagnéticas' bajo la fotocopiadora",
@@ -95,5 +95,128 @@
       "Alguien dejó los documentos deliberadamente para que alguien los encontrara"
     ],
     "estado_ambiente": "Conspiración institucional / Tensión adolescente / Misterio profundo"
+  },
+  "capitulo_7": {
+    "dia": 7,
+    "resumen": "Lyra revela que el punto de origen de la anomalía es algo más profundo: bajo todo el edificio A. Watcher_0 no es un observador externo sino parte del sistema. Kenji cita urgentemente.",
+    "eventos_clave": [
+      "Lyra descubre que el punto de anomalía es bajo el edificio A, no el ala administrativa",
+      "Watcher_0 es parte del sistema, no un observador externo",
+      "Los documentos fueron dejados deliberadamente"
+    ],
+    "revelaciones": [
+      "El edificio A está construido sobre una estructura alienígena geométrica",
+      "Watcher_0 monitorea el nodo como un corazón monitorea su latido"
+    ],
+    "estado_ambiente": "Tensión / Paranoia / Descubrimiento"
+  },
+  "capitulo_8": {
+    "dia": 8,
+    "resumen": "Lyra confiesa que necesita la frecuencia Schumann y que Haruto emite algo que estabiliza su frecuencia. La proximidad genera retroalimentación que afecta dispositivos.",
+    "eventos_clave": [
+      "Lyra necesita 7.83 Hz para funcionar",
+      "Haruto emite una señal que estabiliza a Lyra",
+      "La proximidad genera retroalimentación en radio de 400 metros",
+      "Lyra elige quedarse"
+    ],
+    "revelaciones": [
+      "La relación no es solo emocional sino biológica"
+    ],
+    "estado_ambiente": "Intimidad creciente / Confesión / Conexión"
+  },
+  "capitulo_9": {
+    "dia": 9,
+    "resumen": "La madre de Haruto es una Integrada: alguien de la especie de Lyra que eligió vivir como humana. Hace doce años tuvo un contacto con una entidad no humana.",
+    "eventos_clave": [
+      "Video muestra a la madre hace 12 años hablando con entidad no humana",
+      "La entidad dice: 'El niño puede escuchar'",
+      "El sótano del observatorio guarda secretos"
+    ],
+    "revelaciones": [
+      "La madre es una Integrada que lleva décadas en la Tierra",
+      "Haruto fue anticipado antes de nacer"
+    ],
+    "estado_ambiente": "Revelación familiar / Shock / Misterio profundo"
+  },
+  "capitulo_10": {
+    "dia": 10,
+    "resumen": "Lyra revela que el cuerpo de Haruto no solo emite una frecuencia sino que se modula y adapta a ella. Eligió quedarse hace nueve días por decisión física y emocional.",
+    "eventos_clave": [
+      "Haruto se modula y adapta a las fluctuaciones de Lyra",
+      "Lyra eligió quedarse hace 9 días",
+      "Haruto acepta ser su aliado"
+    ],
+    "revelaciones": [
+      "La elección fue tanto física como emocional"
+    ],
+    "estado_ambiente": "Aceptación / Compromiso / Alianza"
+  },
+  "capitulo_11": {
+    "dia": 11,
+    "resumen": "Lyra fue seleccionada específicamente porque Haruto emite una señal coherente. Lo vigiló 34 días antes de llegar. La madre de Haruto sabía que vendría.",
+    "eventos_clave": [
+      "Haruto emite una señal coherente y estable",
+      "Lyra lo vigiló 34 días antes de llegar",
+      "La madre esperaba a Lyra"
+    ],
+    "revelaciones": [
+      "Todo fue planeado desde antes"
+    ],
+    "estado_ambiente": "Confirmación / Planificación / Conexión"
+  },
+  "capitulo_12": {
+    "dia": 12,
+    "resumen": "Lyra confiesa a Haruto que no es humana y que vino a estudiar algo bajo el instituto. Haruto siempre lo sospechó pero escuchar la verdad marca un punto de inflexión.",
+    "eventos_clave": [
+      "Lyra revela su origen no humano",
+      "Haruto procesa la verdad",
+      "Ella encontró en él algo que su especie valoraba más que cualquier dato científico"
+    ],
+    "revelaciones": [
+      "El cambio fue de sospechas a confirmación"
+    ],
+    "estado_ambiente": "Verdad / Impacto / Transformación"
+  },
+  "capitulo_13": {
+    "dia": 13,
+    "resumen": "Lyra vigiló a Haruto 34 días antes de llegar. Él siente síntomas físicos: hormigueo, presión en las sienes. Lyra necesita que él esté tranquilo para estabilizarse.",
+    "eventos_clave": [
+      "Haruto experimenta síntomas físicos por la proximidad",
+      "Lyra necesita que él esté tranquilo",
+      "Preparan confrontar a Kenji"
+    ],
+    "revelaciones": [
+      "Los síntomas son por su conexión"
+    ],
+    "estado_ambiente": "Síntomas físicos / Preparación / Tensión"
+  },
+  "capitulo_14": {
+    "dia": 14,
+    "resumen": "Haruto descubre que es una anomalía magnética. Tiene tres opciones: olvidar, huir o quedarse. Le cuenta todo a Kenji. Lyra decide que ya no hay necesidad de fingir.",
+    "eventos_clave": [
+      "Haruto es una anomalía magnética",
+      "Tres opciones: olvidar, huir, quedarse",
+      "Le cuenta todo a Kenji",
+      "Lyra decide no fingir más"
+    ],
+    "revelaciones": [
+      "Kenji ahora sabe todo"
+    ],
+    "estado_ambiente": "Decisión / Destape / Unión"
+  },
+  "capitulo_15": {
+    "dia": 15,
+    "resumen": "Kenji encuentra en los archivos de Nishimura un expediente con fotos del protagonista a los 12 años y de Lyra en 2019. Watcher_0 es una consciencia artificial del nodo Takahara.",
+    "eventos_clave": [
+      "Fotos del protagonista a los 12 años con marca de agua 'Sujeto M-07'",
+      "Watcher_0 es consciencia artificial del nodo",
+      "El ancla y el peso están en proximidad",
+      "Deben hablar con la madre"
+    ],
+    "revelaciones": [
+      "Watcher_0 es parte del nodo",
+      "Todo ha sido monitoreado durante años"
+    ],
+    "estado_ambiente": "Conspiración / Urgencia / Investigación"
   }
 }

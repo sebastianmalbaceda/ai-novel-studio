@@ -3,25 +3,25 @@
     "detalle": "Lyra analizó su almuerzo como combustible orgánico.",
     "capitulo_plantado": 1,
     "potencial_pago": "Revelación de que su especie consume energía de forma no humana.",
-    "estado": "Pendiente"
+    "estado": "Cosechada"
   },
   "semilla_1_02": {
     "detalle": "Lyra en la azotea a medianoche con ojos que brillan con luz propia, expresión de nostalgia y miedo.",
     "capitulo_plantado": 1,
     "potencial_pago": "Lyra intentaba comunicarse con su especie o reactivar el nodo de tránsito.",
-    "estado": "Creciendo"
+    "estado": "Cosechada"
   },
   "semilla_2_01": {
     "detalle": "Kenji grabó a Lyra en la azotea a las 2:47 AM sola e inmóvil durante una hora.",
     "capitulo_plantado": 2,
     "potencial_pago": "Lyra estaba intentando comunicarse o reactivar el nodo.",
-    "estado": "Creciendo"
+    "estado": "Cosechada"
   },
   "semilla_2_02": {
     "detalle": "Lyra confesó que 'su especie no tiene esa biología' tras negar ser reptiliana.",
     "capitulo_plantado": 2,
-    "potencial_pago": "Haruto descubrirá la especie exacta de Lyra y su cultura real.",
-    "estado": "Pendiente"
+    "potencial_pago": "Haruto descubrió la especie exacta de Lyra y su cultura real.",
+    "estado": "Cosechada"
   },
   "semilla_2_03": {
     "detalle": "Lyra mencionó que vigiló a Haruto por 34 días antes de llegar.",
@@ -33,30 +33,90 @@
     "detalle": "La madre de Haruto es profesora de astronomía con un proyecto secreto y documentos que no deja ver.",
     "capitulo_plantado": 3,
     "potencial_pago": "La madre trabaja con o para una organización que conoce la existencia alienígena. Posible conexión con la Zona Gris.",
-    "estado": "Creciendo"
+    "estado": "Cosechada"
   },
   "semilla_3_02": {
     "detalle": "Lyra revela que 'todo está conectado': la madre, el nodo, la Directora.",
     "capitulo_plantado": 3,
     "potencial_pago": "Los tres elementos forman parte de una red más amplia de conocimiento sobre la presencia alienígena.",
-    "estado": "Creciendo"
+    "estado": "Cosechada"
   },
   "semilla_4_01": {
     "detalle": "Watcher_0: usuario anónimo en Discord que identifica la frecuencia de distorsión como algo que 'no debería existir en un entorno urbano'.",
     "capitulo_plantado": 4,
-    "potencial_pago": "Watcher_0 podría ser un agente de la Zona Gris, la Directora Shirogane, o un desertor alienígena.",
-    "estado": "Creciendo"
+    "potencial_pago": "Watcher_0 podría ser un agente de la Zona Gris, la Directora Shirogane, o una consciencia artificial.",
+    "estado": "Cosechada"
   },
   "semilla_4_02": {
     "detalle": "Lyra detecta un tercer dispositivo de vigilancia (no de Kenji) moviéndose hacia el ala administrativa.",
     "capitulo_plantado": 4,
     "potencial_pago": "Alguien dentro del instituto está monitorizando activamente a Lyra.",
-    "estado": "Creciendo"
+    "estado": "Cosechada"
   },
   "semilla_4_03": {
-    "detalle": "Lyra se encierra en su habitación y emite un zumbido en un idioma desconocido, como un transformador eléctrico.",
+    "detalle": "Lyra se encierra en su habitación y emite un zumbido en un idioma desconocido.",
     "capitulo_plantado": 4,
-    "potencial_pago": "Lyra se comunica con su especie o intenta reactivar algo. Haruto no puede ayudar con esto.",
+    "potencial_pago": "Lyra se comunica con su especie o intenta reactivar algo.",
+    "estado": "Cosechada"
+  },
+  "semilla_5_01": {
+    "detalle": "Lyra necesita la frecuencia Schumann (7.83 Hz) para mantener su integridad estructural.",
+    "capitulo_plantado": 5,
+    "potencial_pago": "La interferencia artificial en la zona le afecta físicamente.",
+    "estado": "Cosechada"
+  },
+  "semilla_5_02": {
+    "detalle": "Haruto emite 'algo' que el cuerpo de Lyra necesita para funcionar.",
+    "capitulo_plantado": 5,
+    "potencial_pago": "Haruto es una anomalía magnética con señal coherente.",
+    "estado": "Cosechada"
+  },
+  "semilla_5_03": {
+    "detalle": "Alguien más observa a Haruto por lo que emite.",
+    "capitulo_plantado": 5,
+    "potencial_pago": "Watcher_0 o la Zona Gris lo vigilan.",
+    "estado": "Creciendo"
+  },
+  "semilla_6_01": {
+    "detalle": "Nishimura tiene archivos sobre anomalías electromagnéticas desde hace 7 años.",
+    "capitulo_plantado": 6,
+    "potencial_pago": "Todo ha sido monitoreado antes de que Lyra llegara.",
+    "estado": "Cosechada"
+  },
+  "semilla_6_02": {
+    "detalle": "Lyra tiene episodios y no está lista para algo que se avecina.",
+    "capitulo_plantado": 6,
+    "potencial_pago": "Algo viene relacionado con el nodo o la Zona Gris.",
+    "estado": "Pendiente"
+  },
+  "semilla_7_01": {
+    "detalle": "Watcher_0 es parte del sistema, no un observador externo. Es la respiración del nodo.",
+    "capitulo_plantado": 7,
+    "potencial_pago": "Watcher_0 es una consciencia artificial del nodo Takahara.",
+    "estado": "Cosechada"
+  },
+  "semilla_9_01": {
+    "detalle": "La madre de Haruto es una Integrada: alguien de la especie de Lyra que eligió vivir como humana.",
+    "capitulo_plantado": 9,
+    "potencial_pago": "La madre lleva décadas en la Tierra y sabe más de lo que revela.",
+    "estado": "Cosechada"
+  },
+  "semilla_9_02": {
+    "detalle": "Hace 12 años, la madre habló con una entidad no humana que dijo: 'El niño puede escuchar'.",
+    "capitulo_plantado": 9,
+    "potencial_pago": "Haruto fue anticipado antes de nacer.",
+    "estado": "Cosechada"
+  },
+  "semilla_15_01": {
+    "detalle": "Watcher_0 es una consciencia artificial originada en el nodo Takahara. Estado: activo.",
+    "capitulo_plantado": 15,
+    "potencial_pago": "¿Qué planea Watcher_0 con el ancla y el peso en proximidad?",
+    "estado": "Pendiente"
+  },
+  "semilla_15_02": {
+    "detalle": "Los archivos tienen fotos del protagonista a los 12 años con marca 'Sujeto M-07'.",
+    "capitulo_plantado": 15,
+    "potencial_pago": "¿Qué es el Sujeto M-07 y qué significa para Haruto?",
     "estado": "Pendiente"
   }
 }

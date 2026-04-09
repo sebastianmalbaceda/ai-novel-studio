@@ -37,7 +37,7 @@ El protagonista despierta a las 2:47 de la madrugada perturbado por un zumbido i
 
 ### Capítulo 6 — "La Distancia Incorrecta"
 
-Kenji descubre que la subdirectora Nishimura posee archivos sobre anomalías electromagnéticas en el instituto desde hace siete años. Lyra revela que sofre episodios y que no está lista para algo que se avecina. El momento clave ocurre cuando Lyra alza la mirada y el protagonista descubre que sus ojos son marrones con motitas doradas. Kenji descubre que Lyra genera un campo que no debería poder generar. El capítulo cierra con la pregunta de si la están guiando o acorralando.
+Kenji descubre que la subdirectora Nishimura posee archivos sobre anomalías electromagnéticas en el instituto desde hace siete años. Lyra revela que sufre episodios y que no está lista para algo que se avecina. El momento clave ocurre cuando Lyra alza la mirada y el protagonista descubre que sus ojos son marrones con motitas doradas. Kenji descubre que Lyra genera un campo que no debería poder generar. El capítulo cierra con la pregunta de si la están guiando o acorralando.
 
 ---
 
