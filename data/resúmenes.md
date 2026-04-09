@@ -47,7 +47,7 @@ Lyra informa que el punto de origen de la anomalía electromagnética no es el a
 
 ---
 
-### Capítulo 8 — "Frecuencia de Resonancia"
+### Capítulo 8 — "Café a las 6 AM"
 
 Lyra confiesa que necesita la frecuencia Schumann para funcionar y que Haruto emite algo que estabiliza su frecuencia. Cuando ella se acerca demasiado, se genera retroalimentación que afecta dispositivos electrónicos en un radio de cuatrocientos metros. El capítulo avanza hacia la elección de Lyra de quedarse, estableciendo que la proximidad física entre ellos no es solo emocional sino también biológica.
 
@@ -59,7 +59,7 @@ La madre de Haruto es una Integrada: alguien de la especie de Lyra que eligió v
 
 ---
 
-### Capítulo 10 — "La Frecuencia de Quedarse"
+### Capítulo 10 — "La Novena Mañana"
 
 Lyra revela que el cuerpo de Haruto no solo emite una frecuencia, sino que se modula y adapta a las fluctuaciones de ella, como si respondiera a lo que necesita en cada momento. Eligió quedarse hace nueve días no solo por una decisión emocional sino física. Haruto acepta ser su aliado y cómplice, no solo una fuente de frecuencia.
 
@@ -77,19 +77,19 @@ Lyra confiesa a Haruto que no es humana y que vino a estudiar algo bajo el insti
 
 ---
 
-### Capítulo 13 — "El Peso de Cuarenta Segundos"
+### Capítulo 13 — "Cuarenta Segundos"
 
 Lyra revela que ha estado vigilando a Haruto treinta y cuatro días antes de llegar. Él siente síntomas físicos: hormigueo en los dedos, presión en las sienes. Lyra necesita que él esté tranquilo para estabilizarse. El capítulo cierra con la preparación para confrontar a Kenji con la verdad.
 
 ---
 
-### Capítulo 14 — "Límites de la Coherencia"
+### Capítulo 14 — "Opciones"
 
 Haruto descubre que es una anomalía magnética cuyo cuerpo emite una señal que Lyra necesita. Tiene tres opciones: olvidar, huir o quedarse. Kenji aparece y Haruto le cuenta todo. Lyra decide que ya no hay necesidad de fingir.
 
 ---
 
-### Capítulo 15 — "El Peso de las Respuestas Sin Dar"
+### Capítulo 15 — "Las Respuestas Sin Dar"
 
 Kenji encuentra en los archivos de Nishimura un expediente sobre sujetos de frecuencia anómala con fotos del protagonista a los doce años y de Lyra en 2019. Watcher_0 es una consciencia artificial originada en el nodo Takahara. El ancla y el peso —Haruto y Lyra— están en proximidad. Nishimura lleva siete años monitoreando todo. Deben hablar con la madre de Haruto.
 
