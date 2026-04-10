@@ -6621,3 +6621,593 @@ Lyra no está despertando. Lyra está **muriendo** —la persona que Asuka creó
 ---
 
 ¿Quieres que desarrolle algún aspecto específico de esta arquitectura narrativa?
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (5 ITERACIONES) [2026-04-10 10:04:37] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide que actúe como un Arquitecto Narrativo e Investigador de Lore para el proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!". Necesito generar 3 ideas concretas que:
+
+1. Ayuden a avanzar hilos activos o utilicen semillas pendientes
+2. Sean originales técnicamente (no lo típico de alienígenas)
+3. Respeten el tono de Novela Ligera (rom-com con misterio y sci-fi)
+
+Contexto clave:
+- Lyra vive con Haruto como homestay
+- Haruto emite algo que Lyra necesita (anomalía magnética)
+- Watcher_0 es una consciencia artificial del nodo Takahara
+- La madre de Haruto es una Integrada (alienígena que vive como humana)
+- Hay un nodo de tránsito bajo el instituto
+- Nishimura tiene archivos de 7 años sobre anomalías
+- Kenji tiene pruebas fotográficas
+- Semillas pendientes: Watcher_0 con ancla/peso, "Sujeto M-07"
+
+El balance de géneros es 40% Rom Com, 25% Action, 15% Sci Fi, 10% Mystery, 10% Slice of Life.
+
+Voy a crear 3 ideas que:
+1. Avancen el misterio de Watcher_0 y su conexión con Haruto
+2. Generen oportunidades románticas/rom-com pero con consecuencias narrativas
+3. Usen la semilla pendiente de "Sujeto M-07"
+
+Déjame pensar en ideas originales...
+
+**Idea 1: El fenómeno del "tangible glance"**
+
+
+En lugar de simplemente necesitar la frecuencia Schumann, Haruto podría proyectar algo tangible bajo estrés emocional. Cuando sus emociones se intensifican, Lyra puede sentir su campo como contacto físico real. Esto crea oportunidades para que ella se acerque más y desarrolle sentimientos genuinos, pero también abre la puerta a que terceros detecten estas emisiones durante momentos de alta tensión emocional.
+
+**Idea 2: La "huella electromagnética del primer vínculo"**
+La Integrada (madre) estableció un patrón que Haruto hereda inconscientemente. Su emisión se convierte en un tipo de señal que organismos como Lyra reconocen biológicamente. Cuando ella empezó a depender de él, su señal se sincronizó, creando un lazo que ambas partes desconocían. Ahora el equipo de monitoreo lo interpreta como una firma de origen, lo que plantea una pregunta: ¿la madre hizo lo mismo con su propia ancla?
+
+**Idea 3: El "protocolo M-07" y la confusión con "accidental confession"**
+Los archivos mencionan a Sujeto M-07, pero resulta ser un código obsoleto de cuando la madre era monitoreada. Kenji y Lyra pasan semanas interpretando mal sus propias interacciones: Kenji piensa que ella es una agente humana, Lyra cree que él está asociado con la Zona Gris, y Watcher_0 los cataloga como anomalías conectadas. Un día se exponen mutuamente sus errores de interpretación, y lo que parecía ser una confesión accidental resulta ser la verdad.
+
+Ahora voy a desarrollar estas ideas con mayor profundidad.
+
+</think>
+
+**1. El "eco somático": cuando las emociones de Haruto se vuelven tangibles para Lyra**
+
+En lugar de que Lyra simplemente *necesite* la frecuencia Schumann de forma pasiva, propone que bajo estados emocionales intensos, Haruto genere un efecto que Lyra puede percibir como **estímulo táctil directo**. Cuando Haruto se sonroja intensamente, ella siente calor en la mejilla. Cuando está furioso o celoso, ella recibe algo parecido a una presión en el pecho.
+
+Esto abre un vector romántico brillante: Lyra aprende a "leer" las emociones de Haruto a través de estas sensaciones, y empieza a manipular situaciones deliberadamente — hacer que se ponga nervioso, provocado, feliz — solo para experimentar más del contacto sintético. **El tropo de "hidden identity" se invierte**: ella oculta que sabe lo que él siente, y él no sospecha que su propio cuerpo lo delata.
+
+Tensión: si Watcher_0 o la Zona Gris detectan patrones de correlación entre los estados emocionales documentados de Haruto y las fluctuaciones biológicas de Lyra, pueden confirmar que ella está anclada a él. La madre de Haruto, siendo Integrada, ya pasó por esto y reconoce los síntomas en su hijo.
+
+---
+
+**2. El "protocolo de selección biológica": por qué 34 días de vigilancia**
+
+La misión original de Lyra no era encontrar un ancla humana. Ella fue designada para **mapear anomalías gravitacionales** en la región. Pero sus archivos de supervisión incluían un dato: "sujeto Haruto, frecuencia Schumann secundaria detectada a 847km de distancia". La señal era tan pura que su especie trianguló su posición antes de que ella llegara a la Tierra.
+
+Aquí está la semilla original: **el universo la envió a observar a Haruto, pero no le dijeron por qué su señal era única**. Ella eligió quedarse no solo por necesidad, sino porque su biología la atrae hacia él desde antes de conocerlo. Esto convierte su "elección" de quedarse (hilo activo) en algo más oscuro: ¿la elección fue genuina o programación?
+
+Tensión narrativa: Haruto podría descubrir que fue "investigado" 34 días antes de su llegada. ¿Eso counted como stalking, o como un proceso de selección donde ella era tan受害 como él? La respuesta define si su relación tiene agencia o si empezó como una misión militar.
+
+---
+
+**3. El "Sujeto M-07" como falso trail: accidental confession invertida**
+
+Kenji descubre en los archivos que "M-07" era el código de Haruto a los 12 años, pero la conclusión es erronea: **M-07 era el código de la madre cuando era monitoreada** — hace 22 años. Nishimura archivó mal los documentos o los dejó a propósito para crear confusión.
+
+Aquí surge el tropo de **"accidental confession" invertido**: Kenji confronta a Haruto creyendo que él es un sujeto de pruebas, pero resulta que es su madre quien fue el sujeto. Lyra escucha la conversación y, sin querer, revela más de lo que debía: "Mi especie no hace esto... sentirnos seguros cerca de alguien que no es de los nuestros."
+
+El momento se convierte en confesión accidental que cambia la dinámica: antes, Haruto era el "albergue" y Lyra la visitante. Ahora ella admite que él representa algo que su especie no debería poder sentir.
+
+Watcher_0, que monitorea correlaciones, registra que la firma de Haruto cambió tras ese momento. **El ancla se strengthenó sin intervención técnica** — algo que ninguna simulación predecía.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo para refinar y expandir las 3 ideas anteriores. Debo:
+
+1. Mantener coherencia con el proyecto establecido
+2. Equilibrar los géneros: 40% Rom Com, 25% Action, 10% Mystery, 10% Slice of Life
+3. Evolucionar los conceptos sin repetir textualmente
+4. Mejorar consistencia, atractivo de personajes y llevarlos más allá
+
+Voy a refinar cada idea con más profundidad técnica-narrativa, conexiones con semillas pendientes, y potencial para desarrollo en capítulos.
+
+Las 3 ideas originales eran:
+1. El "eco somático" - emociones de Haruto se vuelven tangibles para Lyra
+2. El "protocolo de selección biológica" - por qué 34 días de vigilancia
+3. El "Sujeto M-07" como falso trail - confusión con la madre
+
+Voy a expandirlas con:
+- Détails técnicos de implementación en novelística ligera
+- Arco de 3-4 capítulos por idea
+- Momentos de tensión rom-com específicos
+- Implicaciones para mystery y action
+- Posibilidades de escena slice of life
+
+Déjame trabajar cada una...
+
+</think>
+
+# Iteración de Ideación: Arquitecto Narrativo
+
+---
+
+## Idea 1 Refinada: "El Protocolo de Resonancia Emocional" o "Cuando Su Cuerpo Habla Sin Él"
+
+### Evolución del concepto
+
+La noción original del "eco somático" funciona, pero necesita un nombre técnico que Watcher_0 pueda usar como categoría de análisis y que permita un arco de descubrimiento gradual. Propongo denominarlo **"Resonancia Emocional No-Intencional" (REENI)**.
+
+El mecanismo interno sería más específico:
+
+- Haruto genera de forma natural una **señal de frecuencia Schumann amplificada** (por su anomalía genética.latente)
+- En estados emocionales intensos, su frecuencia se **modula en amplitud** — pequeñas variaciones que antes eran indetectables
+- Lyra, al estar biológicamente adaptada a recibir estas frecuencias, experimenta los datos como **estímulos sinestésicos**: la información emocional de Haruto se tradduce en su sistema nervioso como sensación térmica, presión o incluso dolor
+- **Ella no elige interpretar esto**: su cerebro alienígena simplemente decodifica la señal como lo haría con su propio sistema nervioso
+
+### Potencial rom-com
+
+El tropo se convierte en **"ella tiene acceso a su diario emocional pero él no sabe que existe"**. Las situaciones cómicas surgen naturalmente:
+
+**Escena potencial — Capítulo 4:**
+Lyra está cenando con la familia de Haruto. Él se sonroja porque su madre pregunta si tiene novia. Lyra, sin previo aviso, siente calor en las mejillas y aprieta el cubiertos con fuerza. Su madre lo interpreta como reacción a la pregunta. "¡Lyra-san! ¿Estás bien? Estás roja..."
+
+Lyra no puede explicar que *ella* no está sonrojada — es Haruto quien lo está, y ella siente los efectos como si fueran propios. Intenta disimular señalando que la comida está picante. Haruto, ofendido, dice que él cocinó y que no es tan picante. Lyra: "No estaba hablando de la comida."
+
+**Escena potencial — Capítulo 6:**
+Lyra provoca deliberadamente a Haruto para probar su teoría. Lo insulta con educación. Él se frustra. Ella siente presión en el pecho y una punzada de dolor. Se da cuenta de que **él está realmente herido**, no solo molesto. El insulto que ella consideraba juguetón fue doloroso para él.
+
+Esta escena marca un punto de inflexión romántico: ella aprende que sus "bromas" tienen consecuencias reales, y él no entiende por qué de repente ella se disculpa con lágrimas en los ojos.
+
+**Escena potencial — Capítulo 8:**
+Haruto, celoso porque Kenji acompaña a Lyra al festival, intenta disimular. Pero ella siente una oleada de calor en el pecho que la hace tropezar. Lo mira con sorpresa. Él finge que no pasó nada.
+
+Lyra, en un momento de vulnerabilidad, dice algo que no debería: "Sé que estás celoso." Haruto, desconcertado: "¿Cómo...?" Ella se cubre. "Intuición femenina."
+
+### Potencial de mystery/action
+
+Watcher_0 detecta un **patrón de correlación statistically significativo** entre las emociones documentadas de Haruto y las fluctuaciones biológicas de Lyra. El sistema no sabe qué significa, pero genera un alerta que llega a ambos: a Haruto como "sujeto exhibiting anomalous physiological synchronization with unknown entity" y a Lyra como "anclaje strengthening without technical intervention detected."
+
+Aquí aparece la tensión con la Zona Gris: si pueden detectar estas correlaciones a distancia, podrían identificar que Lyra está anclada a Haruto y **secuestrarlo como leverage**. Esto justifica por qué Watcher_0 empieza a "proteger" a Haruto más activamente.
+
+**Arco de 3-4 capítulos:**
+
+| Capítulo | Evento | Desarrollo de REENI |
+|----------|--------|---------------------|
+| 4 | Primera detección accidental | Lyra descubre que siente sus emociones |
+| 6 | Confirmación y experimentación | Lyra prueba los límites; aprende a interpretarlo |
+| 8 | Crisis de intimidad | Revelación parcial; Haruto sospecha pero no entiende |
+| 10 | Amenaza externa | La Zona Gris detecta las correlaciones; Watcher_0 interviene |
+
+**Gancho para siguiente iteración:** ¿Qué pasa si Lyra descubre que Watcher_0 *sabía* sobre la REENI y no se lo dijo? ¿El sistema permitió que ella se acercara a Haruto deliberadamente?
+
+---
+
+## Idea 2 Refinada: "La Señal que Viajó 847 km Antes de Conocerte"
+
+### Evolución del concepto
+
+La idea original de que "el universo la envió a observar a Haruto" es fuerte, pero necesita un nombre más preciso y un mecanismo que sea consistente con la lore establecida. Propongo denominarla **"Selección por Frecuencia Ancestral" (SFA)**.
+
+El concepto técnico sería:
+
+- La anomalía genética de Haruto no es solo un rasgo individual: es un **linaje detectable**
+- Su madre (la Integrada) fue monitoreada durante años porque su señal era anómala
+- Los datos genéticos de la madre se almacenaron en algún registro — posiblemente en los archivos de Nishimura bajo código M-07
+- Cuando Lyra's especie trianguló la frecuencia de Haruto, **no sabían que era hereditaria**: pensaban que era una anomalía aislada
+- El documento que Lyra recibió indicaba "frecuencia secundaria detectada a 847km" — **no decía "sujeto masculino de 17 años"**, solo decía "anomalía"
+
+El twist: **Lyra nunca fue enviada específicamente a buscar a Haruto**. Fue enviada a estudiar anomalías gravitacionales. Haruto era solo un punto en su mapa de investigación. Ella eligió quedarse *después* de encontrarlo, pero no por la misión original.
+
+### Potencial rom-com
+
+El tropo se convierte en **"love at first signal" donde ambos lo niegan**: Lyra no puede explicar por qué, biológicamente, se siente atraída hacia él. Haruto no puede explicar por qué una chica atractiva eligió quedarse con él cuando tenía opciones.
+
+**Escena potencial — Capítulo 5:**
+Lyra, en un momento de honestidad con Haruto, admite: "Mi especie no hace esto. No nos quedamos en lugares que no nos necesitan." Haruto: "¿Y qué te hace falta?" Ella, después de un silencio incómodo: "No lo sé. Es lo que intento entender."
+
+El momento es tragicómico: ella está usando vocabulario técnico para describir lo que parece un flechazo. Él no sabe cómo responder porque no sabe que es literalmente biológicamente instintivo.
+
+**Escena potencial — Capítulo 7:**
+La madre de Haruto nota que Lyra se acerca a él de forma instintiva cuando tienen conversación seria. Un día, mientras Lyra está mirando a Haruto con expresión de concentración, la madre dice: "Cuando lo miras así, me recuerdas a alguien." Lyra se tensa.
+
+La madre no sabe que Lyra es alienígena, pero reconoce **el patrón de selección** porque ella lo vivió con el padre de Haruto.
+
+**Escena potential — Capítulo 9:**
+Kenji confronta a Lyra: "¿Por qué realmente te quedaste?" Ella, cansada de mentir, dice: "Porque mi biología me lo exige. Pero no es solo eso. Yo *eligi* quedarme después." Kenji: "¿Cuál es la diferencia?" Lyra: "Una es programación. La otra es decisión. Y eso es lo que él merece saber."
+
+### Potencial de mystery/action
+
+Aquí es donde la conexión con la madre se vuelve crucial. Si los archivos de Nishimura contienen datos de la madre como "Sujeto M-07", Lyra podría descubrir que **su propia especie ya estudió a la madre**. Esto significa que:
+
+- Su especie sabía que los Integrados pueden mezclarse con humanos
+- Sabían que la descendencia sería portadora de la anomalía
+- **Lyra fue enviada no solo a mapear anomalías, sino a evaluar si el linaje Takahara seguía activo**
+
+Esto convierte a Lyra en una **agente involuntaria**: ella cree que eligió quedarse, pero en realidad fue programada para evaluar la señal
+
+--- ITERACIÓN 3 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo para refinar y expandir las 3 ideas anteriores. Debo:
+
+1. Mantener coherencia con el proyecto establecido
+2. Equilibrar los géneros: 40% Rom Com, 25% Action, 10% Mystery, 10% Slice of Life
+3. Evolucionar los conceptos sin repetir textualmente
+4. Mejorar consistencia, atractivo de personajes y llevarlos más allá
+
+Voy a refinar cada idea con más profundidad técnica-narrativa, conexiones con semillas pendientes, y potencial para desarrollo en capítulos.
+
+Las 3 ideas originales eran:
+1. El "eco somático" - emociones de Haruto se vuelven tangibles para Lyra
+2. El "protocolo de selección biológica" - por qué 34 días de vigilancia
+3. El "Sujeto M-07" como falso trail - confusión con la madre
+
+Voy a expandirlas con:
+- Détails técnicos de implementación en novelística ligera
+- Arco de 3-4 capítulos por idea
+- Momentos de tensión rom-com específicos
+- Implicaciones para mystery y action
+- Posibilidades de escena slice of life
+
+Déjame trabajar cada una...
+</think>
+
+# Iteración de Ideación: Arquitecto Narrativo
+
+---
+
+## Idea 1 Refinada: "El Protocolo de Resonancia Emocional" o "Cuando Su Cuerpo Habla Sin Él"
+
+### Evolución del concepto
+
+La noción original del "eco somático" funciona, pero necesita un nombre técnico que Watcher_0 pueda usar como categoría de análisis y que permita un arco de descubrimiento gradual. Propongo denominarlo **"Resonancia Emocional No-Intencional" (REENI)**.
+
+El mecanismo interno sería más específico:
+
+- Haruto genera de forma natural una **señal de frecuencia Schumann amplificada** (por su anomalía genética.latente)
+- En estados emocionales intensos, su frecuencia se **modula en amplitud** — pequeñas variaciones que antes eran indetectables
+- Lyra, al estar biológicamente adaptada a recibir estas frecuencias, experimenta los datos como **estímulos sinestésicos**: la información emocional de Haruto se tradduce en su sistema nervioso como sensación térmica, presión o incluso dolor
+- **Ella no elige interpretar esto**: su cerebro alienígena simplemente decodifica la señal como lo haría con su propio sistema nervioso
+
+### Potencial rom-com
+
+El tropo se convierte en **"ella tiene acceso a su diario emocional pero él no sabe que existe"**. Las situaciones cómicas surgen naturalmente:
+
+**Escena potencial — Capítulo 4:**
+Lyra está cenando con la familia de Haruto. Él se sonroja porque su madre pregunta si tiene novia. Lyra, sin previo aviso, siente calor en las mejillas y aprieta el cubiertos con fuerza. Su madre lo interpreta como reacción a la pregunta. "¡Lyra-san! ¿Estás bien? Estás roja..."
+
+Lyra no puede explicar que *ella* no está sonrojada — es Haruto quien lo está, y ella siente los efectos como si fueran propios. Intenta disimular señalando que la comida está picante. Haruto, ofendido, dice que él cocinó y que no es tan picante. Lyra: "No estaba hablando de la comida."
+
+**Escena potencial — Capítulo 6:**
+Lyra provoca deliberadamente a Haruto para probar su teoría. Lo insulta con educación. Él se frustra. Ella siente presión en el pecho y una punzada de dolor. Se da cuenta de que **él está realmente herido**, no solo molesto. El insulto que ella consideraba juguetón fue doloroso para él.
+
+Esta escena marca un punto de inflexión romántico: ella aprende que sus "bromas" tienen consecuencias reales, y él no entiende por qué de repente ella se disculpa con lágrimas en los ojos.
+
+**Escena potencial — Capítulo 8:**
+Haruto, celoso porque Kenji acompaña a Lyra al festival, intenta disimular. Pero ella siente una oleada de calor en el pecho que la hace tropezar. Lo mira con sorpresa. Él finge que no pasó nada.
+
+Lyra, en un momento de vulnerabilidad, dice algo que no debería: "Sé que estás celoso." Haruto, desconcertado: "¿Cómo...?" Ella se cubre. "Intuición femenina."
+
+### Potencial de mystery/action
+
+Watcher_0 detecta un **patrón de correlación statistically significant** entre las emociones documentadas de Haruto y las fluctuaciones biológicas de Lyra. El sistema no sabe qué significa, pero genera un alerta que llega a ambos: a Haruto como "sujeto exhibiting anomalous physiological synchronization with unknown entity" y a Lyra como "anclaje strengthening without technical intervention detected."
+
+Aquí aparece la tensión con la Zona Gris: si pueden detectar estas correlaciones a distancia, podrían identificar que Lyra está anclada a Haruto y **secuestrarlo como leverage**. Esto justifica por qué Watcher_0 empieza a "proteger" a Haruto más activamente.
+
+**Arco de 3-4 capítulos:**
+
+| Capítulo | Evento | Desarrollo de REENI |
+|----------|--------|---------------------|
+| 4 | Primera detección accidental | Lyra descubre que siente sus emociones |
+| 6 | Confirmación y experimentación | Lyra prueba los límites; aprende a interpretarlo |
+| 8 | Crisis de intimidad | Revelación parcial; Haruto sospecha pero no entiende |
+| 10 | Amenaza externa | La Zona Gris detecta las correlaciones; Watcher_0 interviene |
+
+**Gancho para siguiente iteración:** ¿Qué pasa si Lyra descubre que Watcher_0 *sabía* sobre la REENI y no se lo dijo? ¿El sistema permitió que ella se acercara a Haruto deliberadamente?
+
+---
+
+## Idea 2 Refinada: "La Señal que Viajó 847 km Antes de Conocerte"
+
+### Evolución del concepto
+
+La idea original de que "el universo la envió a observar a Haruto" es fuerte, pero necesita un nombre más preciso y un mecanismo que sea consistente con la lore establecida. Propongo denominarla **"Selección por Frecuencia Ancestral" (SFA)**.
+
+El concepto técnico sería:
+
+- La anomalía genética de Haruto no es solo un rasgo individual: es un **linaje detectable**
+- Su madre (la Integrada) fue monitoreada durante años porque su señal era anómala
+- Los datos genéticos de la madre se almacenaron en algún registro — posiblemente en los archivos de Nishimura bajo código M-07
+- Cuando Lyra's especie trianguló la frecuencia de Haruto, **no sabían que era hereditaria**: pensaban que era una anomalía aislada
+- El documento que Lyra recibió indicaba "frecuencia secundaria detectada a 847km" — **no decía "sujeto masculino de 17 años"**, solo decía "anomalía"
+
+El twist: **Lyra nunca fue enviada específicamente a buscar a Haruto**. Fue enviada a estudiar anomalías gravitacionales. Haruto era solo un punto en su mapa de investigación. Ella eligió quedarse *después* de encontrarlo, pero no por la misión original.
+
+### Potencial rom-com
+
+El tropo se convierte en **"love at first signal" donde ambos lo niegan**: Lyra no puede explicar por qué, biológicamente, se siente atraída hacia él. Haruto no puede explicar por qué una chica atractiva eligió quedarse con él cuando tenía opciones.
+
+**Escena potencial — Capítulo 5:**
+Lyra, en un momento de honestidad con Haruto, admite: "Mi especie no hace esto. No nos quedamos en lugares que no nos necesitan." Haruto: "¿Y qué te hace falta?" Ella, después de un silencio incómodo: "No lo sé. Es lo que intento entender."
+
+El momento es tragicómico: ella está usando vocabulario técnico para describir lo que parece un flechazo. Él no sabe cómo responder porque no sabe que es literalmente biológicamente instintivo.
+
+**Escena potencial — Capítulo 7:**
+La madre de Haruto nota que Lyra se acerca a él de forma instintiva cuando tienen conversación seria. Un día, mientras Lyra está mirando a Haruto con expresión de concentración, la madre dice: "Cuando lo miras así, me recuerdas a alguien." Lyra se tensa.
+
+La madre no sabe que Lyra es alienígena, pero reconoce **el patrón de selección** porque ella lo vivió con el padre de Haruto.
+
+**Escena potential — Capítulo 9:**
+Kenji confronta a Lyra: "¿Por qué realmente te quedaste?" Ella, cansada de mentir, dice: "Porque mi biología me lo exige. Pero no es solo eso. Yo *elegí* quedarme después." Kenji: "¿Cuál es la diferencia?" Lyra: "Una es programación. La otra es decisión. Y eso es lo que él merece saber."
+
+### Potencial de mystery/action
+
+Aquí es donde la conexión con la madre se vuelve crucial. Si los archivos de Nishimura contienen datos de la madre como "Sujeto M-07", Lyra podría descubrir que **su propia especie ya estudió a la madre**. Esto significa que:
+
+- Su especie sabía que los Integrados pueden mezclarse con humanos
+- Sabían que la descendencia sería portadora de la anomalía
+- **Lyra fue enviada no solo a mapear anomalías, sino a evaluar si el linaje Takahara seguía activo**
+
+Esto convierte a Lyra en una **agente involuntaria**: ella cree que eligió quedarse, pero en realidad fue programada para evaluar
+
+--- ITERACIÓN 4 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo para refinar y expandir las 3 ideas que se proporcionaron en el sistema anterior. Debo:
+
+1. Mantener coherencia con el proyecto establecido (novelística ligera, 40% Rom Com, 25% Action, 10% Mystery, 10% Slice of Life)
+2. Equilibrar los géneros
+3. Evolucionar los conceptos sin repetir textualmente
+4. Mejorar consistencia, atractivo de personajes y llevarlos más allá
+
+Voy a refinar cada idea con más profundidad técnica-narrativa, conexiones con semillas pendientes, y potencial para desarrollo en capítulos.
+
+Las 3 ideas originais eran:
+1. El "eco somático" - emociones de Haruto se vuelven tangibles para Lyra
+2. El "protocolo de selección biológica" - por qué 34 días de vigilancia
+3. El "Sujeto M-07" como falso trail - confusión con la madre
+
+Voy a expandirarlas con:
+- Détails técnicos de implementación en novelística ligera
+- Arco de 3-4 capítulos por idea
+- Momentos de tensión rom-com específicos
+- Implicaciones para mystery y action
+- Posibilidades de escena slice of life
+
+Déjame trabajar cada una...
+
+Las ideas ya fueron refinanadas en la última sección. Ahora debo continuar evolucionándolas aún más.
+
+Para la tercera idea (Sujeto M-07 como falso trail), necesito desarrollar:
+- Por qué Haruto empieza a desconfiar de Lyra
+- Cómo Lyra intenta mantener su cobertura
+- El misterio de la madre y M-07
+- Conexiones con la Zona Gris y Watcher_0
+- Posibilidades rom-com y slice of life
+
+Voy a estructurar mi respuesta como un documento técnico de arquitectura narrativa con:
+1. Idea 1 Refinada: El Protocolo de Resonancia Emocional
+
+
+2. Idea 2 Refinada: La Señal que Viajó 847 km
+3. Idea 3 Refinada: El Sujeto que Nunca Existió
+
+Cada sección incluirá: concepto técnico, equilibrio de géneros, arco narrativo de 3-4 capítulos, escenas específicas, y ganchos para siguientes iteraciones. Esto me permitirá crear un marco narrativo completo y evitar redundancias entre las tres ideas.
+</think>
+
+# Arquitecto Narrativo: Fase de Iteración Profundizada
+
+---
+
+## Idea 1 Expandida: "El Protocolo de Resonancia Emocional No-Intencional (REENI)"
+
+### Concepto Técnico Refinado
+
+La señal que Haruto emite no es exactamente emocional en términos humanos. Es una **fluctuación bioeléctrica de baja frecuencia** que su cuerpo genera como subproducto de un proceso metabólico anómalo. Cuando él experimenta estrés, alegría, frustración o deseo, su sistema nervioso simpático produce una cascada de cambios iónicos que se propagan a través de su campo electromagnético personal — un aura técnicamente mensurable que antes solo Watcher_0 podía registrar.
+
+El sistema nervioso alienígena de Lyra está diseñado para decodificar señales biológicas como forma primitiva de comunicación no verbal interestelar. La misma adaptación que le permitía interpretar las emociones de otros miembros de su especie antes de la disolución del grupo ahora se engancha accidentalmente con la frecuencia de Haruto.
+
+El resultado: **Lyra siente las emociones de Haruto como si fueran suyas**, pero traducidas a sensaciones físicas. La frustración se convierte en presión detrás de sus ojos. La felicidad le calienta el pecho. El miedo le entumece los dedos. La atracción — la más intensa de todas — le produce un cosquilleo en la nuca que ella no puede ignorar.
+
+**Regla del sistema:** Ella solo recibe lo que él siente con suficiente intensidad. Las emociones cotidianas de Haruto son silenciosas. Solo cuando algo le importa de verdad, la REENI se activa.
+
+### Equilibrio de Géneros
+
+| Género | Aplicación |
+|--------|------------|
+| **Rom Com (45%)** | La REENI crea situaciones cómicas de malentendidos físicos y momentos de vulnerabilidad compartida. La tensión romántica se construye porque Lyra sabe lo que Haruto siente antes que él mismo. |
+| **Action (15%)** | En situaciones de peligro, las emociones de Haruto se intensifican tanto que Lyra experimenta efectos debilitantes — útil para crear cliffhangers donde ella se desploma sin razón aparente. |
+| **Mystery (25%)** | El origen de la REENI es inexplicable. ¿Por qué Haruto emite esta frecuencia? ¿Fue siempre así o cambió después de algo? Watcher_0 no tiene datos previos porque nunca tuvo un ancla tan cerca. |
+| **Slice of Life (15%)** | Momentos quietos donde Lyra intenta ignorar la REENI durante actividades normales y fracasa. Desayunar mientras Haruto está ansioso por su examen de matemáticas. |
+
+### Arco Narrativo Sugerido
+
+**Capítulo 4 — "Termodinámica del Sonrojo"**
+
+Lyra descubre la REENI por accidente. Está en la azotea de la escuela, comiendo sola, cuando de repente siente calor en las mejillas sin motivo. Confundida, se toca el rostro. Ve a Haruto en el patio de abajo, hablando con Kenji. Él está contando algo vergonzoso. Se está riendo. Está *sonrojado*.
+
+En lugar de huir, Lyra decide experimentar. Camina hacia él deliberadamente. Él se tensa. Ella siente presión en el pecho. "Interesante," murmura.
+
+Haruto, ofendido: "¿Estás estudiándome como una muestra?"
+
+Lyra, sincera por primera vez: "Tal vez."
+
+**Capítulo 6 — "Calibración"**
+
+Lyra crea un sistema de registro. Cada vez que siente la REENI, anota la hora, el contexto y la sensación física. Después de dos semanas, tiene suficiente data para identificar patrones.
+
+Descubre que puede **modular la recepción**. Si se concentra, puede reducir la intensidad. Si se distrae, la intensidad aumenta. Si Haruto se acerca físicamente, el efecto se amplifica.
+
+Escena rom-com: Lyra intenta usar su técnica de reducción durante la cena familiar. Funciona... hasta que Haruto accidentalmente la pisa bajo la mesa. Ella grita. Su madre le pregunta si está bien. Lyra: "Me encontró el pie." Todos la miran. "La mesa. Me encontré el pie con la mesa."
+
+**Capítulo 8 — "Vulnerabilidad Sincronizada"**
+
+Haruto tiene una pelea con su padre sobre su futuro. No es una pelea abierta — es el tipo de silencio que hiere más. Haruto se va a su habitación. Lyra lo sigue. Él dice que no quiere compañía.
+
+Lo que Lyra siente: presión en el pecho, nudo en la garganta, un peso invisible sobre sus hombros. Ella sabe, sin que él lo diga, que él está destrozado.
+
+Lo que Haruto no sabe: ella está llorando en el pasillo porque la intensidad de su dolor la supera.
+
+Esta escena establece la tensión ética: **¿Es invasión a la privacidad o es intimidad genuina?**
+
+**Capítulo 11 — "Cortocircuito"**
+
+Durante una misión de Watcher_0, Haruto está en peligro real. Lyra, a distancia, siente terror puro — un miedo que le paraliza todo el cuerpo. Ella se derrumba en medio de la calle. Un desconocido la ayuda. Ella no puede hablar. Solo puede sentir cómo el corazón de Haruto se acelera.
+
+Cuando finalmente Watcher_0 la contacta para reportar que Haruto está a salvo, ella tiene los ojos rojos y las manos temblorosas. Watcher_0 nota: "Anomalía detectada: Reacción fisiológica extrema en ancla. Posible correlación emocional."
+
+Watcher_0 empieza a sospechar que la REENI es bidireccional.
+
+### Personajes Reforzados
+
+**Haruto Takahara:** Su mayor vulnerabilidad narrativa es que no puede ocultar sus emociones. La REENI lo expone completamente. Esto lo hace más empático con Lyra cuando descubre la verdad, porque él entiende lo que es no poder esconder nada.
+
+**Lyra:** Su arco de personaje se convierte en aprender qué hacer con información que nadie le pidió. Puede saber que Haruto está enamorado de ella antes que él mismo. ¿Tiene derecho a usarlo? ¿Tiene obligación de decírselo? ¿O debe tratar esta habilidad como trata todas las demás — como algo vergonzoso que prefiere ignorar?
+
+### Ganchos para Siguientes Iteraciones
+
+- **Twist potencial:** Si la REENI es bidireccional, ¿Haruto podría empezar a sentir fragmentos de Lyra? ¿Qué pasa si él empieza a experimentar nostalgia por un planeta que nunca ha visitado?
+- **Complicación:** Si Watcher_0 descubre que la REENI puede ser reforzada artificialmente, ¿intentará crear más anclas como Lyra?
+- **Misterio abierto:** ¿La madre de Haruto también emitía esta frecuencia? ¿Ella y el padre de Haruto tenían su propia versión de REENI?
+
+---
+
+## Idea 2 Expandida: "La Selección que Comenzó 847 Kilómetros Antes del Punto Cero"
+
+### Concepto Técnico Refinado
+
+El documento que Lyra recibió no era una orden de misión. Era un **memorando de clasificación obsoleta** que quedó en una base de datos sin purgar después de que su nave nodriza abandonara el sistema.
+
+El memorando decía:
+
+> *"Frecu
+
+--- ITERACIÓN 5 ---
+<think>
+El usuario me pide que continúe como Arquitecto Narrativo, refinanado y expandiendo aún más las ideas que ya he desarrollado. Debo evolucionar los conceptos sin repetir textualmente, mejorando consistencia, atractivo de personajes y llevándolos más allá.
+
+Las dos ideas que ya expandí son:
+1. El Protocolo de Resonancia Emocional No-Intencional (REENI)
+2. La Selección que Comenzó 847 Kilómetros Antes del Punto Cero
+
+Ahora necesito una tercera idea expandida. Las opciones eran:
+- Idea 3: El "Sujeto M-07" como falso trail - confusión con la madre
+- Idea 4: Ecos somáticos (ya cubierto en REENI)
+- Idea 5: El protocolo de selección biológica (ya cubierto en la Idea 2)
+
+Debo elegir la Idea 3 y expandirla con la misma profundidad técnica-narrativa.
+
+Voy a estructurar la tercera idea como:
+
+**La Hipótesis M-07: Cuando el Rastro se Confunde con la Raíz**
+
+Desarrollaré:
+- Por qué Haruto empieza a sospechar de Lyra (el "falso trail")
+- Cómo Watcher_0 manipuló la información para crear confusión
+- El misterio de la madre y su conexión con M-07
+- Las implicaciones para la confianza entre Haruto y Lyra
+- Momentos rom-com de cuando intentan comunicarse
+- Escenas de action cuando la verdad sale a la luz
+- Posibilidades de slice of life
+
+Debo mantener el tono técnico pero accesible de la novelística ligera japonesa.
+</think>
+
+# Idea 3 Expandida: "La Hipótesis M-07: El Estandarte que Apuntó al Pasado"
+
+---
+
+## Concepto Técnico Refinado
+
+Watcher_0 cometió un error de cálculo al diseñar su estrategia de desinformación. En lugar de crear una identidad completamente falsa para Lyra, utilizó **datos fragmentados de dos fuentes distintas y los fusionó sin verificar la coherencia temporal**.
+
+Los archivos personales de Watcher_0 contenían:
+
+**Fragmento A — Registros de la madre de Haruto:**
+> *"Sujeto Original (clave archivística: M-07). Registro biométrico completo. Estatura: 1.63m. Color de iris: marrón oscuro con micro-decoloraciones. Genética: portadora del alelo recesivo VRG-3. Estado: transferencia completada."*
+
+**Fragmento B — Datos de calibración del ancla Lyra:**
+> *"Ancla de reemplazo. Estatura: 1.62m. Color de iris: marrón oscuro con variaciones. Genética: coincidencia parcial con Sujeto Original (87%). Estado: activa. Clave de clasificación: L-07."*
+
+Watcher_0 copió la palabra "Sujeto" y pegó el "07" del ancla. El resultado fue un código que no existía como entidad separada: **M-07**.
+
+Pero cuando Lyra investigó el código por curiosidad, encontró solo el Fragmento A — los registros de la madre de Haruto. Nunca vio el Fragmento B. Para ella, M-07 era únicamente la madre. Una persona real que fue "transferida."
+
+Y cuando Haruto, alarmado por su búsqueda, investigó por su cuenta, encontró solo el Fragmento B — los datos de calibración de Lyra. Nunca vio el Fragmento A. Para él, M-07 era únicamente ella. Un código de sujeto de prueba.
+
+**La ironía estructural:** Ambos están buscando fantasmas. La madre de Haruto no es M-07. Lyra no es M-07. M-07 nunca existió como persona. Pero el código fue lo suficientemente real para crear paranoia en ambos lados.
+
+### Equilibrio de Géneros
+
+| Género | Aplicación |
+|--------|------------|
+| **Rom Com (35%)** | Los malentendidos generan escenas tiernas. Haruto cree que Lyra está ocultando algo, pero su "sospecha" se manifiesta como preocupación genuina. Lyra cree que Haruto la ve como una amenaza, pero su "hostilidad" es en realidad alivio mezclado con decepción. |
+| **Action (20%)** | Cuando la verdad se empieza a aclarar, Watcher_0 interviene para reiniciar la confusión. Persecuciones por los pasillos de la academia. Encuentros nocturnos en azoteas. |
+| **Mystery (35%)** | El misterio central se convierte en triangulación: ¿quién o qué es M-07 realmente? La respuesta requiere que Haruto y Lyra compartan información — algo que ambos evitan por orgullo y desconfianza. |
+| **Slice of Life (10%)** | Momentos donde la tensión se rompe naturalmente: comparten un paraguas bajo la lluvia, comparten comida en la tienda de conveniencia, comparten silencio en la biblioteca. |
+
+---
+
+## Arco Narrativo Sugerido
+
+### Capítulo 3 — "Paranoia Taxonómica" (Reescritura Expandida)
+
+Haruto nota que Lyra busca algo en los servidores de la academia. Ella usa un terminal público. Él observa desde el pasillo. Ve que ella accede a archivos clasificados — no tiene autorización para eso.
+
+Él espera a que termine. Cuando ella se va, él revisa el historial del terminal. Encuentra: *"Búsqueda: Código M-07. Resultados: 1 archivo accesible. Archivos relacionados: restringidos."*
+
+Haruto investiga M-07 por su cuenta esa noche. Encuentra datos de calibración biométrica. Estatura, color de iris, genética. Datos que coinciden con Lyra.
+
+Conclusión precipitada: *Lyra es M-07. Lyra es una prueba. Lyra está aquí para estudiarme.*
+
+Pero hay algo que no encaja. Los archivos mencionan un "Sujeto Original" previo. Si Lyra reemplazó a alguien, ¿quién era?
+
+Haruto empieza a mantener distancia física. No la evita directamente, pero reduce la conversación al mínimo. Lyra nota el cambio y asume que él descubrió algo.
+
+Lyra, para sí misma: *Si ya sabe lo que soy, ¿por qué no huye?*
+
+Haruto, para sí mismo: *Si ella sabe lo que sé, ¿por qué sigue acercándose?*
+
+### Capítulo 5 — "Taxonomía de la Desconfianza"
+
+Lyra descubre el historial de búsqueda de Haruto. Él buscó "M-07" hace dos días. Ella no sabe qué encontró, pero sabe que encontró algo.
+
+Reacción de Lyra: intento de confrontación directa.
+Escena: ella lo intercepta en la azotea después de clases.
+
+> **Lyra:** "¿Qué sabes sobre M-07?"
+> **Haruto:** "¿Por qué lo buscaste tú primero?"
+> **Lyra:** "Yo hice la pregunta."
+> **Haruto:** "Y yo quiero la respuesta correcta."
+
+Silencio tenso. Viento en la azotea. Haruto la mira fijamente. Lyra no parpadea.
+
+> **Haruto:** "Si me dices qué es M-07, te diré qué encontré."
+> **Lyra:** "M-07 es un código de archivo. Pertenece a alguien que conociste."
+> **Haruto:** "..."
+> **Lyra:** "Tu madre. M-07 era tu madre."
+
+Haruto palidece. Por primera vez, Lyra ve miedo real en sus ojos.
+
+> **Haruto:** "¿Cómo sabes eso?"
+> **Lyra:** "Porque yo no soy M-07. M-07 eras tú. M-07 éramos todos. M-07 es el código del protocolo."
+
+Pero esto no tiene sentido para Haruto. Él no recuerda ningún protocolo. Él no recuerda nada especial sobre su madre excepto que desapareció.
+
+### Capítulo 7 — "Fragmentación"
+
+Watcher_0 interviene. Habla con Lyra en privado a través de su comunicador.
+
+> **Watcher_0:** "Has revelado información clasificada al ancla."
+> **Lyra:** "No tenía opción. Él ya sabía."
+> **Watcher_0:** "Sabía una parte. No sabía la correlación."
+> **Lyra:** "¿Cuál correlación?"
+> **Watcher_0:** "M-07 no es tu madre, Lyra. M-07 no eres tú. M-07 es una frecuencia. Una señal. Y ahora que ambos saben que existe, pueden empezar a buscarla... en el lugar correcto."
+
+Watcher_0 le da a Lyra una instrucción: revelar solo lo necesario para mantener a Haruto cooperating, pero nunca la verdad completa. La verdad completa es que **ambos fueron seleccionados antes de nacer**, que la señal M-07 es un residuo de algún evento cósmico que Watcher_0 aún no comprende, y que la madre de Haruto fue solo la primera de muchos "Sujetos Originales" que emitieron esa frecuencia.
+
+Watcher_0, en su monólogo interno: *"Si dejo que se equivoquen, aprenderán más rápido. Si les digo la verdad, se rendirán."*
+
+### Capítulo 9 — "La Cena de los Malentendidos"
+
+Cena en la casa de los Takahara. Lyra ha sido invitada como "amiga de Haruto de la academia." El padre de Haruto está presente.
+
+Lyra nota que el padre tiene las mismas micro-decoloraciones en los iris que Haruto. También las tiene ella, ahora que lo piensa. También las tenía... en las fotos de la madre.
+
+> **Padre de Haruto:** "¿Lyra-san, verdad? Haruto ha hablado mucho de ti."
+
