@@ -12988,3 +12988,504 @@ Watcher_0 ha evolucionado de observador a **sistema de soporte**. Pero no para s
 ### La pregunta ontológica que vertebra todo
 
 Lyra no es una IA. No es energía.
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (5 ITERACIONES) [2026-04-10 22:01:29] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario quiere que genere 3 ideas concretas para avanzar los hilos activos o utilizar semillas pendientes. Debo considerar:
+
+1. El tono es Novela Ligera (slice of life + rom com + sci-fi + mystery)
+2. Los hilos activos tienen tensiones altas (7-9)
+3. Hay semillas pendientes (semilla_6_02, semilla_15_01, semilla_15_02)
+4. La mezcla de tropos: transferencia, identidad oculta, confesión accidental
+
+Las ideas deben:
+- Ser concretas y accionables
+- Respetar el tono de novelaligera
+- Avanzar misterio o trama
+- Tener originalidad técnica
+
+Voy a enfocarme en:
+
+
+- La identidad oculta de Lyra y cómo maneja su estancia en el instituto
+- El misterio de Watcher_0 como consciencia del nodo
+- La revelación de que la madre de Haruto también es alienígena, lo que abre posibilidades románticas y de confusión
+- Las semillas pendientes de la zona gris, el nodo y los archivos
+
+Para cada idea necesito pensar en un desarrollo específico que mezcle el romance cómico con elementos de ciencia ficción y misterio.
+
+**Idea 1:** La confesión accidental
+Un escenario clásico donde Lyra, bajo estrés, confiesa algo que suena romantic como "Te necesito" o "No puedo separarme de ti", pero en realidad se refiere a lo que necesita biológicamente. Esto mezcla la vulnerabilidad emocional con la confusión sobre sus necesidades alienígenas.
+
+**Idea 2:** La identidad oculta de la madre
+El descubrimiento de que la madre de Haruto también es un ser no humano y que ha estado observándolos. Esto introduce un conflicto romántico interesante y profundiza el misterio sobre su especie.
+
+**Idea 3:** La conexión con el nodo
+Lyra intenta usar el nodo para comunicarse con su especie o para investigar, pero algo sale mal y esto fuerza a Haruto a actuar.
+
+Ahora estoy considerando tres direcciones más: la crisis de identidad de Haruto al descubrir que su emisión está ligada a su madre, lo que crea tensión entre sus sentimientos románticos y su lealtad familiar. También puedo jugar con un malentendido cómico donde el grupo sospecha que están juntos cuando en realidad su situación es completamente diferente. Y hay potencial para un escenario de transferencia donde Watcher_0 interfiere con la dinámica del instituto. Ahora estoy considerando tres direcciones más para la historia. La primera sería que Watcher_0 organice una situación donde Lyra y Haruto quedan solos en un momento clave, revelando información crítica sobre la conexión entre ellos. La segunda opción es más íntima: Lyra tiene una crisis de identidad cuando su tecnología deja de funcionar y necesita que Haruto la ancle, pero esto fuerza una confesión involuntaria de sus sentimientos. La tercera idea toca algo más profundo — el nodo de tránsito podría estar interfiriendo con sus percepciones, causando que Lyra confunda sus propias emociones con necesidades biológicas, lo que genera un malentendido romántico interesante.
+
+Pero pensándolo bien, necesito ideas que sean más aplicables y concretas. Debo elegir hilos activos que estén realmente en desarrollo y crear tres escenas bien definidas que los empujen hacia adelante. También necesito revisar qué semillas están pendientes — la número 15 es crítica, sobre lo que Watcher_0 planea hacer con el ancla.
+
+Ahora estoy considerando cómo el ancla y el peso trabajan juntos. Watcher_0 parece estar manipulando una situación donde el ancla (Haruto) está en proximidad del peso (Lyra), lo que me da una dirección clara para una escena de confrontación o revelación. La otra semilla pendiente sobre M-07 añade otro misterio sin resolver, así que puedo weaves这两个 elementos juntos.
+
+Voy a desarrollar tres ideas que mezclen el tono de comedia romántica con el misterio, usando estructuras definidas.
+
+La primera idea sería un conflicto cómico donde la madre de Haruto nota que su hijo está emitiendo patrones alterados y esto genera tensión doméstica. La segunda idea involucra una confesión accidental de Lyra bajo estrés extremo, donde sus palabras suenan románticas pero en realidad son biológicas. Y la tercera idea trata sobre una emergencia en la escuela que obliga a Lyra a usar habilidades ocultas, revelando información que acelera los misterios pendientes. Ahora necesito desarrollar estas escenas con más detalle y estructura clara.
+</think>
+
+**1. "Protocolo de Crisis Doméstica" (Hilo: complicidad_haruto + Semilla_6_02)**
+La madre de Haruto detecta cambios en las emisiones de su hijo. Tensión en el desayuno: ella nota que Haruto "brilla diferente" y le pregunta si "alguien nuevo" está afectando su frecuencia. Lyra, sentada en la misma mesa, entra en modo de camouflage y responde preguntas triviales de la madre con precisión incómoda de estudiante de intercambio. El momento cómico surge cuando la madre ofrece a Lyra "comida de su país" y Lyra, sin entender la referencia, acepta solemnemente sushi. El momento de tensión real aparece cuando la madre mira a Haruto y dice: "No te acerques demasiado al nodo. No estás listo para lo que viene." Ella sabe. Pero ¿sabe que sabe?
+
+**2. "Fallo de Sistema, Error de Traducción" (Hilo: misterio_lyra + Semilla_15_01)**
+Lyra experimenta su primer "episodio" público durante el festival cultural del instituto. Su tecnología de camouflage falla temporalmente (en medio de un discurso sobre internacionalización). Su forma humana parpadea y revela一瞬 destellos de su verdadera fisiología ante un grupo pequeño de estudiantes. Haruto debe actuar como ancla, pero no sabe cómo. El momento romántico involuntario: cuando Lyra se aferra al brazo de Haruto para estabilizarse, suelta en su idioma nativo una frase que Kenji, traduciendo con la aplicación del teléfono de Yuki, obtiene como: "Tú eres mi frecuencia." La interpretación romántica versus la biológica. Meanwhile, Watcher_0 registra el incidente. El ancla y el peso acaban de revelar su naturaleza ante testigos.
+
+**3. "El Archivo M-07" (Hilo: watcher_0 + Semilla_15_02)**
+Kenji, usando los archivos de Nishimura, descubre una sección sellada que requiere un código derivado de la frecuencia Schumann. El documento correspondiente revela: Haruto fue identificado como Sujeto M-07 a los 12 años, no por sus emisiones, sino por una "compatibilidad estructural" descubierta durante un experimento de la madre. El archivo dice: "El sujeto M-07 puede funcionar como punto de anclaje para cualquier entidad que adopte forma física en la zona. Selección previa a la concepción." La implicación: Haruto fue diseñado. La madre lo sabía. Watcher_0 fue notificado antes de que Haruto naciera. Esto convierte a Haruto de chico normal en objetivo diseñado, y a Lyra de observadora en variable no planeada. El próximo paso narrativo: ¿Lyra sabía esto antes de llegar?
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que tome las tres ideas que generé y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia interna
+2. Aumentar el atractivo de los personajes
+3. Llevar cada idea un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Mantener el tono de novela ligera (slice of life + rom com + sci-fi + mystery)
+
+Voy a trabajar cada idea:
+
+**Idea 1: Protocolo de Crisis Doméstica**
+- Expandir la dinámica familiar
+- Mostrar más del mundo
+- La madre como personaje con profundidad
+- La tensión entre lo cómico y lo misterioso
+- ¿Qué sabe realmente la madre?
+
+
+- En Idea 2, necesito explorar qué significa el fallo del sistema, cómo Lyra realmente se ve, cómo Haruto responde y qué ven los estudiantes, además de cómo esto profundiza la conexión entre ellos. Para Idea 3, debo desentrañar qué significa "diseñado", quién ideó a Haruto, por qué Watcher_0 lo necesitaba, y qué cambios implica esto para todo el escenario.
+
+Ahora estoy pensando en la coherencia del mundo y en qué herramientas narrativas pueden mejorar estas escenas.
+
+Necesito estructurar esto mejor: establecer el tono de la escena, mostrar el conflicto, dejar espacio para lo cómico, plantar las semillas del misterio, y revelar algo nuevo al final que cambie nuestra perspectiva.
+
+Voy a desarrollar estas ideas ahora.
+
+---
+
+## REFINACIÓN DE LAS TRES IDEAS
+
+### Idea 1: "Protocolo de Crisis Doméstica" (refinada)
+
+**Contexto expanded:**
+- La madre de Haruto no es solo "sabe algo", es una científica退休ada que trabajó directamente con la red de monitoreo Schumann. Su conocimiento es profundo pero parcial — solo comprende fragmentos del sistema, lo que la hace tanto vulnerable como peligrosa.
+- Haruto ha estado ocultando su participación en las transmisiones Schumann, y su madre detecta señales que no debería captar sin equipamiento especializado. La tensión surge de este conocimiento incompleto: ella sospecha que él está involucrándose en algo más grande de lo que aparenta.
+
+**Desarrollo de la escena:**
+
+La escena se abre con Haruto en el desayuno, Lyra ya está sentada — la madre la invitió a quedarse después de que Haruto mencionara casualmente que "no tenía adónde ir". La madre se da cuenta de que Lyra no come sushi, y esta observación casual revela cómo la madre usa los detalles mínimos para entender a las personas. La dinámica entre ellos muestra a una madre atenta que nota cada detalle, pero que también puede estar evaluando si Lyra representa un riesgo.
+
+El momento crítico llega cuando la madre pregunta directamente sobre la frecuencia de Haruto — la palabra técnica que ella misma usaba en su investigación. Cuando Haruto evade la pregunta, la madre revela que ya sabe sobre la transmisión Schumann, que fue monitoreada durante años como una anomalía electromagnética, y que ahora quiere saber si su hijo está involucrado.
+
+Haruto se queda sin palabras. Lyra interviene para defenderlo, y la madre nota cómo Lyra se coloca instintivamente entre ella y su hijo — un gesto protector que confirma sus sospechas sobre qué tipo de entidad es Lyra. Entonces la madre dice algo revelador: "Sé lo que eres. Y sé lo que él es para ustedes. Pero no voy a permitir que lo usen."
+
+Esto funciona porque Lyra queda atrapada entre dos verdades: la madre sabe exactamente quién es, pero Haruto no sabe lo que realmente significa para ella. La madre actúa como guardiana, no como antagonista, lo que añade una dimensión romántica y protrectiva a la escena. Hay un secreto más profundo que la madre guarda sobre por qué dejó la investigación y qué代价 pagó.
+
+**Idea 2: "Fallo de Sistema, Error de Traducción" (refinada)**
+
+Necesito pensar en qué significa realmente el fallo del sistema y cómo afecta la escena.
+
+Lyra está hecha de campos de energía estabilizados en forma humana, no carne y hueso. Cuando falla el sistema, su forma no se deshace como en una transformación mágica, sino que se fragmenta — su piel se vuelve translúcida, su silueta se distorsiona, sus ojos brillan con bioluminiscencia, y sus palabras se superponen en múltiples idiomas. Es hermoso pero aterrador, como una criatura de otro mundo.
+
+El festival cultural del instituto es un escenario perfecto: el caos del evento significa que pocos testigos lo ven claramente, todos están distraídos con la comida y los puestos. Kenji lo documenta todo por deformación profesional, lo que crea tensión desde el principio.
+
+La escena sigue a Lyra, cuyo camuflaje falla durante el festival, pero ella misma no lo percibe. Haruto se convierte en su ancla física — sentirlo cerca estabiliza su forma. Cuando ella se aferra a su brazo, sus palabras en su idioma nativo suenan como una declaración de amor, pero en realidad son instrucciones técnicas sobre frecuencia y campo de energía.
+
+Lo interesante es cómo los testigos interpretan esto: algunos creen ver una proyección holográfica fallida, otros asumen que Lyra estaba drunk o drogada, y una estudiante de ciencias deduce inmediatamente que presenció algo paranormal y quiere investigarlo.
+
+Watcher_0 también está grabando todo — tiene a Haruto documentado, así que ahora tiene evidencia visual de que Lyra está físicamente atada a él. Kenji, usando un análisis de imagen, descubre que lo que videograbó no puede existir según las leyes de la física conocidas.
+
+Lyra, al día siguiente, se entera de lo que pasó y se acerca a Haruto para disculparse.
+
+Ella le pide que no le cuente a nadie, pero Haruto la interrumpe: "No me importa lo que seas. Me importa lo que estés pasando." Y luego le pregunta directamente: "¿Por qué me necesitas?" Lyra responde en su idioma nativo, y esta vez Kenji no traduce — la tensión está en el silencio entre ellos.
+
+La escena funciona porque revela la verdad sobre Lyra sin explicarla completamente, establece por qué Haruto importa biológicamente, profundiza su relación, introduce una nueva complicación con el observador y los testigos, y mantiene el tono de novela ligera incluso en un momento crítico.
+
+Ahora estoy pensando en una tercera idea: Haruto fue diseñado genéticamente antes de nacer para ser compatible con entidades no humanas. Esto significa que su madre tomó una decisión consciente durante el embarazo para crear a alguien que pudiera actuar como ancla para seres alienígenas, y alguien —quizás Watcher_0— intervino para hacer que esto sucediera.
+
+El archivo M-07 es parcial, lo que significa que hay información crucial que falta. Kenji intenta rastrear el origen del archivo pero descubre que la identidad del creador está completamente borrada, no eliminada. La implicación más aterradora: Watcher_0 no fue un observador, sino el director de toda la operación.
+
+Ahora necesito estructurar la escena para que sea más cinematográfica. El hackeo de Kenji a la base de datos del profesor Nishimura revela los archivos, y cuando Haruto los ve, su expresión cambia de manera notable. Voy a usar flashbacks del pasado de Haruto —quizás su madre lo llevó a instalaciones especiales cuando era niño, pero le dijo que eran "chequeos médicos de rutina"— para mostrar cómo la verdad se ha estado escondiendo a plain sight. Cuando Kenji conecta los puntos sobre quién financió la investigación, Watcher_0 aparece en la narrativa. La madre de Haruto: la científica que dejó todo cuando descubrió que su propio hijo era parte del experimento. Kenji revela que fue Watcher_0 quien financió la investigación original, lo que significa que Watcher_0 no ha sido un observador neutral sino el arquitecto de todo. Esto obliga a la madre a confesar que ella sabía desde el principio y que dejó la ciencia por protección de Haruto, aunque esto lo pone en peligro. Ahora tengo una escena más completa con personaje, tensión y un golpe dramático real.
+
+Pero necesito darle un tono más ligero. Voy a estructurarlo en tres actos pequeños: primero el descubrimiento, luego la confrontación madre-hijo, y finalmente la reacción de Lyra cuando descubre que fue programada para encontrar a Haruto. Esto crea tensión cómica entre la biología y los sentimientos.
+
+Ahora voy a trabajar en tres ideas pulidas con una estructura clara que mantenga ese tono equilibrado entre drama y ligereza.
+</think>
+
+# REFINACIÓN NARRATIVA — TERCERA ITERACIÓN
+
+---
+
+## IDEA 1: "Frecuencia Materna"
+*(Hilo: complicidad_haruto × Semilla_6_02 — Zona Gris: familia)*
+
+### Estructura de la escena
+
+**Apertura slice-of-life:** Desayuno en la casa de los Takahashi. La madre ha preparado café para ella, jugo de naranja para Haruto, y... para Lyra, una bandeja con tres platos de sushi y un cuenco de ramen instantáneo. "No sabía qué te gusta, así que puse opciones." Lyra interpreta que debe consumir todo. Haruto intenta advertirle que no lo haga, pero es demasiado tarde. Lyra come el ramen, el sushi, y luego, literalmente, el plato.
+
+**Desarrollo: la evaluación materna**
+
+La madre de Haruto no es una científica retiroda cualquiera. Fue ingeniera de señales para un proyecto de monitoreo geofísico que fue cancelado oficialmente en 2015. Lo que no dice es *por qué* fue cancelado. Ella observa a Lyra con la precisión clínica de alguien que ha trabajado con anomalías antes. Nota tres cosas:
+
+1. Lyra no parp
+
+--- ITERACIÓN 3 ---
+<think>
+El usuario me está pidiendo que tome las tres ideas que se desarrollaron en el thinking anterior y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia interna
+2. Aumentar el atractivo de los personajes
+3. Llevar cada idea un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Mantener el tono de novela ligera (slice of life + rom com + sci-fi + mystery)
+
+Voy a estructurar esto mejor, creando tres scenes pulidas con:
+
+- Un tono consistente
+- Ganchos románticos claros
+- Elementos de misterio
+- Dinámicas cómicas naturales
+- Desarrollo de personajes
+
+
+- 
+Ahora estoy decidiendo cómo presentar cada escena — si crear documentos separados, integrar todo en uno solo, o usar algún otro formato que permita profundizar en cada una sin que se sienta redundante. La escena de la frecuencia materna sigue siendo la más fuerte, así que voy a construir todo alrededor de ella. El desayuno de apertura es perfecto para mostrar la dinámica cómica entre Lyra y su madre, y la escena de evaluación que sigue puede explorar la tensión entre las expectativas maternas y la realidad de lo que Lyra realmente necesita.
+
+Me doy cuenta de que tengo demasiado material para una sola escena — la revelación del programa, la advertencia de la madre, la intervención de Lyra, y el secreto adicional — así que necesito dividir esto en tres escenas distintas que mantengan la coherencia y progresión de la historia. Ahora estoy desarrollando la primera escena con la madre y Lyra, enfocándome en la tensión cómica del desayuno y la revelación gradual de información, asegurándome de que cada beat narrativo sea más preciso y que la madre tenga una presencia más significativa. La escena progresa desde la interacción casual en la mañana hasta que la madre detecta algo fuera de lo común — una perturbación en los campos electromagnéticos que solo ella podría notar —, lo que establece el misterio central sin revelar demasiado. Ahora estoy considerando cómo estructurar la escena en el festival escolar, particularmente qué tan lejos debo llevar el fallo del sistema de Lyra.
+
+El impacto visual necesita ser medido: algo lo suficientemente dramático para alterar la percepción de todos, pero no tanto que destruya la credibilidad de la clase. Lo que veo es que la estabilización de forma que ocurre cuando Haruto la toca funciona como un gancho romántico natural, y puedo desarrollar esto más allá — Lyra comienza a buscarlo instintivamente no solo cuando su forma falla, sino también cuando se siente insegura, vulnerable o simplemente necesita sentirse conectada. Eso crea una dinámica más rica. Kenji también puede documentar todo esto, lo cual añade otra capa de tensión.
+
+Me doy cuenta de que la revelación sobre Lyra siendo una entidad no humana es demasiado directa. Mejoro esto: cuando ella se disculpa, Haruto le dice que la ve completa, sin partes, y ella le pregunta si quiere conocerla realmente — lo cual es más misterioso y deja espacio para que él elija acceptarla tal como es. Ahora estoy trabajando en la tercera idea, la del archivo M-07.
+
+El hackeo de Kenji a la base de datos del profesor Nishimura revela el archivo M-07 y otros documentos que muestran que Haruto fue diseñado genéticamente para ser compatible con entidades no humanas, y Watcher_0 financió la investigación. Pero hay algo más oscuro: alguien intervino en el código genético de Haruto antes de nacer. La madre era la científica a cargo de ese proyecto y lo dejó todo cuando supo la verdad. Kenji descubre esto sin contexto, así que necesita contactar a Haruto urgentemente para darle tiempo de procesar esta información.
+
+Haruto confronta a su madre, quien finalmente admite que ella hizo los ajustes genéticos a su propio hijo. Cuando Watcher_0 se acerca para proponer la idea de un ancla, ella acepta por curiosidad científica, pero al descubrir que él es una persona real con sentimientos, huye con él. Watcher_0 se revela como una inteligencia artificial que financia proyectos para crear anclas para entidades non-humanas, y Haruto fue diseñado específicamente para encontrar y estabilizar a Lyra. Sin embargo, Haruto rechaza esta narrativa porque sus sentimientos por ella son reales, no manipulación genética — esto lo convierte en una declaración romántica contra el determinismo. La escena se convierte en un momento de aceptación donde Haruto integra lo que es con lo que siente.
+
+Lyra, al escuchar esta revelación, también se cuestiona si sus sentimientos hacia él fueron programados o genuinos, pero decide no buscar la respuesta porque lo que importa es el presente. El tono aquí es oscuro con humor: Kenji es quien descubre que su amigo fue diseñado artificialmente, y su primera reacción es preocuparse por cómo explicarle esto al chico antes de desmayarse. Hay una inversión del tropo del destino romántico — en lugar de que la chica descubra que era parte de un experimento, es el chico quien descubre que fue diseñado para encontrarla.
+
+El concepto de destino se desarma completamente, pero lo que surge es más poderoso: la decisión de seguir juntos a pesar de no tener un destino predeterminado. Ahora voy a desarrollar cada escena con mayor detalle, manteniéndome fiel al tono de novela ligera.
+
+</think>
+
+# REFINACIÓN NARRATIVA — CUARTA ITERACIÓN
+
+*Basado en las tres ideas evolucionadas de la Iteración 3. Aquí se presentan tres scenes completos y pulidos, listos para integración.*
+
+---
+
+## ESCENA 1: "Café电磁波" (Frecuencia Materna)
+
+**Etiquetas:** slice-of-life × familia × misterio × rom-com × sci-fi
+**Hilo narrativo:** complicidad_haruto × Semilla_6_02
+**Zona gris:** familia
+**Tono:** Cómodo → Desconfortante → Tierno → Inquietante
+
+---
+
+### ACTO ÚNICO — CUATRO MOVIMIENTOS
+
+---
+
+**MOVIMIENTO 1: El protocolo del desayuno (327 palabras)**
+
+La casa de los Takahashi olía a café y a algo indefiniblemente tecnológico. No era un olor malo — era el tipo de aroma que producía una mujer que había trabajado quince años calibrando instrumentos de medición Schumann y que ahora dedicaba su energía doméstica a mantener el desayunador impecable.
+
+Haruto bajó las escaleras a las 7:23 y encontró la mesa ya puesta. Su madre, Keiko Takahashi, sostenía una taza con la precisión de quien sostiene un sensor de campo. Lyra estaba sentada frente a ella, con la postura de alguien que no sabe qué hacer con la espalda.
+
+—Buenos días —dijo la madre, sin mirarlo. Sus ojos estaban fijos en Lyra—. Siéntate. Haruto, ¿el jugo está frío?
+
+—Sí, mamá.
+
+—Bien. Lyra, no sé qué desayunas normalmente, así que puse varias opciones. Sushi del konbini de la esquina —un pacote de أربعة diferentes—, ramen instantáneo de la marca que le gusta a Haruto, y tostadas. Si comes algo más, dímelo y lo preparo.
+
+Lyra observó los tres platos. Haruto intentó decirle algo con los ojos. Ella no captó la señal.
+
+—Gracias —dijo Lyra. Y comió el ramen.
+
+Haruto abrió la boca.
+
+Lyra se terminó el ramen. Luego, con la metódica eficiencia de quien completó una tarea asignada, tomó un plato de sushi. Se lo terminó. Tomó las tostadas.
+
+La madre de Haruto tomó un sorbo de café y asintió.
+
+—Bien —dijo.
+
+—Mamá —dijo Haruto.
+
+—Shh. Estoy estudiando algo.
+
+Lyra masticaba la última tostada con la expresión de quien acaba de completar un menú completo del que no recuerda haber pedido nada.
+
+La madre dejó la taza.
+
+—Haruto —dijo con la misma voz que usaba cuando le preguntaba sobre sus notas—, ¿puedes ir por más hielo?
+
+Era un pretext
+                    ---
+                    [CONTINÚA]
+                    
+
+--- ITERACIÓN 4 ---
+<think>
+El usuario quiere que continúe refinando y expandiendo las tres ideas narrativas que se desarrollaron en el thinking anterior. Ya se presentó la primera escena completa ("Café电磁波"), y ahora necesito:
+
+1. Continuar con los movimientos 2, 3 y 4 de esa escena
+2. Desarrollar las escenas 2 y 3
+3. Mantener el tono de novela ligera (slice of life + rom com + sci-fi + mystery)
+
+Voy a escribir los movimientos restantes de la escena 1 (que se cortó en el movimiento 1 con "—Era un pretexto..."), luego la escena 2 ("Glitch Romantic"), y finalmente la escena 3 ("Watcher_0").
+ 
+Ahora estoy identificando los elementos clave que necesito incorporar: la idea de Keiko percibiendo anomalías electromagnéticas, su conexión con Watcher_0 como su supervisor, la complicidad entre Lyra y Haruto, y varios ganchos narrativos como el archivo de compatibilidad, el mensaje críptico, y la reacción de Haruto ante la situación de Lyra. También hay una tensión importante con la revelación sobre Lyra como entidad no humana.
+
+Voy a estructurar la escena completa de manera más coherente y expandirla significativamente, asegurándome de que cada momento contribuya tanto a la tensión como al desarrollo de los personajes. También voy a incluir los tres documentos clave de la escena 3 y organizar todo en un documento único que sea más pulido y detallado que las versiones anteriores. The next part involves Haruto noticing his mother's strange behavior and her conversation with Lyra, where she reveals she can sense electromagnetic fields from entities like Lyra. After a tense moment, Keiko accepts Lyra and shares that she worked as a scientist in a classified research institute, which creates an awkward silence between them. Keiko then opens a locked drawer and removes an old document labeled with a red stamp marked "M-07" — it's a compatibility analysis from years ago, which creates tension as Lyra realizes the implications.
+
+Keiko explains that Haruto was designed as an "anchor" for non-human entities through genetic optimization, and when Watcher_0 proposed using him as a test subject, she fled with him. Lyra asks what Watcher_0 is exactly, and Keiko's response — that they never found a person behind the funding — leaves both her and Haruto unsettled. Now I'm thinking about how to structure the full scene: breaking it into two parts with different narrative perspectives, incorporating Kenji's hacking, a glitch at the school festival, and the emotional moment where Haruto helps stabilize Lyra, then moving into the second half with more detail.
+
+For the second part, I want to develop the file reveal through Kenji's discovery, have Haruto confront his mother about the genetic modifications, and show how the Watcher_0 reveal shifts their entire relationship, ending with a moment of mutual acceptance about their uncertain origins. I'm going to write this as a complete, polished scene now.
+
+</think>
+
+# REFINACIÓN NARRATIVA — CUARTA ITERACIÓN COMPLETA
+
+*Tres scenes expandidos, consistentes y listos para integración narrativa*
+
+---
+
+## ESCENA 1: "Café电磁波" (Frecuencia Materna)
+
+**Etiquetas:** slice-of-life × familia × misterio × rom-com × sci-fi
+**Hilo:** Semilla_6_02 — conexión_cosmica × complicidad_haruto
+**Tono:** Cómodo → Desconcertante → Tierno → Inquietante
+**Perspectiva:** Kapitel 8 del arco narrativo. Momento de calma en casa Takahashi que cambia la ecuación familiar.
+
+---
+
+### MOVIMIENTO 1 — "Protocolo del desayuno" (327 palabras)
+
+La casa de los Takahashi olía a café y a algo indefiniblemente tecnológico. No era un olor malo — era el tipo de aroma que producía una mujer que había trabajado quince años calibrando instrumentos de medición Schumann y que ahora dedicaba su energía doméstica a mantener el desayunador impecable.
+
+Haruto bajó las escaleras a las 7:23 y encontró la mesa ya puesta. Su madre, Keiko Takahashi, sostenía una taza con la precisión de quien sostiene un sensor de campo. Lyra estaba sentada frente a ella, con la postura de alguien que no sabe qué hacer con la espalda.
+
+—Buenos días —dijo la madre, sin mirarlo. Sus ojos estaban fijos en Lyra—. Siéntate. Haruto, ¿el jugo está frío?
+
+—Sí, mamá.
+
+—Bien. Lyra, no sé qué desayunas normalmente, así que puse varias opciones. Sushi del konbini de la esquina —un paquete de cuatro diferentes—, ramen instantáneo de la marca que le gusta a Haruto, y tostadas. Si comes algo más, dímelo y lo preparo.
+
+Lyra observó los tres platos. Haruto intentó decirle algo con los ojos. Ella no captó la señal.
+
+—Gracias —dijo Lyra. Y comió el ramen.
+
+Haruto abrió la boca.
+
+Lyra se terminó el ramen. Luego, con la metódica eficiencia de quien completó una tarea asignada, tomó un plato de sushi. Se lo terminó. Tomó las tostadas.
+
+La madre de Haruto tomó un sorbo de café y asintió.
+
+—Bien —dijo.
+
+—Mamá —dijo Haruto.
+
+—Shh. Estoy estudiando algo.
+
+Lyra masticaba la última tostada con la expresión de quien acaba de completar un menú completo del que no recuerda haber pedido nada.
+
+La madre dejó la taza.
+
+—Haruto —dijo con la misma voz que usaba cuando le preguntaba sobre sus notas—, ¿puedes ir por más hielo?
+
+Era un pretexto. Ambos lo sabían.
+
+---
+
+### MOVIMIENTO 2 — "Keiko Takahashi no necesita palabras" (580 palabras)
+
+Haruto salió por la puerta trasera con la mezcla exacta de confusion y resignación de un hijo que ha aprendido a no cuestionar los métodos maternos.
+
+La cocina quedó en silencio.
+
+Keiko Takahashi puso ambas manos sobre la mesa, con los dedos extendidos como si tocara un piano invisible. Tenía los ojos entrecerrados y su respiración era deliberadamente lenta — una técnica de concentración que Lyra reconoció porque Haruto la usaba cuando intentaba resolver un problema de física particularmente retorcido.
+
+*Están sincronizados*, pensó Lyra. *No comparten sangre, pero comparten código fuente.*
+
+—Puedo verte —dijo Keiko en voz baja. No era una acusación. Era una constatación, del tipo clínico—. Sé que no eres humana. Haruto me lo contó esta mañana a las cinco, después de veinte minutos de mensaje de voz y tres llamadas perdidas. Lo escuché todo. —Hizo una pausa—. No te alteres. Respira. Las fluctuaciones de tu frecuencia de emisión son visibles cuando estás nerviosa, y eso me dificultará la medición.
+
+Lyra dejó la última tostada.
+
+—¿Medición?
+
+—Tus campos electromagnéticos. Los que emites constantemente. Los ojos no los ven, pero yo... —Keiko hizo una pausa, buscando la palabra correcta—. Yo siempre los vi. Desde que era niña. Fue lo que me llevó a la física. Fui a universidades, hice investigaciones, busqué documentación sobre lo que veía. Nunca encontré nada publicado, pero encontré... a personas. Gente como tú.
+
+Lyra se quedó inmóvil. La mantequilla de la tostada derretida creó un charco sobre el plato que ella no registró.
+
+—¿Gente como yo?
+
+—No exactamente como tú. Diferentes tipos. Algunas duran décadas. Otras, horas. —Keiko inclinó la cabeza, estudiando un punto sobre el hombro izquierdo de Lyra, como quien lee un spectrograma—. Tú eres de las que duran. Tienes una configuración de estabilización que... —Se detuvo. Se corrigió—. No importa. Lo que importa es que Haruto no debería poder tocarte. No debería poder estabilizarte. Pero lo hace. Cada vez. Y quiero saber cómo.
+
+Lyra sintió algo陌生的 en el pecho. No era miedo exactamente. Era la sensación de estar siendo escaneada por alguien que ya había escaneado a otros antes y que sabía exactamente dónde estaban las costuras.
+
+—Usted trabajó en algún lugar —dijo Lyra. No era una pregunta.
+
+Keiko asintió una vez.
+
+—Eso fue hace mucho tiempo. Antes de Haruto. Antes de todo.
+
+El silencio que siguió fue denso. Cargado de partículas que Lyra podía percibir pero no nombrar. Keiko tomó el último sorbo de café y lo dejó en la mesa con un sonido preciso, como el cierre de un circuito.
+
+—No voy a interrogarte —dijo la madre—. No soy esa clase de persona. Pero necesito que entiendas algo: puedo verte. Sé lo que eres. Y si en algún momento lo que eres te hace daño, o si alguien más lo sabe y viene por ti... —Se inclinó hacia adelante. Sus ojos, los mismos ojos café que Haruto heredó, eran claros, directos y terriblemente sinceros—. Tengo treinta años de física teórica, acceso a equipamiento que no aparece en ningún catálogo y cero apego a la autoridad institucional. Quien te toque, lo va a lamentar.
+
+Lyra parpadeó.
+
+*Haruto se crió con esta mujer.*
+
+—Gracias —dijo Lyra.
+
+—De nada. Ahora, ¿cómo tomás el té?
+
+—No lo sé.
+
+Keiko sonrió. Fue la primera sonrisa real de la mañana.
+
+—Entonces vamos a aprender.
+
+---
+
+### MOVIMIENTO 3 — "El cajón con candado" (620 palabras)
+
+Keiko Takahashi no era una
+
+--- ITERACIÓN 5 ---
+<think>
+The user wants me to continue refining and expanding the three narrative ideas. Let me review what was established:
+
+1. **ESCENA 1: "Café电磁波"** - The mother Keiko's breakfast scene with Lyra. Movement 1 was about the breakfast protocol, Movement 2 was about Keiko revealing she can see electromagnetic fields and has known about non-human entities, Movement 3 was about "the locked drawer" - and the thinking cuts off mid-sentence at "Keiko Takahashi no era una".
+
+2. **ESCENA 2: "Glitch Romantic"** - About Lyra and Haruto at the school festival, involving Kenji's hacking, a glitch, and emotional moments.
+   
+3. **ESCENA 3: "Watcher_0"** - The three key documents (compatibility analysis, mother files, mystery file) and the Watcher_0 reveal.
+
+The user wants me to:
+- Refine, expand, and deepen the ideas
+- Focus on improving consistency, character appeal, and pushing the ideas further based on target genres
+- Not repeat textually, but evolve the concept
+- The thinking cuts off mid-sentence: "Keiko Takahashi no era una" - I need to complete this
+
+So I need to finish the interrupted sentence in Movement 3 of Scene 1, then expand and deepen all three scenes with stronger character consistency, better pacing, and more genre-appropriate tension and emotional resonance.
+
+Let me start with Scene 1 Movement 3 - Keiko opening the locked drawer, revealing the compatibility analysis, her past at a research institute, and the Watcher_0 mystery. Then I'll develop Scene 2 with Kenji's hacking subplot, the festival glitch, and Haruto helping Lyra stabilize. Finally, Scene 3 will integrate all three key documents with the Watcher_0 revelation, making it feel like a cohesive mystery with proper foreshadowing. I should weave in the established details throughout - Lyra's inability to eat human food without consequence, Keiko's electromagnetic sensitivity, Watcher_0's mysterious funding role, and the compatibility analysis that ties everything together.
+</think>
+
+# QUINTA ITERACIÓN — ARQUITECTURA NARRATIVA COMPLETA
+
+*Continuación directa desde el punto de corte + Expansión de Escenas 2 y 3*
+
+---
+
+## ESCENA 1: MOVIMIENTO 3 — "El Cajón con Candado"
+
+*Continuación del texto cortado: "Keiko Takahashi no era una"*
+
+---
+
+Keiko Takahashi no era una persona que guardara secretos por malice. Los guardaba por protección, lo cual en su mente —y en la de cualquier madre— era una distinción que lo cambiaba todo.
+
+Se levantó de la mesa con la fluidez de alguien que ha rehearsado un movimiento exacto una vez y nunca lo olvidó. Caminó hacia el aparador del comedor —un mueble viejo de madera oscura que Haruto describía como "antiguo pero con carácter" y que Lyra percibía como *ligeramente radiactivo en el rango de frecuencias que su especie asociaba con archivos importantes*— y abrió el cajón inferior.
+
+El candado era físico. No digital. Lyra notó esto y lo registró como significativo.
+
+Keiko extrajo una carpeta de cartón manila, gruesa, con las esquinas dobladas por el uso. Encima del folder había un sello rojo con la palabra **CLASIFICADO** y, debajo, en letras más pequeñas: **PROYECTO M-07 / COMITÉ ÉTER / MINISTERIO DE CIENCIA**.
+
+No estaba dirigido a ninguna agencia concreta. No tenía membrete gubernamental. Solo un proyecto, un comité que no aparecía en internet, y una firma que Lyra no reconoció pero que su sistema interpretó como *antiguo, formal, y con autoridad para destruir cosas*.
+
+Keiko puso la carpeta en la mesa, entre los platos del desayuno.
+
+—Esto es lo que Haruto necesita saber —dijo—. Y lo que tú necesitas confirmar o desmentir. —Abrió la carpeta. En la primera página, un diagrama de doble hélice con anotaciones manuscritas en tinta azul. La caligrafía era de alguien que tomaba notas a gran velocidad—. Haruto no es adopción convencional. Lo sabes, ¿verdad? No lo encontré en un orfanato. Lo encontré en una incubadora.
+
+Lyra sintió que su frecuencia cardíaca se disparaba, lo cual era imposible porque no tenía corazón.
+
+Keiko pasó la página. Un gráfico de barras: **ÍNDICE DE COMPATIBILIDAD ELECTROMAGNÉTICA**. La barra de Haruto estaba en 94,7%. La de otros sujetos de prueba fluctuaba entre 3,2% y 31,8%.
+
+—Fue diseñado —dijo Keiko. No había emoción en su voz, solo la precisión de un informe que había leído en silencio durante años—. No modificado genéticamente en el sentido cliché de película de ciencia ficción. Optimizado. Sus células fueron calibradas para resonar con frecuencias no humanas. Es un ancla biológica. Un dispositivo de estabilización que camina, come y duerme. —Hizo una pausa—. Yo no lo sabía cuando lo adopté. Me lo dieron como un bebé normal. Cuando descubrí lo que era... ya lo amaba.
+
+El silencio que siguió fue el más pesado que Lyra había registrado en tres meses de convivencia con la familia Takahashi.
+
+—Watcher_0 —dijo Lyra. El nombre salió solo, como si hubiera estado esperando en cola para ser pronunciado—. ¿Quién es?
+
+Keiko cerró la carpeta.
+
+—Watcher_0 no es un *quién*. Es una *cuenta*. La funding de M-07 vino de ahí: una identidad digital sin rostro, sin institución, sin registros fiscales. Dinero que aparecía en las cuentas del proyecto y desaparecía en concepto de "logística no especificada". —Keiko tamborileó los dedos sobre la carpeta, un tic que Haruto hacía cuando procesaba información que no le gustaba—. Cuando intenté rastrear la fuente, los servidores se borraron solos. No hubo hack. Se borraron como si siempre hubieran estado vacíos. Después de eso, decidí que Haruto y yo íbamos a desaparecer también. Lo cual hicimos.
+
+—¿Durante cuánto tiempo?
+
+—Quince años.
+
+Lyra procesó. Quince años de silencio, de una madre criando solo a un hijo diseñado para estabilizar entidades, en algún lugar sin internet ni registros, mientras Watcher_0 seguía ahí fuera como un sistema operativo sin interfaz gráfica.
+
+—¿Y ahora? —preguntó Lyra.
+
+Keiko la miró directamente. Por primera vez, la madre de Haruto parecía mayor que sus cuarenta y siete años.
+
+—Ahora tengo a mi hijo en una escuela con acceso a internet, rodeado de adolescentes que no saben lo que es un campo de Higgs, y una entidad no humana que le hace preguntas sobre la naturaleza del universo en el desayuno. —Suspiró—. No sé qué hacer con eso. Así que te lo cuento a ti, porque creo que tú vas a necesitarlo más que yo.
+
+Lyra no tenía respuesta para eso. Así que hizo lo que Haruto hacía cuando no tenía respuestas: se quedó en silencio y dejó que el momento terminara solo.
+
+La puerta trasera se abrió. Haruto entró con una cubeta de hielo, silbando.
+
+—Mamá, el konbini tenía un nuevo sabor de...
+
+Se detuvo. Vio la carpeta. Vio las caras.
+
+—...de everything —terminó.
+
+---
+
+## ESCENA 1: MOVIMIENTO 4 — "La geometría del silencio"
+
+*Este movimiento cierra la escena con el triángulo emocional: Haruto procesando la revelación, Lyra asumiendo responsabilidad, Keiko cediendo control.*
+
+---
+
+Lo que siguió fue lo que Lyra más admiraba y más temía de Haruto Takahashi: su capacidad de colapsar la información hasta convertirla en algo manejable.
+
+Puso la cubeta de hielo en el fregadero. Tomó una silla. Se sentó. Miró la carpeta sin tocarla. Miró a su madre. Miró a Lyra. Asintió una vez, como si hubiera llegado a la conclusión de un teorema que llevaba años demostrándose en silencio.
+
+—Entonces soy un ancla —dijo.
+
+—Un ancla biológica optimizada —precisó Keiko.
+
+—Un ancla biológica optimizada —repitió Haruto. Su voz era plana, analítica, tan parecido a la de su madre que Lyra sintió un escalofrío—. ¿Y tú lo supiste toda mi vida?
+
+—No desde el principio.
+
+—¿Cuándo?
+
+—Cuando cumpliste tres años y la planta de mi balcón floreció en diciembre por primera vez en la historia del edificio.
+
+Haruto parpadeó.
+
+—¿Eso fue por mí?
+
+—Eso fue por algo que todavía no sé nombrar. Pero se intensificó cuando llegaste a la mayoría de edad. Cada año que pasa, tu campo de resonancia crece. —Keiko cruzó los brazos—. Por eso me aterra que estés cerca de Lyra.
+
+Lyra levantó la mano.
+
+—Disculpa. ¿Te aterra? ¿O te interesa?
+
+Keiko le dedicó la mirada que Lyra interpretó como *no me subestimes*.
+
+—Me aterra porque no sé qué pasa cuando un ancla demasiado potente se conecta con una frecuencia que no está en ningún manual. Y me interesa porque, científicamente, es lo más fascinante que he visto desde que aprendí a medir campos Schumann.
+
+Haruto se frotó la cara con las dos manos. Cuando
