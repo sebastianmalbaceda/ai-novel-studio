@@ -9555,3 +9555,440 @@ Lyra guarda el libro en un lugar especial. No lo guarda con sus otras cosas. Lo 
 ---
 
 ## IDEA 3 REFINADA
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (5 ITERACIONES) [2026-04-10 15:44:59] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando los hilos activos y semillas pendientes para generar ideas que empujen la trama con originalidad.
+
+**Hilos más urgentes:**
+- misterio_lyra: tensión 8, próximo paso sobre la "elección" de Lyra
+- emisiones_haruto: tensión 9 (la más alta), necesita desarrollo
+- watcher_0: tensión 8, identidad pendiente
+- semilla_15_02: "Sujeto M-07" - esto es HUGE para Haruto
+
+**Semillas pendientes clave:**
+- Semilla_15_02: Sujeto M-07 con foto a los 12 años
+
+
+- Semilla_15_01: Watcher_0 y el ancla/peso
+- Semilla_6_02: Lyra tiene episodios, algo se avecina
+
+**Balance de géneros:** Rom Com 40% es dominante, pero Sci Fi y Mystery necesitan más espacio. Voy a diseñar tres ideas donde las emisiones de Haruto sean el motor romántico, el Sujeto M-07 revele información crucial que mezcle misterio con acción, y Lyra tenga un episodio que profundice tanto el romance como la tensión.
+
+**Idea 1 - Emisiones de Haruto + Rom Com:**
+La tensión emocional de Haruto al descubrir que su presencia es necesaria para Lyra genera un conflicto interno entre querer ayudarla y sentirse usado. El Tropo del Accidental Confession funciona bien aquí: Lyra, sin querer, revela que necesita su presencia para sobrevivir, y él lo malinterpreta como algo más romántico antes de confrontar la verdad incómoda de ser un "recurso" para ella.
+
+**Idea 2 - Sujeto M-07:**
+El archivo de "Sujeto M-07" con la foto de un niño de 12 años abre un misterio escalofriante: ¿Quién es realmente Haruto? La imagen muestra a un menor no identificado junto a una frecuencia y coordenadas de Takahara, lo que sugiere un posible rapto o contacto alienígena en su infancia. Esto conecta directamente con lo que él emite ahora, sugiriendo que fue modificado o diseñado desde joven, erosionando su sentido de identidad humana.
+
+**Idea 3 - Episodio de Lyra + Watcher_0:**
+Un momento de vulnerabilidad donde Lyra necesita que Haruto la sostenga física o energéticamente funciona como un punto de inflexión romántico. Cuando él la acerca, Watcher_0 interviene con un mensaje críptico sobre "el ancla funcionando correctamente", revelándose como el nodo y sugiriendo que Haruto ya estaba vinculado a ella antes de que se conocieran.
+
+Ahora estoy evaluando qué tan bien estas ideas se integran con la trama, qué tan originais son, y si mantienen el tono ligero de la novela. La primera idea sobre la interpretación errónea del Rom Com me parece sólida, pero necesito desarrollar más las otras dos opciones.
+
+</think>
+
+**IDEAS PARA CAPÍTULOS 16-18**
+
+**1. "LA FRECUENCIA INCÓMODA" — Hilo: emisiones_haruto × Rom Com × Mystery**
+*Avance: Haruto confronta qué significa para su identidad ser "necesario" para Lyra.*
+
+Haruto descubre que su presencia física literalmente *sostiene* la forma de Lyra. Cuando ella tiene un episodio menor y él se aleja sin querer, su cuerpo parpadea como una pantalla con interferencia. El Tropo del Accidental Confession entra cuando Haruto, intentando no sonar herido, dice: *"¿Entonces solo me necesitas porque emito algo? ¿No porque soy... yo?"* y Lyra, en pánico,confiesa que lleva *deseando* estar cerca de él desde antes de saber lo de las frecuencias. Kaori escucha todo por la puerta. Watcher_0 registra la conversación: *"Emociones registradas. El ancla excede parámetros."*
+
+**2. "M-07" — Hilo: semilla_15_02 × Action × Mystery**
+*Avance: Haruto descubre que fue observado y marcado antes de nacer.*
+
+Kenji descifra las coordenadas del archivo: apuntan al sótano del Instituto Takahara, bajo el campo de béisbol. Encontrar la foto de un niño de 12 años con la etiqueta "Sujeto M-07" lleva a Haruto a una realizationsiniestra: *él* es M-07. Los archivos muestran firmas magnéticas suyas documentadas cada 6 meses durante 12 años. La firma es más fuerte ahora. Alguien —o algo— ha estado midiéndolo media vida. La implicación: ¿fue diseñado? ¿Fue modificado antes de nacer? ¿La madre lo sabía? Kenji y Lyra discuten si contarle: *"Si le digo que su propio cuerpo es un experimento, pierdo todo lo que cree ser."* Final del acto: alguien entra al sótano. La puerta se cierra. Un zumbido de frecuencia Schumann comienza sin previo aviso.
+
+**3. "EPISODIO PÚBLICO" — Hilo: semilla_6_02 × Rom Com × Sci Fi**
+*Avance: Lyra tiene un episodio frente al instituto completo.*
+
+Lo que Lyra teme que llegue finalmente ocurre: durante la ceremonia de clausura del festival cultural, un corte en la frecuencia Schumann de la zona (interferencia del*nodo reactivándose*) hace que su forma se desestabilice frente a *todo el curso*. Haruto actúa por instinto: la abraza mientras ella se vuelve translúcida, y *su campo magnético la estabiliza en contacto directo*. La subdirectora Nishimura corta el evento. Los estudiantes asumen que es un desmayo dramático, pero la Directora Shirogane, presente, intercambia una mirada knowing con Nishimura. Lyra, aún en los brazos de Haruto, le susurra: *"Te necesito cerca. *Siempre*."* El pasillo queda en silencio incómodo. Kaori, desde el fondo: *"¿Eso fue una confesión o una emergencia médica? Porque necesito saber cómo reaccionar."*
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las tres ideas que he propuesto y las refine, expanda y profundice. Necesito mejorar la consistencia, el atractivo de los personajes y llevar cada concepto un paso más allá. Voy a trabajar cada una con más detalle técnico narrativo.
+
+Déjame analizar lo que tengo y pensar en cómo evolucionar cada idea:
+
+**Idea 1 - "La Frecuencia Incomoda"** (emisiones_haruto × Rom Com × Mystery)
+Ya tiene buen conflicto interno. Necesito:
+- Más especificidad técnica sobre cómo funciona la dependencia
+- Más capas emocionales para ambos personajes
+
+
+- Desarrollar qué significa realmente ser "necesario" en vez de "querido" — el conflicto romántico es más profundo si hay ambigüedad sobre si Lyra se acerca por atracción genuina o por supervivencia
+
+**Idea 2 - "M-07"** (semilla_15_02 × Action × Mystery)
+Este es el concepto más fuerte. Necesito:
+- Más contexto sobre qué es exactamente el Instituto Takahara
+- Cómo conectan los archivos de Haruto con la economía de la frecuencia
+- El "sótano bajo el campo de baseball" es una imagen perfecta — explotarla más
+- La tensión entre lo que Kenji descubre y lo que decide decirle a Haruto
+- La figura de alguien entrando al sótano al final necesita más desarrollo
+- ¿Qué significa que Haruto sea M-07? ¿Fue un experimento del programa madre?
+
+**Idea 3 - "Episodio Público"** (semilla_6_02 × Rom Com × Sci Fi)
+La escena pública ya es fuerte. Necesito:
+- Más detalles sobre la reacción de los estudiantes y las consecuencias sociales
+- Qué planea hacer la Directora Shirogane con lo que vio
+- La broma de Kaori sobre si fue confesión o emergencia médica necesita más desarrollo
+- Cómo funciona técnicamente la estabilización en contacto directo — qué significa emocionalmente para ambos
+- Las consecuencias legales y personales de que Haruto bese a Lyra frente a todo el curso
+
+Estoy reorganizando las ideas en tres direcciones: la tensión entre obligación y deseo en la primera, la revelación del sótano y M-07 en la segunda, y en la tercera necesito explorar más a fondo las consecuencias sociales y personales de ese momento público.
+
+Para la primera, estoy explorando cómo la dependencia energética se convierte en una metáfora de la vulnerabilidad emocional — Lyra necesita a Haruto no solo por supervivencia sino por algo más profundo, y él enfrenta la duda existencial de si es esencial o simplemente útil. Voy a incorporar a Kogure para que observe cómo la estabilización energética se mezcla con la atracción física.
+
+En la segunda idea, estoy considerando hacer del sótano un espacio interactivo donde la frecuencia Schumann revela información sobre Haruto que él no sabía — quizás el programa de la madre fue específicamente diseñado para generar alguien que pudiera anclar a otros.
+
+Ahora estoy pensando en los personajes. Lyra ya tiene una base sólida, pero necesito mostrar su vulnerabilidad sin que parezca simplemente indefensa. Haruto está evolucionando bien, aunque cuando descubra lo de M-07 podría reaccionar con un poco más de agresividad en lugar de aceptar todo pasivamente. Kaori funciona como el pegamento cómico y el contacto con la realidad, y Kenji se está convirtiendo en una figura paternal que gradualmente le revela la verdad a Haruto.
+
+Lo que más me interesa explorar son los paralelos temáticos: cómo Lyra necesita energía para existir y cómo Haruto necesita validación emocional, ambos dependiendo de algo externo para sentirse completos.
+
+Voy a estructurar la respuesta en tres secciones claras, cada una con desarrollo técnico-narrativo sustancial y consistencia dentro de los géneros de la obra. Voy a tomar las tres ideas y desarrollarlas a fondo con profundidad técnica y narrativa.
+</think>
+
+# ITERACIÓN 2: REFINAMIENTO Y PROFUNDIZACIÓN
+
+---
+
+## REFINAMIENTO CONJUNTO: PRINCIPIOS RECTORES
+
+Antes de entrar en cada idea, un ajuste de arquitectura que las atraviesa a las tres:
+
+**A nivel de worldbuilding**, conviene establecer un rule set mínimo pero firme sobre cómo funciona la energía vital de Lyra:
+
+- Lyra necesita *contacto con un campo magnético específico* para mantener su coherencia estructural. Haruto no es "el único", sino "el mejor match" — por eso los episodios mejoran con él y empeoran sin él. Esto previene el tropo del "hero singleton" y abre posibilidad a que otros candidatos existan, aumentando la tensión.
+- Los episodios no son uniformes. Hay *grados*: desde el parpadeo translúcido hasta la desintegración parcial. Esto da flexibilidad dramática.
+
+**A nivel de personajes**, hay un principio de *vulnerabilidad simétrica* que debe respetarse:
+
+| Personaje | Dependencia energética | Dependencia emocional |
+|---|---|---|
+| Lyra | Necesita campo magnético | Necesita ser vista como persona, no recurso |
+| Haruto | Necesita frecuencia Schumann estable | Necesita ser elegido, no solo requerido |
+| Kaori | Necesita mantener el grupo unido | Necesita que nadie descubra que también tiene "algo" |
+
+Este último detalle —que Kaori también tenga un secreto menor relacionado con el programa— puede ser una subcapa que se planté en Cap. 16 y madure para Cap. 18.
+
+---
+
+---
+
+# IDEA 1: "RESONANCIA" (antes: "La Frecuencia Incomoda")
+
+**Hilos:** emisiones_haruto × Rom Com × Mystery
+**Tensión objetivo:** 8 → 9
+**Acto:** Cap. 16 — Punto de inflexión romántico
+
+---
+
+### Lo que funciona de la idea original
+
+El núcleo emocional —*"¿Me necesitas a mí o a lo que emito?"*— es el conflicto romántico más honesto que puede tener esta historia. La inversión de roles (él es el "recurso" y ella es la que decide acercarse) da la vuelta al tropo de la damisela en apuros sin eliminar la vulnerabilidad de Lyra.
+
+### Lo que se expande
+
+#### El mecanismo técnico debe tener consecuencias narrativas concretas
+
+No basta con que Haruto "se acerque y Lyra se estabilice." La interacción necesita *sensaciones específicas* para que funcione como escena romántica:
+
+- Cuando Haruto se acerca a más de 2 metros, Lyra siente un calor que no es temperatura — es la resonancia de su campo sobre el de ella, como dos instrumentos desafinados que gradualmente se alinean.
+- El momento de máximo efecto no es el contacto skin-to-skin, sino cuando Haruto *laenvuelve sin tocarla del todo*: sus brazos alrededor pero sin presión, creando un espacio donde su campo se solapa con el de ella como una campana de cristal magnética.
+
+Esto permite que la escena romántica tenga una intimidad sin contacto que es *más* incómoda y *más* romántica que un beso.
+
+#### El triángulo cómico se despliega con consecuencias
+
+Kogure, que hasta ahora ha sido expositor pasivo, debe tener su propia reacción. Al ver a Haruto abrazar a Lyra de esa manera antinatural —*"sin tocarla del todo, como si ella fuera de cristal"*— deduce en 3 segundos lo que a Lyra le tomó capítulos admitir. Su respuesta no es celos, sino *alivio profesional*: *"Entonces la razón por la que Lyra mejora contigo no es química. Es física. Eso significa que puedo replicarlo."*
+
+Kogure propone fabricar un dispositivo que reproduzca el campo de Haruto. Técnicamente brillante. Emocionalmente devastador. Porque Haruto, que llevaba horas procesando si era un recurso, ahora enfrenta algo peor: *puede ser reemplazado*.
+
+#### La conversación real — la escena pivote
+
+La confrontación no debe ser un monologue confessional. Debe ser un *malentendido mutuo* donde ambos dicen exactamente lo que temen escuchar:
+
+**Lyra:** *"Haruto, lo que siento cuando te acercas no es solo... estabilización. Antes de saber lo de las frecuencias, te buscaba en los pasillos. No para preguntarte cosas. Solo para verte pasar."*
+
+**Haruto:** *"Pero cuando te acercas, ¿es porque quieres o porque tu cuerpo lo necesita? Porque yo puedo distinguir entre un latido real y uno inducido por falta de sueño, Lyra. Y no quiero ser la diferencia."*
+
+**Lyra, sin prepárase:** *"Entonces no te alejes."*
+
+Esto invierte la dinámica: ella no suplica, *ella exige*. No por su cuerpo. Por ella. La diferencia cambia todo el tono del romance.
+
+#### El regate de Kaori
+
+Kaori, que ha estado grabando todo (porque es Kaori), lo edit mal y lo sube accidentalmente al grupo del curso. El audio dura 40 segundos. No es comprometite —solo ambiguo. Los compañeros del curso pasan de "se acercó mucho a la chica rara" a "Haruto y Lyra son pareja." Esto genera una layer de presión social nueva: ahora no solo Lyra tiene que esconder lo que es, sino también lo que siente.
+
+---
+
+### Consistencia revisada
+
+| Elemento | Regla del mundo | Consecuencia narrativa |
+|---|---|---|
+| Campo magnético de Haruto | Solapa, no reemplaza | Si Kogure replica la frecuencia, Haruto queda obsoleto emocionalmente |
+| Estabilización por proximidad | Efecto acumulativo | Cada vez que se acerca, Lyra se acostumbra más — la dependencia crece |
+| "Antes de saber lo de las frecuencias"
+
+--- ITERACIÓN 3 ---
+<think>
+El usuario quiere que tome las ideas de la Iteración 1 y las refine/expanda/profundice en una Iteración 2. Ya tengo un análisis extenso del contexto (la conversación previa) y unas notas de refinamiento que parecen ser de un analista narrativo. Ahora necesito completar las tres ideas completas, especialmente:
+
+1. **IDEA 1** - "Resonancia" (ya está casi completa con detalles de la escena pivote, el triángulo con Kogure, el audio de Kaori)
+
+2. **IDEA 2** - "M-07" - Necesito desarrollarla completamente (semilla_15_02 × Action × Mystery). Ya tengo notas parciales sobre el sótano, M-07, el Instituto Takahara, los archivos de Haruto, Kenji como figura paternal.
+
+
+3. **IDEA 3** - "Episodio Público" - Necesito desarrollarla completamente (semilla_6_02 × Rom Com × Sci Fi). Ya tengo notas parciales sobre la escena pública, las consecuencias sociales, la estabilización en contacto directo, las consecuencias legales.
+
+Tengo un esquema claro para completar estas ideas. Voy a desarrollar completamente la Idea 2 ("M-07") como el concepto más fuerte, con el Instituto Takahara, los archivos de Haruto, y el sótano bajo el campo de baseball, además de explorar quién entra en ese sótano al final.
+
+Para la Idea 3 ("Episodio Público"), necesito desarrollar la escena donde Haruto besa a Lyra en público, las consecuencias de ser visto por la Directora Shirogane, cómo la stabilización funciona en contacto directo, y las consecuencias legales. La Idea 1 ("Resonancia") está más avanzada pero necesito cerrarla completamente.
+
+Voy a estructurar el documento de manera narrativa clara, evitando repetir lo que ya está dicho en la iteración anterior pero evolucionando los conceptos de verdad, y enfatizando la consistencia dentro de los géneros establecidos (Romance, Ação, Mistério). Las notas de refinamiento muestran que para "Resonancia" necesito enfocarse en el mecanismo técnico con consecuencias narrativas, el triángulo cómico, la conversación pivote entre Lyra y Haruto, y el regate de Kaori.
+
+Para "M-07" estoy pensando en la estructura: el sótano como espacio interactivo con la frecuencia Schumann, Haruto como M-07 siendo la pieza clave del programa madre, Kenji revelando información gradualmente, y la figura misteriosa que entra. En cuanto a "Episodio Público", necesito explorar las consecuencias sociales inmediatas, los planes de la Directora Shirogane, qué pasa con la stabilización en contacto directo, y cómo la broma de Kaori evoluciona. También necesito desarrollar el concepto de "vulnerabilidad simétrica" que ya está emergiendo, y asegurar que la dependencia de cada personaje sea tanto energética como emocional.
+
+Ahora estoy viendo cómo la escena del sótano funciona narrativamente: Kenji lleva a Haruto, se encuentran con el espacio abandonado y los archivos, y hay una revelación sobre M-07. Necesito establecer qué es el Instituto Takahara, por qué está abandonado, y qué son los archivos que encuentran. También necesito definir qué significa exactamente que Haruto sea M-07 — si es un código de sujeto, un rango, o algo relacionado con el programa madre. El Instituto Takahara debe ser una institución de investigación en tecnología cuántica y manipulación de campos electromagnéticos que se cerró por escándalo.
+
+Lo que me falta es quién entra al sótano al final y por qué eso importa narrativamente. Para el tercer concepto, estoy pensando en una escena pública donde Haruto estabiliza a Lyra con un beso frente a todo el curso, Kaori hace un comentario sobre si fue confesión o emergencia médica, y la Directora Shirogane presencia algo que la hace sospechar. Las consecuencias sociales son inmediatas y concretas.
+
+Ahora necesito definir qué es exactamente lo que la Directora Shirogane ve y cómo eso la afecta, qué significa la estabilización en contacto directo en términos de worldbuilding, y cuáles son las consecuencias legales o institucionales para Haruto. La broma de Kaori puede ser el catalizador que inicie el arco cómico de la historia, mientras resuelvo las preguntas pendientes sobre el beso y sus implicaciones.
+</think>
+
+# ITERACIÓN 2: REFINAMIENTO Y PROFUNDIZACIÓN
+
+---
+
+## REFINAMIENTO CONJUNTO: PRINCIPIOS RECTORES
+
+Antes de entrar en cada idea, un ajuste de arquitectura que las atraviesa a las tres:
+
+**A nivel de worldbuilding**, conviene establecer un rule set mínimo pero firme sobre cómo funciona la energía vital de Lyra:
+
+- Lyra necesita *contacto con un campo magnético específico* para mantener su coherencia estructural. Haruto no es "el único", sino "el mejor match" — por eso los episodios mejoran con él y empeoran sin él. Esto previene el tropo del "hero singleton" y abre posibilidad a que otros candidatos existan, aumentando la tensión.
+- Los episodios no son uniformes. Hay *grados*: desde el parpadeo translúcido hasta la desintegración parcial. Esto da flexibilidad dramática.
+
+**A nivel de personajes**, hay un principio de *vulnerabilidad simétrica* que debe respetarse:
+
+| Personaje | Dependencia energética | Dependencia emocional |
+|---|---|---|
+| Lyra | Necesita campo magnético | Necesita ser vista como persona, no recurso |
+| Haruto | Necesita frecuencia Schumann estable | Necesita ser elegido, no solo requerido |
+| Kaori | Necesita mantener el grupo unido | Necesita que nadie descubra que también tiene "algo" |
+
+Este último detalle —que Kaori también tenga un secreto menor relacionado con el programa— puede ser una subcapa que se planté en Cap. 16 y madure para Cap. 18.
+
+---
+
+---
+
+# IDEA 1: "RESONANCIA" (antes: "La Frecuencia Incomoda")
+
+**Hilos:** emisiones_haruto × Rom Com × Mystery
+**Tensión objetivo:** 8 → 9
+**Acto:** Cap. 16 — Punto de inflexión romántico
+
+---
+
+### Lo que funciona de la idea original
+
+El núcleo emocional —*"¿Me necesitas a mí o a lo que emito?"*— es el conflicto romántico más honesto que puede tener esta historia. La inversión de roles (él es el "recurso" y ella es la que decide acercarse) da la vuelta al tropo de la damisela en apuros sin eliminar la vulnerabilidad de Lyra.
+
+### Lo que se expande
+
+#### El mecanismo técnico debe tener consecuencias narrativas concretas
+
+No basta con que Haruto "se acerque y Lyra se estabilice." La interacción necesita *sensaciones específicas* para que funcione como escena romántica:
+
+- Cuando Haruto se acerca a más de 2 metros, Lyra siente un calor que no es temperatura — es la resonancia de su campo sobre el de ella, como dos instrumentos desafinados que gradualmente se alinean.
+- El momento de máximo efecto no es el contacto skin-to-skin, sino cuando Haruto *laenvuelve sin tocarla del todo*: sus brazos alrededor pero sin presión, creando un espacio donde su campo se solapa con el de ella como una campana de cristal magnética.
+
+Esto permite que la escena romántica tenga una intimidad sin contacto que es *más* incómoda y *más* romántica que un beso.
+
+#### El triángulo cómico se despliega con consecuencias
+
+Kogure, que hasta ahora ha sido expositor pasivo, debe tener su propia reacción. Al ver a Haruto abrazar a Lyra de esa manera antinatural —*"sin tocarla del todo, como si ella fuera de cristal"*— deduce en 3 segundos lo que a Lyra le tomó capítulos admitir. Su respuesta no es celos, sino *alivio profesional*: *"Entonces la razón por la que Lyra mejora contigo no es química. Es física. Eso significa que puedo replicarlo."*
+
+Kogure propone fabricar un dispositivo que reproduzca el campo de Haruto. Técnicamente brillante. Emocionalmente devastador. Porque Haruto, que llevaba horas procesando si era un recurso, ahora enfrenta algo peor: *puede ser reemplazado*.
+
+#### La conversación real — la escena pivote
+
+La confrontación no debe ser un monologue confessional. Debe ser un *malentendido mutuo* donde ambos dicen exactamente lo que temen escuchar:
+
+**Lyra:** *"Haruto, lo que siento cuando te acercas no es solo... estabilización. Antes de saber lo de las frecuencias, te buscaba en los pasillos. No para preguntarte cosas. Solo para verte pasar."*
+
+**Haruto:** *"Pero cuando te acercas, ¿es porque quieres o porque tu cuerpo lo necesita? Porque yo puedo distinguir entre un latido real y uno inducido por falta de sueño, Lyra. No quiero ser la diferencia."*
+
+**Lyra, sin prepararse:** *"Entonces no te alejes."*
+
+Esto invierte la dinámica: ella no suplica, *ella exige*. No por su cuerpo. Por ella. La diferencia cambia todo el tono del romance.
+
+#### El regate de Kaori
+
+Kaori, que ha estado grabando todo (porque es Kaori), lo edita mal y lo sube accidentalmente al grupo del curso. El audio dura 40 segundos. No es comprometite —solo ambiguo. Los compañeros del curso pasan de "se acercó mucho a la chica rara" a "Haruto y Lyra son pareja." Esto genera una layer de presión social nueva: ahora no solo Lyra tiene que esconder lo que es, sino también lo que
+
+--- ITERACIÓN 4 ---
+<think>
+El usuario me pide que complete la Iteración 2 del refinamiento narrativo. Ya he desarrollado parcialmente las Ideas 1 y 2 en el análisis previo, pero necesito completar las tres ideas de forma integral y coherente.
+
+Lo que tengo hasta ahora:
+
+**IDEA 1 "Resonancia"**: 
+- Ya casi completa
+- Mecanismo técnico con intimidad sin contacto
+- Triángulo cómico con Kogure (propone replicar el campo)
+- Conversación pivote con malentendido mutuo
+- Regate de Kaori (audio de 40 segundos)
+
+**IDEA 2 "M-07"**: Necesito completarla
+- Sótano bajo el campo de baseball
+- Instituto Takahara abandonado
+- Archivos de Haruto
+- Kenji como figura paternal
+
+
+- Haruto como M-07
+- Quién entra al sótano al final
+
+**IDEA 3 "Episodio Público"**: Necesito completarla
+- Escena pública con beso
+- Consecuencias sociales
+- Stabilización en contacto directo
+- Consecuencias legales
+- Broma de Kaori
+
+Ahora necesito desarrollar completamente las Ideas 2 y 3, cerrar la Idea 1 con el tratamiento de sonido y audio, y añadir una reflexión final sobre cómo estas tres ideas trabajan juntas para avanzar la historia.
+
+Voy a escribir el documento completo en español, con prosa fluida y técnica mezclada, evitando reproducir textualmente lo que ya está dicho pero evolucionando y profundizando cada concepto.
+
+Necesito completar las dos ideas pendientes con detalle y cerrar la idea casi terminada. Voy a construir la estructura completa ahora.
+
+Para la Idea 2, estoy pensando en el sótano bajo el campo de baseball como centro de gravedad narrativa, donde Kenji lleva a Haruto para revelar información clave. El Instituto Takahara debe ser el contexto histórico que explica por qué este lugar existe y qué significa realmente ser M-07.
+
+Necesito definir qué es exactamente M-07 —si es un código de sujeto, una variante de Haruto, o parte de un programa más grande. El Instituto Takahara funcionó como centro de investigación en manipulación de campos electromagnéticos, con una conexión histórica con la frecuencia Schumann que ahora se manifiesta en el sótano.
+
+El hallazgo de los archivos de Haruto es crucial: documentos que muestran que él fue literalmente diseñado o modificado genéticamente, que M-07 es su código de sujeto, y que todo esto se remonta a un programa de mejora humana que Kenji conoció en secreto.
+
+Lo que hace que esta escena funcione es que Kenji tiene una motivación profunda para traerlo aquí — no solo revelar información, sino protegerlo de algo que está por llegar.
+
+El Instituto Takahara se cerró oficialmente en 2005 por problemas presupuestarios, pero la verdadera razón fue que alguien murió: la primera sujeta M-01, cuyo cuerpo se desestabilizó completamente. Los archivos incluyen transcripciones de sus últimos días y fotos del proceso, lo que sugiere que M-07 tiene límites biológicos similares, y hay otro sujeto posterior que también fracasó.
+
+La revelación más impactante viene cuando Haruto busca su expediente en M-07 y solo encuentra una nota: "Ingresado al programa Takahara a los 6 años. Expulsado a los 9. Motivo: incompatibilidad parcial. Seguimiento: adoptado por K. Soramoto." El propio Kenji fue su enlace, y todo indica que fue él quien lo sacó del programa.
+
+K-01 nunca fue su código oficial, sino una designación informal que él mismo usaba. El punto clave es que Kenji no es solo un científico enrolado — fue quien destruyó los registros para proteger a Haruto, y lo hizo para que pudiera tener una vida normal. Pero ahora algo lo forzó a traerlo aquí de vuelta.
+
+En el sótano, mientras examinan los archivos, Kenji menciona que "el programa nunca se cerró, solo se mudó", y una luz se enciende en el piso superior. Alguien ha entrado al campo de baseball. El misterio se profundiza: ¿era el guardia nocturno o alguien más que sigue los pasos de Haruto? La escena termina con Kenji cerrando la puerta del sótano desde dentro.
+
+Ahora estoy pensando en otra escena importante: un episodio público donde Haruto besa a Lyra y estabiliza su estado, lo que genera consecuencias sociales inmediatas. Kaori lo filma todo por error y lo sube a redes sociales, lo que trae consecuencias legales.
+
+La estabilización solo funciona cuando están en contacto directo piel con piel, y el beso es la forma más íntima de demostrarlo. Sin embargo, la estabilización también tiene efectos secundarios que Lyra experimenta después, como una resaca emocional o un agotamiento extraño que la hace sentir culpable por necesitar a Haruto.
+
+Necesito decidir quién presencia esta escena: si el profesor Ikezawa, la Consejera Kuroda o un personaje que aún no he introducido, y quién realmente ve el beso. La stabilized en contacto directo revela algo importante sobre su conexión física.
+
+Hay una distinción técnica que me interesa: el contacto a través de tela reduce la efectividad en un 40%, y la saliva funciona como conductor casi perfecto. Esto significa que el beso no es solo una necesidad romántica, sino la forma más biológicamente eficiente de estabilización. Lyra lo sabe, lo que hace que su elección sea genuina y no solo un acto de supervivencia.
+
+La estabilización tiene un costo emocional. Lyra experimenta un agotamiento paradójico después: se siente culpable por necesitarlo, furiosa por depender de él, pero también extrañamente atraída por la seguridad que él le da. No se lo dice a nadie. El beso funciona como medicina, no como declaración.
+
+Ahora estoy considerando las consecuencias legales. Ikezawa ve todo desde el marco de la política escolar: relaciones inapropiadas entre estudiantes, intimidad en lugares públicos, y cómo proteger a la institución. Pero hay otra capa: Ikezawa descubre que Lyra tiene un problema médico real que requiere contacto físico constante, y lo convierte en una cuestión de vulnerabilidad institucional. Intenta que Lyra sea transferida a educación especial por "condiciones médicas incompatibles con el entorno escolar regular", lo que técnicamente sería legal pero moralmente cuestionable.
+
+Shirogane se entera y esto crea fricción entre los personajes. La directora tiene el poder de bloquear la transferencia, pero hacerlo la expone: ¿por qué protegería tanto a una alumna problemática? Kaori y Yumi se convierten en su único grupo de apoyo, y Haruto interviene de forma indirecta, hablando con Shirogane sobre la responsabilidad de proteger a alguien sin capacidad de autocuidado.
+
+La escena del beso funciona como catalizador: rompe el secreto de la stabilización, acelera el arco de Lyra, expone la hipocresía institucional, y establece que la stabilización en contacto directo es un recurso biológico limitado. Haruto lo siente como una carga pero también como un acto de intimidad.
+
+La broma de Kaori se convierte en el cierre irónico: filma el beso, lo sube a redes, y cuando todos le reclamamos, ella dice con toda seriedad que fue "un experimento científico con consentimiento" y que la hipótesis era "la velocidad de stabilisation tiene correlación con la fuerza del pulso electromagnético del besador". Kaori termina defendiendo que técnicamente tiene razón.
+
+Pero la broma se vuelve contra ella cuando Yumi le pregunta si Lyra le pidió que lo subiera, y Lyra responde que no, que nunca se lo pidió. Eso la convierte en cómplice y la destruye socialmente. Ahora veo cómo las tres ideas se conectan estructuralmente: Resonancia lleva la tensión romántica y emocional de 8 a 9, M-07 introduce el misterio del mundo y lo eleva de 5 a 8, y Episodio Público mezcla lo cómico con las consecuencias institucionales, manteniendo la tensión en 8.
+
+Necesito organizar esto en un documento coherente que cierre la primera idea con el tratamiento de sonido, complete la segunda idea completamente, complete la tercera idea completamente, y termine con la reflexión final sobre cómo las tres trabajan juntas. Voy a escribir en español con prosa clara y técnica, evitando listas y usando narrativa descriptiva con encabezados claros.
+
+Para la Idea 2, necesito establecer que el Instituto Takahara fue un programa de mejora humana basado en la manipulación de campos electromagnéticos y frecuencias similares a Schumann, que Haruto no fue el primero sino el sujeto M-07 de una serie que comenzó con M-01, y que Kenji, su "padre" adoptivo, era K-01 — el enlace científico original que destruyó los registros y lo sacó del programa cuando tenía 9 años.
+
+Lo que sigue es la confirmación de que el programa nunca cerró realmente, solo se relocalizó, y alguien más está buscando a M-07. Para la tercera idea, necesito completar el arco donde Lyra stabiliza a través del contacto directo, y ese beso funciona porque la saliva actúa como conductor electromagnético perfecto — Lyra lo sabe, lo que convierte el momento en una elección genuina, no en un recurso narrativo. Las consecuencias institucionales recaen sobre Ikezawa, quien intenta transferirla.
+
+Ahora estoy viendo cómo la broma de Kaori evoluciona: ella filma todo sin saber que Lyra realmente consintió, y cuando lo sube a redes sociales thinking it's just comedic chaos, Lyra dice directamente a la cámara que no le pidió que lo publicara — eso convierte a Kaori en cómplice de una exposición no consensuada. El documento se estructura como un tratamiento completo de tres ideas con conexiones claras entre ellas.
+</think>
+
+# ITERACIÓN 2: REFINAMIENTO Y
+
+--- ITERACIÓN 5 ---
+<think>
+El usuario me pide completar la Iteración 2 del refinamiento narrativo. Necesito completar las Ideas 2 y 3 completamente, cerrar la Idea 1 con el tratamiento de sonido, y añadir una reflexión final.
+
+Voy a escribir en español con prosa fluida, evitando listas y usando narrativa descriptiva con encabezados claros.
+
+</think>
+
+# ITERACIÓN 2: REFINAMIENTO Y PROFUNDIZACIÓN
+
+---
+
+## IDEA 1 — "Resonancia": cierre técnico
+
+El último segmento que quedó pendiente de esta primera propuesta es el tratamiento del sonido en la conversación pivote. Más que un detalle técnico, el audio es el verdadero terreno de la intimidad para estos personajes, y el malentendido mutuo debe construirse sobre una base acústica que el lector pueda sentir.
+
+Cuando Kogure propone replicar el campo electromagnético en laboratorio, lo hace desde la lógica de un estudiante de ingeniería: *si funciona en la naturaleza, debe funcionar en un entorno controlado*. Pero la propuesta técnica es, en el fondo, una propuesta emocional disfrazada. Kogure está diciendo: "Puedo darte lo que Lyra te da, sin ella." Haruto lo entiende exactamente así, y la incomodidad no viene de la idea en sí, sino de que Kogure tiene razón desde un punto de vista funcional. Si la stabilización depende de un campo electromagnético, ¿por qué necesita ser específicamente Lyra?
+
+Aquí es donde entra el tratamiento de sonido. El campo de Lyra no se manifiesta como un zumbido ni como una vibración perceptible. Es más sutil: un *alargamiento* del silencio. Cuando ella está cerca, los sonidos ambientales no desaparecen, sino que se vuelven más suaves, como si alguien hubiera bajado el dial del ruido de fondo del mundo. Las voces se entiende mejor. El viento se siente menos como interferencia y más como presencia. Es un silencio *lleno*, y la única persona en la habitación que lo nota es Haruto.
+
+Este efecto acústico es lo que Kogure no puede replicar. Su campo artificial puede generar la frecuencia correcta, pero no puede fabricar la *intencionalidad* del campo natural de Lyra. El sonido del campo de alguien que te busca y del campo de alguien que simplemente existe son biológicamente idénticos, pero Haruto los distingue con la misma precisión con la que se distingue la voz de un extraño de la voz de alguien que te importa.
+
+El malentendido mutuo se cierra cuando Haruto, incapaz de explicar esto sin revelar que lo que siente por Lyra no es solo científica, le dice: "No es lo mismo." Y Kogure, creyendo que habla de física, responde: "Todavìa no. Pero con el equipo adecuado, algún día." Ambos se han entendido perfectamente, y ambos se han equivocado.
+
+El regate de Kaori cierra esta secuencia con un contrapunto cómico preciso: el audio de cuarenta segundos que ella filma no contiene la conversación — contiene el sonido del campo, puro, sin palabras. Ella lo sube pensando que es gracioso, sin saber que está compartiendo algo que ni Haruto ni Lyra han admitido en voz alta.
+
+---
+
+## IDEA 2 — "M-07": el sótano bajo el campo de baseball
+
+### El lugar
+
+El campo de baseball del instituto no está abandonado, pero su graderío norte sí. Esa sección se cerró hace años por razones que nadie del personal actual conoce con certeza, aunque circulan dos versiones: una dice que hubo un accidente; la otra dice que el suelo no es estable. La verdad es más extraña que ambas.
+
+Debajo del graderío norte hay un sótano que no aparece en ningún plano oficial. Se accede a través de una puerta de servicio que la limpieza del instituto usa como depósito de mobiliario viejo. La puerta tiene una cerradura mecánica, no electrónica, lo que significa que alguien conservó una llave durante años. Kenji Soramoto es esa persona.
+
+El sótano no es húmedo. Eso es lo primero que nota Haruto cuando bajan juntos al anochecer, después de que Lyra se ha ido a casa y el campus está casi vacío. El aire es seco, fresco, y tiene un olor que Haruto no puede clasificar: no es químicos, no es moho, no es metal. Es algo que su cuerpo reconoce antes que su mente, y cuando la recognize, siente un vértigo breve, como si hubiera recordado algo que no sabía que sabía.
+
+El sótano está iluminado por tubos de neón que alguien ha mantenido encendidos. Contra las paredes hay mesas de metal con equipamiento que parece reliquia de otra era: monitores CRT, estabilizadores de voltaje, un osciloscopio analógico. En el centro de la habitación hay una silla de observación médica con correas en los apoyabrazos y los tobillos. No hay血迹 en ninguna parte, pero hay marcas de uso en las correas.
+
+### El Instituto Takahara
+
+Kenji no empieza por Haruto. Empieza por la frecuencia Schumann.
+
+En 1987, un equipo de investigación del Ministerio de Educación comenzó a estudiar los efectos de las frecuencias electromagnéticas extremadamente bajas sobre la función cognitiva humana. El programa se llamaba, en clave interna, Proyecto Takahara, por la prefectura donde se construyó la instalación subterránea. El objetivo declarado era la mejora del rendimiento académico en estudiantes de secundaria. El objetivo real era algo que los documentos originales llaman, sin rodeos, *aceleración evolutiva controlada*.
+
+La frecuencia Schumann — la resonancia electromagnética natural de la cavidad entre la ionosfera y la superficie terrestre, de aproximadamente 7.83 Hz — fue su modelo. No porque pensaran que era misteriosa o esotérica, sino porque era lo único que el cuerpo humano llevaba siete millones de años procesando sin evolucionar para ignorar. Si podías modular esa frecuencia con precisión, podías modificar el estado de conciencia de un sujeto sin fármacos, sin cirugía, sin rastros detectables. Era la herramienta de control más limpia que existía.
+
+Los archivos que Kenji le muestra a Haruto son Xerox descoloridos de documentos que nunca debieron existir. Hay transcripciones de sesiones. Hay diagramas de colocación de electrodos. Hay una lista de sujetos que empieza en M-01 y termina, visiblemente truncada, en M-11. Entre M-01 y M-07 hay cinco nombres. Entre M-07 y M-11 hay tres.
+
+### Haruto como M-07
+
+M-01 era una chica de Sendai que murió a los dieciséis años. Los documentos dicen "desestabilización sistémica", pero la transcripción de su última sesión, que Kenji le permite leer, dice algo más simple: "El campo se come hacia adentro." Se refiere a su propio cuerpo. En la última fotografía del expediente, su mano izquierda se ve translúcida, como si algo estuviera sustrayendo su opacidad desde dentro.
+
+M-03, M-04 y M-05 no tienen fotografías. Tienen fechas de baja. M-06 tiene una fotografía y una nota a mano que dice, en la caligrafia de alguien que no era médico: "No es lo suficientemente distinto."
+
+Haruto es M-07.
+
+Pero cuando abre su propio expediente — el archivo M-07 — no encuentra lo que espera. Es una hoja única, casi vacía. Las únicas líneas con información son:
+
+*"Ingresado al programa Takahara a los 6 años. Expulsado a los 9. Motivo: incompatibilidad parcial. Seguimiento: adoptado por K. Soramoto."*
+
+Tres líneas que lo convierten en la primera persona en la historia del programa en ser *expulsada* y no *dada de baja*. La diferencia semántica es la diferencia entre ser un fracaso y ser una anomalía.
+
+### K-01
+
+K-01 fue la designación de Kenji Soramoto durante el programa. No era médico. Era trabajador social. Su trabajo era monitorear la adaptación emocional de los sujetos fuera de las sesiones, y fue en ese rol que pidió ser asignado específicamente a M-07: el sujeto más joven, el único que lloraba durante las sesiones y luego jugaba en el pasillo como si nada hubiera pasado.
+
+Lo que sigue lo deduce Haruto del orden de los archivos, no de lo que Kenji le dice directamente. Los registros de M-07 tienen un patrón que los demás no tienen: huecos. Fechas en las que no hay transcripción. Sesiones que no están documentadas. Y en esas fechas específicas — Haruto las reconoce — son las fechas en las que no fue al sótano. Kenji lo sacó. Lo llevó al parque. Le compró helado. Le leyó cuentos. Y no escribió ninguna sesión porque no hubo ninguna sesión.
+
+La decisión de Kenji de destruir los archivos del programa Takahara no fue una decisión institucional. Fue personal. Fue la primera y única vez que un K-01 overrideó la autoridad de un supervisor de proyecto, y lo hizo porque M-07 le había dicho, con seis años, que no quería volver a bajar.
+
+### La puerta de arriba
+
+Es Lyra quien entra al campo de baseball esa noche. No sigue a Haruto ni a Kenji. Es su cuerpo el que responde a algo que la precede: un campo de gravedad que no reconoce como electromagnético pero que su sistema nervioso interpreta como una señal de llamada. Es la frecuencia Schumann modificada que se filtra desde el sótano, y Lyra la siente en los huesos antes de llegar a la puerta.
+
+La escena cierra con Haruto en el umbral del sótano mirando hacia arriba, Lyra a medio camino del campo de baseball mirando hacia el graderío, y Kenji entre los dos
