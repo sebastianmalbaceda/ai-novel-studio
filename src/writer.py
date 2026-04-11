@@ -266,6 +266,71 @@ def validate_chapter_completeness(content, chapter_num):
     return True
 
 
+def truncate(text, max_chars):
+    """Truncate text to max_chars, keeping the beginning."""
+    if len(text) <= max_chars:
+        return text
+    return text[:max_chars] + "\n... [truncado para ahorrar contexto]"
+
+
+def summarize_personajes(max_chars=800):
+    """Return condensed character info, not full JSON."""
+    personajes = load_personajes()
+    parts = []
+    for name, data in personajes.items():
+        rol = data.get("rol", "")
+        estado = data.get("estado_vital", "")
+        secretos = data.get("secretos", "")
+        partes = []
+        if rol:
+            partes.append(f"Rol: {rol}")
+        if estado:
+            partes.append(f"Estado: {estado}")
+        if secretos:
+            partes.append(f"Secretos: {secretos}")
+        parts.append(f"{name} — {' | '.join(partes)}")
+    result = "\n".join(parts)
+    return truncate(result, max_chars)
+
+
+def summarize_cronologia(last_n=3):
+    """Return only the last N chronology entries."""
+    cronologia = load_cronologia()
+    keys = sorted(cronologia.keys())
+    recent = keys[-last_n:] if len(keys) > last_n else keys
+    parts = []
+    for k in recent:
+        entry = cronologia[k]
+        resumen = entry.get("resumen", "")
+        revelaciones = entry.get("revelaciones", [])
+        parts.append(f"{k}: {resumen}")
+        if revelaciones:
+            for r in revelaciones:
+                parts.append(f"  - {r}")
+    return "\n".join(parts)
+
+
+def summarize_hilos(max_chars=500):
+    """Return only active thread names, tension, and next step."""
+    hilos = load_hilos()
+    parts = []
+    for name, data in hilos.items():
+        tension = data.get("tension", "?")
+        proximo = data.get("proximo_paso", "")
+        parts.append(f"{name} (tension:{tension}) -> {proximo}")
+    return truncate("\n".join(parts), max_chars)
+
+
+def summarize_semillas(max_chars=400):
+    """Return only pending seeds."""
+    semillas = load_semillas()
+    pending = [(k, v) for k, v in semillas.items() if v.get("estado") == "Pendiente"]
+    parts = []
+    for k, v in pending:
+        parts.append(f"{k}: {v.get('detalle', '')}")
+    return truncate("\n".join(parts), max_chars)
+
+
 def run_writing_agent():
     """
     Agente Escritor: compila toda la información y redacta un capítulo.
@@ -277,15 +342,15 @@ def run_writing_agent():
     """
     config = load_config()
 
-    # Leer contexto extendido
-    biblia = read_file("../data/biblia.md")
-    resumen = read_file("../data/resúmenes.md")
-    research_notes = read_file("../data/research_log.txt")
-    personajes = json.dumps(load_personajes(), indent=2, ensure_ascii=False)
-    cronologia = json.dumps(load_cronologia(), indent=2, ensure_ascii=False)
-    hilos = json.dumps(load_hilos(), indent=2, ensure_ascii=False)
-    semillas = json.dumps(load_semillas(), indent=2, ensure_ascii=False)
-    canon = load_canon()
+    # Leer contexto extendido — TRUNCADO para no exceder ventana de contexto
+    biblia = truncate(read_file("../data/biblia.md"), 1500)
+    resumen = truncate(read_file("../data/resúmenes.md"), 1200)
+    research_notes = truncate(read_file("../data/research_log.txt"), 500)
+    personajes = summarize_personajes(800)
+    cronologia = summarize_cronologia(last_n=3)
+    hilos = summarize_hilos(500)
+    semillas = summarize_semillas(400)
+    canon = truncate(load_canon(), 1000)
 
     chapter_num = config["story_status"]["last_chapter_number"] + 1
     temp = config["system_settings"]["temperature_writing"]
