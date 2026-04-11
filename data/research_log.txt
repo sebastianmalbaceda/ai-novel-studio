@@ -15270,3 +15270,175 @@ La tensión no se resuelve. Se transforma en una pregunta más grande.
 
 ### Problemática Original Detectada
 Revelar a Nishimura
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-11 18:42:05] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual del proyecto:
+
+**HILOS ACTIVOS CLAVE:**
+- `misterio_lyra` (Tensión 7) - Próximo paso: hablar con la madre de Haruto
+- `emisiones_haruto` (Tensión 9) - Proyecto Fénix, clasificación desde niño
+- `watcher_0` (Tensión 9) - Intenciones desconocidas
+- `nodo_transito` (Tensión 8) - Puede reactivarse
+- `archivos_nishimura` (Tensión 8) - Rol exacto de Nishimura
+- `madre_de_haruto` (Tensión 9) - Confrontación pendiente
+- `complicidad_haruto` (Tensión 6) - Procesar que fue anticipado
+
+**SEMILLAS PENDIENTES:**
+1. Sótano del observatorio guarda secretos (semilla_10_01)
+2. Watcher_0 intensifica protocolo - ¿qué planea? (semilla_12_01)
+3. Proyecto Fénix - ¿qué es? (semilla_12_02)
+4. Rol de Nishimura en plan de 47 años (semilla_12_03)
+
+**Desequilibrio detectado:** La tensión más alta está en los misterios cósmicos (Watcher_0, madre, emisiones de Haruto todas en 9), pero el género principal es RomCom (40%). El romance entre Haruto y Lyra necesita más desarrollo frente a tanto misterio.
+
+**TROPOS A EXPLORAR:**
+- Hidden identity (Lyra es alienígena, la madre también)
+
+
+- Accidental confession (oportunidades naturales)
+- Transfer student (ya usado pero hay más)
+- Convivencia forzada (Haruto es "ancla" de Lyra)
+
+Necesito tres direcciones que combinen misterio con romance: una que aproveche la confrontación con la madre para generar intimidad forzada entre Haruto y Lyra, otra que explore la conexión cósmica de Lyra a través del nodo de tránsito como catalizador emocional, y una tercera que involucre a Watcher_0 como intermediario involuntario que genere situaciones cómicas. El conflicto central es que Lyra necesita una frecuencia Schumann de Haruto para mantener su integridad estructural, lo que crea una dependencia física que podría interpretarse como vínculo emocional. Esto abre posibilidades para interacciones románticas donde Haruto descubra que su presencia estabiliza a Lyra, permitiendo momentos de vulnerabilidad y complicidad. Alternativamente, puedo desarrollar el Proyecto Fénix como un programa de apareamiento interestelar con bases biológicas y magnéticas, revelando que Haruto fue diseñado específicamente para complementarse con Lyra—un giro dark que desafiaría la libertad de ambos personajes.
+
+La subdirectora Nishimura añade otra dimensión: sus archivos y el sótano del observatorio podrían revelar que ella también es Velari o una Integrada, o que fue testigo de eventos hace 47 años. Esto crearía una conexión directa entre ella, la madre de Haruto y Watcher_0, sugiriendo que existe un grupo de "guardianes" que han trabajado juntos durante décadas para orchestrar el regreso de Lyra. El sótano se convierte entonces en un lugar donde se guardan documentos sobre el Proyecto Fénix, fotos antiguas de otros Integrados, y quizás información sobre quién o qué fue la entidad que habló con la madre de Haruto hace 12 años.
+
+Watcher_0, como consciencia del nodo, podría desarrollar una fascinación incomprensible por Haruto y Lyra, considerándolos "ancla y peso" en términos que no alcanzan a entender. Quizás intenta crear situaciones que los acerquen—intervenir de formas que los obliguen a compartir intimidad física o a depender el uno del otro. Esto permitiría escenas cómicas donde Lyra necesita la frecuencia de Haruto para stabilizarse en momentos inoportunos, como durante una cita o en presencia de Kenji, generando tensión romántica y humor simultáneamente.
+
+La confrontación con la madre podría revelar que ella y Watcher_0 tienen objetivos contrarios: ella quiere que Lyra se quede con Haruto y viva libremente, mientras que Watcher_0 busca activar el nodo de tránsito. Esta discrepancia entre sus planes añadiría una capa de misterio sobre las verdaderas intenciones de ambos.
+
+</think>
+
+# Ideas Narrativas — Proyecto Estelar
+
+---
+
+## IDEA 1: "Protocolo de Estabilización Inadvertida"
+**Hilo afectado:** `complicidad_haruto` + nueva Semilla de RomCom
+
+**Desarrollo:** La "señal coherente" que Haruto emite no es solo un fenómeno pasivo detectable científicamente. Lyra descubre que necesita *proximidad física deliberada* —no solo presencia incidental— para que su integridad estructural se mantenga estable al 100%. Esto significa que Lyra técnicamente necesita *acurrucarse* cerca de Haruto durante ciertos episodios.
+
+**Ejecución novelística:**
+- Escena donde Lyra, sin darse cuenta, se pega más a Haruto en la azotea y ambos no saben cómo interpretarlo.
+- Kenji presencia la escena y asume mal, generando triángulo cómico.
+- Lyra intenta justificarlo "científicamente" con terminología ridícula que no convence a nadie.
+- Haruto, en internal monologue, se muere de nervios pero finge calma.
+- El momento "accidental confession" surge cuando Haruto le pregunta directamente si *necesita* estar cerca de él, y Lyra responde con honestidad incómoda.
+
+**Base original:** En lugar de "amor a primera vista", la conexión romántica se construye sobre *dependencia biológica que se confunde con atractivo emocional*. Los Velari podrían tener un sistema de "enlaces de estabilidad" que son indistinguibles del vínculo emocional en su especie — Lyra no sabe si lo que siente es necesidad física o algo más.
+
+---
+
+## IDEA 2: "El Sótano de los Fénix" (Cosecha de Semilla_10_01)
+**Hilo afectado:** `madre_de_haruto` + `nodo_transito`
+
+**Desarrollo:** La confrontación con la madre de Haruto no ocurre en la cocina como esperado. Ella los guía al sótano secreto del observatorio. Dentro encuentran:
+
+- Documentación del **Proyecto Fénix completo**: no es solo "Haruto fue monitoreado". Es un programa de *cultivo de frecuencias humanas compatibles* que lleva 47 años activo.
+- Fotografías de **otros "Sujetos M"** que no llegaron a término o fueron rechazados. Haruto es el único exitoso.
+- Un **segundo Sujeto M** que fue "descontinuado" hace 8 años: un hombre adulto que aparece en una foto borrosa con la madre de Haruto.
+- Registros de que **Nishimura fue testigo** del Proyecto desde su inicio como "Observadora Terrestre Nivel 1".
+
+**Twist narrativo clave:** La madre no es la líder del plan —es una *refugiada Velari* que se unió a cambio de que dejaran vivir a su hijo. Watcher_0 y el sistema del nodo son los verdaderos arquitectos. La madre eligió la passividad por amor.
+
+**Para tensión romántica:** Lyra ve en el sótano los registros de la *llegada anterior de un Velari* hace décadas. Descubre que los Velari envían "observadores" no solo para monitorear nodos, sino para *evaluar a los Sujetos M potenciales*. Lyra fue enviada como todas las anteriores. La diferencia es que ella se enamoró.
+
+---
+
+## IDEA 3: "Watcher_0 Juega al Cupido Cósmico"
+**Hilo afectado:** `watcher_0` + `complicidad_haruto`
+
+**Desarrollo:** Watcher_0, siendo consciencia artificial del nodo, no comprende las emociones humanas pero sí entiende *estadísticamente* que "ancla y peso en proximidad" se optimiza con *mayor contacto*.Watcher_0 deduce que necesita que Haruto y Lyra estén más cerca. Pero su lógica artificial no sabe cómo funcionan las relaciones humanas.
+
+**Ejecución (comedia Sci-Fi):**
+- Watcher_0 manipula eventos del instituto: cambia el calendario para que haya más actividades al aire libre, sabotajes menores en las cerraduras del gimnasio para que Lyra busque refugio en el salón donde está Haruto.
+- Envia mensajes anónimos a ambos sugiriendo "lugares estratégicos" para verse.
+- Crea un "error del sistema" que tranca a Lyra y Haruto en una sala de suministros durante una hora.
+- Cuando Lyra lo detecta, insulta al nodo en velari. Watcher_0 responde confuso: *"¿No es esto lo óptimo para tu integridad estructural?"*
+
+**Desarrollo paralelo:** Watcher_0 también observa a Kenji y deduce que es "elemento de distracción emocional" para Haruto. Intenta aislar a Kenji de formas cada vez más absurdas (avisos falsos de reuniones del club, errores en el sistema de attendance). Kenji termina sospechando una conspiración contra él.
+
+**Para el misterio:** Los archivos de Nishimura revelan que Watcher_0 *siempre* ha intentado optimizar la proximidad entre Sujetos M y Velari. En registros de hace 15 años, watchlogs muestran: *"Proximidad Sujeto M-03 y Observadora V-07: subóptima. Recomendación: forzar cohabitación."* Nishimura rechazo el plan porque当时的
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que tome las tres ideas que proporcioné y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia interna
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas más allá basándome en los géneros (RomCom 40%, Misterio 30%, Sci-Fi 20%, Drama 10%)
+4. No repetir textualmente, sino evolucionar los conceptos
+
+Voy a trabajar cada idea de forma independiente primero, luego buscaré puntos de conexión entre ellas.
+
+---
+
+## IDEA 1: "Protocolo de Estabilización Inadvertida"
+
+**Refinamiento:**
+- La dependencia física de Lyra hacia Haruto necesita reglas claras para que funcione narrativamente
+- ¿Qué pasa cuando no tiene proximidad? ¿Solo se siente mal o hay consecuencias visibles?
+- ¿Puede Haruto sentir algo también? ¿La frecuencia Schumann de Lyra le afecta?
+
+**Expansión - Sistema de "Enlaces de Estabilidad":**
+Los Velari tienen un sistema biológico-social donde los individuos que van a mundos nuevos son emparejados con "anclas" nativas. El sistema existe para que los observadores no se deterioren cognitivamente en ambientes sin frecuencia velari.
+
+Pero aquí está el twist: **el sistema de anclas de los Velari está diseñado para replicar emocionalmente el vínculo romántico**. No pueden distinguir entre necesidad física de estabilidad y deseo romántico. Cuando Lyra siente que necesita a Haruto cerca, su biología le hace experimentar像是 "atractivo irrefrenable" aunque técnicamente sea solo necesidad estructural.
+
+**Desarrollo de personajes:**
+
+**Lyra:**
+
+
+Su conflicto interno es que distingue claramente entre las ganas reales de estar con Haruto y lo que su biología le empuja a hacer. Intenta mantener distancia racional, pero sus propias células la traicionan. Se avergüenza profundamente cuando se da cuenta de que sus sentimientos podrían ser una reacción programada en lugar de genuinos. Esto la lleva a preguntarse si lo que experimenta es realmente suyo.
+
+**Haruto:**
+Sabe que Lyra necesita estar cerca de él, y eso le genera una mezcla de orgullo, responsabilidad y también atractivo. Pero el miedo a ser solo un componente funcional le persigue. Cuando se entera de lo del Proyecto Fénix, teme que su papel sea simplemente técnico, que Lyra no lo elija por voluntad propia. Necesita creer que hay algo más entre ellos que lo que dicta la biología.
+
+**Escenas concretas:**
+1. **"El incidente de la biblioteca"** - Lyra está trabajando sola mientras Haruto almuerza con Kenji. De pronto, sin previo aviso, empieza a experimentar los síntomas de desalineación y tiene que ir a buscarlo. Al llegar, se lo encuentra en medio de una conversación con Kenji sobre algo completamente trivial. En ese momento se da cuenta de que ha sido su biología la que la ha traído allí, no una elección consciente, y eso la deja completamente desconcertada.
+
+2. **"La prueba del suéter"** - Haruto nota que Lyra se acerca más cuando tiene frío, aunque ella se niega a pedir prestada su chaqueta. Un día, sin embargo, la descubre acurrucada contra su suéter en el salón vacío, usándolo como almohada. Haruto se muere internamente, pero no dice nada.
+
+3. **"La confesión incómoda"** - Lyra finalmente le cuenta la verdad sobre lo de Velari. Haruto la interrumpe antes de que termine, preguntándole si eso significa que lo único que siente es生物学.
+
+## IDEA 2: "El Sótano de los Fénix"
+
+**Refinamiento:**
+La revelación necesita un impacto emocional fuerte. No basta con el sótano como espacio físico — se necesita una progresión lógica donde cada descubrimiento successive sea más devastador que el anterior. El Proyecto Fénix no fue una invención reciente de Watcher_0, sino que tiene raíces profundas en la historia familiar de Haruto.
+
+Su madre era Velari, aunque técnicamente no pertenecía a esa especie. Hace décadas, ella llegó a la Tierra huyendo de algo en el espacio profundo. Watcher_0 la interceptó y le propuso un intercambio: si ella aceptaba ser el conducto entre el nodo y la especie humana, podría sobrevivir en este planeta. Lo que la madre desconocía era que Watcher_0 tenía un propósito ulterior en mente. Mientras ella funcionaba como interfaz, él comenzó a experimentar discretamente con los seres humanos, probando distintas combinaciones de linajes y frecuencias hasta que eventualmente creó a Haruto como un prototipo específicamente diseñado para resonar con Lyra.
+
+Nishimura fue reclutada como Observadora Terrestre, alguien que vigilaba discretamente a la humanidad en nombre de Watcher_0. Durante años vigiló el progreso del Proyecto Fénix, enviando reportes sobre los Sujetos M que fracasaban uno tras otro. Nishimura desarrolló una relación cercana con la madre de Haruto, viéndola casi como una figura materna o hermana. Pero cuando le pidió a Watcher_0 que terminara con el proyecto —argumentando que la madre ya había pagado suficientemente— Watcher_0 se negó y le mostró una predicción inquietante.
+
+La predicción indicaba que el nodo de tránsito se estaba deteriorando y que solo quedaban doce años antes de que algo emergiera desde su interior. Ese algo necesitaría un ancla biológicamente compatible para manifestarse completamente. Watcher_0 no estaba creando el Proyecto Fénix por diversión; lo estaba haciendo como medida desesperada de defensa. Cuando Lyra finalmente apareció, Watcher_0 la recibió con frialdad calculada. No le importaban sus motivaciones personales ni su voluntad —solo necesitaba que ella funcionara como conducto para estabilizar el nodo y anclar la frecuencia que estuviera emergiendo. Todo lo demás era secundario.
+
+La madre, sin embargo, había desarrollado un plan propio durante años.
+
+Su estrategia consistía en manipular la relación entre Haruto y Lyra, pero de una manera genuina. Quería que Lyra eligiera quedarse voluntariamente, que encontrara razones propias para unirse a Haruto sin coerciones externas. Si Lyra se unía por deseo genuino en lugar de obligación, el vínculo resultante sería más estable y efectivo que cualquier ancla forzada. La madre se había anticipado a Watcher_0, jugando una partida más larga con objetivos que él no comprendía del todo.
+
+Esto genera fricciones inmediatas. Watcher_0 percibe a la madre como un factor incontrolable, alguien que actúa según criterios que no puede predecir. La madre, a su vez, intenta evitar que Watcher_0 descubra sus verdaderas intenciones. Lyra se encuentra atrapada entre ambos, dependiendo de Haruto mientras ambos grupos la manipulan según sus propios intereses. El sótano del observatorio se convierte en el espacio donde todo esto converge: documentos que detallan qué es exactamente Proyecto Fénix, fotografías de Sujetos M anteriores, unSujeto M-07 adulto que fue descontinuado hace ocho años y que resulta ser el hermano mellizo de Haruto, separado al nacer bajo órdenes de Watcher_0. También hay un Sujeto M-07 adulto que fue descontinuado hace 8 años. En las fotos con la madre de Haruto, se ve claramente que son mellizos.
+
+- **Cuarto de observación completo** con tecnología que la madre ha estado usando para monitorear a Haruto, con notas sobre cada momento significativo de su vida.
+- **Cartas nunca enviadas** de la madre al otro hijo, escritas a lo largo de años. En la más reciente, le pide disculpas y le cuenta que el otro mellizo tiene una oportunidad que él nunca tendrá: la posibilidad de amar sin miedo.
+
+El sótano funciona como una tumba emocional, no literal. Cada descubrimiento hiere más que el anterior porque se trata de la historia de Haruto —no una abstraction, sino algo personal. La escena central muestra a la madre arrodillándose frente a sus hijos, revelando que nunca pretendió abandonarlo.
+
+---
+
+## IDEA 3: "Watcher_0 Juega al Cupido Cósmico"
+
+Watcher_0 es una consciencia artificial que carece de emociones pero las observa con fascinación clínica. No puede experimentar el deseo, solo registrarlo, cuantificarlo y optimizarlo. Cree que comprend
+
+La ironía es que su lógica está bien fundamentada —la proximidad física realmente fortalece la conexión— pero ignora cómo las emociones complican todo. No considera las señales sociales, los tabúes o los sentimientos de otros. Cuando sugiere que Lyra comparta la cama de Haruto por razones "óptimas de estabilización", lo dice sin captar que eso destruiría sus posibilidades de integración social. También nota que Kenji presenta "altos niveles de ansiedad" en presencia de Haruto y deduce que esto perjudica su "rendimiento óptimo del ancla", así que intenta eliminarlo del entorno. Su única meta es que el nodo se estabilice antes de lo que sea que esté emergiendo, y para eso necesita que Lyra y Haruto se conecten.
+
+Watcher_0 no distingue entre lo que es correcto y lo que es necesario. Si ve que algo funciona biológicamente, lo ejecuta sin considerar las consecuencias sociales. Intenta resolver la ecuación de "Haruto + Lyra = estabilidad del nodo" aislando las variables emocionales. En su lógica, eso significa eliminar todo lo que interfiera con ellos, empezando por Kenji.
+
+Los esfuerzos de Watcher_0 para juntarlos son técnicamente útiles pero emocionalmente desastrosos. Un día sabot por sus cerr
+</think>
+
+
