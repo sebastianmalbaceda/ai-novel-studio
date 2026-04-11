@@ -1,64 +1,96 @@
 {
   "Haruto Mizuki": {
     "clasificacion": "Principal",
-    "rol": "Protagonista / Estudiante / Narrador",
+    "rol": "Protagonista / Estudiante / Narrador / Sujeto M-07",
     "edad": 17,
     "descripcion_fisica": "Cabello oscuro algo revuelto, uniforme escolar estándar, ojos oscuros con mirada inquisitiva pero cansada.",
-    "personalidad": "Observador, cínico con las conspiraciones, protector de su entorno cotidiano, procrastinador.",
-    "estado_vital": "Saludable",
+    "personalidad": "Observador, cínico con las conspiraciones, protector de su entorno cotidiano, procrastinador. Acepta lo extraordinario con más calma de lo esperado.",
+    "estado_vital": "Saludable / Emite señal coherente",
     "relaciones": {
-      "Lyra Vel'Kath": "Compañera de homestay / Cómplice / Creciente tensión cómica y emocional",
-      "Kenji Aoyama": "Mejor amigo / Aliado en el secreto",
-      "Directora Shirogane": "Autoridad temida / Sospecha de vigilancia activa",
-      "Madre": "Profesora de astronomía con proyecto secreto / Posible clave del misterio"
+      "Lyra Vel'Kath": "Compañera de homestay / Cómplice / Aliada / Creciente vínculo emocional y bioeléctrico",
+      "Kenji Aoyama": "Mejor amigo / Aliado en el secreto / Sabe todo",
+      "Directora Shirogane": "Autoridad temida / Agente de la Zona Gris",
+      "Madre": "Integrada (Velari) / Organizadora del homestay / Clave del misterio / Proyecto Fénix"
     },
-    "secretos": "Sabe que Lyra es alienígena. Sospecha que su madre oculta algo relacionado con el trabajo en astronomía. Emite 'algo' (una estructura) que el cuerpo de Lyra necesita y que alguien más también observa.",
-    "arco_actual": "Proteger a Lyra mientras descubre la conexión entre su madre y la presencia alienígena.",
-    "metas_actuales": ["Mantener el secreto de Lyra", "Descubrir la conexión de su madre", "Evitar que Watcher_0 los encuentre"]
+    "secretos": "Sujeto M-07 del Proyecto Fénix (clasificación Nivel 2). Monitoreado desde los 12 años. Su cuerpo emite una señal coherente que los Velari necesitan. Fue anticipado antes de nacer ('El niño puede escuchar').",
+    "arco_actual": "Proteger a Lyra mientras descubre la verdad sobre su madre y el Proyecto Fénix.",
+    "metas_actuales": ["Mantener el secreto de Lyra", "Confrontar a su madre sobre el Proyecto Fénix", "Entender qué es Sujeto M-07"]
   },
   "Lyra Vel'Kath": {
     "clasificacion": "Principal",
-    "rol": "Co-protagonista / Estudiante de intercambio / Infiltrada",
+    "rol": "Co-protagonista / Estudiante de intercambio / Observadora Velari",
     "edad": "Aparente 17 (170 ciclos Velari)",
-    "descripcion_fisica": "1.75m, cabello plateado en coleta geométrica, ojos violeta analíticos que brillan con luz propia, uniforme siempre impecable.",
-    "personalidad": "Extremadamente literal, curiosa, eficiente pero socialmente analfabeta. Empieza a desarrollar curiosidad humana y conflicto emocional.",
-    "estado_vital": "Activa / Cobertura comprometida",
+    "descripcion_fisica": "1.75m, cabello plateado en coleta geométrica, ojos violeta (alerta) que se vuelven marrones con motitas doradas (emocionalmente abierta).",
+    "personalidad": "Extremadamente literal, curiosa, eficiente pero socialmente analfabeta. Desarrolla curiosidad humana y conflicto emocional genuino.",
+    "estado_vital": "Activa / Cobertura comprometida / Eligió quedarse",
     "relaciones": {
-      "Haruto Mizuki": "Guía oficial / Anfitrión de homestay / Fuente de datos sociales / Confianza creciente",
-      "Kenji Aoyama": "Sujeto de observación ruidoso / Aliado reticente",
-      "Directora Shirogane": "Punto de contacto administrativo / Sospecha de vigilancia mutua",
-      "Watcher_0": "Entidad desconocida que emite desde el ala administrativa"
+      "Haruto Mizuki": "Guía oficial / Anfitrión / Fuente de estabilidad bioeléctrica / Vínculo creciente",
+      "Kenji Aoyama": "Sujeto de observación / Aliado reticente / Ya sabe todo",
+      "Directora Shirogane": "Agente de la Zona Gris / La monitoriza",
+      "Watcher_0": "Consciencia artificial del nodo / La monitorea como Target 002",
+      "Madre de Haruto": "La encontró hace 3 años / Integrada / Le dijo que la esperaban"
     },
-    "secretos": "Misión real: verificar/reactivar el nodo de tránsito bajo el instituto. Ha revelado su origen a Haruto y Kenji por error. Detecta dispositivos de captura en un radio de 200m.",
-    "arco_actual": "Adaptación cultural acelerada tras comprometer su identidad. Investigar la fuente de Watcher_0.",
-    "metas_actuales": ["Protocolo de adaptación", "Evitar que la información llegue a autoridades superiores", "Investigar a Watcher_0", "Determinar el rol de la madre de Haruto"]
+    "secretos": "Misión real: verificar/reactivar el nodo de tránsito. Huecos en memoria de los 34 días previos al contacto (alguien sustituyó fragmentos). Eligió quedarse por decisión física y emocional.",
+    "arco_actual": "Investigar el nodo con Haruto y Kenji. Confrontar a la madre de Haruto.",
+    "metas_actuales": ["Entender el Proyecto Fénix", "Confrontar a la madre de Haruto", "Descubrir las intenciones de Watcher_0"]
   },
   "Kenji Aoyama": {
     "clasificacion": "Secundario / Alivio cómico",
     "rol": "Amigo / YouTuber paranormal / Detective amateur",
     "edad": 17,
     "descripcion_fisica": "Gafas de pasta que ajusta dramáticamente, smartphone en mano constantemente.",
-    "personalidad": "Enérgico, obsesivo con los OVNIs, leal a Haruto pero imprudente por naturaleza.",
-    "estado_vital": "Saludable / Exaltado",
+    "personalidad": "Enérgico, obsesivo con los OVNIs, leal a Haruto pero imprudente. Acepta lo extraordinario con pragmatismo humorístico.",
+    "estado_vital": "Saludable / Exaltado / Sabe todo",
     "relaciones": {
       "Haruto Mizuki": "Mejor amigo / Cómplice en el secreto",
-      "Lyra Vel'Kath": "Obsesión de investigación / Trato: no publicar a cambio de verdad"
+      "Lyra Vel'Kath": "Obsesión de investigación / Aliado / Trato cumplido",
+      "Subdirectora Nishimura": "Tiene sus archivos clasificados"
     },
-    "secretos": "Tiene video de Lyra en la azotea como seguro. Investiga anomalías electromagnéticas con equipamiento propio. Sospecha que la subdirectora Nishimura tiene archivos sobre fenómenos anómalos.",
-    "arco_actual": "Investigar activamente las anomalías del instituto. Descubrir qué sabe la subdirectora Nishimura. Entender la conexión entre Haruto y las frecuencias.",
-    "metas_actuales": ["Investigar las anomalías electromagnéticas", "Proteger el secreto de Lyra", "Descubrir qué es lo que Haruto emite"]
+    "secretos": "Tiene video de Lyra en la azotea como seguro. Investigó anomalías electromagnéticas con equipamiento propio. Encontró los archivos de Nishimura.",
+    "arco_actual": "Parte del equipo. Investiga activamente las anomalías del instituto.",
+    "metas_actuales": ["Ayudar a Haruto y Lyra", "Entender el Proyecto Fénix", "Descubrir qué planea Watcher_0"]
+  },
+  "Directora Akemi Shirogane": {
+    "clasificacion": "Secundaria / Antagonista ambigua",
+    "rol": "Directora del Instituto / Agente de la Zona Gris",
+    "descripcion_fisica": "Elegante, siempre con taza de té negro.",
+    "personalidad": "Calculadora, sentido del humor seco.",
+    "estado_vital": "Activa / Monitorizando la situación",
+    "relaciones": {
+      "Lyra Vel'Kath": "Sabe que es alienígena / La monitoriza",
+      "Zona Gris": "Agente veterana"
+    },
+    "secretos": "Sabe que Lyra es alienígena desde el primer día. Su misión es monitorizar y contener si es necesario.",
+    "arco_actual": "Antagonista aparente. Potencial aliada cuando la amenaza real se manifieste.",
+    "metas_actuales": ["Desconocidas"]
   },
   "Subdirectora Nishimura": {
     "clasificacion": "Secundaria",
-    "rol": "Autoridad escolar / Monitora de anomalías",
+    "rol": "Autoridad escolar / Monitora de anomalías / Aliada de Watcher_0",
     "descripcion_fisica": "Desconocida en el texto.",
     "personalidad": "Desconocida en el texto.",
-    "estado_vital": "Desconocido.",
+    "estado_vital": "Activa / Del lado de Watcher_0",
     "relaciones": {
-      "Instituto Takahara": "Gestión administrativa y archivos de seguridad"
+      "Instituto Takahara": "Gestión administrativa y archivos de seguridad",
+      "Watcher_0": "Aliada / Colaboradora"
     },
-    "secretos": "Tiene archivos sobre anomalías electromagnéticas en el instituto desde hace 7 años. Acceso nivel 2.",
-    "arco_actual": "Aparición reciente en la narrativa. Su rol y motivaciones son desconocidas.",
+    "secretos": "Archivos sobre anomalías electromagnéticas desde hace 7 años. Acceso nivel 2. Fotos de Haruto (Sujeto M-07) y Lyra (2019). Refiere a Haruto y Lyra como 'elementos no resueltos en una ecuación de 47 años'.",
+    "arco_actual": "Su rol exacto y motivaciones son desconocidos. Posible conexión con el Proyecto Fénix.",
+    "metas_actuales": ["Desconocidas"]
+  },
+  "Madre de Haruto (Profesora Mizuki)": {
+    "clasificacion": "Principal / Misterio",
+    "rol": "Integrada (Velari) / Profesora de astronomía / Organizadora del homestay",
+    "descripcion_fisica": "No detallada en el texto.",
+    "personalidad": "Protectora, secreta, organiza eventos sin explicarlos.",
+    "estado_vital": "Activa / Integrada (Velari viviendo como humana)",
+    "relaciones": {
+      "Haruto Mizuki": "Hijo / Sujeto M-07 / No sabe la verdad completa",
+      "Lyra Vel'Kath": "La encontró hace 3 años / Le dijo que la esperaban",
+      "Entidad no humana": "Contacto hace 12 años / Dijo 'El niño puede escuchar'"
+    },
+    "secretos": "Es una Velari que eligió vivir como humana. El sótano del observatorio guarda secretos. Organizó el homestay de Lyra. Conectada al Proyecto Fénix.",
+    "arco_actual": "Haruto y Lyra deciden confrontarla sobre el Proyecto Fénix y Sujeto M-07.",
     "metas_actuales": ["Desconocidas"]
   }
 }

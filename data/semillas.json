@@ -6,9 +6,9 @@
     "estado": "Cosechada"
   },
   "semilla_1_02": {
-    "detalle": "Lyra en la azotea a medianoche con ojos que brillan con luz propia, expresión de nostalgia y miedo.",
+    "detalle": "Lyra en la azotea a medianoche con ojos que brillan con luz propia.",
     "capitulo_plantado": 1,
-    "potencial_pago": "Lyra intentaba comunicarse con su especie o reactivar el nodo de tránsito.",
+    "potencial_pago": "Lyra intentaba comunicarse con su especie o reactivar el nodo.",
     "estado": "Cosechada"
   },
   "semilla_2_01": {
@@ -20,103 +20,115 @@
   "semilla_2_02": {
     "detalle": "Lyra confesó que 'su especie no tiene esa biología' tras negar ser reptiliana.",
     "capitulo_plantado": 2,
-    "potencial_pago": "Haruto descubrió la especie exacta de Lyra y su cultura real.",
+    "potencial_pago": "Haruto descubrió la especie exacta de Lyra.",
     "estado": "Cosechada"
   },
   "semilla_2_03": {
     "detalle": "Lyra mencionó que vigiló a Haruto por 34 días antes de llegar.",
     "capitulo_plantado": 2,
-    "potencial_pago": "¿Por qué Haruto específicamente? ¿Su madre?",
+    "potencial_pago": "Haruto emite señal coherente que Lyra necesita.",
     "estado": "Cosechada"
   },
   "semilla_3_01": {
-    "detalle": "La madre de Haruto es profesora de astronomía con un proyecto secreto y documentos que no deja ver.",
+    "detalle": "La madre de Haruto es profesora de astronomía con proyecto secreto.",
     "capitulo_plantado": 3,
-    "potencial_pago": "La madre trabaja con o para una organización que conoce la existencia alienígena. Posible conexión con la Zona Gris.",
+    "potencial_pago": "La madre es una Integrada (Velari) conectada al Proyecto Fénix.",
     "estado": "Cosechada"
   },
   "semilla_3_02": {
     "detalle": "Lyra revela que 'todo está conectado': la madre, el nodo, la Directora.",
     "capitulo_plantado": 3,
-    "potencial_pago": "Los tres elementos forman parte de una red más amplia de conocimiento sobre la presencia alienígena.",
+    "potencial_pago": "Los tres elementos forman parte de una red de conocimiento alienígena.",
     "estado": "Cosechada"
   },
   "semilla_4_01": {
-    "detalle": "Watcher_0: usuario anónimo en Discord que identifica la frecuencia de distorsión como algo que 'no debería existir en un entorno urbano'.",
+    "detalle": "Watcher_0: usuario anónimo en Discord que identifica la frecuencia de distorsión.",
     "capitulo_plantado": 4,
-    "potencial_pago": "Watcher_0 podría ser un agente de la Zona Gris, la Directora Shirogane, o una consciencia artificial.",
+    "potencial_pago": "Watcher_0 es consciencia artificial del nodo Takahara.",
     "estado": "Cosechada"
   },
   "semilla_4_02": {
-    "detalle": "Lyra detecta un tercer dispositivo de vigilancia (no de Kenji) moviéndose hacia el ala administrativa.",
+    "detalle": "Lyra detecta un tercer dispositivo de vigilancia moviéndose al ala administrativa.",
     "capitulo_plantado": 4,
-    "potencial_pago": "Alguien dentro del instituto está monitorizando activamente a Lyra.",
+    "potencial_pago": "Nishimura monitoriza activamente desde hace 7 años.",
     "estado": "Cosechada"
   },
   "semilla_4_03": {
-    "detalle": "Lyra se encierra en su habitación y emite un zumbido en un idioma desconocido.",
+    "detalle": "Lyra se encierra y emite zumbido en idioma desconocido.",
     "capitulo_plantado": 4,
     "potencial_pago": "Lyra se comunica con su especie o intenta reactivar algo.",
     "estado": "Cosechada"
   },
   "semilla_5_01": {
-    "detalle": "Lyra necesita la frecuencia Schumann (7.83 Hz) para mantener su integridad estructural.",
+    "detalle": "Lyra necesita frecuencia Schumann (7.83 Hz) para integridad estructural.",
     "capitulo_plantado": 5,
-    "potencial_pago": "La interferencia artificial en la zona le afecta físicamente.",
+    "potencial_pago": "Interferencia artificial la afecta. Dedos translúcidos.",
     "estado": "Cosechada"
   },
   "semilla_5_02": {
-    "detalle": "Haruto emite 'algo' que el cuerpo de Lyra necesita para funcionar.",
+    "detalle": "Haruto emite 'algo' que el cuerpo de Lyra necesita.",
     "capitulo_plantado": 5,
-    "potencial_pago": "Haruto es una anomalía magnética con señal coherente.",
+    "potencial_pago": "Haruto es anomalía magnética con señal coherente (Sujeto M-07).",
     "estado": "Cosechada"
   },
   "semilla_5_03": {
     "detalle": "Alguien más observa a Haruto por lo que emite.",
     "capitulo_plantado": 5,
-    "potencial_pago": "Watcher_0 o la Zona Gris lo vigilan.",
-    "estado": "Creciendo"
+    "potencial_pago": "Watcher_0 lo monitorea como Target 001 del Proyecto Fénix.",
+    "estado": "Cosechada"
   },
   "semilla_6_01": {
-    "detalle": "Nishimura tiene archivos sobre anomalías electromagnéticas desde hace 7 años.",
+    "detalle": "Nishimura tiene archivos sobre anomalías desde hace 7 años.",
     "capitulo_plantado": 6,
-    "potencial_pago": "Todo ha sido monitoreado antes de que Lyra llegara.",
+    "potencial_pago": "Archivos contienen fotos de Haruto (Sujeto M-07) y Lyra (2019).",
     "estado": "Cosechada"
   },
   "semilla_6_02": {
     "detalle": "Lyra tiene episodios y no está lista para algo que se avecina.",
     "capitulo_plantado": 6,
-    "potencial_pago": "Algo viene relacionado con el nodo o la Zona Gris.",
-    "estado": "Pendiente"
+    "potencial_pago": "Huecos en memoria de Lyra: alguien sustituyó fragmentos.",
+    "estado": "Cosechada"
   },
   "semilla_7_01": {
-    "detalle": "Watcher_0 es parte del sistema, no un observador externo. Es la respiración del nodo.",
+    "detalle": "Watcher_0 es parte del sistema, no observador externo.",
     "capitulo_plantado": 7,
-    "potencial_pago": "Watcher_0 es una consciencia artificial del nodo Takahara.",
+    "potencial_pago": "Watcher_0 es consciencia artificial del nodo Takahara.",
     "estado": "Cosechada"
   },
   "semilla_9_01": {
-    "detalle": "La madre de Haruto es una Integrada: alguien de la especie de Lyra que eligió vivir como humana.",
+    "detalle": "La madre de Haruto es una Integrada: Velari que eligió vivir como humana.",
     "capitulo_plantado": 9,
-    "potencial_pago": "La madre lleva décadas en la Tierra y sabe más de lo que revela.",
+    "potencial_pago": "La madre lleva décadas en la Tierra y organizó la llegada de Lyra.",
     "estado": "Cosechada"
   },
   "semilla_9_02": {
-    "detalle": "Hace 12 años, la madre habló con una entidad no humana que dijo: 'El niño puede escuchar'.",
+    "detalle": "Hace 12 años, la madre habló con entidad no humana: 'El niño puede escuchar'.",
     "capitulo_plantado": 9,
-    "potencial_pago": "Haruto fue anticipado antes de nacer.",
+    "potencial_pago": "Haruto fue anticipado antes de nacer. Proyecto Fénix.",
     "estado": "Cosechada"
   },
-  "semilla_15_01": {
-    "detalle": "Watcher_0 es una consciencia artificial originada en el nodo Takahara. Estado: activo.",
-    "capitulo_plantado": 15,
-    "potencial_pago": "¿Qué planea Watcher_0 con el ancla y el peso en proximidad?",
+  "semilla_10_01": {
+    "detalle": "El sótano del observatorio guarda secretos que nadie más ha encontrado.",
+    "capitulo_plantado": 10,
+    "potencial_pago": "Información sobre el Proyecto Fénix y la verdadera naturaleza de Haruto.",
     "estado": "Pendiente"
   },
-  "semilla_15_02": {
-    "detalle": "Los archivos tienen fotos del protagonista a los 12 años con marca 'Sujeto M-07'.",
-    "capitulo_plantado": 15,
-    "potencial_pago": "¿Qué es el Sujeto M-07 y qué significa para Haruto?",
+  "semilla_12_01": {
+    "detalle": "Watcher_0 es consciencia artificial del nodo. Target 001 + Target 002 = ancla y peso.",
+    "capitulo_plantado": 12,
+    "potencial_pago": "¿Qué planea Watcher_0 con el protocolo de observación intensificado?",
+    "estado": "Pendiente"
+  },
+  "semilla_12_02": {
+    "detalle": "Haruto es Sujeto M-07 del Proyecto Fénix con clasificación Nivel 2.",
+    "capitulo_plantado": 12,
+    "potencial_pago": "¿Qué es el Proyecto Fénix y quién lo creó?",
+    "estado": "Pendiente"
+  },
+  "semilla_12_03": {
+    "detalle": "Nishimura está del lado de Watcher_0. Refiere a Haruto y Lyra como 'elementos no resueltos'.",
+    "capitulo_plantado": 12,
+    "potencial_pago": "¿Cuál es el rol de Nishimura en el plan de 47 años?",
     "estado": "Pendiente"
   }
 }

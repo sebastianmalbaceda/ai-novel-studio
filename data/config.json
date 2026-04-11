@@ -4,10 +4,10 @@
     "api_host": "https://api.minimax.io/v1/chat/completions",
     "api_key_env": "AI_API_KEY",
     "model_name": "MiniMax-M2.7",
-    "max_tokens_output": 3000,
+    "max_tokens_output": 2500,
     "temperature_research": 0.8,
     "temperature_writing": 0.65,
-    "researcher_calls_per_run": 5,
+    "researcher_calls_per_run": 2,
     "extra_headers": {},
     "extra_body_params": {}
   },
@@ -56,7 +56,7 @@
     "title": "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!",
     "current_arc": "Arco 1: Primer Contacto — Introducción y descubrimiento del misterio principal",
     "target_chapter_words": 1500,
-    "last_chapter_number": 15
+    "last_chapter_number": 12
   },
   "genre_weights": {
     "_comment": "Pesos de 0-100 para cada género. Los géneros con peso > 0 influyen activamente en la narrativa. La suma de los pesos activos DEBE ser 100. Géneros en 0 están disponibles para activarse en cualquier momento.",

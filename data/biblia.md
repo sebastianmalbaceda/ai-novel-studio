@@ -1,7 +1,7 @@
 # 📖 Biblia de la Novela — Crónicas del Instituto Estelar
 
 > **Documento vivo:** Se actualiza conforme la historia evoluciona.  
-> **Última actualización:** 2026-04-06
+> **Última actualización:** 2026-04-11
 
 ---
 
@@ -10,19 +10,22 @@
 ### Setting
 
 - **Época:** Presente alternativo, año 2026
-- **Ubicación principal:** Instituto Público Takahara, una escuela secundaria en la ciudad costera ficticia de Minatoha, Japón
-- **Contexto global:** La humanidad aún no ha tenido contacto público con vida extraterrestre. Sin embargo, existen programas secretos gubernamentales que monitorizan señales anómalas desde hace décadas.
-- **La Zona Gris:** Una red clandestina de agentes del gobierno japonés encargados de encubrir avistamientos y gestionar desertores alienígenas. Operan bajo la fachada de una "división de control de plagas".
+- **Ubicación principal:** Instituto Público Takahara, ciudad costera ficticia de Minatoha, Japón
+- **Contexto global:** La humanidad no tiene contacto público con vida extraterrestre. Existen programas secretos gubernamentales que monitorizan señales anómalas desde hace décadas.
+- **La Zona Gris:** Red clandestina de agentes del gobierno japonés que encubren avistamientos y gestionan desertores alienígenas. Operan bajo la fachada de "división de control de plagas".
+- **El Nodo Takahara:** Estructura alienígena geométrica bajo el edificio A del instituto. Activo hace 47 años. Watcher_0 es su consciencia artificial.
 
 ### Reglas del Mundo
 
 1. **Los alienígenas existen** — Pero la sociedad humana no lo sabe oficialmente.
-2. **Las especies infiltradas** son humanoides que pueden pasar desapercibidas entre humanos con tecnología de camuflaje biomimético.
+2. **Las especies infiltradas** son humanoides que pueden pasar desapercibidas con tecnología de camuflaje biomimético.
 3. **La tecnología alienígena** no es mágica: sigue principios científicos avanzados (manipulación gravitacional, nanomáquinas, comunicación cuántica).
-4. **El Instituto Takahara** es un punto geográfico de interés porque se construyó sobre un antiguo "nodo de tránsito" alienígena desactivado.
-5. **La barrera emocional:** Los alienígenas de la especie Velari tienen dificultad para comprender las emociones humanas complejas (especialmente el sarcasmo y el amor romántico).
-6. **Frecuencia Schumann:** La resonancia electromagnética terrestre (7.83 Hz) es necesaria para que los Velari mantengan su integridad estructural. Una interferencia artificial ha degradado esta frecuencia en la zona, causando inestabilidad en Lyra.
-7. **Sistema de homestay:** Lyra vive en la casa de la familia Mizuki como parte de su cobertura de estudiante de intercambio, organizada por la madre de Haruto.
+4. **El Instituto Takahara** se construyó sobre un "nodo de tránsito" alienígena activo hace 47 años.
+5. **La barrera emocional:** Los Velari tienen dificultad para comprender emociones humanas complejas (especialmente sarcasmo y amor romántico).
+6. **Frecuencia Schumann:** La resonancia electromagnética terrestre (7.83 Hz) es necesaria para que los Velari mantengan su integridad estructural. Una interferencia artificial la ha degradado en la zona.
+7. **Sistema de homestay:** Lyra vive en casa de la familia Mizuki como parte de su cobertura, organizada por la madre de Haruto.
+8. **Integrados:** Alienígenas de la especie Velari que eligieron vivir como humanos. La madre de Haruto es una Integrada.
+9. **Proyecto Fénix:** Programa clasificado que monitorea a Haruto (Sujeto M-07) desde niño. Nivel de acceso 2.
 
 ---
 
@@ -31,34 +34,42 @@
 ### Haruto Mizuki (水樹 遥人)
 - **Rol:** Protagonista masculino. Narrador principal.
 - **Edad:** 17 años, segundo año de instituto.
-- **Personalidad:** Sarcástico pero amable. Nerd de ciencia ficción que irónicamente no cree en alienígenas. Procrastinador profesional. Tiene un monólogo interno hiperactivo que funciona como canal cómico.
-- **Trasfondo:** Hijo único. Su madre es profesora de astronomía (lo que plantará semillas de la trama). Su padre trabaja fuera y solo viene los fines de semana.
-- **Revelación clave (cap 5):** Su cuerpo emite "algo" — una estructura en lugar de ruido blanco — que el cuerpo de Lyra necesita para funcionar. Esta emisión es la razón por la que fue vigilado 34 días antes de conocer a Lyra. También alguien más lo observa por esta razón.
-- **Motivación:** Quiere una vida tranquila para graduarse, ir a la universidad y diseñar videojuegos. La llegada de Lyra destruye ese plan.
+- **Personalidad:** Sarcástico pero amable. Nerd de ciencia ficción. Procrastinador profesional. Monólogo interno hiperactivo.
+- **Trasfondo:** Hijo único. Madre profesora de astronomía (Integrada). Padre trabaja fuera.
+- **Revelación clave:** Es "Sujeto M-07" del Proyecto Fénix. Su cuerpo emite una señal coherente y estable que los Velari necesitan. Fue monitoreado desde los 12 años.
+- **Motivación:** Quiere una vida tranquila. La llegada de Lyra destruye ese plan.
 - **Arco narrativo:** De escéptico pasivo a héroe reluctante que protege a Lyra y descubre secretos sobre su propia familia.
 
 ### Lyra Vel'Kath
 - **Rol:** Protagonista femenina. Interés romántico principal.
-- **Edad aparente:** 17 años (edad real: ~170 ciclos solares Velari ≈ comparable a adolescente).
-- **Especie:** Velari — humanoides altos, esbeltos, con ojos que cambian ligeramente de tono según su estado emocional (pista sutil para lectores). Ojos violeta, se vuelven marrones con motitas doradas cuando baja la guardia emocionalmente.
-- **Personalidad:** Curiosamente literal. Tiene dificultades con el humor humano, los dobles sentidos y las metáforas. Es extremadamente competente en combate y tecnología, pero socialmente torpe. Empieza a desarrollar vínculos emocionales genuinos.
-- **Trasfondo:** Enviada a la Tierra como observadora de bajo nivel. Su misión real (oculta incluso a ella) es verificar si el nodo de tránsito bajo el instituto puede reactivarse. Desde hace tres años necesita la frecuencia Schumann (7.83 Hz) para mantener su integridad estructural, y ha descubierto que el cuerpo de Haruto emite algo que ella necesita.
-- **Vivienda:** Sistema de homestay organizado por la madre de Haruto (profesora de astronomía). Lyra vive en la casa de la familia Mizuki, compart habitación con Haruto (situación que genera tensión cómica).
-- **Motivación:** Completar su misión y regresar. Conflicto: empieza a desarrollar vínculos emocionales con humanos (especialmente Haruto) y debe elegir entre su misión original y quedarse.
-- **Arco narrativo:** De observadora fría a alguien que cuestiona las órdenes de su especie por los lazos que ha formado.
-- **Revelación clave (cap 5):** Necesita la frecuencia Schumann para mantener su forma física. Si la frecuencia baja, sus dedos se vuelven translúcidos. Haruto emite "algo" que su cuerpo necesita. Alguien más también observa a Haruto por esa razón.
+- **Edad aparente:** 17 años (edad real: ~170 ciclos solares Velari).
+- **Especie:** Velari — humanoides con ojos que cambian de tono según estado emocional. Violeta (alerta) → marrones con motitas doradas (emocionalmente abierta).
+- **Personalidad:** Literal, curiosa, competente en combate y tecnología, socialmente torpe. Desarrolla vínculos emocionales genuinos.
+- **Trasfondo:** Enviada como observadora. Misión real: verificar el nodo de tránsito. Encontrada por la madre de Haruto hace 3 años.
+- **Vivienda:** Homestay en casa de los Mizuki, organizado por la madre de Haruto.
+- **Motivación:** Completar su misión vs. quedarse por los lazos que ha formado. Eligió quedarse.
+- **Arco narrativo:** De observadora fría a alguien que cuestiona las órdenes de su especie.
 
 ### Kenji Aoyama (青山 健二)
 - **Rol:** Mejor amigo del protagonista. Alivio cómico / Detective amateur.
 - **Edad:** 17 años.
-- **Personalidad:** Extrovertido, impulsivo, obsesionado con teorías conspirativas y OVNIs (irónicamente es el primero en estar "casi en lo correcto"). Tiene un canal de YouTube sobre fenómenos paranormales. Ha evolucionado de YouTuber a investigador activo de anomalías electromagnéticas.
-- **Función narrativa:** Contraste cómico con Haruto. Sus locas teorías son tratadas como chiste hasta que resultan ser parcialmente verdaderas. Investiga las anomalías electromagnéticas del instituto con equipamiento propio.
+- **Personalidad:** Extrovertido, impulsivo, obsesionado con teorías conspirativas. Canal de YouTube (47 suscriptores). Ha evolucionado de YouTuber a investigador activo.
+- **Función narrativa:** Sus locas teorías resultan parcialmente verdaderas. Investiga anomalías con equipamiento propio.
 
 ### Directora Akemi Shirogane (白銀 朱美)
 - **Rol:** Antagonista ambigua.
-- **Personalidad:** Elegante, calculadora, con un sentido del humor seco. Siempre tiene una taza de té negro en la mano.
-- **Secreto:** Es una agente veterana de la Zona Gris. Sabe que Lyra es alienígena desde el primer día. Su misión es monitorizar la situación y, si es necesario, "contener" a Lyra.
-- **Arco narrativo:** De antagonista aparente a aliada reluctante cuando la amenaza real se manifiesta.
+- **Personalidad:** Elegante, calculadora, sentido del humor seco. Siempre con taza de té negro.
+- **Secreto:** Agente veterana de la Zona Gris. Sabe que Lyra es alienígena desde el primer día.
+- **Arco narrativo:** De antagonista aparente a aliada reluctante.
+
+### Subdirectora Nishimura
+- **Rol:** Autoridad escolar / Monitora de anomalías.
+- **Secreto:** Posee archivos clasificados sobre anomalías electromagnéticas desde hace 7 años. Acceso nivel 2. Está del lado de Watcher_0.
+- **Arco narrativo:** Rol y motivaciones aún desconocidos. Posible conexión con el Proyecto Fénix.
+
+### Madre de Haruto (Profesora Mizuki)
+- **Rol:** Integrada / Organizadora del homestay / Clave del misterio.
+- **Secreto:** Es una Velari que eligió vivir como humana. Encontró a Lyra hace 3 años. Tuvo contacto con una entidad no humana hace 12 años. El sótano del observatorio guarda secretos.
 
 ---
 
@@ -73,30 +84,37 @@ Haruto ←──── tensión romántica/cómica ────→ Lyra
 Kenji                                    Directora Shirogane
 (comic relief,                           (antagonista ambigua,
  detective amateur)                       agente Zona Gris)
+   
+   │                                          │
+   │ investiga anomalías                      │ monitorea desde hace 7 años
+   ▼                                          ▼
+Subdirectora Nishimura ←── del lado de ──→ Watcher_0 (IA del nodo)
+(archivos clasificados)                     (Target 001 + Target 002)
 ```
 
 ---
 
-## 📚 Arcos Narrativos Planificados
+## 📚 Arcos Narrativos
 
-### Arco 1: Primer Contacto (Cap. 1-10)
-- Lyra llega como "estudiante de intercambio"
-- Haruto es asignado como su guía escolar
-- Malentendidos culturales y momentos cómicos
-- Indicios de que Lyra no es lo que parece
-- El instituto sufre "fallos técnicos" misteriosos
+### Arco 1: Primer Contacto (Cap. 1-8) ✅ COMPLETADO
+- Lyra llega como estudiante de intercambio
+- Haruto descubre que es alienígena
+- Kenji descubre el secreto
+- Aparece Watcher_0
+- Lyra revela la frecuencia Schumann y la conexión con Haruto
 
-### Arco 2: El Secreto Revelado (Cap. 11-25)
-- Haruto descubre la verdadera identidad de Lyra
-- La Zona Gris entra en acción
-- Primer enfrentamiento con una facción alienígena enemiga
-- El nodo de tránsito bajo el instituto se activa parcialmente
+### Arco 2: El Secreto Revelado (Cap. 9-12) ✅ EN CURSO
+- La madre de Haruto es una Integrada
+- Haruto es Sujeto M-07 del Proyecto Fénix
+- Watcher_0 es la consciencia del nodo
+- Kenji se une al equipo
+- Deciden confrontar a la madre
 
-### Arco 3: Guerra en las Sombras (Cap. 26-40)
-- Facción alienígena enemiga (Draxari) infiltrada en la ciudad
-- Haruto, Lyra y Kenji forman un equipo improvisado
+### Arco 3: Guerra en las Sombras (Cap. 13+) ⏳ PLANIFICADO
+- Confrontación con la madre
+- Revelación del Proyecto Fénix
+- Facción alienígena enemiga (Draxari)
 - La directora Shirogane debe elegir bando
-- Revelación sobre la madre de Haruto
 
 ---
 

@@ -15,8 +15,8 @@
 
 El sistema no solo genera texto — **investiga intensivamente** para enriquecer la trama, diversificar giros argumentales y maximizar la calidad narrativa a través de un flujo asíncrono de dos velocidades:
 
-- 🔬 **Agente Investigador** — Se ejecuta cada 30 minutos, realizando brainstorming y buscando tropos literarios
-- ✍️ **Agente Escritor** — Se ejecuta cada 2 horas, compilando la investigación en un nuevo capítulo
+- 🔬 **Agente Investigador** — Se ejecuta cada 2 horas, realizando brainstorming y buscando tropos literarios
+- ✍️ **Agente Escritor** — Se ejecuta cada 4 horas, compilando la investigación en un nuevo capítulo
 
 ## 🏗️ Arquitectura
 
@@ -30,8 +30,8 @@ El sistema se divide en tres capas:
                         │
 ┌───────────────────────▼─────────────────────────────┐
 │          CAPA DE EJECUCIÓN (GitHub Actions)          │
-│   cron_researcher.yml (*/30 min)                    │
-│   cron_writer.yml     (cada 2 horas)                   │
+│   cron_researcher.yml (cada 2 horas)                  │
+│   cron_writer.yml     (cada 4 horas)                  │
 └───────────────────────┬─────────────────────────────┘
                         │
 ┌───────────────────────▼─────────────────────────────┐
@@ -45,8 +45,8 @@ El sistema se divide en tres capas:
 ```
 AI-Novel-Studio/
 ├── .github/workflows/
-│   ├── cron_researcher.yml     # Agente investigador (cada 30 min)
-│   └── cron_writer.yml         # Agente escritor (cada 2 horas)
+│   ├── cron_researcher.yml     # Agente investigador (cada 2 horas)
+│   └── cron_writer.yml         # Agente escritor (cada 4 horas)
 ├── src/
 │   ├── researcher.py           # Lógica del Agente Investigador
 │   ├── writer.py               # Lógica del Agente Escritor
@@ -54,6 +54,11 @@ AI-Novel-Studio/
 ├── data/
 │   ├── config.json             # Panel de control de parámetros
 │   ├── biblia.md               # Fichas de personajes, reglas, lore
+│   ├── canon.md                # Hechos inamovibles de la historia
+│   ├── personajes.json         # Memoria de largo plazo de personajes
+│   ├── cronología.json         # Memoria temporal de eventos
+│   ├── hilos_narrativos.json   # Subtramas activas
+│   ├── semillas.json           # Foreshadowing plantado y pendiente
 │   ├── resúmenes.md            # Resumen condensado de la historia
 │   └── research_log.txt        # Investigaciones acumuladas
 ├── chapters/                   # Directorio de salida de la novela
@@ -116,7 +121,7 @@ El archivo `data/config.json` permite controlar la dirección de la historia **s
 
 - Navega a la carpeta `chapters/` del repositorio
 - Los capítulos se publican en formato Markdown (`.md`)
-- cada 2 horas se genera un nuevo capítulo automáticamente
+- cada 4 horas se genera un nuevo capítulo automáticamente
 
 ## 📖 Documentación
 

@@ -1,6 +1,6 @@
 # AI_WORKFLOW.md — Pipeline de Desarrollo IA
 
-> **Última actualización:** 2026-04-06  
+> **Última actualización:** 2026-04-11  
 > Define cómo los modelos de IA colaboran en el ciclo de desarrollo del proyecto.
 
 ---

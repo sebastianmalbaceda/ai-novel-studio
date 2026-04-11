@@ -1,38 +1,44 @@
 {
   "misterio_lyra": {
     "descripcion": "La verdadera identidad y propósito de Lyra Vel'Kath en la Tierra.",
-    "progreso": "Lyra vive en homestay con Haruto. Ha revelado que necesita la frecuencia Schumann (7.83 Hz) para mantener su forma física. Eligió quedarse aunque su misión original era diferente.",
-    "tension": 8,
-    "proximo_paso": "Descubrir qué significa exactamente la elección de Lyra de quedarse."
+    "progreso": "Revelado completamente a Haruto y Kenji. Lyra es una observadora Velari enviada a verificar el nodo de tránsito. Eligió quedarse por decisión física y emocional.",
+    "tension": 7,
+    "proximo_paso": "Hablar con la madre de Haruto para entender el plan completo."
   },
   "emisiones_haruto": {
-    "descripcion": "Haruto emite 'algo' — una estructura en lugar de ruido blanco — que el cuerpo de Lyra necesita para funcionar.",
-    "progreso": "Revelado en cap 5. Lyra fue seleccionada para observarlo por esa razón. Alguien más también lo vigila por lo que emite.",
+    "descripcion": "Haruto emite una señal coherente y estable que el cuerpo de Lyra necesita para mantener su integridad estructural.",
+    "progreso": "Revelado. Haruto es 'Sujeto M-07' del 'Proyecto Fénix'. Su frecuencia se modula y adapta a Lyra. Alguien más lo observa por esta razón.",
     "tension": 9,
-    "proximo_paso": "¿Qué es exactamente lo que emite Haruto? ¿Está relacionado con la madre? ¿Por qué alguien más lo necesita?"
+    "proximo_paso": "¿Qué es exactamente el Proyecto Fénix? ¿Por qué Haruto fue clasificado desde niño?"
   },
   "watcher_0": {
-    "descripcion": "Una entidad desconocida que monitorea las mismas anomalías que Kenji y que parece saber más de lo que debería.",
-    "progreso": "Apareció en el Discord de Kenji. Lyra detectó que emite desde dentro del instituto. Parece estar guiando o acorralando a Lyra deliberadamente.",
-    "tension": 8,
-    "proximo_paso": "Identificar a Watcher_0. ¿Es la subdirectora Nishimura? ¿La Directora Shirogane? ¿Un agente de la Zona Gris?"
+    "descripcion": "Una consciencia artificial originada en el nodo Takahara que monitorea a Haruto y Lyra.",
+    "progreso": "Identificado como IA del nodo. Refiere a Haruto como Target 001 y a Lyra como Target 002. Protocolo de observación intensificado por 'ancla y peso en proximidad'.",
+    "tension": 9,
+    "proximo_paso": "¿Cuáles son las intenciones reales de Watcher_0? ¿Es hostil o protector?"
   },
   "nodo_transito": {
-    "descripcion": "El nodo de tránsito alienígena bajo el Instituto Takahara que Lyra debe verificar/reactivar.",
-    "progreso": "Las distorsiones lumínicas que fotografió Kenji coinciden con la ubicación del nodo. Lyra necesita investigar el nodo sin ser detectada.",
-    "tension": 7,
-    "proximo_paso": "Lyra 'investiga el perímetro'. ¿Encontrará el nodo? ¿Qué encontrará?"
+    "descripcion": "El nodo de tránsito alienígena bajo el Instituto Takahara, activo hace 47 años.",
+    "progreso": "Ubicado bajo el edificio A. Estructura geométrica artificial con firma de frecuencia similar a la de Lyra. Watcher_0 es su consciencia.",
+    "tension": 8,
+    "proximo_paso": "¿Qué función cumple el nodo? ¿Puede reactivarse completamente?"
   },
   "archivos_nishimura": {
-    "descripcion": "La subdirectora Nishimura posee archivos sobre anomalías electromagnéticas en el instituto desde hace 7 años.",
-    "progreso": "Kenji descubrió los archivos en la fotocopiadora. Datos de 7 años con firma de Nishimura nivel 2. Los documentos fueron dejados a propósito.",
-    "tension": 7,
-    "proximo_paso": "¿Los archivos fueron dejados para que Kenji los encontrara? ¿Qué sabe exactamente Nishimura?"
+    "descripcion": "La subdirectora Nishimura posee archivos clasificados sobre anomalías desde hace 7 años.",
+    "progreso": "Contienen fotos de Haruto a los 12 años (Sujeto M-07), de Lyra en 2019, y documentación de Watcher_0. Nishimura está del lado de Watcher_0.",
+    "tension": 8,
+    "proximo_paso": "¿Cuál es el rol exacto de Nishimura? ¿Es humana o algo más?"
+  },
+  "madre_de_haruto": {
+    "descripcion": "La madre de Haruto es una Integrada que eligió vivir como humana y organizó la llegada de Lyra.",
+    "progreso": "Encontró a Lyra hace 3 años. Tuvo contacto con una entidad no humana hace 12 años. El sótano del observatorio guarda secretos. Haruto y Lyra deciden confrontarla.",
+    "tension": 9,
+    "proximo_paso": "Confrontación con la madre. ¿Qué sabe sobre el Proyecto Fénix y Sujeto M-07?"
   },
   "complicidad_haruto": {
     "descripcion": "El dilema ético de Haruto entre proteger a Lyra y mantener su vida normal.",
-    "progreso": "Se ha convertido en cómplice activo de Lyra. Ha descubierto que su propia existencia es parte del misterio.",
-    "tension": 7,
-    "proximo_paso": "Haruto debe procesar que su cuerpo hace algo único. ¿Qué significa para su identidad?"
+    "progreso": "Ha aceptado ser aliado y cómplice de Lyra. Kenji también sabe todo. Los tres forman un equipo.",
+    "tension": 6,
+    "proximo_paso": "Haruto debe procesar que su existencia fue anticipada y monitoreada desde antes de nacer."
   }
 }

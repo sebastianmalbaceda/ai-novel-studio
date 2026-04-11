@@ -1,7 +1,7 @@
 ﻿# ARCHITECTURE.md — Arquitectura del Sistema A.I. Novel Studio
 
-> **Versión:** 1.0.0  
-> **Última actualización:** 2026-04-06
+> **Versión:** 1.1.0  
+> **Última actualización:** 2026-04-11
 
 ---
 
@@ -24,7 +24,7 @@ A.I. Novel Studio utiliza una arquitectura de tres capas sin servidor (serverles
 │                                                                   │
 │   ┌─────────────────────┐      ┌───────────────────────────┐     │
 │   │  cron_researcher    │      │  cron_writer              │     │
-│   │  (cada 30 min)      │      │  (cada 2 horas)            │     │
+│   │  (cada 2 horas)     │      │  (cada 4 horas)            │     │
 │   │                     │      │                           │     │
 │   │  → researcher.py    │      │  → writer.py              │     │
 │   │  → utils.py         │      │  → utils.py               │     │
@@ -34,11 +34,16 @@ A.I. Novel Studio utiliza una arquitectura de tres capas sin servidor (serverles
 ┌─────────────▼───────────────────────────────▼────────────────────┐
 │              CAPA DE ALMACENAMIENTO (Repositorio GitHub)          │
 │                                                                   │
-│   data/config.json     ← Panel de control                        │
-│   data/biblia.md       ← Reglas del mundo y personajes           │
-│   data/resúmenes.md    ← Historia condensada                     │
-│   data/research_log.txt← Buffer de investigación                 │
-│   chapters/cap_XXX.md  ← Salida: capítulos publicados           │
+│   data/config.json          ← Panel de control                        │
+│   data/biblia.md            ← Reglas del mundo y personajes           │
+│   data/canon.md             ← Hechos inamovibles de la historia       │
+│   data/personajes.json      ← Memoria de largo plazo de personajes    │
+│   data/cronología.json      ← Memoria temporal de eventos             │
+│   data/hilos_narrativos.json← Subtramas activas                       │
+│   data/semillas.json        ← Foreshadowing plantado y pendiente      │
+│   data/resúmenes.md         ← Historia condensada                     │
+│   data/research_log.txt     ← Buffer de investigación                 │
+│   chapters/cap_XXX.md       ← Salida: capítulos publicados            │
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -69,7 +74,7 @@ A.I. Novel Studio utiliza una arquitectura de tres capas sin servidor (serverles
 4. Llamar a la API de IA
 5. Append del resultado a `data/research_log.txt`
 
-**Trigger:** `cron_researcher.yml` cada 30 minutos.
+**Trigger:** `cron_researcher.yml` cada 2 horas.
 
 ### 2.3 `src/writer.py` — Agente Escritor
 
@@ -83,7 +88,7 @@ A.I. Novel Studio utiliza una arquitectura de tres capas sin servidor (serverles
 5. Actualizar `last_chapter_number` en config
 6. Vaciar `data/research_log.txt`
 
-**Trigger:** `cron_writer.yml` cada 2 horas.
+**Trigger:** `cron_writer.yml` cada 4 horas.
 
 ---
 
@@ -92,13 +97,13 @@ A.I. Novel Studio utiliza una arquitectura de tres capas sin servidor (serverles
 ```
 ┌──────────────┐    ┌────────────────┐    ┌───────────────────┐
 │ config.json  │───▶│ researcher.py  │───▶│ research_log.txt  │
-│ (parámetros) │    │ (cada 30 min)  │    │ (append mode)     │
+│ (parámetros) │    │ (cada 2 horas) │    │ (append mode)     │
 └──────────────┘    └────────────────┘    └────────┬──────────┘
                                                    │
 ┌──────────────┐    ┌────────────────┐             │
 │ biblia.md    │───▶│                │◄────────────┘
 │ resúmenes.md │───▶│  writer.py     │
-│ config.json  │───▶│  (cada 2 horas)   │
+│ config.json  │───▶│  (cada 4 horas)   │
 └──────────────┘    └───────┬────────┘
                             │
                     ┌───────▼────────┐    ┌──────────────────┐
@@ -143,9 +148,9 @@ cron_writer.yml     ──runs──▶ writer.py
 
 ### ADR-003: Dos Velocidades de Ejecución
 
-**Contexto:** Se quiere maximizar el uso de tokens de API sin sacrificar calidad.  
-**Decisión:** Investigador rápido (30 min) + Escritor pausado (2h).  
-**Consecuencias:** La investigación se acumula proporcionando contexto rico al escritor. El escritor tiene ~4 informes de investigación por ciclo.
+**Contexto:** Se quiere maximizar la calidad de la IA sin saturar su ventana de contexto ni exceder timeouts de GitHub Actions.  
+**Decisión:** Investigador cada 2 horas (2 iteraciones) + Escritor cada 4 horas.  
+**Consecuencias:** El investigador genera ideas focalizadas sin saturar contexto. El escritor tiene ~2 informes de investigación por ciclo, suficiente para contexto rico sin sobrecarga. Timeout de GitHub Actions aumentado a 120 min para el escritor.
 
 ### ADR-004: API Compatible con OpenAI
 
@@ -170,7 +175,8 @@ cron_writer.yml     ──runs──▶ writer.py
 
 ## 7. Limitaciones Conocidas
 
-1. **Concurrencia:** Si el investigador y escritor se ejecutan simultáneamente, puede haber conflictos de git. Mitigado por el scheduling (escritor al minuto 0, investigador en 0/30).
-2. **Contexto limitado:** El tamaño del mega-prompt está limitado por la ventana de contexto del modelo.
+1. **Concurrencia:** Si el investigador y escritor se ejecutan simultáneamente, puede haber conflictos de git. Mitigado con `git pull --rebase` antes del push en ambos workflows.
+2. **Contexto limitado:** El tamaño del mega-prompt está limitado por la ventana de contexto del modelo. Reducido `researcher_calls_per_run` a 2 para evitar saturación.
+3. **Timeout de GitHub Actions:** El escritor tiene timeout de 120 minutos para acomodar modelos lentos como MiniMax-M2.7.
 3. **Rate limiting:** APIs gratuitas pueden tener límites de solicitudes por minuto.
 4. **Drift narrativo:** Sin supervisión humana, la historia puede derivar temáticamente.

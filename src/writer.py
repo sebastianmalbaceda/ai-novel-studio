@@ -115,32 +115,69 @@ def update_memory_with_ai(chapter_content, chapter_num, config):
     try:
         response = call_ai_api(prompt, system_prompt, temperature=0.2)
 
-        summary = response.strip()
-        summary = re.sub(
-            r"<extra_thought>.*?</extra_thought>", "", summary, flags=re.DOTALL
-        )
-        summary = re.sub(r"<think>.*?</think>", "", summary, flags=re.DOTALL)
-        summary = re.sub(r"\(Pensamiento:.*?\)", "", summary, flags=re.DOTALL)
-        summary = re.sub(r"\[NOTAS?:.*?\]", "", summary, flags=re.DOTALL)
-        summary = re.sub(r"<\|.*?\|>", "", summary, flags=re.DOTALL)
-        summary = re.sub(r"\{.*?\}", "", summary, flags=re.DOTALL)
-        summary = re.sub(r"\*\*.*?\*\*", "", summary, flags=re.DOTALL)
-        summary = summary.strip()
-
-        if len(summary) < 30:
+        json_match = re.search(r"\{.*\}", response, re.DOTALL)
+        if not json_match:
             print(
-                f"  WARN: Resumen demasiado corto ({len(summary)} chars), descartado."
+                f"  WARN: La IA no devolvió JSON válido en el análisis del capítulo {chapter_num}."
             )
-            summary = f"(Resumen del capítulo {chapter_num} no disponible)"
+            return
 
-        return summary
+        data = json.loads(json_match.group())
 
+        # Actualizar personajes
+        if "personajes_actualizados" in data and data["personajes_actualizados"]:
+            personajes = load_personajes()
+            for char_name, char_data in data["personajes_actualizados"].items():
+                if char_name in personajes:
+                    personajes[char_name].update(char_data)
+                else:
+                    personajes[char_name] = char_data
+            save_personajes(personajes)
+            print(
+                f"  Personajes actualizados: {list(data['personajes_actualizados'].keys())}"
+            )
+
+        # Añadir evento de cronología
+        if "nuevo_evento_cronologia" in data and data["nuevo_evento_cronologia"]:
+            cronologia = load_cronologia()
+            cronologia[f"capitulo_{chapter_num}"] = data["nuevo_evento_cronologia"]
+            save_cronologia(cronologia)
+            print(f"  Cronología actualizada: capítulo {chapter_num}")
+
+        # Actualizar hilos narrativos
+        if "hilos_actualizados" in data and data["hilos_actualizados"]:
+            hilos = load_hilos()
+            hilos.update(data["hilos_actualizados"])
+            save_hilos(hilos)
+            print(f"  Hilos narrativos actualizados")
+
+        # Añadir nuevas semillas
+        if "semillas_nuevas" in data and data["semillas_nuevas"]:
+            semillas = load_semillas()
+            for i, semilla in enumerate(data["semillas_nuevas"], 1):
+                semillas[f"semilla_{chapter_num}_{i:02d}"] = semilla
+            save_semillas(semillas)
+            print(f"  Nuevas semillas añadidas: {len(data['semillas_nuevas'])}")
+
+        # Actualizar canon
+        if "hechos_canon_nuevos" in data and data["hechos_canon_nuevos"]:
+            canon = load_canon()
+            canon += f"\n\n## Hechos Establecidos (Capítulo {chapter_num})\n"
+            for hecho in data["hechos_canon_nuevos"]:
+                canon += f"- {hecho}\n"
+            with open("../data/canon.md", "w", encoding="utf-8") as f:
+                f.write(canon)
+            print(
+                f"  Canon actualizado: {len(data['hechos_canon_nuevos'])} hechos nuevos"
+            )
+
+    except json.JSONDecodeError as e:
+        print(f"  WARN: Error parseando JSON de la IA: {e}")
     except Exception as e:
-        print(f"  WARN: Error generando resumen: {e}")
-        return f"(Resumen del capítulo {chapter_num} no disponible)"
+        print(f"  WARN: Error actualizando memoria: {e}")
 
 
-def update_memory_with_ai(chapter_content, chapter_num, config):
+def validate_chapter_language(chapter_content, chapter_num, config):
     """Valida que el capítulo esté en español puro sin caracteres de otros idiomas."""
     # Detectar caracteres CJK (chino, japonés kanji), cirílico, etc.
     cjk_pattern = re.compile(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uff00-\uffef]")
@@ -149,17 +186,17 @@ def update_memory_with_ai(chapter_content, chapter_num, config):
     arabic_pattern = re.compile(r"[\u0600-\u06ff]")
 
     issues = []
-    if cjk_pattern.search(content):
-        matches = cjk_pattern.findall(content)
+    if cjk_pattern.search(chapter_content):
+        matches = cjk_pattern.findall(chapter_content)
         issues.append(f"Caracteres CJK detectados: {''.join(matches[:10])}")
-    if cyrillic_pattern.search(content):
-        matches = cyrillic_pattern.findall(content)
+    if cyrillic_pattern.search(chapter_content):
+        matches = cyrillic_pattern.findall(chapter_content)
         issues.append(f"Caracteres cirílicos detectados: {''.join(matches[:10])}")
-    if greek_pattern.search(content):
-        matches = greek_pattern.findall(content)
+    if greek_pattern.search(chapter_content):
+        matches = greek_pattern.findall(chapter_content)
         issues.append(f"Caracteres griegos detectados: {''.join(matches[:10])}")
-    if arabic_pattern.search(content):
-        matches = arabic_pattern.findall(content)
+    if arabic_pattern.search(chapter_content):
+        matches = arabic_pattern.findall(chapter_content)
         issues.append(f"Caracteres árabes detectados: {''.join(matches[:10])}")
 
     if issues:
@@ -232,7 +269,7 @@ def validate_chapter_completeness(content, chapter_num):
 def run_writing_agent():
     """
     Agente Escritor: compila toda la información y redacta un capítulo.
-    Se ejecuta cada 2 horas via GitHub Actions.
+    Se ejecuta cada 4 horas via GitHub Actions.
     Toma la biblia, resúmenes y notas de investigación para escribir.
 
     Funciona con cualquier modelo de IA configurado en data/config.json.
@@ -292,7 +329,7 @@ def run_writing_agent():
         "c) Evita títulos que empiecen con 'El Peso de', 'Límites de', 'La Frecuencia de' repetidamente. "
         "d) Buenos referentes de esta serie: 'La Chica del Cielo', 'Canibalismo Mediático', 'Cuarenta y Siete Suscriptores', 'Zona Muerta', 'Café a las 6 AM'. "
         "e) Sé creativo pero ancla el título en algo concreto del capítulo."
-        "5. El capítulo debe tener un cierre completo, nunca terminar a mitad de frase."
+        "6. El capítulo debe tener un cierre completo, nunca terminar a mitad de frase."
     )
 
     mega_prompt = f"""
@@ -395,7 +432,10 @@ def run_writing_agent():
 
             # --- ACTUALIZAR MEMORIA PROFUNDA (Personajes + Cronología + Canon) ---
             print("Actualizando memoria avanzada de la historia...")
-            update_memory_with_ai(chapter_content, chapter_num, config)
+            try:
+                update_memory_with_ai(chapter_content, chapter_num, config)
+            except Exception as e:
+                print(f"  WARN: Error en actualización de memoria: {e}")
 
             # Actualizar estado en config.json
             config["story_status"]["last_chapter_number"] = chapter_num

@@ -1,7 +1,7 @@
 ﻿# PLANNING.md — Tareas de Implementación
 
-> **Última actualización:** 2026-04-06  
-> **Sprint actual:** v1.0 — MVP
+> **Última actualización:** 2026-04-11  
+> **Sprint actual:** v1.1 — Producción (12 capítulos)
 
 ---
 
@@ -57,15 +57,15 @@
 
 ---
 
-## Próximas Tareas (v1.1)
+## Próximas Tareas (v1.2)
 
-- [ ] Implementar reintentos con backoff exponencial en `utils.py`
 - [ ] Añadir validación de `config.json` con schema
 - [ ] Crear tests unitarios para `utils.py`
 - [ ] Crear tests unitarios para `researcher.py`
 - [ ] Crear tests unitarios para `writer.py`
-- [ ] Implementar logging estructurado
-- [ ] Auto-generación de resúmenes post-escritura
+- [ ] Implementar logging estructurado con timestamps
+- [ ] Agente editor para revisión de calidad pre-publicación
+- [ ] Soporte para múltiples proveedores de IA simultáneos
 
 ---
 
@@ -78,5 +78,5 @@ Ninguno actualmente.
 ## Decisiones Pendientes
 
 1. ~~¿Usar Minimax o cambiar a modelo gratuito alternativo?~~ ✅ Resuelto: Sistema model-agnostic, soporta cualquier proveedor.
-2. ¿Implementar un agente editor en v1.1 o esperar a v1.5?
-3. ¿Frecuencia óptima del investigador: 15 min o 20 min?
+2. ~~¿Frecuencia óptima del investigador?~~ ✅ Resuelto: Cada 2 horas (2 iteraciones) para no saturar contexto.
+3. ¿Implementar un agente editor en v1.2 o esperar a v1.5?
