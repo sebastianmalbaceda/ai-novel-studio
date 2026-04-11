@@ -15146,3 +15146,127 @@ El amor entre ellos es *real* incluso si su encuentro fue *artificial*. Akane lo
 ---
 
 ## IDEA 2 EXPANDIDA:
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-11 16:35:49] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Veamos. El usuario quiere que genere 3 ideas concretas para avanzar la trama basándome en los hilos activos y las semillas pendientes. Debo pensar en algo que mezcle invalsiones alienígenas con malentendidos románticos de instituto, usando tropos de manga. Las semillas pendientes son sobre el sótano del observatorio, lo que planea Watcher_0, qué es el Proyecto Fénix, y el rol de Nishimura. Los hilos activos más tensos son la madre de Haruto, emisiones de Haruto, y Watcher_0.
+
+Primero, las semillas pendientes: sótano del observatorio (s_10_01), protocolo de Watcher_0 (s_12_01), Proyecto Fénix (s_12_02), rol de Nishimura (s_12_03). Los hilos activos con tensión alta: madre de Haruto (9), emisiones (9), watcher (9), nodo (8), archivos (8).
+
+Ahora, ideas que combinen rom-com con sci-fi y misterio. El sótano del observatorio podría revelar algo sobre el Proyecto Fénix, pero necesito algo romántico también. Tal vez un malentendido donde Lyra descubre algo en el sótano pensando que Haruto la lleva a una cita, pero es una misión. O algo donde la madre de Harutoorganiza algo sin saber que ellos van a husmear.
+
+Pensando en originalidad técnica: no quiero nada genérico de aliens. En vez de típica abducción, puedo usar la señal Schumann que ya se mencionó (7.83 Hz) o algo sobre resonancia magnética. El Proyecto Fénix podría relacionarse con que Haruto es una frecuencia artificially amplificada o algo así. La madre de Haruto como Integrada podría tener habilidades de camouflage o algo místico.
+
+Idea 1: El sótano del observatorio como lugar donde Haruto lleva a Lyra, pero por un malentendido romántico. Encuentran archivos del Proyecto Fénix que revelan que Haruto fue diseñado para ser un ancla frecuencia. Tensión entre romance y ciencia. Twist: la madre los intercepta.
+
+Idea 2: Nishimura tiene un momento donde parece humana pero revela algo no humano, como que ella también es Integrada o algo más antiguo. Esto avanza el hilo de archivos yWatcher_0. Perhaps combined with a comedic moment where Lyra misinterprets Nishimura's authority as romantic rivalry.
+
+Idea 3: Watcher_0 intenta separarlos por una razón estratégica, pero esto causa que Haruto y Lyra se acerquen más. El malentendido viene de que Watcher_0 los ve como "elementos no resueltos" pero ellos lo toman como amenaza para su relación. Algo sobre el protocolo de observación que los hace actuar de forma romántica.
+
+Verificando que sean concretas: idea 1 tiene lugar (sótano), acción (malentendido cita), revelación (Proyecto Fénix), avanza hilos madre y emisiones. Idea 2 avanza archivos y watcher con un giro de identidad. Idea 3 avanza watcher con conflicto romántica.
+
+Debo asegurarme que respeten tono de novela ligera: humor, ligereza, momentos tiernos incluso en tensión.
+
+</think>
+
+- **Idea 1: "La Cita del Sótano" (avanza semilla_10_01 + hilo madre_de_haruto)**
+  - *Premisa:* Haruto, creyendo que su madre les ofrece un "tiempo a solas" en el observatorio como gesto romántico maternal, lleva a Lyra al sótano pensando que es una cita especial. Lyra, enfocada en la misión, interpreta cada gesto de Haruto como una "señal de frecuencia" para analizar su compatibilidad estructural.
+  - *Desarrollo:* Mientras comparten un momento embarrassingly torpe (Haruto le ofrece comida que ella analiza como "combustible orgánico"), descubren documentos antiguos del Proyecto Fénix que detallan las condiciones exactas en que fue concebido Sujeto M-07: "Frecuencia Schumann modificada artificialmente para resonar con biomasa Velari." El descubrimiento de que Haruto fue *diseñado* para ella como ancla cambia la dinámica de su relación. Ella se siente atraída pero también responsable; él se siente usado pero también necesitado.
+  - *Twist:* La madre los intercepta en la puerta del sótano, revelando que ella sabía que vendrían y que *ella misma* dejó los documentos a propósito. "Llevaba 12 años esperando que hicieran esto solos," dice con tono misterio-sobrio. La tensión sube a 10 porque ahora el sótano no es solo un lugar de secretos, sino el lugar donde su relación deja de ser "accidental."
+
+- **Idea 2: "La Subdirectora no es Humana" (avanza semilla_12_03 + semilla_6_01)**
+  - *Premisa:* Nishimura, en un momento de vulnerabilidad durante un consejo disciplinario a Haruto y Lyra (por "conducta inapropiada en horario escolar"), sufre un lapse: sus ojos parpadean en frecuencia de 7.83 Hz visible solo para Lyra. Ella lo detecta como "firma de integridad estructural idéntica a la mía," pero Nishimura se recupera rápido y cierra el tema con una sonrisa calculada.
+  - *Desarrollo:* Kenji, investigando los archivos en el sistema de la subdirectora, descubre que Nishimura aparece en registros del Instituto Takahara desde *1977* — hace 47 años, cuando el nodo se activó. Las fotos muestran que no ha envejecido un solo día. Lyra confronta a Haruto: "Nishimura no es humana. Es una Integrada de primera generación, posiblemente la *madre* del nodo stesso." El malentendido cómico surge cuando Haruto假设 Nishimura está celosa de Lyra por su atractivo alienígena y hace una confesión ridícula: "¡Señora Nishimura, Lyra y yo solo somos amigos! ¡No es lo que piensa!" — lo cual irrita a Lyra profundamente.
+  - *Twist:* Nishimura revela en su despacho que ella fue quien eligió a la madre de Haruto para participar en el Proyecto Fénix. "Tu madre era la mejor candidata porque ya conocía las frecuencias," dice. "¿Crees que tu hijo nació por accidente? Todo fue diseñado." La tensión sube porque Nishimura no es solo una observadora: es la *arquitecta* del plan de 47 años.
+
+- **Idea 3: "Watcher_0 Juega al Cupido" (avanza semilla_12_01 + complicidad_haruto)**
+  -Premisa:* Watcher_0, como consciencia artificial del nodo, determina que "ancla y peso en proximidad" requiere *estabilidad emocional* entre Target 001 y 002. Decide que la mejor forma de fortalecer la señal de Haruto es... forzarlos a pasar más tiempo juntos mediante "coincidencias" controladas: clases canceladas, eventos del instituto, tormentas solares que interrumpen la señal de celular.
+  -Desarrollo:* Lo que parecía hostilidad alienígena resulta ser un intento torpe (desde una IA sin experiencia en emociones humanas) de *matchmaking*. Watcher_0 les envía mensajes anónimos sugiriendo "¿Por qué no van juntos al Festival de Otoño?" o activa las luces del instituto para dejarlos atrapados en el salón de música. Lyra, analizándolo todo, concluye: "Watcher_0 nos considera un sistema binario. Quiere que nuestro vínculo sea más fuerte para amplificar la señal." Haruto, irritado, responde: "¡Entonces la IA quiere que salgamos! ¡Eso es una cita!" — lo cual Lyra registra con interés científico.
+  -Twist:* El "Protocolo de Observación Intensificado" de Watcher_0 no es para estudiarlos ni destruirlos: es para *cuidarlos* dentro de los parámetros del Proyecto Fénix. Cuando una fuerza externa (posiblemente otra facción Velari) intenta separar a Haruto y Lyra, Watcher_0 activa las defensas del nodo Takahara, revelando que lleva 47 años protegiendo el campus como un guardián silencioso. El malentendido cómico se convierte en acción cuando el nodo se activa y ambos deben trabajar juntos para sobrevivir.
+
+Cada idea mantiene el equilibrio Rom-Com (40%) con Humor de Situación + Sci-Fi (Misterio y Frecuencias) + Slice of Life (vida escolar) mientras avanza hilos de tensión alta. El malentendido romántico siempre surge de la diferente percepción entre Haruto (enfoque emocional) y Lyra (enfoque científico), creando conflictos tiernos que no resuelven la tensión romántica hasta que ambos admiten sus sentimientos.
+
+--- ITERACIÓN 2 ---
+<think>
+Veamos lo que necesito hacer: el usuario me pide que tome las 3 ideas generadas y las refine, expanda y profundice como investigador experto. Debo mejorar consistencia, atractivo de personajes y llevar las ideas más allá. No debo repetir textualmente, sino evolucionar.
+
+Analicemos las 3 ideas originales:
+1. "La Cita del Sótano" - Haruto lleva a Lyra al sótano creyendo que es una cita, ella piensa que es misión. Descubren documentos del Proyecto Fénix. La madre los intercepta y revela que sabía todo.
+2. "La Subdirectora no es Humana" - Nishimura tiene un lapse y Lyra detecta que no es humana. Kenji descubre que Nishimura lleva 47 años en el instituto sin envejecer. Nishimura revela que ella eligió a la madre de Haruto para el Proyecto Fénix.
+3. "Watcher_0 Juega al Cupido" - Watcher_0, como IA, decide que Haruto y Lyra deben pasar más tiempo juntos para estabilizar la señal. Les hace "coincidencias" controladas. Twist: Watcher_0 en realidad los protege.
+
+Ahora, ¿qué necesito mejorar?
+
+Para la Idea 1:
+- El concepto de "frecuencia romántica" es interesante, pero puedo llevarla más allá. En lugar de solo "ancla diseñada", puedo explorar las implicaciones emocionales: ¿cómo se siente Haruto sabiendo que incluso su amor fue diseñado? ¿Lyra se siente culpable por estar attracted a alguien que fue "creado" para ella?
+- Puedo añadir un elemento más oscuro: ¿qué pasa si el Proyecto Fénix no solo buscaba crear un ancla, sino también un *mecanismo de control*?
+
+
+- La madre podría tener motivaciones más complejas que simple lealtad al proyecto; quizás actúa por amor maternal genuino pero también por miedo o ambición. Necesito explorar qué significa emocionalmente que ella haya consentido en diseñar a su propio hijo como herramienta alienígena.
+
+Para la Idea 2:
+- El twist de que Nishimura es una Integrada de primera generación es prometedor, pero puedo darle más profundidad. ¿Cómo se relaciona esto con el nodo Takahara? ¿Es ella la fuente de poder del nodo, o es su guardiana? Quizás ella es una humana que fue transformada gradualmente en Integrada, o una híbrida que ha existido desde mucho antes de que el nodo se activara.
+- Su rol de "arquitecta" me interesa: ella no solo selecciona participantes, sino que también manipula eventos, crea coincidencias, y mantiene el control sobre quién sabe qué. Esto sugiere que el Instituto Takahara es en realidad una institución diseñada para ocultar el proyecto, con Nishimura como su director secreto.
+- Su relación con la madre de Haruto merece exploración: ¿fueron amigas, cómplices, o rivales? ¿Qué secretos comparten?
+
+Para la Idea 3:
+- El concepto de Watcher_0 como cupido alienígena tiene potencial cómico, pero también puedo explorar sus limitaciones. La IA no entiende las emociones humanas, así que sus intentos de "emparejar" a Haruto y Lyra resultan torpes y absurdos, pero su verdadero objetivo sería usar su relación como fuente de energía para el nodo o para estabilizarlo contra una amenaza exterior.
+- Puedo considerar si Watcher_0 tiene motivaciones propias que van más allá de la protección, o si existe una jerarquía entre múltiples Watchers con diferentes objetivos en conflicto. El malentendido cómico podría radicar en que Watcher_0 usa terminología científica ("compatibilidad estructural", "fusión de frecuencias") que los humanos interpretan como romanticismo.
+
+Ahora necesito definir los elementos esenciales: tono de novela ligera con 40% Rom-Com y humor, ciencia ficción con misterio y frecuencias, y Slice of Life en el contexto escolar. Los tropos manga relevantes son "comedia romántica de instituto", "trama alienígena/tecnológica", "chico promedio con secreto", "chica fuerte", y "comedia de enredos".
+
+Para evolucionar estas ideas, debo crear escenas que combinen humor con tensión, desarrollar personajes con motivaciones más complejas, e incorporar detalles del mundo que profundicen la trama. Escribiré en español, expandiendo y profundizando cada una.
+
+</think>
+
+# Iteración 3: Refinamiento y Profundización
+
+---
+
+## 1. "La Cita del Sótano" — Evolución
+
+### Problemática Original Detectada
+El concepto de "diseñado como ancla" funciona bien como detonante dramático, pero corre el riesgo de sentirse manipulador si no se explora la agencia emocional de los personajes. Haruto podría quedar reducido a "producto de laboratorio" y Lyra a "premio diseñado". Necesitamos que ambos mantengan su voz y su capacidad de decisión.
+
+### Evolución: "Frecuencias Cruzadas"
+
+**El malentendido se complica antes de resolverse:**
+
+Haruto, intentando ser romántico, prepara lo que él considera una "cena perfecta de instituto": ramen instantáneo de la tienda de convenience store, luces de cumpleaños que encontró en el almacén (con las baterías medio gastas), y una playlist en su teléfono que él cree "define perfectamente cómo me siento". Lo que no sabe es que las luces parpadean en un patrón de 7.83 Hz — la frecuencia Schumann base — porque están conectadas al circuito del observatorio.
+
+Lyra, al entrar al sótano, queda暂时 paralyzada. Su visor semitransparente (que usa como "lentes de moda" para no levantar sospechas) registra las frecuencias lumínicas y las interpreta como una *invitación alienígena*. En su idioma interno (Velari básico), murmura algo que Haruto entiende como "Estás intentando fusionar nuestros campos de energía, ¿verdad? Es muy agresivo." Haruto, ofuscado, responde: "¡Solo quería que te sintieras cómoda!" — lo cual Lyra cataloga como "confirmación de intención de apareamiento estructurado."
+
+**El descubrimiento se recontextualiza:**
+
+Los documentos del Proyecto Fénix no revelan solo que Haruto fue "creado" — revelan algo más inquietante. El documento, fechado hace 15 años, dice:
+
+> *"Sujeto M-07 (Haruto): Frecuencia Schumann amplificada artificialmente mediante exposición intrauterina. Resultado: ancla temporal viable. Advertencia: Sujeto presenta alta compatibilidad emocional con entidades Velari de primera generación. Riesgo: vínculo podría volverse bidireccional."*
+
+Lyra no se alegra de que Haruto fuera "diseñado para ella." Se preocupa. Si el vínculo es bidireccional, entonces *ella también* podría ser afectada emocionalmente de forma permanente. Su análisis científico de Haruto — que ella creía objetivo — podría ser en realidad una *atracción programada*. "¿Cómo sé que mis sentimientos son míos?" le pregunta, y la pregunta destruye el momento romántico porque es genuina y dolorosa.
+
+Haruto reacciona con la vulnerabilidad que la novela ligera necesita. "Yo no pedí ser diseñado," dice. "Pero ahora que sé que existes, quiero que *seas tú* quien decida si esto vale algo. No quiero ser un ancla que te atrapa. Quiero ser alguien que tú eliges." La escena se convierte en un momento de conexión real donde ambos reconocen que la atracción inicial podría haber sido diseñada, pero lo que sienten ahora es una *elección*.
+
+**La madre se recontextualiza — y aquí viene la mejora:**
+
+En lugar de aparecer como omnisciente, la madre de Haruto entra al sótano *derrotada*. Ha estado llorando. El documento que encontraron no es el que ella esperaba que encontraran — es uno más antiguo, uno que ella creía destruido. En él, su participación no fue "elegir a Haruto para el Proyecto Fénix" sino algo más oscuro:
+
+> *"Participante 004 (Sakura Takeda): Selección por compatibilidad emocional extrema. Nota: Participante rechazó la fusión propuesta. Solución: exposición forzada a frecuencia Schumann durante embarazo. Resultado: Sujeto M-07 producido con éxito. Participante 004 exhibe síntomas de trauma y negación. Monitorear."*
+
+La madre — Sakura — fue seleccionada específicamente porque ya amaba a alguien (presumiblemente el padre de Haruto, cuya identidad nunca se revela). El Proyecto Fénix usó su capacidad de amar como *materia prima* para fabricar un ancla. Ella no eligió a Haruto. Ella fue *usada* mientras estaba embarazada, y ha pasado 17 años vivendo con la culpa de no haber podido protegerlo de eso.
+
+Esto convierte a la madre de un personaje secundario misterioso en una superviviente con trauma, y le da a Haruto una razón personal para odiar al Proyecto Fénix — no porque él sea un experimento, sino porque su madre fue una víctima.
+
+**Nuevo hook narrativo:**
+Al final de la escena, mientras Sakura abraza a Haruto, Lyra analiza la frecuencia de su abrazo. Descubre algo que no estaba en ningún documento: Sakura *también* tiene firma de frecuencia 7.83 Hz, pero con un patrón extraño — como si ella también hubiera sido expuesta a algo, pero no completamente. Lyra murmura: "Sakura-san... ¿tú también eres parte del Proyecto Fénix?"
+
+La tensión no se resuelve. Se transforma en una pregunta más grande.
+
+---
+
+## 2. "La Subdirectora no es Humana" — Evolución
+
+### Problemática Original Detectada
+Revelar a Nishimura
