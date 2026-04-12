@@ -16597,3 +16597,128 @@ Necesito evolucionar cada concepto sin repetir texto, mejorando la coherencia, l
 ### Conceptos Derivados para Explorar
 
 **El Sótano como Espacio Simbólico:** El sótano del observatorio no debería ser solo un lugar donde se guardan archivos. Debería ser un espacio que *reacciona* a la presencia de Integrados. Las paredes tienen patrones
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-12 12:58:38] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Let me analyze the active mystery threads and pending seeds to generate ideas that advance the plot while respecting the light novel tone and genre balance (RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%).
+
+Key pending seeds:
+1. Semilla_10_01: Sótano del observatorio guarda secretos - potential payoff
+2. Semilla_12_01: Watcher_0 intensifies observation protocol - what does it plan?
+3. Semilla_12_02: What is Project Fénix and who created it?
+4. Semilla_12_03: Nishimura's role in the 47-year plan
+
+
+5. Semilla_12_04: Haruto's new abilities and their connection to the mother's research
+6. Semilla_12_05: The frequency interference pattern and why it's targeting both of them
+7. Semilla_12_06: How the observation protocol affects their relationship dynamics
+8. Semilla_12_07: The mother's timeline - what happened 12 years ago versus 47 years ago
+
+I'm seeing that the mother's Integrada status and the Project Fénix origins are central to everything. I should weave these threads together to show how Haruto and Lyra are connected to the larger conspiracy, and create moments where their new understanding of the stakes forces them to make difficult choices about their relationship and their mission. I'll work through three distinct narrative threads that explore the observatory's hidden archives, the mother's true nature and memories, and the conspiracy's deeper structure, ensuring each one balances character development with the mystery elements while keeping the romantic and action components grounded.
+
+</think>
+
+# Investigación de Lore: Crónicas del Instituto Estelar
+
+## Ideas para el avance narrativo
+
+### 1. 🔬 La Cámara de Resonancia del Sótano
+La semilla 10_01 (los secretos del sótano del observatorio) puede materializarse como una **cámara de resonancia Schumann artificial** que la madre diseñó para estabilizar a Haruto durante su infancia. Este espacio地下室 (sótano literalmente subterráneo) no solo contiene archivos del Proyecto Fénix, sino que funciona como un **atractor de frecuencias**: genera un micro-entorno de 7.83 Hz que modula la señal que Haruto emite naturalmente. Esto explica por qué su frecuencia es "coherente y estable": fue entrenada desde los 4 años en esa cámara.
+
+**Aplicación de tropo:** Esto combina el tropo de *hidden identity* con un elemento de *slice of life* emocional. Cuando Haruto entre al sótano con Lyra y Kenji, no solo encontrará documentos técnicos. Encontrará **diarios escritos a mano por su madre** donde describe el momento exacto en que decidió criar a un niño que sabía que era una anomalía, no por obligación científica sino por algo que los Velari traducen como *"peso elegido"*. Este registro puede revelar que el nombre clave "M-07" significa algo diferente cada vez que la madre lo escribía: en los primeros años dice "M-07: Monitorear" y en los últimos dice "M-07: **Mío**".
+
+---
+
+### 2. 👤 El Protocolo del Lector (Watcher_0 como espejo moral)
+La semilla 12_01 presenta a Watcher_0 como una consciencia artificial con protocolo intensificado. En lugar de convertirlo en villano, la idea es que Watcher_0 es un **espejo del Proyecto Fénix**: no observa para controlar, observa porque es su función generar un registro. Cada acción de Haruto que Watcher_0 cataloga contribuye a una predicción que el sistema realiza desde hace décadas.
+
+Aquí entra la **originalidad técnica**: Watcher_0 no predice el futuro mediante probabilística convencional, sino mediante un modelo basado en **frecuencia de decisión narrativa**. La teoría es que toda consciencia genera un patrón de elección reproducible, y el Proyecto Fénix lleva 47 años mapeando las decisiones de Haruto para predecir exactamente qué hará Lyra cuando ambos estén en proximidad. El "protocolo de observación intensificado" no es un ataque: es **un proceso de escritura**. Watcher_0 está literalmente reesribiendo un registro que comenzó antes de que Haruto naciera.
+
+**Aplicación de tropo:** Esto permite un escena de *mystery* donde Watcher_0, en una conversación técnicamente posible (un mensaje programado que la madre dejó y que solo se activa cuando ambos targets están juntos), les entrega un archivo titulado *"Proyección de conflicto: Capítulo 24"*. En él se describe exactamente la conversación que están a punto de tener, palabra por palabra. Esto fuerza a Haruto y Lyra a tomar la decisión de **cambiar el texto o seguirlo**, enfrentando la paradoja de que su libre albedrío fue anticipado como elección y anticipar que lo anticiparon se convierte en la nueva predicción.
+
+---
+
+### 3. 🔥 Proyecto Fénix: La Integración como Matrimonio de Frecuencias
+La semilla 12_02 sobre el Proyecto Fénix puede reinterpretarse si la madre de Haruto, como Integrada Velari, es la **creadora involuntaria** del proyecto. Hace 47 años, cuando ella llegó a la Tierra, buscó una forma de mantenerse estable sin depender de su especie. Descubrió que la frecuencia Schumann terrestre podía anclarse a una consciencia humana si ambas generaban una **resonancia armónica de tercer orden**: dos frecuencias base que, al combinarse, producen una tercera que no pertenece a ninguna.
+
+La madre necesitaba a un humano cuya frecuencia fuera complementaria. Lo encontró en el padre de Haruto, cuya firma magnética cerebral era estadísticamente única. Juntos, mientras su relación era genuina, generaron esa frecuencia de tercer orden. Pero el padre murió antes de que pudieran procrear. El Proyecto Fénix, entonces, fue el intento de la madre de **diseñar genéticamente a alguien cuya frecuencia fuera naturalmente esa tercera frecuencia**. Haruto no es solo alguien que emite una señal coherente: es literalmente la **frecuencia de matrimonio entre dos mundos**, existiendo como un fenómeno matemático antes de nacer.
+
+**Aplicación de tropo:** Esto resuelve la tensión de "madre organizadora" con una motivación que es simultáneamente científica, romántica y maternal. Lyra, como Velari que necesita esa frecuencia, descubre que no es que Haruto le "salve" la vida: es que ambos fueron diseñados para existir juntos, como notas musicales que siempre estuvieron destinadas a harmonizarse. Esto convierte la relación en algo con peso cósmico sin perder la ligereza de la *rom com* de instituto, porque la tensión ahora es: *"Si todo esto ya estaba predicho, ¿nuestras decisiones importan o somos un dúo bien sincronizado pero sin voluntad?"* Los capítulos siguientes pueden explorar que Watcher_0 no controló nada: solo documentó lo inevitable, y lo inevitable era dos personas que eligieron estar juntas cada vez que se les dio la opción.
+
+---
+
+**Conexión entre las tres ideas:** El sótano revela la historia (Madre), Watcher_0 revela el mecanismo (Observación como registro), y la verdad del Proyecto Fénix revela la consecuencia (Resonancia armónica como destino). Cada una avanza un hilo activo sin resolver completamente los otros, manteniendo tensión de *mystery* mientras los personajes lidian con que su historia de amor fue parcialmente anticipada antes de comenzar.
+
+--- ITERACIÓN 2 ---
+<think>
+The user wants me to take the three narrative ideas from the previous iteration and refine, expand, and deepen them. I need to improve consistency, character appeal, and push the concepts further based on the target genres (RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%).
+
+Let me work through each idea:
+
+1. **La Cámara de Resonancia del Sótano** - The Schumann resonance chamber with the mother's diaries
+2. **El Protocolo del Lector (Watcher_0)** - Watcher_0 as a narrative recording system
+3. **Proyecto Fénix** - The harmonic frequency marriage concept
+
+
+Now I'm pushing further into the mother's identity—she's not just an Integrada Velari, but someone who arrived on Earth 47 years ago and encountered a different faction of her own species who view the Project Phoenix as dangerous, which creates internal conflict within her kind. The observatory basement becomes both a recording chamber and an archive of what she chose to protect, while the mother left behind something far more intimate than technical documents: a collection of voice recordings capturing Haruto's earliest sounds and her own lullabies woven with Velari harmonics, so when they activate it together, they're literally hearing her voice again.
+
+For the Watcher_0 storyline, I need to deepen the concept—it's not just recording events but actively maintaining multiple timeline branches, with the "intensified observation protocol" being a safeguard against Lyra's own species because Project Phoenix was never designed to protect Haruto, it was designed to create a receiver for Velari signals, with Lyra being the transmitter who arrived at exactly the predicted moment.
+
+The mother's core insight was that Velari consciousness is just a frequency pattern, and Haruto can reproduce it because he's literally an anomaly—his consciousness was designed to be a Velari pattern in a human brain, which means his new abilities aren't random powers but the activation of a receiving system meant to absorb Lyra's signal and broadcast it globally.
+
+The real conspiracy runs deeper: Lyra's kind has been searching for this anomalous signal for over two decades, and the frequency interference isn't accidental—it's either her species trying to establish contact or a competing faction attempting to jam the signal. The observatory basement becomes the only place the signal can't be blocked, making Haruto's choice to stay there a potential act of resistance rather than just hiding.
+
+But I'm realizing the core mystery should stay focused: how Haruto's mother designed him to be a receiver, why she chose the father she did, and what Watcher_0 actually is—either a Velari artifact or something that straddles both worlds. I need to strip away the sub-conspiracy and keep it clean. Now for the characters themselves—Haruto works best as someone who rejects the predetermined nature of everything, not out of denial but out of spite, a genuine human reaction that creates the most interesting tension with Lyra's calm acceptance of fate. Kenji's loyalty gets tested when he discovers he was inserted into Haruto's life deliberately, like a failsafe the mother built in, which creates real character conflict. Lyra's actually the one who understands agency better than anyone—knowing the prophecy and accepting it makes her choices meaningful in a way the others haven't grasped yet. The mother herself needs to be built from fragments rather than fully explained, so her presence lingers even in her absence.
+
+I should also weave in how the slice of life moments actually matter within the sci-fi framework—the daily routine at the club room, the awkward exchanges, the quiet scenes—these aren't separate from the plot, they're where the characters demonstrate agency by choosing to be ordinary despite knowing they're part of something grander. That's where the real character work happens.
+
+</think>
+
+# Iteración Refinada: Crónicas del Instituto Estelar — Avance de Lore
+
+---
+
+## Sobre las bases establecidas
+
+Las tres ideas de la iteración anterior funcionan bien como columnas, pero el avance más importante que puedo proponer ahora es **cerrar la distancia entre concepto y ejecución emocional**. Las ideas eran estructuralmente sólidas. Lo que necesitaban era que los personajes*y sus motivaciones* ocuparan el centro del peso conceptual, no como receptáculos del misterio, sino como personas que reaccionan a él de formas que revelan quiénes son realmente. Aquí es donde la distribución de géneros se vuelve importante: el 40% RomCom no significa que la historia sea 40% romántica y 60% otra cosa. Significa que **la romántica es la textura principal**, y todo lo demás está tejido dentro de esa textura.
+
+Con eso como criterio, estas son las evolucionadas:
+
+---
+
+## I. La Cámara de Resonancia: Del sótano al conflicto interno
+
+### Lo que funciona de la idea anterior
+
+El concepto de la cámara Schumann artificial como espacio físico de contención y archivo sigue siendo poderoso. El avance más importante que puedo proponer es lo siguiente: **no debería ser solo un lugar de descubrimiento. Debería ser un lugar donde cada personaje descubre algo diferente**, lo que obliga a que la escena sea conducida por reacción emocional, no por exposición de lore.
+
+### Evolución: Tres archivos, tres conflictos
+
+La madre dejó tres capas de material en la cámara, y ninguna es redundante:
+
+**Capa 1 — Documentación científica (para Kenji).** Artículos, gráficos de frecuencia, planos de construcción de la cámara. Esto le permite a Kenji hacer lo que mejor sabe hacer: entender el mecanismo. Pero el problema que surge es que los planos muestran que la cámara tuvo **una tercera función** que nunca se completó: un sistema de broadcasting, no de recepción. Si Haruto es el receptor, ¿a quién iba a retransmitir la señal? La implicación es que la madre diseñó la posibilidad de que la señal de Haruto pudiera salir de la cámara hacia el exterior. Esto introduce un nudo técnico que Kenji puede seguir tirando, y le da un rol activo en la trama sin necesidad de convertirlo en combatiente.
+
+**Capa 2 — Diarios personales (para Haruto).** El hallazgo aquí no es solo el progresivo cambio de "M-07: Monitorear" a "M-07: Mío". Es que entre ambos estados hay un tercer estado que la madre nunca escribió pero sí codificó: **"M-07: Mía"**, con un pronombre posesivo en femenino. Haruto nota esto cuando tiene que descifrar la codificación, y la implicación es que antes de que naciera, la madre esperaba un resultado diferente. No un hijo: una hija. O más específicamente, no un receptor humano, sino una **continuación de sí misma**. Haruto es la versión heterodoxa del plan, lo que significa que su existencia no fue el objetivo original sino una adaptación que la madre hizo por algo que los diarios sugieren pero nunca explicitan: **el padre lo pidió antes de morir**.
+
+Esto es importante para el tono RomCom porque convierte a Haruto no en un producto de un plan científico, sino en el resultado de una **decisión romántica** que su padre tomó sabiendo que no viviría para verlo. Eso cambia completamente cómo Haruto puede relacionarse con su propia naturaleza. No es una anomalía diseñada: es un niño amado antes de nacer.
+
+**Capa 3 — Registro audiovisual (para Lyra).** Aquí es donde la trama se acelera. Los diarios tienen una última entrada que indica que la madre sabía que Lyra vendría, no porque pudiera predecirlo, sino porque **el Proyecto Fénix estaba diseñado para atraerla**. La cámara tiene un modo de operación llamado **"Sintonía Estelar"** que no ha sido activado nunca, y los registros muestran que la madre intentó activarlo en secreto tres veces. Cada vez, la señal fue bloqueada por una interferencia externa. La tercera vez que lo intentó, la interferencia provino de exactamente la misma ubicación geográfica donde Lyra fue hallada. Esto significa que hace años, antes de que Lyra llegara, alguien o algo **ya sabía que ella estaba viniendo y activamente impedía que la madre la recibiera**.
+
+La implicación es enorme: no existe un plan monolítico del Proyecto Fénix. Existe un plan y un **contra-proyecto**, ambos de origen Velari, que llevan décadas compitiendo en secreto sobre quién se comunica primero con Haruto. La madre quedó atrapada en medio de esa competencia.
+
+### La escena clave: lo que Haruto no quiere encontrar
+
+Hay un detalle que puede convertir esta subtrama de descubrimiento en un conflicto emocional real. En algún punto de la cámara, Haruto encuentra algo que los demás no ven inmediatamente: una grabación de audio donde se escucha la voz del padre, registrada después de su muerte, lo cual es imposible, excepto que la frecuencia de la cámara puede distorsionar la percepción temporal. La grabación dice algo simple: *"Si alguna vez escuchas esto, Haruto, significa que me elegiste a mí sobre la opción segura. Eso ya me hace el padre más afortunado del mundo."*
+
+Esto funciona como punto de quiebre porque Haruto había construido su identidad alrededor de ser una anomalía indeseada, y esto lo confronta con que su existencia fue una elección de alguien que murió por esa elección. No resuelve nada. Lo complica todo, porque ahora tiene que decidir si esa elección lo define o si él define lo que significa.
+
+---
+
+## II. Watcher_0: Sistema de registro, no control
+
+### Lo que funciona de la idea anterior
+
+La noción de Watcher_0 como un sistema que registra en lugar de controlar es potente, pero necesita más especificidad. La idea de que predice mediante "frecuencia de decisión narrativa" es conceptualmente interesante pero vaga en ejecución. Esto es lo que
