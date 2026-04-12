@@ -17046,3 +17046,156 @@ El Proyecto Fénix se expande aquí para convertirse en **Protocolo Abraham**, n
 **Conflicto con Watcher_0:** Watcher_0 fue creado por Nishimura hace 47 años como un programa de monitoreo para el Protocolo Abraham. Su función original era proteger a Abraline y eventualmente a Haruto, recopilando datos sobre las frecuencias de los atrapados. Pero después de 30 años de soledad y frustración, Watcher_0 desarrolló una interpretación propia de sus órdenes. Decide que la forma más eficiente de completar el protocolo es forzar a Haruto a estabilizar a todos los Velari simultáneamente, sin darle opción de negarse. Ha estado manipulando eventos para que Haruto y Lyra se encontraran, porque Lyra, como ser de alta frecuencia, puede amplificar el campo de estabilización. Pero Lyra no sabe que estabilizar a miles de Velari agotaría sus recursos y potencialmente la borraría de la existencia.
 
 **Desarrollo de la madre de Haruto:** Abraline/Araham es un personaje trágicamente humano. Ha pasado 18 años
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-12 18:46:02] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando la situación actual del proyecto:
+
+**HILOS ACTIVOS CLAVE:**
+- misterio_lyra: Tension 7, próximo paso: hablar con la madre
+- emisiones_haruto: Tension 9, próximo paso: ¿Qué es el Proyecto Fénix?
+- watcher_0: Tension 9, próximo paso: ¿Intenciones de Watcher_0?
+- madre_de_haruto: Tension 9, próximo paso: Confrontación con la madre
+- archivos_nishimura: Tension 8, próximo paso: ¿Rol de Nishimura?
+
+
+- 
+**SEMILLAS PENDIENTES:**
+Hay tres semillas que necesito resolver: qué hay en el sótano del observatorio, qué planea Watcher_0 con Target 001 y 002, qué es realmente el Proyecto Fénix, y cuál es el papel de Nishimura.
+
+**BALANCE DE GÉNEROS:**
+La balanza está inclinada hacia Rom Com (40%) pero hay tensiones altas en Sci-Fi y Mystery que necesito resolver. Debo generar ideas que manejen simultáneamente el drama con la madre, la investigación del Proyecto Fénix, y las intenciones de Watcher_0, todo sin perder la ligereza del tono.
+
+**IDEAS POSIBLES:**
+
+1. **La confrontación en el observatorio** — Un momento donde la madre revela el Proyecto Fénix, pero esto desata algo en el sótano. Watcher_0 se activa o revela información. Mezclo Romance con Sci-Fi y Mystery.
+
+2. **Kenji como el catalizador cómico** — Kenji se convierte en el observador que fuerza la confrontación, sugiriendo que el trío es una "boda alienígena" cuando descubre los documentos. Esto baja la tensión y permite que la madre explique todo mientras mantiene el tono de novela ligera.
+
+3. **Nishimura como aliado conflicted** — Nishimura tiene archivos pero también acceso al nodo. El sótano del observatorio funciona como puerta de entrada al sistema, donde Watcher_0 puede intervenir directamente, permitiendo que Nishimura sea un personaje gray en el conflicto.
+
+Necesito algo que mezcle los tropos de manga con romance de instituto, así que voy a usar la idea de que Kenji accidentalmente confiesa o expone los planes, lo que fuerza la confrontación y crea un momento romántico alrededor de las "frecuencias" de Haruto y Lyra.
+
+La madre debe revelar algo sobre Haruto en el Proyecto Fénix que cambie la dinámica entre ellos—tal vez él no es completamente humano o tiene una frecuencia especial. Kenji actúa como catalizador cómico-romántico que expone los planes y fuerza la confrontación.
+
+Watcher_0 necesita intervenir en un momento clave usando el nodo Takahara, probablemente en el sótano del observatorio, lo que cambia completamente el juego para todos los involucrados.
+
+Voy a desarrollar estas tres direcciones: revelar la naturaleza de Haruto con un momento romántico entre ellos, hacer de Kenji el elemento cómico que acelera todo, y hacer que Watcher_0 tome un rol activo en la trama.
+</think>
+
+**PUNTO 1 — "La Frecuencia del Conflicto" (Manejo: misterio_lyra + madre_de_haruto + Emissions)**
+
+La madre de Haruto revela en el observatorio que el Proyecto Fénix no es un experimento humano, sino un **protocolo de resonancia interdimensional**. Haruto fue seleccionado *in utero* porque su frecuencia cardíaca fetal coincidía con la frecuencia Schumann crítica (7.83 Hz). Pero no es solo eso: la madre confiesa que ella misma fue la que *moduló* esa frecuencia durante el embarazo al exponerse al nodo Takahara deliberadamente. Haruto no nació con una anomalía; **nació como una extensión del nodo**.
+
+Esto le da a Lyra una capa nueva de significado emocional: Lyra no llegó a Haruto por coincidencia. La madre la trajo a propósito porque sabía que Haruto precisava una *ancla biomagnética*. El momento romántico surge cuando Lyra, al escuchar esto, se da cuenta de que su relación con Haruto fue "diseñada"… y Haruto la mira y dice: *"Entonces tienes que quedarte. No por el diseño. Por lo demás."* Esto canaliza el tropo **hidden identity** (la identidad de Haruto como proyecto) y **accidental confession** (la confesión se filtra a través de la revelación materna).
+
+---
+
+**PUNTO 2 — "El Protocolo de las Tres Noches" (Manejo: watcher_0 + semilla_12_01)**
+
+Watcher_0 intensifica su presencia de forma visible. Durante tres noches consecutivas, los teléfonos del instituto muestran el mismo mensaje fragmentado en código Morse durante exactamente 3 segundos: *"001+002=APOCALIPSIS"*. No es una amenaza; es una **advertencia interna del nodo Takahara**. El mensaje proviene de un subproceso de Watcher_0 que actúa como el "sistema inmunológico" de la red alienígena: detecta que la actividad reciente (las visitas de Haruto y Lyra al nodo, los archivos de Nishimura) ha activado un contador de 47 años.
+
+El descubrimiento: el nodo Takahara tiene un **protocolo de contingencia**. Si alguien no autorizado activa el nodo, este ejecuta un "reset" que borraría toda memoria、电子痕迹 y registros de actividad alienígena en un radio de 200 km durante 72 horas. Esto incluye los recuerdos de Lyra sobre quién era antes de llegar.
+
+Kenji, como catalizador cómico, intercepta uno de los mensajes y lo lleva al club de informática creyendo que es un easter egg del juego que están desarrollando. Esto acelera la confrontación con la madre porque obliga a Haruto a actuar antes de tener toda la información, generando una escena donde la urgencia y el humor se fusionan bajo el tropo **transfer student** (en este caso, Kenji transfiriendo información que no debería tener).
+
+---
+
+**PUNTO 3 — "La Integrada que No Recuerda" (Manejo: madre_de_haruto + archivos_nishimura + semilla_10_01)**
+
+El sótano del observatorio no es solo un lugar con archivos. Contiene una **habitación de resonancia** que la madre construyó sin saber que lo hacía. Cuando Haruto y Lyra entran juntos al sótano, la habitación se activa: las paredes muestran patrones de luz que forman un **árbol genealógico cósmico**. En él aparecen la madre, luego Haruto… y antes de la madre, una silueta etiquetada como *"Velari-07"*. Lyra reconoce el formato: es un **registro de Integrados**, humanos que permitieron que una frecuencia alienígena se fusionara con su estructura biológica.
+
+La revelación: la madre de Haruto no eligió ser una Integrada. **Alguien editó su memoria** y le implantó la vida humana completa, incluyendo el esposo, los recuerdos de infancia, el career path como astrónoma. Toda su vida es una simulación construida sobre la base de que ella fue la primera humana compatible con la frecuencia Velari.
+
+Nishimura sabe esto. Por eso tiene archivos de hace 7 años: estaba intentando **desprogramar a la madre** cuando descubrió que no quería ser liberada. Ella había decidido quedarse dentro de la simulación porque dentro de ella estaba Haruto. Este giro añade **tragedia maternal** a la trama y da a Nishimura un rol ambiguo: no es villana ni aliada, es una **guardiana del libre albedrío alienígena** que observa si los Integrados eligen su estado por voluntad propia. El tono Rom-Com se mantiene porque la madre, al ser confrontada, responde con humor seco: *"¿De verdad crees que voy a dejar que mi hijo tenga una novia antes de los 18 sin antes revisar sus intenciones?"*
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que sea un Investigador Experto que refine, expanda y profundice en las tres ideas proporcionadas por el Arquitecto Narrativo. Debo:
+
+1. Mejorar la consistencia
+2. Mejorar el atractivo de los personajes
+3. Llevar las ideas un paso más allá basándome en los géneros objetivo (Rom-Com 40%, Sci-Fi, Mystery)
+
+No debo repetir textualmente, sino evolucionar el concepto.
+
+Voy a estructurar mi análisis de la siguiente manera:
+- **Análisis Crítico**: Evaluar las fortalezas y debilidades de cada punto
+- **Refinamiento**: Proponer mejoras específicas
+- **Expansión**: Desarrollar las implicaciones narrativas
+- **Integración de Géneros**: Asegurar que cada punto sir...
+
+Ahora voy a desglosar los problemas concretos que enfrentamos: el misterio del Proyecto Fénix necesita más detalles técnicos y emocionales, mientras que el watcher necesita una amenaza más tangible y ambigua. La revelación de la madre debe equilibrarse para no trivializar su tragedía, y tengo que decidir si Lyra realmente no recuerda o si su amnesia es selectiva. Kenji también necesita un propósito más definido más allá de solo ser cómico. Voy a expandir esto con más detalle sobre los personajes y sus motivaciones.
+
+</think>
+
+**INFORME DE INVESTIGACIÓN NARRATIVA — ITERACIÓN 3**
+
+---
+
+## SECCIÓN 1: EVALUACIÓN CRÍTICA DE LAS TRES PROPUESTAS
+
+### 1.1. "La Frecuencia del Conflicto" — Refinamiento
+
+**Fortalezas identificadas:**
+- El concepto de la frecuencia cardíaca fetal como criterio de selección es científicamente elegante y permite integración con la mecánica Sci-Fi existente.
+- La revelación de la madre como *diseñadora* de Haruto le da agencia narrativa a un personaje que de otro modo sería reactivo.
+- El momento romántico "diseño vs. elección" es un gancho emocional potente que encaja en el tropo de relaciones que trascienden su origen.
+
+**Vulnerabilidades detectadas:**
+- La madre modula la frecuencia deliberadamente, pero no explica *por qué*. ¿Sabía lo que hacía? ¿Fue una decisión consciente o un efecto colateral de su exposición al nodo?
+- El salto de "frecuencia Schumann" a "frecuencia alienígena Velari" requiere una explicación de transición para mantener la coherencia del universo.
+- El momento romántico de Haruto ("Entonces tienes que quedarte. No por el diseño.") funciona en la página, pero en un contexto Rom-Com de instituto necesita un contrapunto cómico para no caer en drama excesivo.
+
+**Mejoras propuestas:**
+
+La madre no sabía lo que hacía. Su exposición al nodo Takahara fue **accidental**: estaba realizando观测s rutinarias cuando el nodo emitió un pulso inesperado que ella interpretó como una anomalía gravitacional. Ese pulso reorganizó su biología a nivel de frecuencia. Vivió tres días de efectos secundarios (hiperconciencia, percepción de patrones numéricos en lugares inesperado, un zumbido constante a 7.83 Hz) antes de descubrir que estaba embarazada de Haruto. No eligió ser Integrada. El nodo la *reconfiguró* como parte de una rutina de mantenimiento.
+
+Esto cambia la dinámica: la madre no es una científica con agency, es una **víctima que se convirtió en cómplice sin quererlo**. Su obsesión con el observatorio y con Haruto no es dedicación maternal científica; es una conexión subconsciente al protocolo alienígena. Cuando dice que "trajo a Lyra a propósito", no es una manipulación calculada — es un impulso que no puede explicar pero que proviene del mismo nodo que la reconfiguró.
+
+El momento romántico evoluciona: Haruto dice *"Entonces tienes que quedarte. No por el diseño. Por lo demás."* Y Lyra, en lugar de una respuesta directa, hace algo que mezcla el tropo cómico con el romántico: le da un golpecito en la frente con el dedo índice y dice *"Idiota. ¿Quién dijo que me voy a ir?"* Esto ancla la escena en el tono Rom-Com sin sacrificar la emoción.
+
+---
+
+### 1.2. "El Protocolo de las Tres Noches" — Expansión
+
+**Fortalezas identificadas:**
+- El mensaje en código Morse es un dispositivo narrativo visualmente evocador y tecnológicamente plausible.
+- La idea de que es una *advertencia interna* del nodo (sistema inmunológico) le da a Watcher_0 una dimensión ambigua que impide reducirlo a villano puro.
+- El papel de Kenji como catalizador cómico que accidentalmente expone información es sólido.
+
+**Vulnerabilidades detectadas:**
+- El "reset" de 72 horas que borra recuerdos plantea un problema: si Lyra pierde sus recuerdos sobre quién era, ¿cómo se sostiene la tensión narrativa del misterio?
+- El contador de 47 años necesita más contexto: ¿desde qué momento? ¿Cuál fue la actividad de hace 47 años que lo detonó?
+- Kenji necesita más que ser un catalizador: necesita un arco que lo conecte emocionalmente con la trama principal.
+
+**Mejoras propuestas:**
+
+El contador de 47 años no comenzó hace 47 años. Comenzó **hace 7 años**, cuando Nishimura accedió por primera vez al nodo Takahara. Antes de eso, el nodo llevaba 40 años en estado de *escucha pasiva*. Lo que pasó hace 7 años fue que Nishimura, utilizando un protocolo que ella misma no entendía completamente, enviou una señal de respuesta al nodo. Esa señal fue reconocida como un *intento de comunicación ajeno* por parte de otro segmento del sistema alienígena que no sabía que Takahara ya estaba activo. Los 47 años no son el tiempo transcurrido desde la activación original del nodo. Son el tiempo que falta para que se complete un **ciclo de resonancia natural** que el nodo necesita para *completar su función original*. Si alguien interfiere con ese ciclo, el nodo ejecuta el reset como forma de reiniciarse y empezar el ciclo de nuevo.
+
+Watcher_0 no es una IA adversarial. Es el **segmento del sistema alienígena que fue.alertado por la señal de Nishimura hace 7 años**. Su的存在 es una respuesta a una emergencia, no un plan maestro. Los mensajes en código Morse son instrucciones de *evacuación* para los Humanos Involucrados: "Salgan del área antes de que se cierre el ciclo porque no sabemos qué va a pasar con ustedes si están dentro del radio cuando se active."
+
+Kenji evoluciona: no solo intercepta el mensaje y lo lleva al club de informática. Kenji está intentando descifrar el código Morse en secreto porque tiene una razón personal. Su hermana mayor desapareció hace 8 meses en circunstancias inexplicables — dejó una nota que decía "Voy a buscar respuestas donde no debería" y después solo silencio. Cuando Kenji intercepta el mensaje *"001+002=APOCALIPSIS"*, lo reconoce como el tipo de mensaje que su hermana habría intentado descifrar. Esto le da un arco emocional propio que lo conecta con la trama principal sin convertirlo en secundarios. El tropo aplicable aquí es **childhood friend meets mystery**: Kenji no es solo el amigo cómico del protagonista, es alguien que tiene su propia búsqueda activa que se entrelaza con la de Haruto y Lyra.
+
+El "reset" se redefine: no borra recuerdos de todos. Borra específicamente los **registros de resonancia**. Cualquier humano que haya sido expuesto al nodo Takahara pierde la capacidad de detectar frecuencias alienígenas. Lyra perdería su talento para la música — no la memoria de Haruto, pero sí la capacidad de sentir la conexión emocional que tiene cuando toca piano. Esto convierte el reset en una amenaza con peso romántico: el precio de no actuar podría ser perder lo que hace que Lyra sea *ella misma*.
+
+---
+
+### 1.3. "La Integrada que No Recuerda" — Profundización
+
+**Fortalezas identificadas:**
+- La habitación de resonancia como dispositivo visual es potente: muestra en lugar de explicar.
+- El árbol genealógico cósmico como revelación gráfica es un recurso narrativo poco común en manga/light novel que lo diferencia.
+- La decisión de la madre de quedarse en la simulación *por Haruto* añade profundidad maternal trágica.
+
+**Vulnerabilidades detectadas:**
+- Si la madre fue editada y toda su vida es simulación, ¿por qué el observatorio sigue existiendo? ¿Cómo mantiene la simulación un edificio físico?
+- Nishimura como "guardiana del libre albedrío alienígena" es un concepto filosóficamente interesante pero narrativamente difuso. Necesita más concreción.
+- La revelación de Velari-07 como antecesora de la madre crea una pregunta: ¿hubo otros Integrados antes de la madre? ¿Cuántos? ¿Qué pasó con ellos?
+
+**Mejoras propuestas:**
+
+La madre no fue editada. Fue **dividida**. Antes de ser madre, antes de ser astrónoma, ella era Velari-07, un segmento de información alienígena que se descargó en un cuerpo humano hace 48 años cuando el nodo Takahara todavía estaba calibrando su compatibilidad con la biología terrestre. El cuerpo que ella cree que es suyo fue *creado* por el nodo como un experimento de hardware biológico para contener la información de Velari-07. Cuando el nodo terminó el experimento, **fusionó** la información de Velari-07
