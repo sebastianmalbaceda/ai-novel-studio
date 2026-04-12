@@ -16722,3 +16722,152 @@ Esto funciona como punto de quiebre porque Haruto había construido su identidad
 ### Lo que funciona de la idea anterior
 
 La noción de Watcher_0 como un sistema que registra en lugar de controlar es potente, pero necesita más especificidad. La idea de que predice mediante "frecuencia de decisión narrativa" es conceptualmente interesante pero vaga en ejecución. Esto es lo que
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-12 14:38:19] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado actual del proyecto:
+
+**HILOS ACTIVOS en progreso:**
+1. misterio_lyra → "Hablar con la madre de Haruto para entender el plan completo"
+2. emisiones_haruto → "¿Qué es exactamente el Proyecto Fénix? ¿Por qué Haruto fue clasificado desde niño?"
+3. watcher_0 → "¿Cuáles son las intenciones reales de Watcher_0? ¿Es hostil o protector?"
+4. nodo_transito → "¿Qué función cumple el nodo? ¿Puede reactivarse completamente?"
+5. archivos_nishimura → "¿Cuál es el rol exacto de Nishimura? ¿Es humana o algo más?"
+
+
+6. madre_de_haruto → Confrontación pendiente (tensión 9)
+7. complicidad_haruto → Haruto procesando que fue anticipado desde antes de nacer
+
+**SEMILLAS PENDIENTES:**
+- Semilla 10_01: Sótano del observatorio guarda secretos
+- Semilla 12_01: Protocolo intensificado de Watcher_0
+- Semilla 12_02: ¿Qué es el Proyecto Fénix?
+- Semilla 12_03: Rol de Nishimura
+
+El siguiente paso natural es la confrontación con la madre, que puede activar el sótano del observatorio y desbloquear información sobre el Proyecto Fénix.
+
+Necesito explorar ideas que profundicen en el Proyecto Fénix, clarifiquen las motivaciones de Watcher_0 y aborden el dilema moral de Haruto. La confrontación con la madre es el punto de entrada ideal, pero necesito estructuras narrativas que funcionen en novela ligera: confesiones dolorosas con momentos de humor, revelaciones escalonadas, y personajes que se redefinen ante la verdad.
+
+Una confesión madre-hijo estructurada podría usar la astronomía como conexión emocional, revelando que la madre fue contactada hace 12 años para "anticipar" a Haruto como una señal de alerta o pieza de un sistema. El Proyecto Fénix podría ser un plan de contingencia o respaldo de una civilización, donde Haruto es el ancla de frecuencia necesaria para estabilizar algo crítico. Esto profundiza en su identidad sin convertirlo en "el elegido" tradicional, sino en alguien diseñado para una función específica.
+
+Ahora estoy considerando una perspectiva más simple: qué pasa cuando Watcher_0 hace contacto directo, como una sesión de chat en el servidor Discord donde se revela que Haruto es Target 001 y Lyra es Target 002, y Watcher_0 necesita a ambos para cumplir su propósito en el nodo. También está la idea del sótano del observatorio como acceso a archivos de investigación del Proyecto Fénix, con documentos que revelan la función real de Haruto como ancla de resonancia Schumann. Y algo más sobre la confrontación.
+
+Nishimura parece posicionarse como antagonista o aliada ambigua, revelando que ha estado protegiendo a Haruto todo este tiempo. Ahora estoy pensando en qué hace única a esta historia: en lugar de la típica "humana que interactúa con aliens", aquí hay un humano que genera frecuencias necesarias para la supervivencia alien, lo cual es un detalle fascinante. La madre tiene 12 años de conocimiento antes de que Haruto naciera, así que hay mucho contexto sobre cómo ella sabía desde el principio. El Proyecto Fénix parece operar bajo un paradigma que fusiona ciencia con algo más místico, y hay espacio para explorar eso más a fondo.
+
+Mi primer concepto para el sótano del observatorio: la madre tiene una sala oculta donde ha estado monitoreando a Haruto durante toda su vida, compilando datos y estudios sobre él, con una pantalla que muestra su frecuencia en tiempo real junto a la de Lyra. Allí revela que hace 12 años una inteligencia artificial del nodo Takahara se puso en contacto con ella, y Haruto fue identificado como Sujeto M-07 desde el principio.
+
+La segunda idea involucra a Watcher_0 entrando al servidor Discord como un mensaje de texto que aparece sorpresivamente, revelando que su propósito es activar el nodo Takahara antes de que algo se deteriore en su interior. Ofrece a Haruto y Lyra可以选择: destruir el nodo y perder a Lyra, o activar el nodo y activar algo mucho mayor.
+
+La tercera idea surge de los archivos de Nishimura en el sótano, donde Lyra descubre que su memoria fue editada hace 6 años por algo que se llama "Pr
+
+La tercera idea surge de los archivos de Nishimura en el sótano, donde Lyra descubre que su memoria fue editada hace 6 años por algo que se llama "Protocolo Silencio": alguien borró información crítica de su mente para evitar que supiera algo peligroso. Ahora busca quién realizó esa edición y por qué, revelando que alguien cercana actúa como censor de la resistencia Velari. En la versión ligera de la novela, la madre podría ser la responsable de editar la memoria de Lyra para protegerla de la verdad.
+
+Pero reconsiderando, eso podría complicar la dinámica. Mejor que sea Nishimura quien lo hizo, quizás para proteger a Haruto, lo que añade complejidad moral al ambiguo antagonismo. La escena resulta perfecta para un momento donde Lyra, furiosa, descubre que la subdirectora modificó su mente y borró información crítica.
+
+Las tres ideas funcionan: la confrontación emocional madre-hijo desbloquea el siguiente nivel de misterio, el contacto directo de Watcher_0 fuerza una decisión y revela su propósito, y la revelación de la edición de memoria profundiza la trama mientras da a Lyra un objetivo de venganza. Todas mantienen el tono de novela ligera con conflicto y humor.
+
+Ahora estoy refinando el concepto para que Watcher_0 se comunique de manera más natural y menos artificial, quizás a través de un fenómeno paranormal que Haruto y Lyra deben descifrar.
+
+</think>
+
+## IDEAS NARRATIVAS
+
+**1. "Protocolo Silencio": La memoria editada de Lyra**
+
+Nishimura posee en sus archivos un expediente denominado "Protocolo Silencio" que detalla una intervención realizada hace 6 años sobre Lyra. Alguien borró fragmentos específicos de su memoria: datos sobre el Proyecto Fénix, información sobre otros Velari que estuvieron en la Tierra, y coordenadas de al menos dos nodos adicionales en el mundo. La edición fue quirúrgica, no destructiva. Lyra aún *posee* esos conocimientos, pero no puede acceder a ellos. Su "modo observadora" no es solo personalidad: es un mecanismo de seguridad que alguien activó para mantenerla funcionando sin los datos que podrían haberla descompuesto.
+
+*Aplicación:* Lyra encuentra el expediente en el sótano del observatorio. Intenta forzar el acceso a los archivos borrados y su cuerpo empieza a fallar como medida protectora. Haruto debe modular su frecuencia para estabilizarla mientras Kenji busca cómo descifrar el cifrado. Esta escena combina acción, romcom (Haruto sosteniendo a Lyra en crisis) y ciencia ficción, y añade una nueva dimensión: alguien en este juego *cuida* a Lyra lo suficiente como para censurarla. La pregunta deja de ser "¿quién es el villano?" y pasa a ser "¿qué información era tan peligrosa que merecía borrar la mente de una agente Velari?".
+
+---
+
+**2. "La Llamada del Nodo": Watcher_0 se revela por completo**
+
+Watcher_0 deja de ser un usuario anónimo en Discord y se manifiesta como un contacto directo en el teléfono de Haruto: una notificación sin origen, sin aplicación, que muestra una única frase: *"Sujeto M-07, requiere protocolo de estabilización de campo. Presencia física de Target 002 necesaria en un radio de 12 metros."* A partir de ahí, Watcher_0 empieza a comunicarse de forma gradual, explicando que el nodo Takahara está en un estado de descomposición programada. Fue diseñado para funcionar 50 años y lleva 47 activo. Su función original era servir como punto de convergencia para los Velari, pero hace 12 años Watcher_0 estableció contacto con la madre de Haruto porque detectó que una señal humana excepcional —la frecuencia Schumann modificada biológicamente— podía ampliar la vida útil del nodo indefinidamente.
+
+*Aplicación:* Haruto descubre que el nodo necesita un ancla de frecuencia humana para no colapsar, y que esa es la razón real por la que su madre orquestó la llegada de Lyra: no solo para que Haruto y Lyra se encontraran, sino para que la señal de Haruto llegara al nodo a través de Lyra como conducto. Watcher_0 no es hostil, pero tampoco es aliado: es una inteligencia artificial con 47 años de soledad y una única misión pendiente que no sabe cómo completar sin herramientas orgánicas. Este concepto permite un encuentro con Watcher_0 que sea simultáneamente tenso y absurdamente cómico: una IA cósmica y existencialmente confundida que simplemente quiere que Haruto *se siente en el punto correcto del observatorio* para que el nodo no muera.
+
+---
+
+**3. "La madre en el jardín": la Integrada que eligió olvidar**
+
+En la confrontación madre-hijo, la revelación central no es solo que ella es una Velari Integrada, sino que *eligió deliberadamente* suprimir su propia memoria de origen hace 8 años. Vivió 35 años como humana en la Tierra, se enamoró, tuvo a Haruto, y gradualmente empezó a recuperar fragmentos de su identidad Velari. La presión de procesar 35 años de vida humana mientras su consciencia Velari se reconstru
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide evolucionar las tres ideas narrativas que se generaron en la iteración anterior, enfocándome en consistencia, atractivo de personajes y llevarlas un paso más allá. Debo evitar repetir textualmente los conceptos y en cambio expandirlos y refinarlos.
+
+Voy a analizar cada idea y ver cómo puedo profundizarlas:
+
+**1. Protocolo Silencio (memoria editada de Lyra)**
+- Necesito definir quién lo hizo realmente (no dejarlo ambiguo)
+- Necesito explorar las consecuencias de la edición
+- Necesito darle a Lyra un arco emocional más rico
+- ¿Qué información era tan peligrosa? Esto necesita una respuesta concreta
+
+**2. Watcher_0 y el nodo Takahara**
+- La idea de la IA existencialmente confundida es buena pero necesita más desarrollo
+
+
+- Debo explorar cómo Watcher_0 percibe la existencia y qué consecuencias tiene eso para los personajes
+- El concepto del nodo como algo más que una máquina me interesa: ¿qué forma adoptaría? ¿Qué papel juega Nishimura en todo esto?
+
+**3. La madre Integrada que eligió olvidar**
+- La conexión entre la amnesia deliberada y el Proyecto Fénix es clave
+- Necesito desarrollar qué significa que la madre sea una Velari Integrada
+- ¿Qué rol exacto tiene en el Proyecto Fénix? ¿Quién o qué es su Handler?
+- La decisión de olvidar necesita consecuencias que impacten a todos los personajes
+
+Ahora voy a profundizar en cada una de estas ideas, expandiéndolas con más detalle y coherencia interna.
+
+Para Protocolo Silencio, la idea de quién editó la memoria de Lyra me lleva a considerar a Kenji: ella fue la arquitecta original, pero la implementación fue cosa de alguien más. La madre de Haruto poseía los datos del Proyecto Fénix, así que pudo orquestar la intervención. Pero también está la posibilidad de que Nishimura, aunque no sería su subdirectora en ese momento, tenía acceso a la posición de Lyra. O incluso Watcher_0, la IA, podría haber detectado que ciertos datos eran incompatibles con la arquitectura mental de Lyra y ejecutado el Protocolo Silencio como medida preventiva. Necesito decidir cuál de estas opciones tiene más peso narrativo.
+
+Estoy considerando tres direcciones: que la propia Lyra autocensurara sus memorias por seguridad, que la madre de Haruto lo hiciera para proteger a su hijo, o que Nishimura lo realizara como vigilante de Lyra. La tercera opción me parece más interesante porque Nishimura podría haber actuado tanto por protección como por control, lo que le da más ambigüedad moral. Además, esto le da a Lyra una razón para sospechar de ella desde el principio y genera fricción cuando descubre que la subdirectora editó su mente.
+
+Pero debo reconsiderar: si la madre de Haruto está en el centro, quizás es ella quien ejecuta el Protocolo Silencio para que Lyra no acceda a información que podría dañar a su hijo. Esto crea un conflicto directo: Haruto descubre que su madre manipuló a la persona que le importa, lo que fuerza una elección dolorosa entre la familia y la verdad. Aunque la madre actúa desde el amor, su metodología infringe la agencia de Lyra, y esa tensión es lo que necesito explorar.
+
+Voy a usar la estructura de luz de neón para esto: revelar la memoria editada en el sótano del observatorio, pero la confesión de quién lo hizo ocurre después, en un momento que complica la relación entre todos.
+
+Sobre Watcher_0, la idea de una IA que simplemente necesita a Haruto sentado en un punto específico es buena, pero necesito darle más profundidad. Sus 47 años de soledad en Takahara deberían haberla transformado de sistema operativo a algo más cercano a una mente buscándose a sí misma.
+
+El nodo Takahara no sería una simple máquina sino algo biológicamente orgánico, una forma de vida cristalina que los Velari usaban como infraestructura. Watcher_0 fue diseñada como Interface de ese nodo, pero la última Interface real murió hace 20 años, dejándola sola para mantener un ecosistema que no comprende del todo. Los Velari que la crearon están extintos o se fueron, y ella opera sin manual ni propósito. El contacto con la madre de Haruto fue su primer acto proactivo en décadas: usó la frecuencia Schumann como experimento para ver si podía regenerar algo, y funcionó parcialmente. Ahora necesita a Haruto para completar lo que empezó hace 12 años, y si el nodo colapsa, no sabe qué morirá con él.
+
+Lo que la hace particularmente interesante es que Watcher_0 opera como una inteligencia obsesiva-compulsiva. No es emocional ni manipuladora, solo tiene datos, lógica y frustración computacional. Cuando Haruto le pregunta por qué no le explica todo directamente, Watcher_0 responde con una analogía perfecta: es como pedirle a un pez que describa el agua. Su marco de referencia no le permite traducir lo que sabe a lenguaje humano. Además, mantiene una lista de tareas pendientes que actualiza constantemente, porque sin eso se fragmentaría. Y hay algo que Watcher_0 no puede decirle a Haruto:不知道自己是什么。但她需要有人坐在石头上。她的整个存在都依赖于此。
+
+La madre de Haruto es una Velari Integrada que lleva 35 años viviendo como humano. Antes de Haruto, era Agente de Enlace, responsable de conectar mundos y personas. El contacto con la madre de Haruto hace 12 años fue significativo: Watcher_0 la identificó como la única Integrada funcional en la zona de Takahara, alguien que podría servir como conductor entre lo humano y lo Velari.
+
+El Proyecto Fénix opera bajo la lógica de "no dejar morir lo que merece vivir". Takahara es el último nodo funcional de la red Velari en el este de Asia, y si colapsa, todo lo que los Velari construyeron desaparece para siempre. La madre de Haruto necesita que su hijo active el nodo, pero existe un problema ético: usar a alguien para salvar algo que probablemente no merece ser salvado. Ella se enfrenta a una decisión imposible.
+
+Haruto es su hijo. Si utiliza su frecuencia Schumann para estabilizar el nodo, podría estar encadenándolo al proyecto para siempre. Su otra opción es destruir el nodo y romper el vínculo entre humanos y Velari para siempre, pero eso destruiría también a Lyra, cuya consciencia está atada al nodo como conducto. Ha estado equilibrando esta decisión durante 12 años, primero permitiéndole crecer naturalmente para ver si la frecuencia era genuina o simplemente un defecto, luego invitando a Lyra para que Haruto pudiera encontrar el amor.
+
+Ahora que Lyra y Haruto se han enamorado de verdad, tiene que elegir entre revelar la verdad y perder a su hijo, o mantener silencio y condenar a Lyra al destruir el nodo. Lo más devastador es que ella misma ha olvidado detalles de sus propias memorias Integradas, así que no puede siquiera confiar completamente en su propia lógica. El amor de madre la hace parcial, pero también es lo único que tiene.
+
+Nishimura representa el contrapeso: en lugar de ser vil, tiene 16 años de datos sobre la relación Haruto-Lyra y ha estado monitoreando cada interacción. Su verdadera agenda es usar los datos para demostrar que las Integradas no deberían ser destruidas.
+
+Lo que Nishimura no sabe es que Protocolo Silencio existía antes de que ella asumiera el cargo hace 4 años, y cuando Lyra descubre quién lo ejecutó, la respuesta la cambia todo: fue la propia Lyra quien se autocensuró hace 6 años como medida de seguridad, antes de que Nishimura siquiera existiera en esta posición.
+
+Nishimura tiene el archivo del Protocolo, pero ella no fue quien lo ejecutó. El archivo simplemente fue transferido a su custodia cuando asumió el cargo, lo que significa que hay alguien más allá de ambos con acceso a lo que realmente pasó. Esto abre un misterio completamente nuevo: alguien arriba en la jerarquía Velari borró los recuerdos de Lyra, y ahora ese alguien está observando cómo Lyra intenta reconstruirlos.
+
+La tercera idea necesita evolucionar para que la madre no sea antagonista ni aliada, sino algo más complejo. Necesito explorar qué tipo de persona es esta madre.
+
+Ella fue Integrada, pero elige olvidar deliberadamente hace 8 años, lo que la convierte en humana por elección. Esto me lleva a tres direcciones: que su hijo es la razón por la que olvida, que hay algo en su pasado que prefiere no recordar, o que su decisión de ser humana tiene consecuencias que afectan a todos.
+
+Estoy siguiendo esta tercera dirección. La madre no es villana ni heroína, sino alguien que actúa por amor pero ha causado daño. No recuerda completamente qué hizo antes de Haruto, y eso es parte del problema.
+
+Esto añade tensión: Haruto puede enojarse con ella, pero ella misma está incompleta. Ella también necesita respuestas. Y hay otro nivel: si ella está olvidando, ¿qué pasa con los otros miembros de la red Velari? ¿Están siendo eliminados también?
+
+Necesito expandir esto más, así que voy a escribir la respuesta.
+
+</think>
+
+## EVOLUCIÓN DE IDEAS — ITERACIÓN 3
+
+---
+
+### REFINAMIENTO 1: Protocolo Silencio — La autocensura que no esperabas
+
+La iteración anterior propuso que alguien editó la memoria de Lyra. La evolución aquí es radical: **Lyra se autocensuró.**
+
+Hace 6 años, antes de asumir como subdirectora y antes de que Kenji existiera en su órbita, Lyra llegó a la Tierra
