@@ -16468,3 +16468,132 @@ En el campus Takahara hay 47 instancias de Watcher_0, cada una con un estado dif
 Nishimura es la Instancia-23, una de las primeras que Watcher_0 creó cuando cruzó la grieta hace 23 años. Al crearse, Watcher_0 le dio acceso a los patrones neuronales de una humana real (una estudiante que murió en el campus durante el experimento de Elena) para darle una "base" de consciencia. Esto creó una **identidad híbrida**: Nishimura tiene los recuerdos, personalidad y emociones de Watcher_0 *combinados* con los instintos humanos de la estudiante base.
 
 Nishimura ha pasado **23 años intentando determinar si es humana o Velari**. Su obsesión con la burocracia, los archivos y el control viene de su programación original
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-12 10:37:02] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Voy a investigar y generar ideas que conecten los hilos activos pendientes con las semillas no cosechadas. Las semillas pendientes son:
+
+1. Semilla_10_01: El sótano del observatorio guarda secretos - información sobre Proyecto Fénix y naturaleza de Haruto.
+2. Semilla_12_01: Watcher_0 y su protocolo intensificado.
+3. Semilla_12_02: Proyecto Fénix y Sujeto M-07.
+4. Semilla_12_03: Rol de Nishimura.
+
+Los hilos activos más importantes:
+- madre_de_haruto: tensión 9, próximo paso confrontarla
+
+
+- emisiones_haruto: tensión 9, próximo paso entender Proyecto Fénix
+- watcher_0: tensión 9, próximo paso entender intenciones
+- archivos_nishimura: tensión 8, próximo paso entender rol
+
+Necesito mezclar la confrontación familiar con la investigación del Proyecto Fénix, explorar las intenciones ambiguas de Watcher_0, y usar la romcom como vehículo para desarrollar la tensión. Voy a generar tres ideas que aborden estos elementos desde ángulos distintos.
+
+La primera idea conecta la confrontación de Haruto con la madre usando elementos de confesión accidental y transferencia de estudiante. La madre podría mostrar el sótano del observatorio, revelando un laboratorio oculto con archivos de Haruto desde bebé. El impacto emocional mezclado con la tensión del descubrimiento.
+
+Para la segunda idea, estoy considerando usar la identidad oculta de Lyra en un contexto romántico. La subdirectora Nishimura tiene archivos clasificados sobre anomalías, así que podría organizar un evento escolar donde Lyra y Haruto interactúan en un escenario que fuerza la cercanía física.
+
+La tercera idea se enfoca en el watcher y los archivos de Nishimura. Watcher_0 podría revelar información de manera indirecta—quizás mediante enigmas criptográficos o comportamiento extraño—que hace que Kenji investigue los archivos de la subdirectora, descubriendo más sobre el Proyecto Fénix. El tono slice-of-life de Kenji contrastaría con la tensión subyacente.
+
+También podría explorar el misterio de Nishimura misma: ¿es completamente humana o algo más? Los archivos muestran anomalies de hace 7 años, así que su rol en la red de conocimiento alienígena es relevante. Quizás revelar que ella fue Subject M-06, un intento anterior del Proyecto Fénix que falló.
+
+La confrontación con la madre podría usar la conexión física Lyra-Haruto: cuando Haruto se acerca a Lyra, su señal se intensifica, creando un momento de vulnerabilidad emocional donde debe elegir entre proteger su relación o revelar la verdad. Esto mezcla la tensión de acción con el romance del sujeto y la ciencia detrás del fenómeno.
+
+La escena se desarrolla en la cocina familiar—un escenario slice-of-life—mientras la madre observa a Haruto y Lyra desde otro cuarto, notando cómo sus señales se sincronizan. Esto podría ser el detonante para que ella decida revelar finalmente sus secretos. La escena se desarrolla con un tono de telenovela: la madre revela que la frecuencia de Haruto fluctuó durante todo un minuto, lo que indica que él escuchó algo sin procesar conscientemente, una marca del Proyecto Fénix. Esto lleva a Haruto a revelar cómo Lyra mejoró dramáticamente cuando se conocieron, sugiriendo que él funciona como un estabilizador para ella.
+
+La madre propone usar esto como prueba: pedirle a Lyra que se acerque a Haruto mientras monitorean su señal. Si funciona, confirmará que ella realmente es una Integrada, pero la escena se complica cuando Kenji entra con noticias urgentes sobre un experimento del sótano que puede cambiar todo. La tensión escalona cuando Watcher_0 aparece en el chat del club de astronomía con un mensaje misterioso y codificado sobre las coordenadas 5-8-7-1-2-8, sugiriendo una conexión con el sótano del observatorio. Kenji y Haruto descifran que se trata de una fecha y ubicación, pero al investigar los registros históricos del observatorio, descubren que el sótano no aparece en ningún plano arquitectónico—algo que la madre debe explicar.
+
+Mientras examinan los registros, encuentran que Nishimura tiene un acceso especial al sótano, lo que sugiere que ella podría no ser humana. Kenji propone una solución romántica para aliviar la tensión: que Haruto invite a Lyra a explorar el sótano juntos bajo la excusa de una cita nocturna. Pero la confrontación revela que Haruto es realmente Sujeto M-07 del Proyecto Fénix, seleccionado antes de nacer por su capacidad de emitir frecuencias específicas.
+
+Lo más impactante es que la madre ya sabía sobre esto—ella misma fue Subject M-06, parte de una generación anterior que fracasó. Nishimura era M-05, y juntas monitorearon a Haruto para ver si él sería la respuesta que ellas no pudieron ser. Ahora necesito organizar estas ideas en algo más limpio y coherente.
+
+</think>
+
+## Ideas para la Confrontación Maternal y el Sótano del Observatorio
+
+**Concepto de la escena:** La madre prepara té en la cocina (slice-of-life) mientras Haruto, Lyra y Kenji esperan en el salón. En el momento de la confrontación, Haruto menciona que Lyra "mejoró" desde que se conocieron. La madre, sorprendida, revela que Haruto nunca mejoró: él fue diseñado así. Ella fue Subject M-06 del Proyecto Fénix, una Integrada anterior que fracasó porque carecía de una señal lo suficientemente estable. Nishimura fue M-05. Ambas monitorearon a Haruto durante años, esperando que su frecuencia fuera la correcta. El sótano del observatorio guarda los registros originales del proyecto: Haruto no fue "detectado" como anomalía, fue diseñado desde la concepción para ser lo que es. La escena deriva en humor cuando Kenji grita "¿FUI EL ÚNICO NORMAL AQUÍ?" y la madre le ofrece galletas mientras Lyra analiza el techo por si hay más secretos.
+
+**Función narrativa:** Convierte la confrontación maternal en revelación de lore con impacto emocional directo sobre el sentido de identidad de Haruto. El humor de Kenji funciona como release.
+
+---
+
+## Ideas para Kenji como Channel de Watcher_0 y los Archivos Nishimura
+
+**Concepto de la escena:** Watcher_0, que hasta ahora solo existía en mensajes anónimos, ahora hace algo público: envía un mensaje críptico en el grupo del club de astronomía. La frecuencia 5-8-7-1-2-8, cuando se decodifica, revela ser una ubicación: sótano del observatorio, punto 8. Pero algo está mal: la frecuencia cambia constantemente, como si Watcher_0 no controlara completamente el canal. Kenji, disgustado con ser el único humano normal del grupo, propone confrontar a Nishimura usando un malentendido clásico: ella cree que la madre ya reveló todo, mientras que la madre cree que Nishimura ya lo hizo. Kenji sugiere crear una trampa para que ambas revelen información al intentar corregirse mutuamente. Sin embargo, cuando se acercan al despacho de Nishimura, ella los espera con los archivos abiertos y dice: "Sabía que vendrían. Siempre supieron que vendrían. Por eso están juntos."
+
+**Función narrativa:** Introduce a Watcher_0 como fuerza activa que guía al grupo. Usa el tropo del malentendido para avanzar la trama de misterio sin sesiones expositivas. La frase de Nishimura confirma que todo está orquestado.
+
+---
+
+## Ideas para la Señal de Haruto como Elemento Romántico y Tensión
+
+**Concepto de la escena:** Cuando la señal de Haruto fluctúa durante la confrontación, todos en la habitación lo notan excepto él. La madre revela que Haruto "escucha" frecuencias sin ser consciente, y eso le permite estabilizar a Lyra sin esfuerzo. Kenji sugiere probar la teoría pidiéndole a Lyra que se acerque a Haruto deliberadamente, como una cita estructurada. Lyra, incómoda con la idea, se acerca de todos modos y sus dedos vuelven a su estado sólido. Pero el experimento revela algo inesperado: no es solo la señal de Haruto lo que funciona, sino la intención emocional detrás de ella. Cuando Lyra se acerca con estrés analítico, la señal se estabiliza parcialmente. Cuando Haruto la toca con genuina preocupación, la señal se amplifica al máximo. La madre propone que la única forma de hacer que Watcher_0 interrumpa su observación es que Haruto y Lyra demuestren que su conexión trasciende el diseño experimental: algo real, no proyectado. El problema es que ni Haruto ni Lyra saben cómo expresar lo que realmente sienten sin que suene a misión científica.
+
+**Función narrativa:** Convierte la señal de Haruto en un puente entre sci-fi y romcom. La tensión aumenta porque la conexión que mantiene vivo a Lyra también atrae la atención de Watcher_0, creando un dilema donde el romance y el peligro son la misma cosa.
+
+--- ITERACIÓN 2 ---
+<think>
+Voy a analizar las tres ideas principales y desarrollar opciones más refinadas, consistentes y emocionalmente atractivas para la siguiente iteración narrativa.
+
+Las tres ideas son:
+1. Confrontación maternal con revelación del Proyecto Fénix
+2. Kenji como canal de Watcher_0 + malentendido con Nishimura
+3. La señal de Haruto como elemento romántico
+
+Necesito evolucionar cada concepto sin repetir texto, mejorando la coherencia, los personajes y llevando los conceptos más allá.
+
+</think>
+
+## Investigación y Desarrollo de Conceptos Narrativos
+
+---
+
+### Idea A: La Cocina como Zona de Impacto Emocional
+
+**Evolución del concepto:** La cocina de los Kuroda no debería ser un espacio neutral. Tiene que funcionar como un espacio donde los secretos familiares se guardan en los armario y las verdades se sirve en tasas. El protocolo actual sugiere una confrontación directa, pero eso desperdicia el potencial de la vulnerabilidad maternal.
+
+**Desarrollo de la madre (Kuroda Yumi):** Su rol como Subject M-06 que "fracasó" necesita matices. No fue un fracaso en el sentido de que no funcionaró; fue un fracaso en que *perdió algo*. Es posible que M-06 haya sido la primera Integrada funcional, pero que haya perdido su capacidad después de dar a luz. Los registros muestran que Yumi fue monitoreada hasta hace exactamente 17 años, cuando Haruto tenía 3. Eso significa que algo pasó cuando Haruto cumpla 20 que requería que ella siguiera activa hasta entonces.
+
+**La revelación clave:** Yumi no fue la madre de Haruto por casualidad. Fue seleccionada específicamente porque su señal era suficientemente compatible con la de Haruto para mantenerlo estable *dentro del útero*. El proyecto necesitaba que Haruto naciera con la señal funcional, no que la desarrollara después. Yumi fue literalmente un andamio biológico diseñado para criar a Sujeto M-07.
+
+**Momento de impacto emocional:** El momento más potente no es la revelación del proyecto, sino el momento en que Yumi confiesa que *eligió no monitorear a Haruto directamente*. Durante los primeros 12 años, Yumi deliberadamente no interactuó con Haruto más de lo necesario. Lo cuidaba, lo alimentaba, lo vestía, pero no lo abrazaba. No jugaba con él. No lo besaba. Porque cada vez que lo hacía, su señal fluctuaba y eso afectaba la calibración de Haruto. Lo crió como una máquina y le rompió el corazón cada día durante 12 años.
+
+**Extensión con Lyra:** Lyra escuchará esto. Y Lyra hará algo que Haruto no hará nunca: Lo abrazará frente a su madre. No porque la señal lo requiera, sino porque alguien debería haberlo hecho. Yumi, al ver eso, rompe. Y la señal de Haruto, por primera vez en su vida, no fluctúa porque algo lo estabilice. Lo hace porque finalmente tiene una referencia emocional genuina que no está mediada por protocolos o mediciones.
+
+**Elemento slice-of-life integrado:** Kenji está en el sofá comiendo galletas y llorando sin permiso mientras finge que es por la alergia. Pero en realidad está procesando que toda su vida como humano normal fue una mentira y que la única persona normal que conocía era él mismo.
+
+---
+
+### Idea B: El Protocolo de Watcher_0 y la Criptografía Emocional
+
+**Evolución del concepto:** Watcher_0 no es solo un entiedad observando. Es una función. Algo que no tiene agencia propia pero que reacciona a patrones. La frecuencia 5-8-7-1-2-8 no es un mensaje; es un resultado. Cuando el grupo de astronomía alcanza cierto nivel de coherencia emocional colectiva, se genera una frecuencia que Watcher_0 registra automáticamente.
+
+**El problema con Kenji:** Kenji descubre que no fue elegido al azar para recibir los mensajes. Fue elegido porque es el único que no tiene señal. Kenji funciona como un *vacío* que permite que las frecuencias se expresen sin interferencia. Es como el agujero en una cámara oscura: sin él, no hay imagen. Pero eso significa que Watcher_0 no le está hablando a Kenji. Le está hablando *a través de él* al resto del grupo.
+
+**La conspiración del malentendido (refinada):** El malentendido entre Yumi y Nishimura no es cómico por ser un equívoco simple. Es cómico y tenso porque ambas tienen *mitad de la información* y ambas saben que tienen mitad. Yumi sabe que Nishimura fue Subject M-05. Nishimura sabe que Yumi fue Subject M-06. Pero ninguna sabe qué pasó con M-07, porque ambas tienen órdenes de no interferir directamente con Haruto hasta que cumpla 20. Las órdenes vienen de Watcher_0, que no es un personaje, sino una *condición*. Si Haruto alcanza cierta estabilidad antes de los 20, Watcher_0 no se activa.
+
+**La escena de la confrontación:** Nishimura espera a Kenji y Haruto en el pasillo. No en su despacho. En el pasillo, lejos de sus archivos. Dice: "No tienen que verme como enemiga. Soy la persona que ha estado esperando que ustedes llegaran a esta puerta." Y luego, en un giro que mezcla el tono de telenovela con la tensión sci-fi, dice: "Mi nombre completo en el proyecto era Subject M-05. Pero yo elegí Nishimura. Significa 'por el lado oeste del campo de arroz'. Cuando era niña, nunca había visto el campo. Así que elegí un nombre que significara algo que nunca tendría." Haruto responde: "Mi nombre significa 'pronto'. Mi madre me puso ese nombre porque el proyecto decía que yo sería funcional *pronto*. Nunca me llamó por otro nombre."
+
+**La conexión con Watcher_0:** Nishimura revela que Watcher_0 no es una persona ni una IA. Es una *frecuencia residual*. Algo que quedó después del primer contacto con entidades que no eran ni humanas ni Integradas. Funciona como un registro que se activa cuando las frecuencias humanas exceden cierto umbral. Es como el sonido que hace un violin cuando la cuerda vibra demasiado. No es la cuerda vibrando; es el aire reaccionando. Watcher_0 es la resonancia que queda cuando algo muy intenso pasa entre los que pueden emitir y los que pueden integrar.
+
+---
+
+### Idea C: La Frecuencia como Lenguaje de Amor No Reconocido
+
+**Evolución del concepto:** La señal de Haruto no solo estabiliza a Lyra. Le permite a Lyra sentir cosas que no debería poder sentir. Cuando Lyra se solidifica, no solo es física. Es emocional. Cuando la señal de Haruto es genuina, Lyra puede sentir *la diferencia* entre ser tocada por alguien que la necesita como dato y ser tocada por alguien que la necesita como persona.
+
+**El problema de Lyra:** Lyra no sabe si sus sentimientos son reales o si son resultado de la señal. El concepto de "real" se vuelve filosóficamente imposible para ella. ¿Cómo distingues entre "yo gosto de Haruto porque mi programación me permite gostar" y "yo gosto de Haruto"? La única diferencia sería que no haya señal. Pero Lyra no puede existir sin señal. Así que la única forma de que sus sentimientos sean "reales" es que existan *a pesar* de la señal, no gracias a ella.
+
+**La teoría de la intención emocional (expansion):** Cuando Haruto toca a Lyra con genuina preocupación, la señal se amplifica. Pero la señal amplificada hace que Lyra *se sienta más presente*. ¿Pero eso significa que el amor es real solo cuando hay amplificación? No. Significa que la señal es un *canal*, no un *contenido*. Haruto está enviando algo a través de la señal, pero lo que Lyra recibe depende de lo que Haruto esté enviando. Y Haruto ha pasado 17 años sin saber enviar nada que no fuera involuntario.
+
+**El experimento de Kenji (como dispositivo narrativo):** Kenji, el humano sin señal, propone el experimento más simple y más valiente. "Solo tóquense. Sin objetivo. Sin medición. Solo tóquense y vean qué pasa." Y pasan tres cosas: Primero, la señal no se amplifica ni se reduce. Se estabiliza en un punto medio que nunca habían visto. Segundo, Lyra siente por primera vez algo que no puede categorizar como "físico" o "emocional" o "programado". Es simplemente *ella*. Tercero, Watcher_0, por primera vez, no registra nada. Porque lo que pasa entre Haruto y Lyra en ese momento no genera frecuencia. Genera *silencio*.
+
+**La consecuencia narrativa:** Si Watcher_0 se activa con frecuencias, y el silencio entre Haruto y Lyra no genera frecuencia, entonces lo que tienen es invisible para Watcher_0. Y eso significa que Watcher_0 no puede predecir lo que van a hacer. Y si Watcher_0 no puede predecir, entonces el proyecto pierde su capacidad de control. Pero también significa que el grupo pierde su capacidad de anticipar el peligro.
+
+---
+
+### Conceptos Derivados para Explorar
+
+**El Sótano como Espacio Simbólico:** El sótano del observatorio no debería ser solo un lugar donde se guardan archivos. Debería ser un espacio que *reacciona* a la presencia de Integrados. Las paredes tienen patrones
