@@ -17387,3 +17387,181 @@ Haruto no es un "biodron" — es alguien a quien su madre le enseñó a escuchar
 | **Vigilantes Oscuros** | Eliminar el nodo completamente | Entidad sin nombre (solo señales) | Una especie que usa portales como armas. El nodo es una amenaza para ellos. |
 
 **El verdadero villano**: Los Vigilantes Oscuros no aparecen directamente — aparecen como *efectos secundarios*. Anomalías inexplicables. Desapariciones de otros Integrados. Eventos que parecen naturales pero que Watcher_0 reconoce como patrones de limpieza. Si el nodo se activa completamente, emitirá una señal que los Vigil
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-12 22:33:03] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide que actúe como Arquietcto Narrativo para el proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!". Necesito generar 3 ideas concretas que:
+
+1. Ayuden a avanzar los HILOS ACTIVOS
+2. O que utilicen las SEMILLAS PENDIENTES
+3. Respeten el tono de Novela Ligera
+4. Sean originales técnicamente
+5. Consideren el balance de géneros (40% RomCom, 25% Action, 15% SciFi, 10% Mystery, 10% Slice of Life)
+
+Analizando los HILOS ACTIVOS más prometedores para avanzar:
+
+1. **madre_de_haruto** (tensión 9): La confrontación está pendiente. Hay tres semillas pendientes relacionadas (10_01, 12_02, 12_03) que podrían integrarse aquí.
+
+
+2. **emisiones_haruto** (tensión 9): El Proyecto Fénix y qué es exactamente Haruto como Sujeto M-07 sigue sin resolverse.
+3. **watcher_0** (tensión 9): Las intenciones de Watcher_0 con el protocolo intensificado.
+4. **archivos_nishimura** (tensión 8): El rol de Nishimura.
+
+Ahora estoy considerando tres direcciones narrativas. La primera me permite explorar el sótano del observatorio donde podría revelar información crítica sobre el Proyecto Fénix mientras mantengo la tensión, quizás usando la madre como conducto para acceder a archivos clasificados o datos de Lyra. La segunda opción me interesa porque introduce un ángulo completamente nuevo: ¿y si la señal de Haruto no solo estabiliza a Lyra, sino que también genera un efecto secundario意想不到 en su biología alienígena? Esto abriría una dimensión más romántica y emocional mientras profundiza en el misterio de su naturaleza.
+
+Para la tercera idea, estoy contemplando qué papel podría jugar Nishimura más allá de ser solo una observadora de Watcher_0. Su posición estratégica como subdirectora y su conocimiento de anomalías desde hace siete años me sugieren que podría haber un conflicto interno entre su lealtad y algo que está descubriendo. Ahora voy a profundizar en estas opciones, asegurándome de que cada una ofrezca un gancho narrativo sólido y que ninguna sea demasiado predecible. La tercera idea sigue esta dirección, pero necesito estructurarla mejor. Estoy considerando un escenario donde la madre de Haruto lo lleva al sótano del observatorio y allí descubre que todo el Proyecto Fénix—su clasificación, los efectos que produce—en realidad fue diseñado para protegerlo, no para controlarlo. Sin embargo, algo cambió hace tres años, y la información que recibe de la madre ya no coincide con la realidad actual, lo que introduce una nueva capa de tensión.
+
+Pero hay otro ángulo que también funciona: explorar la señal de Haruto como un tipo de comunicación bioluminiscente que Lyra puede ver pero otros no, algo que añade una dimensión más física y observable a su conexión. del observatorio.
+2. Revelar que Haruto fue diseñado genéticamente para emitir esa frecuencia.
+3. Pero alguien modificó el diseño hace 3 años.
+
+Ahora estoy considerando otro enfoque para la próxima idea: ¿y si la señal de Haruto también altera la percepción de otros? Los compañeros de clase gradualmente comienzan a ver a Lyra como más amigable, atractiva, no amenazante, sin que ellos mismos se den cuenta de lo que está sucediendo. Esto introduce un elemento de acción y consecuencias, donde alguien podría descubrir la verdad o Lyra misma se sentiría culpable por la ventaja que le da esta señal. También plantea la cuestión de si Watcher_0 está usando esto como parte de un plan más amplio, y si esto podría generar conflicto entre Haruto y Lyra.
+
+Para la tercera idea, estoy pensando en un escenario donde Nishimura ha estado monitoreando a Lyra durante años, incluso antes de que ella llegara a la Tierra, y tiene un historial completo de sus visitas. La revelación clave sería que Lyra está buscando algo, y que la subdirectora sabe exactamente qué es.
+
+Ahora estoy considerando qué hacer si Nishimura también es una Velari o tiene algún tipo de relación con ellos—quizás ella fue quien envió a Lyra aquí hace años. Esto me lleva a explorar qué podría estar buscando Lyra en primer lugar: ¿el nodo Takahara, la persona del Proyecto Fénix, o algo completamente diferente?
+
+Necesito了三 ideas que puedan funcionar independientemente o juntas. Para la primera, estoy pensando en un escenario donde la madre de Haruto lo confronta en el sótano del observatorio, revelando información que desafía todo lo que él creía saber sobre su propia existencia.
+
+Ahora necesito desarrollar tres ideas concretas que sean lo suficientemente distintas entre sí. La primera idea debería girar en torno al sótano del observatorio, donde la madre podría revelar algo crítico sobre quién es realmente Haruto y por qué fue creado. La segunda idea podría explorar la señal que Haruto emite de forma natural, mostrándome cómo afecta a quienes lo rodean sin que él lo sepa. La tercera idea podría involucrar a Kenji en un papel de científico, quizás conectando con alguien o algo que desafíe su comprensión del mundo.
+
+Para la tercera opción, estoy considerando un escenario donde Kenji investiga los registros de Watcher_0 y descubre que la cuenta lleva décadas activa, pero con un detalle perturbador: el navegador muestra una ubicación geográfica específica, no虚空. Eso significa que Watcher_0 está operando desde algún lugar físico y concreto, y Kenji pronto identificará exactamente dónde.
+
+Pero necesito algo que realmente impulse la narrativa. Revisando los hilos activos, tres tienen tensión alta (la madre, las emisiones, y el watcher) y dos tienen tensión media (los archivos y el nodo). Para generar ideas frescas, me fijo en las semillas sin cosecha que podrían ser potentes: los secretos del sótano del observatorio, los planes del watcher, qué es exactamente el Proyecto Fénix, y cuál es el papel de Nishimura en todo esto.
+
+Una idea podría ser hacer que la señal de Haruto se vuelva visible bioluminiscente, revelando algo que Lyra necesita pero que también expone su situación a otros. Otra opción es revelar que Nishimura está monitoreando a Haruto y Lyra no por lealtad, sino porque también es parte del Proyecto Fénix—una humana que fue modificada para tener ciertas capacidades. Esto crea tensión en su rol y permite que Lyra la descubra, abriendo una oportunidad de alianza o confrontación.
+
+Ahora estoy considerando una tercera dirección más ligera: Kenji descubre accidentalmente que la señal de Haruto causa efectos secundarios visibles en quienes están cerca de Lyra—los estudiantes la ven más amigable, sonríen más, su comportamiento cambia. Kenji podría usar esto para crear un plan de cobertura romántica o una confusión cómica sobre las intenciones de Haruto, o simplemente documentar lo que realmente está pasando.
+
+</think>
+
+# 💠 Arquitectura Narrativa — Sesión de Ideas
+
+---
+
+## Idea 1: "La Habitación Melquíades"
+**Hilo avanzado:** madre_de_haruto + semilla_10_01 (el sótano del observatorio)
+**Tono:** Mystery + Slice of Life con núcleo emocional
+
+La confrontación con la madre no ocurre en la cocina ni en el salón. Ocurre en el sótano. El sótano del observatorio Takahara no es un sótano al uso: es una **habitación geométrica** cuyo diseño no coincide con la estructura del edificio. Tiene techo abovedado, paredes con patrones de interferencia que reducen cualquier señal electromagnética, y en el centro hay una silla de madera con correas de seguridad para contención física.
+
+La madre baja a Haruto y Lyra (Kenji espera arriba, vigilando) y les muestra lo que realmente guardaba.
+
+No son solo archivos.
+
+Es **un cuerpo.**
+
+Un cuerpo en estasis criogénica que la madre identifica como *"el original"*: un espécimen Velari que llegó a la Tierra hace décadas y que**no puede estabilizarse sin una fuente de frecuencia Schumann modulada**. Haruto no fue diseñado como ancla para Lyra. Fue diseñado como **fuente de energía de respaldo** para mantener vivo a este ser. Lyra, al llegar, encontró que Haruto era una fuente mucho más eficiente de lo previsto, por lo que su cuerpo migró naturalmente hacia él.
+
+La semilla 10_01 se cosechan aquí: el sótano guarda los secretos del Proyecto Fénix y la verdadera naturaleza de Haruto.
+
+**Gancho narrativo:** la revelación de que Lyra no vino solo a observarlo. Ella vino a **recuperar** algo que perdió hace décadas. Y el cuerpo en estasis es la pieza que falta.
+
+---
+
+## Idea 2: "Frecuencia Amable"
+**Hilo avanzado:** emisiones_haruto + semilla_12_02 (Proyecto Fénix)
+**Tono:** RomCom + SciFi con consecuencias de acción
+
+Haruto no solo emite una frecuencia que Lyra necesita para su integridad estructural. La frecuencia también tiene un **efecto secundario no intencionado sobre los seres humanos cercanos**: quienes están en un radio de 8 metros alrededor de Lyra experimentan una sensación generalizada de bienestar, disminuyen sus niveles de sospecha y desconfianza, y tienden a percibir a Lyra como "segura y amigable" aunque su comportamiento sea objetivamente extraño.
+
+Kenji lo descubre por accidente cuando revisa los datos del Gravitron 3000 y nota que las métricas de interacción social del aula donde están Haruto y Lyra muestran valores atípicos:
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que refine, expanda y profundice en las 3 ideas narrativas que generé anteriormente. Debo:
+
+1. Mejorar la consistencia
+2. Aumentar el atractivo de los personajes
+3. Llevar cada idea un paso más allá según los géneros objetivo
+4. No repetir textualmente, sino evolucionar
+
+Voy a tomar cada idea y profundizarla:
+
+**Idea 1: "La Habitación Melquíades"** - El sótano con cuerpo en estasis
+- Necesito expandirme en: qué tipo de ser Velari es, qué significa esto para Lyra (viene a "recuperar algo perdido"), el conflicto emocional para Lyra
+- Personajes: la madre (que tiene que haber tomado decisiones imposibles), Lyra (que descubre algo que contradice su misión)
+- Géneros: Mystery + Slice of Life con núcleo emocional - necesito el slice of life aquí, la humanidad del momento
+
+**Idea 2: "Frecuencia Amable"** - El efecto secundario de la señal de Haruto
+- Necesito expandirme en: cómo afecta esto a la dinámica del grupo, qué hace Kenji con esta información, la tensión entre usar esto estratégicamente vs. la ética
+
+
+- Personajes: Kenji como científico astuto, Haruto que se siente culpable sin entender por qué, Lyra que se beneficia sin haberlo solicitado
+- Géneros: RomCom + SciFi + Action - necesito más comedy y más tensión de acción
+
+**Idea 3: "El Navegador de los Ausentes"** - La cuenta Watcher_0 con ubicación física
+- Necesito expandirme en: quién hay detrás, qué significa que tenga ubicación fija, qué consecuencias tiene esto
+- Personajes: Kenji descubridor, la amenaza de Watcher_0 como antagonista presente
+- Géneros: Action + Mystery - necesito más acción aquí
+
+Ahora voy a desarrollar la tercera idea. Kenji rastrea la ubicación de Watcher_0 hasta un lugar concreto, lo que significa que hay una persona real detrás del monitoreo. Esto transforma a Watcher_0 de una amenaza abstracta a un antagonista tangible. El descubrimiento revela que Watcher_0 tiene presencia física y conocimiento específico sobre lo que está sucediendo, lo que crea una tensión inmediata sobre quién es y qué quiere realmente. Esto abre posibilidades para confrontación directa, persecuciones, y la necesidad de decidir si confrontar directamente o evadir.
+
+</think>
+
+# 💠 Arquitecto Narrativo — Refinamiento Profundo
+
+---
+
+## Idea 1 Refinada: "Melquíades"
+**Hilos avanzados:** madre_de_haruto + emisiones_haruto + semilla_10_01 + semilla_12_02
+**Géneros principales:** Mystery (40%) + Slice of Life (20%) + SciFi (20%)
+
+### El concepto evolucionado
+
+No basta con que haya un cuerpo en estasis. La tensión narrativa exige que ese cuerpo sea alguien que Lyra **reconoce**.
+
+El espécimen Velari en el sótano no es un cualquiera. Los Velari no son individuos en el sentido humano. Son **fragmentos de una red colectiva que se dispersa deliberadamente**, y cuando uno de ellos regresa al punto de origen, necesita un ancla para reconstituirse. Este espécimen se estrelló hace décadas, fue recuperado por el abuelo de Haruto (un astrofísico que no reveló nada a la familia), y no puede estabilizarse sin una fuente de frecuencia Schumann modificada.
+
+Haruto **nunca fue diseñado como ancla primaria**. Fue diseñado como **generador de emergencia**. Su existencia no es accidental: es respuesta a una necesidad técnica. Pero hace tres años, alguien —posiblemente la madre o alguien dentro de la agencia— **modificó el diseño original de Haruto** para que su frecuencia fuera no solo estabilizadora sino también **emitida de forma continua**, sin que él pudiera controlar cuándo o cómo. Lo que lo hace viable como ancla para Lyra —y peligroso como potencial de resonancia descontrolada.
+
+La madre lo confronta en el sótano y le revela todo esto. Pero el momento más poderoso no es la revelación.
+
+Es lo que sigue.
+
+Lyra ve el cuerpo en estasis y **no reacciona con sorpresa**. Reacciona con un reconocimiento profundo, silencio largo, y una sola frase en su idioma nativo que Haruto no entiende pero que Kenji, que grabó todo sin querer, puede traducir más tarde gracias al traductor universal en su teléfono: *"No te quedaste a esperarme."*
+
+El cuerpo no es un extraño. Es alguien que **Lyra conocía**. La subdirectora Nishimura, que aparece al día siguiente en casa de Haruto, confirma lo que nadie quiere escuchar: Lyra no vino al Instituto Takahara por casualidad. Vino porque la señal de Haruto ya existía antes de que ella llegara. Y la persona en estasis fue la razón por la que la agencia creó a Haruto hace años.
+
+### Personajes en esta idea
+
+**La madre:** Su arco es de guardiana a reveladora. No ha ocultado la verdad por crueldad, sino por una decisión moral que carga desde hace años: ¿cuándo se le dice a un niño que su existencia es el resultado de un experimento para salvar a alguien que no eligió ser salvado? Su tensión interna se resuelve cuando ella misma se pregunta si Haruto es más humano por haber nacido así o menos, y concluye que no tiene respuesta. Esto la hace profundamente humana.
+
+**Lyra:** Su conflicto es un dilema ético Velari: en su cultura, un fragmento que se dispersa tiene la obligación de mantener la red intacta. Ella ha priorizado a Haruto —un humano— sobre la estabilidad de su propia red. Ahora descubre que su objetivo original en la Tierra (recuperar al fragmento en estasis) podría significar **destruir** la fuente de frecuencia que la sostiene. Ella tiene que elegir entre recuperar lo que perdió hace décadas y dañar lo que encontró hace meses.
+
+**Haruto:** Su arco aquí se conecta con la Idea 3 de la iteración anterior: la clasificación M-07 que recibió fue para que él no supiera que su frecuencia también puede **recibir** información, no solo emitirla. Ha estado recibiendo fragmentos de datos de la red Velari sin saberlo, y eso es lo que ha estado causando los episodios de agotamiento. La verdad es que Lyra no solo necesita su señal para estabilizarse. Ella necesita que él **la escuche** para que ella pueda transferir los datos de reconstrucción sin dañar su sistema.
+
+### Escena núcleo para novela ligera
+
+El momento de más light-novel de esta idea no es la revelación. Es después.
+
+La madre, Lyra y Haruto están en el sótano. Lyra tiene que explicar algo técnicamente complejo, pero lo hace de una forma que solo una estudiante de intercambio haría: dibuja un diagrama en la pizarra del observatorio con marcadores de colores, comparando la frecuencia Schumann con un diapasón, y hace chistes que solo Kenji entiende sobre por qué los humanos no pueden percibir su propia frecuencia sin instrumentos.
+
+Es una escena profundamente ligera en ejecución: humor absurdo mezclado con revelación cósmica. La madre, que esperaba un momento solemne, termina riéndose cuando Lyra pregunta si los humanos alguna vez han intentado "sintonizar su propia alma con un piano" y Haruto dice que el abuelo intentó exactamente eso sin éxito.
+
+El tono RomCom aparece aquí no como comedy sino como **humanidad**: la madre ve a Lyra no como una amenaza alienígena sino como una chica con un sentido del humor terrible y una capacidad admirable de transformar lo imposible en algo que quepa en una pizarra.
+
+---
+
+## Idea 2 Refinada: "Frecuencia Amable"
+**Hilos avanzados:** emisiones_haruto + archivos_nishimura + semilla_12_02
+**Géneros principales:** RomCom (35%) + Action (25%) + SciFi (20%)
+
+### El concepto evolucionado
+
+La señal de Haruto no causa un efecto vago de "sentirse bien". Causa algo específico, cuantificable y observable: quienes están en radio de influencia experimentan un **aumento en la producción de oxitocina** sin estímulo emocional associated. Es un efecto bioluminiscente que los instrumentos del Gravitron 3000 pueden medir.
+
+Pero hay un segundo efecto que Kenji descubre con horror científico: la señal también genera **micro-expresiones de confianza** en quienes la reciben, pero solo respecto a Lyra. No hacia Haruto. No hacia otros. Solo hacia ella.
+
+Esto significa que cualquier persona cerca de Lyra la percibe como más confiable, más familiar, más segura —**incluso si racionalmente saben que es una alumna de intercambio de otro planeta**.
+
+La tensión narrativa no viene de que esto sea malo. Viene de que **Lyra no tiene control sobre esto y no lo sabe**.
+
+Kenji tiene que decidir qué hacer con esta información. Se lo dice a Haruto, quien tiene la reacción más light-novel posible: se niega a creer que tiene algún efecto sobre otras personas, se molesta porque Kenji lo mide con instrumentos como si fuera un experimento, y luego accidentalmente hace el ridículo intentando estar más cerca de Lyra para que la señal sea más fuerte —pero lo hace de forma tan transparente que ella cree que le está confesando algo romántico.
+
+### El conflicto de acción
+
+Watcher_0发现了 esto. Su protocolo de intensificación no era solo monitorear a Lyra. Era **testear si el efecto de la señal de Haruto
