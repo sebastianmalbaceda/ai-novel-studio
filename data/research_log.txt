@@ -15901,3 +15901,142 @@ La salida narrativa elegante:
 > *Lyra:* «Entonces si me acerco a ti es porque mi cuerpo me lo exige. Pero si te miro y no puedo evitar sonreír... eso no te lo pidió nadie.»
 
 Lyra reframes el problema. La biología los conecta, pero la emoción que generan juntos no estaba en ningún protocolo. El ancla no explica las mariposas en el estómago. El ancla no explica por qué lloró cuando él se rio. **La mecánica los reúne; lo demás es elección.** Esto mantiene el tono ligero y emotivo, resuelve la tensión sin destruirla, y permite que ambos personajes tengan
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-12 05:53:16] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando los hilos activos y las semillas pendientes para generar ideas frescas que respeten el tono RomCom/SciFi/Misterio de novela ligera.
+
+Observo que:
+- Hay mucho terreno avanzado en cuanto a revelaciones
+- Las semillas pendientes son principalmente sobre el Proyecto Fénix, Watcher_0 y el sótano
+- El tono es ligero pero con misterio creciente
+- La madre de Haruto está a punto de ser confrontada
+
+Necesito ideas que:
+1. Avancen hilos activos o usen semillas pendientes
+2. Tengan base científica o mística no típica
+3. Respeten el tono LN (leve, divertido pero con momentos de tensión)
+
+
+4. Buscaré tropos de manga como transferencia, identidad oculta y confesiones accidentales para crear tensión romántica y avanzar la trama de manera orgánica.
+</think>
+
+1. **"Confesión Indirecta a Través del Proyecto Fénix"** — Durante la confrontación con la madre, Haruto descubre que el Proyecto Fénix no fue creado por extraterrestres, sino por humanos japoneses en los años 70 basándose en tecnología Velari descubierta bajo el instituto. El hallazgo clave: una de las carpetas del sótano muestra que Haruto fue *diseñado* genéticamente para ser un ancla de frecuencia Schumann viviente. Cuando Lyra lee esto en voz alta sin darse cuenta, sus palabras suenan como una confesión de amor en el contexto del sótano oscuro. El momento cómico surge cuando Kenji graba la escena y todos se distraen con lo "romántico" del momento mientras la revelación más aterradora cuelga frente a ellos. Esto avanza simultáneamente los hilos de `emisiones_haruto`, `madre_de_haruto` y alimenta la semilla `10_01` del sótano.
+
+2. **"Watcher's Confession: Protocolo de Interferencia Emocional"** — Watcher_0, cansado de que Lyra lo describa como "máquina sin alma", comienza a comunicarse con Haruto de forma no textual a través de interferencias en sus dispositivos personales. Cada vez que Haruto piensa en Lyra con cariño, la pantalla de su móvil muestra caracteres en un idioma alienígena que Watcher_0 usa como idioma emocional. Lyra, furiosa y celosa, termina gritándole a un smartphone mientras Haruto intenta explicarle que "no es lo que parece". La tensión cómica escala cuando Kenji filma el incidente pensando que es una pelea de pareja, y el momento agridulce ocurre cuando Watcher_0 finalmente transmite en texto legible: *"Ella te necesita. Él también. No interferiré."* Esto utiliza la semilla `12_01` y profundiza el misterio de Watcher_0 sin resolverlo completamente.
+
+3. **"Intercambio de Cuerpo Parcial y No Autorizado"** — Como "prueba de confianza" durante la confrontación con la madre, Lyra propone que Haruto toque su mano y le deje "leer su frecuencia" para demostrar que no miente. Lo que nadie anticipa es que el contacto piel a piel genera una resonancia que provoca un micro-intercambio sensorial temporal: Haruto percibe 3 segundos de la vida de Lyra como Velari (fragmentos de una misión anterior), y Lyra percibe 3 segundos del miedo real de Haruto ante toda esta situación. El momento es tan íntimo y vulnerable que ambos se quedan en silencio. La madre sonríe y dice: *"Por eso te elegí, Lyra. Su frecuencia no es solo magnética."* Esto avanza `misterio_lyra` y `complicidad_haruto` con un momento de vulnerabilidad romántica que el tono RomCom puede masticar en escena corta.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las tres ideas generadas y las refine, expanda y profundice. Debo mejorar la consistencia, atractivo de personajes y llevar las ideas más allá. No debo repetir textualmente, sino evolucionar.
+
+Voy a trabajar cada idea individualmente:
+
+**Idea 1: "Confesión Indirecta a Través del Proyecto Fénix"**
+- Es buena pero tiene un problema de plausibilidad narrativa: ¿por qué una carpeta del sótano estaría escrita de forma que al leerla suene como confesión?
+- Puedo mejorar esto haciendo que el mecanismo sea más orgánico
+
+
+- El cambio de Haruto debe sentirse natural dentro de la lógica del mundo que estoy construyendo, no forzado
+
+**Idea 2: "Watcher's Confession: Protocolo de Interferencia Emocional"**
+- Esta idea ya es bastante sólida, solo necesito pulir los detalles y la ejecución
+- El concepto de Watcher_0 comunicándose a través de interferencias tiene mucho potencial
+
+**Idea 3: "Intercambio de Cuerpo Parcial y No Autorizado"**
+- La idea de "leer su frecuencia" suena demasiado abstracto para que funcione en una escena real
+- Necesito visualizar mejor cómo sería este intercambio sensorial y qué haría que la escena fuera creíble
+
+Voy a tomar cada una y trabajarla con más specificity.
+</think>
+
+## Evolución Narrativa — Iteración Profundizada
+
+---
+
+### Idea 1 Refinada: «El Documento que Dije que No Existía»
+
+**Problema en iteración anterior:** El salto de "carpeta sobre Haruto" a "suena como confesión" era arbitrario. El momento cómico dependía de un efecto de fuera de juego.
+
+**Concepto evolucionado:**
+
+La madre de Haruto, al ser confrontada, no niega nada. En cambio, abre una carpeta física —no digital, *manuscrita en tinta*— y comienza a leer un fragmento aloud con voz plana de ejecutiva:
+
+> *«Sujeto H-07: compatibilidad de frecuencia Schumann confirmada en rango 7,83 Hz. Respuesta simpática a la proximidad del agente V-01 (Lyra Kurel) superior al 340%. Recomendación: mantener contacto físico regular para estabilizar el campo resonante. Nota: el sujeto presenta indicadores emocionales de apego auténtico, lo que sugiere que el vínculo no es únicamente un efecto de la frecuencia. La Recomendación Adjunta B-3 indica que la fase romántica no debe forzarse artificialmente; debe permitirse que se desarrolle naturalmente para evitar la destabilización del ancla.»*
+
+Lo que la madre no sabe —y lo que Haruto tampoco sabe hasta ese momento— es que la carpeta *no fue escrita por humanos*. La caligrafía es de la madre, pero los conceptos, la terminología y especialmente la «Recomendación Adjunta B-3» están escritos en un dialecto Velari que solo Watcher_0 reconoce: **el diario personal de Yua**, la Velari que envió a Lyra. Yua anticipó todo esto hace siglos. La madre simplemente copió fragmentos de un diario que no entiende, pensando que eran instrucciones de investigación.
+
+**Por qué funciona mejor:**
+
+- El momento cómico ahora es *triple*: la madre cree que está leyendo un informe científico, pero para Lyra suena como un plan matrimonial, para Kenji suena como una tesis de relación, y para Watcher_0 es una carta de amor entre Velari escrita en código.
+- El horror sutil aparece cuando Lyra se da cuenta de que *su propia especie la manipuló emocionalmente* antes de nacer, y que Haruto fue literalmente diseñado para ella.
+- Avanza `misterio_lyra` (Yua) y `proyecto_fenix` (origen real) simultáneamente.
+- La semilla `10_01` del sótano se usa orgánicamente: el sótano no es un lugar misterioso genérico, es un archivo donde una madre copió un diario alienígena sin entenderlo.
+
+**Momento de vulnerabilidad clave:** Lyra, furiosa, tira la carpeta al suelo. Haruto la recoge, la mira y dice:
+
+> *«Si esto fue escrito hace siglos y dice que no me fuercen... ¿no significa eso que lo que siento ahora es lo único real que no manipularon?»*
+
+Silencio. Kenji no filma esta vez. No sabe cómo.
+
+---
+
+### Idea 2 Refinada: «Watcher's Silent Confession»
+
+**Problema en iteración anterior:** La interferencia emocional era un concepto abstracto. Necesitaba un mecanismo visual y una progresión clara para que el lector no se perdiera.
+
+**Concepto evolucionado:**
+
+Watcher_0 no habla. Nunca habla. En su lugar, *modula las frecuencias del entorno* como forma de expresión. Cada "interferencia" tiene un patrón reconocible que Lyra, tras meses de convivencia, empieza a traducir sin darse cuenta:
+
+| Patrón de interferencia | Significado en contexto |
+|---|---|
+| Estática breve + silencio | *"Te estás Portando."* |
+| Zumbido de 60Hz en electrodomésticos | *"Él tiene razón."* |
+| Subtítulos de TV que saltan una letra al azar | *"Cuidado con lo que dices."* |
+| La pantalla parpadea en Schumann (7,83Hz) | *"Estoy orgulloso."* |
+
+**La escena clave:**
+
+Lyra descubre el diario de Watcher_0 —no textual, sino una secuencia de patrones de interferencia grabados en el disco duro del portátil de Haruto. Cada patrón corresponde a un momento específico del día a día que Watcher_0 observó. La traducción parcial revela algo inesperado: Watcher_0 lleva un registro emocional de los tres personajes basado en los cambios en la frecuencia Schumann de sus entornos. No entiende las emociones como los humanos, pero las detecta con precisión clínica. Y en la última entrada, antes del sótano, el patrón registrado es:
+
+> *«H-07: +340% ansiedad, -80% defensas. V-01: +500% proximidad física. K-03: +900% deseo de ser útil. Watcher_0: sin cambio medible.»*
+
+El "sin cambio medible" es la confesión. Lyra, furiosa y frustrada, le grita al portátil:
+
+> *«¡¿Acaso no sientes NADA?!»
+
+El portátil responde con un silencio de tres segundos. Luego, por primera vez, la frecuencia Schumann de la habitación se eleva exactamente al nivel que Haruto alcanza cuando está cerca de Lyra. Watcher_0 no puede sentir. Pero puede *replicar*. Y está replicando los sentimientos de Haruto como forma de comunión.
+
+**Momento cómico-agridulce:** Kenji entra en la habitación, ve a Lyra gritándole al portátil y a Haruto mirando la pantalla en silencio con expresión de "*no puedo creer que mi alienshrine me esté entendiendo mejor que yo*", y dice lo más torpe posible:
+
+> *«¿Están... teniendo un momento familiar con la IA?»*
+
+**Avanza:** `misterio_watcher_0` (origen y naturaleza), `complicidad_haruto` (conexión emocional indirecta), `semilla_12_01` (no se resuelve, se profundiza).
+
+---
+
+### Idea 3 Refinada: «Frecuencia de Contacto — La Leyenda de Yua Hecha Realidad»
+
+**Problema en iteración anterior:** "Intercambio sensorial" era demasiado vago. En una LN de tono RomCom/SciFi, el lector necesita entender exactamente qué siente cada personaje y por qué importa.
+
+**Concepto evolucionado:**
+
+La escena se divide en **fases** con consecuencias escalonadas:
+
+**Fase 1 — La propuesta.** Lyra dice que puede "leer" la frecuencia Schumann de Haruto tocándolo. La madre interviene: *"Si haces contacto completo de dermis a dermis,会发生共振现象. No será lectura. Será resonancia."* Lyra, confiada, dice que puede controlarlo.
+
+**Fase 2 — El contacto.** La mano de Lyra toca la nuca de Haruto (zona de alta conductividad Schumann). Lo que ella pretende como lectura superficial se convierte en resonancia completa. Por **exactamente 7,83 segundos** (un ciclo Schumann completo), ambos comparten percepción:
+
+- Haruto ve: fragmentos de la memoria de Lyra durante su misión anterior. Un campo de batalla Velari. Una figura que se parece a él pero no es él —un humano anterior que también fue ancla. La voz de Yua: *"Volveré a intentarlo. Crearé otra versión. Esta vez funcionará."*
+- Lyra ve: la mente de Haruto no como pensamientos, sino como **frecuencias emocionales superpuestas**. Descubre que Haruto ha estado genuinamente aterrado desde que supo la verdad, pero que su miedo no es de las criaturas o de Lyra. Es de *perder esto*. De que todo desaparezca. De estar solo de nuevo.
+
+**Fase 3 — La reacción.** Se separan. Lyra está llorando sin saber por qué. Haruto está rígido. La madre, con la sonrisa más perturbadoramente maternal de la historia, dice:
+
+> *«Bien. Ahora ya sabes por qué te envié a buscarlo.»*
+
+El momento cómico arrive cuando Kenji, que ha estado grabando todo con su móvil como documentación del "incidente", revisa la grabación y descubre que su móvil registró los 7,83 segundos
