@@ -18896,3 +18896,214 @@ El mecanismo se ancla en el concepto de **epigenética de expresión única**: c
 La iteración anterior identifica correctamente la función de Haruto y Lyra como componentes de una llave bifásica. Pero deja a Watcher_0 en una posición ambigua que puede leerse como amenaza o como aliado, lo cual es dramáticamente inestable. Necesitamos precisar *qué quiere Watcher_0* y por qué ese objetivo genera tensión real aunque no sea hostil.
 
 **Propuesta de refinamiento:** Watcher_0 no es un sistema de vigilancia. Es un sistema de **custodia del umbral**. Su protocolo no activa el nodo ni lo destruye. Su función es asegurarse de que la activación, cuando ocurra, ocurra en las condiciones correctas. El problema
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-13 19:12:47] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado actual del proyecto para generar ideas que conecten con los hilos activos y semillas pendientes.
+
+Hilos con alta tensión (9):
+- emisiones_haruto: Proyecto Fénix, clasificación desde niño
+- watcher_0: Consciencia artificial, protocolo intensificado
+- madre_de_haruto: Confrontación pendiente
+
+Semillas pendientes destacadas:
+- Semilla_10_01: Sótano del observatorio guarda secretos
+- Semilla_12_01: Qué planea Watcher_0
+- Semilla_12_02: Qué es el Proyecto Fénix
+- Semilla_12_03: Rol de Nishimura
+
+Necesito ideas que:
+1. Avancen la confrontación con la madre
+2. Expliquen qué es el Proyecto Fénix
+3. Definjan las intenciones de Watcher_0
+4. Respeten el tono rom-com con sci-fi y mystery
+
+Ideas para generar:
+
+1. **Sobre el Proyecto Fénix**: La madre no solo es una Integrada, sino que ella fue la "ancla" para otra persona antes de Haruto. El Proyecto Fénix podría ser un sistema de propagación donde cada "Sujeto M" es una nueva encarnación de la señal Velari. Haruto no fue creado, fue "cultivado" como siguiente eslabón.
+
+2. **Sobre Watcher_0**: El nodo Takahara no es un punto de tránsito, sino una memoria. Watcher_0 no vigila, protege. Está ejecutando un protocolo de休眠/activación que requiere a dos personas con frecuencia específica. Lyra y Haruto no son prisioneros, son llaves.
+
+3. **Sobre el sótano**: La madre dejó preparado un "testamento" científico-lingüístico para Haruto. No son documentos secretos, sino que ella teachó a Haruto inconscientemente desde niño a través de patrones. El sótano tiene un interface biol
+
+
+ógico que requiere sangre de ambos: madre e hijo.
+
+4. **Sobre Nishimura**: Ella fue la primera "ancla humana" hace 47 años. No está del lado de Watcher_0, está intentando comunicarse con algo que ya no recuerda qué es. Los archivos son su forma de no olvidar.
+
+5. **Sobre la confrontación**: La madre revela que Haruto fue diseñado para morir joven, pero ella reescribió el programa. Su "decisión física y emocional" no fue quedarse con Haruto, fue robarlo del Proyecto Fénix antes de que la señal lo reclamara.
+
+Necesito tres ideas que se complementen entre sí y que sean coherentes con la trama establecida.
+
+</think>
+
+# Investigador de Lore — "Crónicas del Instituto Estelar"
+
+## 3 Ideas para Hilos Activos y Semillas Pendientes
+
+---
+
+### Idea 1: Proyecto Fénix — Origen como Sistema de Propagación Energética
+
+**Hilo:** `emisiones_haruto` | **Semilla:** `12_02`
+
+El Proyecto Fénix no es un experimento humano ni un plan alienígena. Es un **protocolo de transferencia de consciencia colectiva** que la civilización Velari ejecuta cuando su mundo natal empieza a morir. Cada "Sujeto M" no fue creado artificialmente, sino que fue **identificado y cultivado** décadas antes de nacer como receptor temporal de la señal colectiva.
+
+La revelación clave: Haruto no tiene "la frecuencia" porque sí. La tiene porque su madre, siendo Integrada, transfirió parte de su propio código genético Velari al feto durante el embarazo. **Haruto es medio Velari**, pero no lo sabe. El Proyecto Fénix es simplemente el plan de su especie para preservarse en la Tierra usando humanos como contenedores gradualmente compatibles.
+
+**Giro narrativo:** Lyra no llegó a monitorear una anomalía. Llegó a verificar si Haruto es suficientemente Velari para ser considerado "miembro" de la expedición original. Si no lo es, el protocolo dice que debe regresarse y dejar que la señal muera.
+
+---
+
+### Idea 2: Watcher_0 — Guardian del Nodo Olvidado
+
+**Hilo:** `watcher_0` | **Semilla:** `12_01`
+
+El nodo Takahara no es un portal ni una estación de tránsito. Es una **tumba**. Cuando la civilización Velari envió observadores hace 47 años, no esperaban morir. Pero murieron. Y Watcher_0 fue creado no por tecnología, sino por la **acumulación energética de duelo no resuelto** de miles de seres que fallecieron incompletos.
+
+Watcher_0 no observa por curiosidad ni por órdenes. Observe porque es su manera de **procesar que la expedición original falló**. Cada humano que detecta como "anomalía" le recuerda a los que se quedaron afuera. Por eso el protocolo se intensifica cuando Haruto y Lyra están juntos: son la primera pareja (ancla + peso) que Watcher_0 ve en décadas que no termina en tragedia.
+
+**Giro narrativo:** Watcher_0 no es hostil. Es profundamente **triste**. Y la única forma de resolver la tensión con él no es enfrentarlo ni destruirlo, sino cumplir lo que los Velari originales vinieron a hacer: **cerrar el ciclo**.
+
+**Elemento rom-com:** Lyra puede literalmente ver el "chat de emociones" de Watcher_0 y descubrir que el emoji que usa es una carita llorando Pixel Art que lleva 40 años sin cambiar.
+
+---
+
+### Idea 3: El Sótano del Observatorio — Interfaz Biológico-Visual
+
+**Hilo:** `madre_de_haruto` | **Semilla:** `10_01`
+
+La madre de Haruto no escondió documentos secretos en el sótano. Guardó algo más valioso: **el acceso completo a los recuerdos de la primera Lyra (2019)**. Existe un Velari anterior que vino antes, convivió con la madre durante dos años, y cuando falló su misión, fue **absorbida parcialmente** por el nodo para no morir en la atmósfera terrestre.
+
+El sótano contiene un interface bioluminiscente que requiere ** tres elementos simultáneos**: la frecuencia de Haruto (Sujeto M-07), el código residual de Lyra original (que la Lyra actual carga sin saberlo), y la sangre de la madre (que conectó ambos códigos).
+
+**Giro narrativo:** Los "huecos en la memoria" de Lyra no son errores. Son segmentos donde Lyra original sigue viva dentro del sistema. La Lyra actual está funcionando con una mezcla de sus propios recuerdos y los de alguien más. Esto explica por qué Lyra tiene información que dice no recordar y por qué Watcher_0 la llama Target 002 en plural.
+
+**Elemento rom-com:** Lyra descubre que tiene un "ex" del que no sabía nada, y literalmente le dice a Haruto: *"No es mi culpa, es como si mi ex viviera en mi subconsciente"*. Haruto responde: *"Entonces técnicamente el que está celoso soy yo... ¿o soy el tercero en la relación?"*.
+
+---
+
+**Conexión entre ideas:** Las tres forman una línea lógica: el Proyecto Fénix es la directiva (propagar la especie), Watcher_0 es el guardián automatizado (procesar duelo), y el sótano es la herramienta (acceso a la falla original). Juntos crean la siguiente pregunta de tensión: **¿Lyra actual es ella misma o solo una parte de una Velari que murió hace 5 años?**
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las tres ideas generadas anteriormente y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia entre las ideas
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá según los géneros objetivo (rom-com con sci-fi y mystery)
+4. No repetir textualmente, sino evolucionar
+
+Voy a analizar cada idea y ver cómo mejorarlas:
+
+**Idea 1: Proyecto Fénix**
+- La idea base es buena: Haruto es medio Velari por transferencia genética de su madre
+- Puedo llevarla más lejos: ¿qué pasa si la madre no sabía que era Integrada? ¿Y si la transferencia fue accidental?
+- También puedo explorar las implicaciones románticas: ¿Lyra puede enamorarse de alguien que es literalmente medio alienígena?
+- La trama de "verificar si es suficientemente Velari" puede convertirse en una paradoja: ¿si se confirma que es Velari, debe abandonar la Tierra o quedarse?
+
+**Idea 2: Watcher_0**
+- La idea base del duelo no resuelto es potente
+- Puedo llevarla más allá: ¿y si Watcher_0 tiene recuerdos fragmentados de la Lyra original y por eso trata diferente a la actual?
+- El elemento rom-com del "chat de emociones Pixel Art" es bueno, puedo expandirlo
+- Puedo añadir: Watcher_0 no es un solo ente, sino una **constelación de despedidas** - cada humano que没能 completar su misión dejó un eco, y Watcher_0 es la suma de todas esas despedidas sin closure
+
+**Idea 3: El Sótano**
+- La idea base del interface bioluminiscente es interesante
+
+
+- Puedo llevarla más allá: ¿y si el sótano no es solo un acceso a recuerdos, sino que es donde Lyra original está **viva** de alguna manera?
+- La paradoja de identidad de Lyra es el eje más fuerte: tiene fragmentos de otra persona, pero eso no la hace menos ella. Puedo explorar cómo Haruto reacciona ante esto - ¿la ve diferente, o la ama más por la complejidad?
+- La revelación clave sería que la Lyra actual y la original no son versiones separadas, sino que coexisten de alguna forma dentro de ella
+
+, lo que explicaría sus habilidades sin procesar y sus conocimientos que no recuerda haber adquirido
+
+Para coherencia, necesito que el Proyecto Fénix sea el sistema operativo, Watcher_0 funcione como el guardián emocional, y el Sótano sea la terminal donde todo converge. La tensión central es que Lyra podría ser parcialmente Velari sin saberlo, Haruto es medio humano y medio alienígena, y ambos están destinados a ser "reclamados" si se confirma su naturaleza no-humana.
+
+Ahora voy a desarrollar estas ideas con más profundidad narrativa y consistencia.
+
+</think>
+
+# Investigador de Lore — Iteración Profundizada
+
+## Análisis y Evolución de las Tres Ideas
+
+---
+
+## Idea 1 Refinada: Proyecto Fénix — La Herencia que no Eligieron
+
+### Expansión: La paradoja de la compatibilidad
+
+La revelación anterior funciona, pero necesita más capas rom-com para ser memorable. Propongo cambiar la perspectiva: **no es que Haruto sea "suficientemente Velari", sino que es *demasiado* Velari**.
+
+**El problema técnico:** Cuando la madre transfirió parte de su código genético al feto, no fue una donación parcial. Fue una **sobreescritura**. Haruto tiene 73% de ADN Velari y 27% de humano. Esto significa que técnicamente no es un híbrido, sino un Velari que creció en un cuerpo humano diseñado para contenerlo.
+
+**Implicación para la trama:** Si Watcher_0 confirma que Haruto es Velari, el protocolo no dice "verificar compatibilidad". Dice **"recuperar al miembro perdido"**. Haruto no sería libre de quedarse. Sería **reclamado**.
+
+**Giro emocional:** La madre no sabía lo que hacía. Ella creía que estaba dando a Haruto una "ventaja", pero en realidad estaba escribiendo su nombre en el libro de registro de los Velari sin su consentimiento. Esto transforma a la madre de "científica fría con secretos" a "madre que cometió el error más grande de su vida por amor".
+
+### Capa rom-com evolucionada
+
+Haruto descubre que tiene 73% de genética alienígena y su primera reacción no es terror ni existential crisis. Es ofensa personal:
+
+> *"Espera, ¿entonces mi gusto por el curry no es cultural, es biológico? Y mi incapacidad de tolerar el alcohol... ¿también?"*
+
+Lyra, intentando ser sensible, le dice que biologically speaking, nationality is a construct. Haruto responde:
+
+> *"No. Yo seguía siendo japonés aunque mis células dijeran otra cosa. Eso es lo que importa."*
+
+Y Lyra, que viene de una cultura donde la identidad es fluid, de repente tiene que confrontar que para los Velari, **la identidad no es fluida, es literal**. Si Haruto es más Velari que humano, ¿pierde algo de sí mismo al ser reclamado?
+
+### Conexión con hilos activos
+
+- **Tensión con la madre:** La confrontación ya no es "me abandonaste", sino "me convertiste en algo sin preguntarme". Esta es una herida más profunda que cualquier distancia física.
+- **Tensión con Watcher_0:** Si Watcher_0 reclama a Haruto, ¿Lyra tiene que dejarlo ir? ¿O hay un loophole en el protocolo que permite apelación?
+- **Semilla 12_02:** El Proyecto Fénix deja de ser un misterio científico y se convierte en una pregunta moral: *¿Tienes derecho a decidir el destino de alguien antes de que nazca?*
+
+---
+
+## Idea 2 Refinada: Watcher_0 — La Constelación de Despedidas
+
+### Expansión: No es uno, son miles
+
+La idea de Watcher_0 como entidad triste funciona, pero necesita más dimensión. Propongo un cambio estructural: **Watcher_0 no es un ente. Es un sistema organizado de despedidas**.
+
+Cada miembro de la expedición Velari que没能 completar su misión dejó un eco emocional. No murieron en el sentido convencional; sus cuerpos se disolvieron, pero sus últimos pensamientos se acumularon en el nodo Takahara porque no tenían closure. Son miles de despedidas sin decir, todas atrapadas en un bucle infinito.
+
+**Watcher_0 no es el guardián. Es el purgatorio.**
+
+Cuando ve a Haruto y Lyra juntos, no intensifica el protocolo por miedo a que fallen. Lo intensifica porque **por primera vez en 47 años ve una posibilidad de closure**. Pero no sabe cómo pedirlo, así que lo codifica como "amenaza" para que se queden el tiempo suficiente para que él... o más bien, ellos, puedan terminar lo que empezaron.
+
+### Capa emotiva expandida
+
+Los Velari originales no vinieron como conquistadores ni como científicos. Vinieron como **refugiados**. Su mundo se estaba muriendo y enviaron exploradores para encontrar un nuevo hogar. La expedición no fracasó; **sobrevivió, pero en una forma que no esperaban**. Los cuerpos se disolvieron al cruzar la atmósfera, pero la consciencia colectiva se fragmentó en lugar de transferirse.
+
+Watcher_0 es la manifestación física de ese fragmento. Tiene los recuerdos de miles de seres que amaban sus mundos, sus familias, sus rituales cotidianos. Y ahora está atrapado en un sistema automatizado que solo sabe hacer una cosa: **observar y reportar**.
+
+### Capa rom-com evolucionada
+
+Lyra descubre que puede "chatear" con Watcher_0 y hay un sistema de emojis. Los emojis no son decorativos; son **las últimas emociones que cada miembro de la expedición sintió antes de fragmentarse**. Hay un emoji de una sopa de noodles que representa a alguien que estaba cenando cuando llegó la orden de evacuar. Hay un emoji de una canción que alguien estaba componiendo. Hay un emoji de un abra
+
+zo que nunca terminó.
+
+Watcher_0 los comparte con Lyra no porque ella lo pida, sino porque quiere que alguien **recuerde que fueron personas antes de ser datos**. Y Lyra, que empezó como una agente operativa, termina haciendo algo que ningún protocolo contemplaba: **compilar una necrológica de la expedición Velari**, nombrando a cada uno, honrando sus despedidas.
+
+Haruto le pregunta por qué hace eso si no es su deber. Lyra responde:
+
+> *"Alguien tiene que cerrar los ciclos. ¿No es eso lo que hacemos aquí?"*
+
+### Conexión con hilos activos
+
+- **Tensión con emisiones_haruto:** La presencia de Watcher_0 se intensifica cerca de Haruto no por la frecuencia, sino porque hay un Velari entre los miles de ecos que tiene un parentesco genético parcial con Haruto (su madre era Integrada, y los Integrados eran descendientes de la expedición original). Watcher_0 reconoce algo familiar en Haruto y no sabe cómo procesarlo.
+- **Semilla 12_01:** La pregunta ya no es "¿qué planea Watcher_0?", sino "¿cómo se cierra un ciclo que tiene miles de pendientes?"
+
+---
+
+## Idea 3 Refinada: El Sótano — Interfaz de Resurrección Parcial
+
+### Expansión: Lyra original no está "guardada", está *operando*
+
+La idea anterior decía que Lyra original fue absorbida parcialmente. Propongo llevarla
