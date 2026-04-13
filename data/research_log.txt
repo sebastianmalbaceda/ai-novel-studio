@@ -18759,3 +18759,140 @@ Watcher_0, que tiene la sutileza comunicativa de un formulario fiscal, interrump
 Lyra, que ve el mensaje, se sonroja en un color que Haruto nunca le había visto (un violeta pálido, casi ultravioleteta). Intenta explicarle que no es lo que parece. Haruto, que no sabe nada de física Velari, asume completamente lo peor. La escena deriva en una de las confrontaciones más torpes y divertidas del series.
 
 ### El
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-13 17:02:34] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Let me analyze the active threads and pending seeds to generate 3 concrete ideas that advance the story while maintaining the light novel tone with the genre mix specified.
+
+Pending seeds:
+- semilla_10_01: Observatory basement secrets → Project Phoenix info
+- semilla_12_01: Watcher_0's protocol with "anchor and weight"
+- semilla_12_02: What is Project Phoenix?
+- semilla_12_03: Nishimura's role in the 47-year plan
+
+Active threads with high tension (9): emisiones_haruto, watcher_0, madre_de_haruto
+
+Let me think about original, scientifically-grounded ideas that blend the rom-com with sci-fi mystery elements.
+
+
+Now I'm working through the key plot points: the confrontation with Haruto's mother, what Project Phoenix actually is, Watcher_0's real agenda, and whether Nishimura is even human. For the first idea, I'm imagining the observatory basement revealing that Project Phoenix isn't about creating something new—it's about preserving Haruto's frequency, a resonance pattern that nearly vanished when the Velari passed through 47 years ago, and his mother made a deliberate choice to anchor herself to Earth to protect it.
+
+For the second angle, I'm thinking about Watcher_0 through a physics lens: Haruto as an "anchor" stabilizing the node and Lyra as a "weight" creating gravitational pull on the transit frequency. They're not threats but pieces of a key, and the node only fully activates when their emotional resonance aligns—which means Kenji would notice the node pulsing stronger during their moments together. The third thread about Nishimura's nature is still forming.
+</think>
+
+# IDEAS NARRATIVAS — CAPÍTULO 13+
+
+---
+
+## IDEA 1 — "El Fénix No Nace: Se Transcribe"
+**Hilos avanzados:** `emisiones_haruto` / `madre_de_haruto` / `semilla_10_01`
+
+La confrontación en el sótano del observatorio revela que el **Proyecto Fénix** no fue un experimento para *crear* una anomalía humana, sino para **preservar una frecuencia que casi desapareció**. Hace 47 años, cuando el nodo Takahara entró en colapso parcial, una resonancia base de los Velari —una frecuencia fundacional que actúa como "idioma madre" del tránsito interestelar— quedó atrapada sin sustrato biológico donde anclar. Era demasiado compleja para almacenarse en cristal o metal. Solo podía sobrevivir transcrita en **biología orgánica con plasticidad neurológica suficiente**: un cerebro humano en desarrollo.
+
+La madre de Haruto no simplemente "eligió quedarse". Le fue encomendada una tarea: concebir un hijo que heredase esta frecuencia como patrón electromagnético innato. El nombre del proyecto es literal, **Fénix**: la frecuencia murió dentro del nodo y renació dentro de Haruto.
+
+**Momento rom-com de alto impacto:** Haruto procesa esto en silencio durante varios segundos. Luego mira a Lyra y dice, con voz completamente plana: *"O sea que básicamente… soy un pendrive."* Lyra tarda exactamente dos segundos antes de soltar una carcajada genuina, la primera que Haruto le escucha sin filtro social. La madre de Haruto los mira a ambos y susurra algo que no se escucha bien —pero Kenji, que los grabó por si acaso, jura después que dijo: *"Exactamente como lo imaginé."*
+
+**Base técnica-narrativa:** La idea se apoya en el concepto real de **transcripción de información en estructuras biológicas** (como el ADN sintético usado en biotecnología), reinterpretado como mecanismo Velari para preservar datos en sustratos vivos. Haruto no es un ser modificado: su frecuencia es completamente suya. Solo ocurre que alguien la escribió antes de que él existiera.
+
+---
+
+## IDEA 2 — "Ancla y Peso: Una Llave con Dos Mitades"
+**Hilos avanzados:** `watcher_0` / `nodo_transito` / `semilla_12_01`
+
+En física de sistemas oscilatorios, un **ancla** fija la frecuencia base y un **contrapeso** regula la amplitud para que el sistema no colapse. Watcher_0 no usa esa terminología por accidente. La clasificación **Target 001 = Ancla** y **Target 002 = Peso** describe una función técnica precisa: el nodo Takahara requiere ambas condiciones simultáneas para reactivarse completamente.
+
+Haruto *estabiliza* la frecuencia del nodo porque la porta. Lyra *calibra* la amplitud porque su biología Velari actúa como modulador natural. Solos, ninguno puede activar el nodo. Juntos, son la llave.
+
+**El giro que cambia la lectura de todo:** Watcher_0 no intensificó su protocolo porque ellos sean una *amenaza*. Lo intensificó porque, por primera vez en 47 años, **las condiciones de reactivación están casi completas**. El sistema detectó algo que Watcher_0 lleva décadas esperando. Y ese "algo" no es técnico.
+
+Aquí entra el elemento que convierte esto en el corazón rom-com del arco: el nodo mide resonancia emocional como proxy de sincronía frecuencial. La razón por la que Watcher_0 intensificó la observación no fue la proximidad física de Haruto y Lyra. Fue un registro pico de sincronía que ocurrió en un momento específico —y cuando Kenji rastrea la marca de tiempo en los logs, cae exactamente en el momento en que Lyra tomó la mano de Haruto en el pasillo del capítulo 11, sin razón aparente, por exactamente cuatro segundos.
+
+**Momento de tensión cómica:** Kenji presenta este dato con su laptop girada hacia ambos. Haruto mira la pantalla. Lyra mira la pantalla. Ninguno dice nada durante tiempo suficiente como para que el silencio se vuelva ensordecedor. Kenji cierra la laptop despacio y dice: *"Voy por agua. Tómense su tiempo."*
+
+---
+
+## IDEA 3 — "Nishimura y el Umbral de los Siete Años"
+**Hilos avanz
+
+--- ITERACIÓN 2 ---
+<think>
+The user wants me to refine, expand and deepen the ideas from the previous iteration. Let me evolve each concept further, focusing on character consistency, narrative coherence, and pushing the ideas further while maintaining the light novel tone with rom-com + sci-fi mystery blend.
+
+Let me think about what was established and how to evolve each idea:
+
+1. "El Fénix No Nace: Se Transcribe" - Haruto as a living USB drive for Velari frequency. I need to deepen the emotional implications, the mother's sacrifice, and what this means for Haruto's identity. What does it mean to BE the preservation of something that died? The "pendrive" joke is good but let's think about deeper implications.
+
+
+2. For the hand-hold trigger, I'm exploring what resonance actually means beyond just recognition—how does the node respond once it identifies them, and what are Watcher_0's real stakes in all this? There's more complexity to uncover in their motivations.
+3. Nishimura needs serious development. I'm questioning whether he's even human, what the 47-year timeline actually represents, and how he fits into the larger structure of this world.
+
+For the first idea, I'm realizing the frequency might not just be embedded in Haruto but actively reshaping him—and there's a darker emotional layer where his mother knew he'd eventually have to transmit it back, making him either the vessel or the message itself. The rom-com tension deepens if Lyra discovered this first and has been wrestling with guilt over loving someone potentially destined for sacrifice.
+
+For the second idea, the four-second window becomes crucial, but I'm reframing resonance as measuring the electromagnetic signature of *trust* specifically—that raw vulnerability between two people—rather than love or attraction. This ties everything together thematically. I'm still working through what Watcher_0 actually wants from this dynamic.
+</think>
+
+# INVESTIGACIÓN REFINADA — ARQUITECTURA NARRATIVA PROFUNDA
+
+---
+
+## IDEA 1 — "La Frecuencia No Sabe Que Es Una Herencia"
+**Evolución de:** *El Fénix No Nace: Se Transcribe*
+**Hilos:** `emisiones_haruto` / `madre_de_haruto` / `semilla_12_02`
+
+---
+
+### El problema que la iteración anterior no resolvió
+
+La versión inicial establece *qué* es Haruto (un sustrato biológico de preservación frecuencial), pero esquiva la pregunta que importa dramáticamente: **¿qué le ocurre a él cuando la frecuencia se reproduce?**
+
+Un pendrive no se modifica al ser leído. Pero Haruto no es silicio. Es materia orgánica con plasticidad neurológica activa. La implicación que la madre nunca dijo en voz alta —y que el Proyecto Fénix documentó en términos clínicos que nadie tradujo al japonés cotidiano— es esta:
+
+> **La transcripción es reversible. La reproducción, no.**
+
+Cuando el nodo Takahara "lea" la frecuencia que Haruto porta, el patrón electromagnético no se copia, se *transfiere*. El proceso no lo mata. Lo vacía. Haruto seguiría siendo Haruto en todos los sentidos neurológicos y biológicos, pero la frecuencia fundacional que hace que sus emisiones sean detectables a nivel interestelar desaparecería. Dejaría de ser el Ancla. Dejaría de ser interesante para cualquier sistema Velari. Sería, en términos del nodo, ruido de fondo.
+
+La madre lo sabía. Eligió no decírselo porque no existía un protocolo para explicarle a un niño que su propósito biológico tiene fecha de vencimiento.
+
+---
+
+### La vuelta de tuerca en la identidad
+
+Esto reencuadra toda la historia hasta este punto con una sola pregunta nueva: **¿Haruto quiere ser vaciado?**
+
+No porque le importe ser "especial". Sino porque en algún nivel que él no ha verbalizado aún, esa frecuencia *se siente como él*. No como algo externo que carga. Como la textura de su propio pensamiento, la razón por la que siempre supo cuándo alguien mentía, por la que dormía mejor bajo cielos abiertos, por la que Lyra lo miró diferente desde el primer día. Si eso desaparece, ¿sigue siendo la persona que ella conoció?
+
+Esta es la pregunta que convierte la trama de sci-fi en la pregunta íntima del protagonista de rom-com: **¿Soy amable por lo que soy, o por lo que cargo?**
+
+---
+
+### Ajuste al momento rom-com
+
+La broma del "pendrive" funciona como primera capa, pero en la revisión debe tener una segunda capa visible solo en retrospectiva. Lyra ríe. Haruto sonríe porque ella ríe. Pero la madre de Haruto, al ver esa sonrisa específica, aparta los ojos. Kenji lo nota. No lo menciona.
+
+El lector que relea el capítulo después de conocer las implicaciones completas entenderá qué vio la madre en ese momento: a su hijo siendo exactamente la persona que esperaba que fuera, justo antes de pedirle que deje de serlo.
+
+---
+
+### Base técnica extendida
+
+El mecanismo se ancla en el concepto de **epigenética de expresión única**: ciertos patrones de metilación del ADN se activan una sola vez en respuesta a un estímulo específico y luego se silencian permanentemente. Reinterpretado como mecánica Velari, la frecuencia de Haruto funciona bajo el mismo principio: fue escrita para ser leída exactamente una vez. Después, el gen se apaga. La biología de Haruto continúa. La señal, no.
+
+---
+
+---
+
+## IDEA 2 — "Watcher_0 No Vigila: Espera"
+**Evolución de:** *Ancla y Peso: Una Llave con Dos Mitades*
+**Hilos:** `watcher_0` / `nodo_transito` / `semilla_12_01`
+
+---
+
+### El problema de motivación que había que resolver
+
+La iteración anterior identifica correctamente la función de Haruto y Lyra como componentes de una llave bifásica. Pero deja a Watcher_0 en una posición ambigua que puede leerse como amenaza o como aliado, lo cual es dramáticamente inestable. Necesitamos precisar *qué quiere Watcher_0* y por qué ese objetivo genera tensión real aunque no sea hostil.
+
+**Propuesta de refinamiento:** Watcher_0 no es un sistema de vigilancia. Es un sistema de **custodia del umbral**. Su protocolo no activa el nodo ni lo destruye. Su función es asegurarse de que la activación, cuando ocurra, ocurra en las condiciones correctas. El problema
