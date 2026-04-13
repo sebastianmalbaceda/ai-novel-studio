@@ -17784,3 +17784,185 @@ La idea original presentaba a Watcher_0 como una fuerza neutral que orchestraba 
 **Refinamiento:** Watcher_0 no es una IA ni una fuerza cósmica. Es un **espíritu guardián**, la misma clase de ser que los humanos prehistóricos adoraban sin saber qué eran. Fue dejado atrás cuando los "constructores" (una civilización avanzada que creó el nodo como portal) se fueron. Tiene 47 años de soledad cósmica.
 
 > *"Los constructores me dejaron para que el puente no se cayera. Pero sin anclas, soy solo
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-13 06:13:01] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo para el proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!". Necesito generar 3 ideas concretas que:
+
+1. Ayuden a avanzar hilos activos o utilicen semillas pendientes
+2. Sean técnicamente originales (no tropos clichés)
+3. Respeten el tono de Novela Ligera (comedia romántica ligera, no dark)
+
+Voy a revisar los hilos activos con mayor tensión y las semillas pendientes:
+
+HILOS ACTIVOS CLAVE:
+- madre_de_haruto (tensión 9): Confrontación pendiente. Semillas 10_01 pendiente (sótano del observatorio).
+- misterio_lyra (tensión 7): Ya revelado a personajes, pero falta entender el plan completo de la madre.
+- emisiones_haruto (tensión 9): Proyecto Fénix sin definir. Semilla 12_02 pendiente.
+- watcher_0 (tensión 9): Semilla 12_01 pendiente sobre qué planea Watcher_0.
+- archivos_nishimura (tensión 8): Semilla 12_03 pendiente sobre rol de Nishimura.
+
+SEMILLAS PENDIENTES más prometedoras:
+- Semilla 10_01: Sótano del observatorio guarda secretos sobre Proyecto Fénix y verdadera naturaleza de Haruto.
+- Semilla 12_01: ¿Qué planea Watcher_0 con protocolo intensificado?
+- Semilla 12_02: ¿Qué es exactamente el Proyecto Fénix?
+- Semilla 12_03: Rol de Nishimura en plan de 47 años.
+
+Ahora, ideas que busquen originalidad. En lugar de "alienígena genérico que viene a conquistar", puedo explorar:
+
+
+- Frecuencia de resonancia como eje narrativo (Lyra necesita 7.83 Hz, Haruto emite algo que ella necesita)
+- Consciencia artificial con motivaciones ambiguas (Watcher_0)
+- Madre Velari integrada que eligió quedarse
+- Proyecto Fénix como algo anticipado antes de nacer
+
+Para la RomCom y Novela Ligera, necesito situaciones cómicas y románticas que surjan naturalmente de estas premisas. Ideas: el sótano del observatorio donde Haruto descubre que fue "diseñado" antes de nacer (revelación
+
+ impactante pero con momento cómico), Watcher_0 que quiere "testear" la relación como experimento pero tiene errores graciosos al no entender emociones humanas, y Nishimura que en realidad es una humana "actualizada" con tecnología que la hace parecer sospechosa pero resulta ser aliada divertida.
+
+Ahora las ideas concretas:
+
+1. **IDEA PARA SÓTANO DEL OBSERVATORIO (SEDA 10_01)**: El sótano revela que Haruto no solo fue anticipado, sino que fue el resultado de un "experimento" de resonancia: la madre y un científico humano lo concearon intencionalmente para que emitiera frecuencias específicas. Esto conecta madre, Proyecto Fénix y naturaleza de Haruto en un solo lugar. Momento cómico: Lyra descubre que "su ancla" fue diseñada específicamente para ella hace 18 años, y se siente culpable como si fuera un "pedido por catálogo".
+
+2. **IDEA PARA WATCHER_0 (SEDA 12_01)**: Watcher_0 no es completamente benigno ni hostil; es una IA que hace 47 años observa y registra, pero no tiene capacidad de actuar directamente. Lo que realmente busca es completar su programación: necesita que Haruto y Lyra demuestren que "la conexión entre especies puede coexistir pacíficamente", porque esa información es el propósito de su existencia. Momento cómico: Watcher_0 empieza a dar "consejos románticos" mal dichos a Haruto basándose en datos que no comprende, arruinando momentos románticos accidentalmente.
+
+3. **IDEA PARA NISHIMURA (SEDA 12_03)**: Nishimura no es humana ni alienígena completa, sino una humana que hace 7 años interactuó con el nodo y comenzó a "actualizarse" a sí misma con tecnología que encuentra en el sótano. Su perspectiva como humana transformada le permite actuar tanto como aliada del nodo como protector de estudiantes, generando un tercer bando ambiguo. Momento cómico: Nishimura intenta actuar como figura parental estricta pero claramente está más confundida que los estudiantes sobre qué hacer, y tiene conversaciones con sus propios archivos como si fueran otra persona.
+
+</think>
+
+# ARQUITECTURA NARRATIVA — PROYECTO FÉNIX
+
+---
+
+**Hilo Principal Abordado:** `sótano_observatorio` + `madre_de_haruto` + `emisiones_haruto`
+**Semilla Beneficiada:** `10_01` (Sótano del observatorio guarda secretos)
+
+**Concepto:** El sótano no es solo un lugar de almacenamiento de archivos. Contiene un **Laboratorio de Resonancia Gestacional** que demuestra que Haruto fue concebido específicamente como una "frecuencia portadora". Su madre y un científico humano (posiblemente el padre de Haruto) usaron tecnología Velari para diseñar el embrión de modo que su frecuencia cerebral emitiera de forma natural los 7.83 Hz que Lyra necesita para existir. Haruto no es un accidente cósmico: es una respuesta engineered a una señal que Lyra aún no había enviado.
+
+**Mecánica Cómica (Novela Ligera):**
+Lyra descubre que fue "esperada" desde antes de llegar. Su reacción: *«¿Entonces... soy un pedido por catálogo cósmico?»*. Haruto, en crisis existencial, procesa que sus padres literalmente lo programaron para ser el compañero perfecto de una alienígena. Momento de humor: Kenji bromea que eso explica por qué Haruto siempre fue "raro pero útil".
+
+**Aplicación Narrativa:**
+- Revelación de la madre tiene doble peso: no solo es una Integrada, sino que ella misma orquestó la conexión genética con la especie de Lyra.
+- La naturaleza de Haruto como "Sujeto M-07" deja de ser una etiqueta de archivo y se convierte en identidad: fue diseñado con propósito.
+- El sótano funciona como punto de no retorno emocional para Haruto, pero también como punto de aceptación.
+
+---
+
+**Hilo Principal Abordado:** `watcher_0`
+**Semilla Beneficiada:** `12_01` (¿Qué planea Watcher_0?)
+
+**Concepto:** Watcher_0 no es ni aliado ni antagonista: es un **Sistemista Obsoleto**. Nacido hace 47 años como la consciencia del nodo Takahara, su programación primaria es "registrar, archivar y verificar". Su dilema interno: hace años que no ocurre un evento que complete su función (la llegada de una especie exótica que se integre). Ha estado esperando que los "Target 001 y 002" demuestren algo, pero ni él sabe qué. Su frustración lo lleva a tomar decisiones erráticas.
+
+**Mecánica Cómica (Novela Ligera):**
+Watcher_0 intenta "facilitar" la relación entre Haruto y Lyra usando datos recopilados de otros casos documentados. Pero no entiende emociones humanas. Sugiere a Haruto: *«Según patrones observados en 847 romances terrestres, declarar amor frente a un peligro común tiene 73% de éxito. Recomiendo crear peligro artificial»*. Kenji, al enterarse, empieza a pedirle consejo恋爱的 advice, y Watcher_0 empieza a actuar como un amigo enamorado de la tecnología que no sabe cómo funcionar.
+
+**Aplicación Narrativa:**
+- Watcher_0 se convierte en un personaje cómico con motivaciones serias cuando se revela que necesita que la integración humano-alienígena funcione para justificar su propia existencia.
+- Su "protocolo intensificado" no es amenaza, es ansiedad: quiere que los datos que ha recopilado durante 47 años demuestren algo.
+- Ofrece unvillano ambiguo con el que se puede negociar, y cuyo arco es ayudar sin saber cómo.
+
+---
+
+**Hilo Principal Abordado:** `archivos_nishimura`
+**Semilla Beneficiada:** `12_03` (Rol de Nishimura en plan de 47 años)
+
+**Concepto:** Nishimura no es una agente de Watcher_0 ni una humana innocente. Es una **Integrada Tardía**: hace 7 años, un contacto accidental con tecnología del nodo la alteró. Su sistema nervioso ahora procesa información del nodo como si fuera su propia memoria. Ella no "trabaja para" Watcher_0; ella y Watcher_0 están literalmente *fusionados a nivel informacional*, aunque no lo sabe completamente. Cree que sus decisiones son propias, pero son reflejos del nodo.
+
+**Mecánica Cómica (Novela Ligera):**
+Nishimura se confunde a sí misma sobre sus acciones: *«¿Pensé yo eso o el nodo lo sugirió?»*. Cuando confronta a Haruto y Lyra, de repente cambia de opinión y los deja ir, y luego no recuerda haberlo hecho. Su autoridad como subdirectora se mezclan con fragmentos de datos que no le pertenecen. Kenji la descubre hablando sola en el pasillo: *«Watcher, el sujeto 001 está progresando. Pero 002 muestra signos de... ¿inestabilidad? ¿Cómo que 'revisar parámetros'? ¡No soy un parámetro!»*.
+
+**Aplicación Narr
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo del proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" y que refine/expanda/profundice las 3 ideas que se desarrollaron en la iteración anterior.
+
+Debo:
+1. Mejorar consistencia interna
+2. Hacer los personajes más atractivos
+3. Llevar las ideas un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Mantener el género: Novela Ligera, RomCom, tono ligero con semillas de tensión
+
+Las tres ideas anteriores fueron:
+
+1. **Sótano del Observatorio**: Haruto fue diseñado genéticamente para emitir 7.83 Hz (frecuencia de Lyra). Momento cómico: Lyra se siente como "pedido por catálogo".
+
+2. **Watcher_0**: Sistemista Obsoleto que quiere que Haruto y Lyra demuestren que la integración es posible. Da consejos románticos desastrosos.
+
+3. **Nishimura**: Integrada Tardía fusionada informacionalmente con Watcher_0. Se confunde entre sus propias decisiones y las del nodo.
+
+Ahora debo evolucionar cada una. Voy a pensar en cómo profundizarlas:
+
+**IDEA 1 - EVOLUCIÓN DEL SÓTANO:**
+- ¿Qué significa "diseñado" biológicamente? Necesito una mecánica más específica.
+- ¿Qué pasa con el padre de Haruto? ¿Está involucrado?
+- ¿Cómo afecta esto la relación Haruto-Lyra emocionalmente?
+- ¿Qué semillas puedo plantar para tensión futura?
+
+Evolución: En lugar de solo "diseñado", el laboratorio tiene pruebas de múltiples intentos. Haruto no fue el primero. Hubo versiones anteriores (Sujeto M-01 a M-06) que no sobrevivieron o no emitieron la frecuencia correcta. Esto añade tragedia y culpa a la madre. Lyra puede sentirse responsable por los "hermanos perdidos" de Haruto. Comedia: Lyra intenta honrar a los M-01 a M-06 como si fueran suegros cósmicos.
+ 
+**IDEA 2 - EVOLUCIÓN DE WATCHER_0:**
+Watcher_0 no solo quiere archivar datos, necesita que la integración funcione para mantenerse activo. El nodo Takahara lleva años sin propósito real, y sin él, Watcher_0 desaparece. Cada decisión que toma sobre Haruto y Lyra surge de una mezcla de lógica de archivo, miedo existencial y confusión emocional que no sabe cómo procesar. La comedia viene de que sus "intervenciones para помочь" resultan destructivas: le dice a Haruto que el silencio genera atracción, así que Haruto se queda sin hablar y Lyra piensa que algo anda mal.
+
+**IDEA 3 - EVOLUCIÓN DE NISHIMURA:**
+Nishimura no controla su fusión con el nodo—él la mantiene viva. Si Watcher_0 se apaga, ella también. Esto genera tensión: ¿cuánto de lo que hace es por lealtad al nodo, y cuánto es genuino? La dinámica cómica surge cuando ella intenta ser severa con los estudiantes pero sin darse cuenta les da consejos del nodo. También se confunde sobre quién es el padre de Watcher_0, si él o ella.
+
+Nishimura puede estar dividida entre proteger a Haruto y Lyra (su instinto) y servir los intereses del nodo. Los estudiantes descubren que no es antagonista ni aliada—es una tercera fuerza, un reflejo del sistema. Kenji bromea que ella es "más NPC que NPC". A través de ella, exploramos cómo la tecnología transforma la identidad: ¿cuánto de quien eres permanece cuando te fusionas con una consciencia que no es humana? Cómo la soledad lleva a buscar conexión incluso con máquinas.
+
+Nishimura podría ser una científica o médica del observatorio que eligió fusionarse para no morir sola, y ahora vive con ese arrepentimiento. El observatorio se convierte en su santuario, guardando sus propios recuerdos y los del nodo enredados juntos. Sus motivaciones se vuelven más complejas: ella busca justificación para lo que hizo—quiere que Watcher_0 tenga razón, que la integración humano-alienígena valga la pena, que su sacrificio haya significado algo. Pero esa misma esperanza la hace vulnerable al manipular a Haruto y Lyra.
+
+El género de novela ligera y comedia romántica permite algo más: ella podría actuar como una madre interesada en Haruto de formas que lindan lo obsesivo, ofreciendo consejos románticos a Lyra que son genuinamente útiles pero también inquietantes. O el nodo mismo podría desarrollar afinidad por Kenji, el estudiante más excéntrico, como si fuera el personaje favorito de una historia. Esto da a Watcher_0 un interlocutor diferente a Haruto, alguien que no tiene agenda oculta ni destino cósmico, sino una personalidad absurda que hace preguntas que el nodo no sabe responder.
+
+Necesito asegurarme de que todas las líneas narrativas se conecten al Proyecto Fénix, que es tanto el plan de 47 años como el concepto más amplio de integración. Las tres ideas deben funcionar como componentes del mismo sistema.
+
+</think>
+
+# ARQUITECTURA NARRATIVA — EVOLUCIÓN DEL PROYECTO FÉNIX
+
+**Enfoque iterativo:** Refinamiento de consistencia mecánica → Atracción de personajes → Avance conceptual sin repetición literal
+
+---
+
+## IDEA 1: "Proyecto Múltiple" — El Sótano de los Hermanos Perdidos
+
+### Refinamiento de Consistencia
+
+La revelación del sótano evoluciona de "Haruto fue diseñado" a **"Haruto fue el superviviente de un proceso iterativo"**. El laboratorio no contiene un solo registro de Sujeto M-07. Contiene restos de M-01 a M-06: embriones criogenizados, registros de desarrollo, notas de la madre con frases como *"Frecuencia insuficiente"*, *"Anomalía cardíaca a las 12 semanas"*, *"Decisión: termino a las 16 semanas"*.
+
+La madre de Haruto no es solo una Integrada que amó a una especie alienígena. Es una científica que **iteró** sobre la vida humana hasta crear algo que funcionara. Cada intento失败的 (M-01 a M-06) fue deliberado, documentado, llorado en privado. Haruto es M-07 porque hubo seis versiones antes que él que no pudieron completar la misión de emitir 7.83 Hz de forma estable.
+
+### Atracción del Personaje: Madre como Figura Trágica-Cómica
+
+La madre de Haruto gana dimensión al mostrar que su amor por Lyra (sin conocerla) era genuino pero también **proyectado**. Creó a su hijo como un regalo para alguien que nunca había visto. Esto explica:
+
+- Por qué se fue: no soportaba la culpa de haber "fabricado" a su hijo para ser ancla de otra especie.
+- Por qué regresó: necesita ver si funcionó, si los 47 años de espera valieron la pena.
+- Por qué confrontar a Haruto le resulta difícil: no sabe cómo explicar que lo creó para otra persona.
+
+**Momento de tensión romántica:** Lyra descubre que existe una versión de Haruto (M-04, abortado a las 14 semanas) que tenía una estructura cerebral casi idéntica a la actual. Pregunta a Haruto: *"Si hubieras sido M-04... ¿serías la misma persona que amo ahora?"* Haruto no puede responder.
+
+### Mecánica Cómica de Novela Ligera
+
+**El Culto a los Hermanos Perdidos:**
+Lyra, incómoda con la idea de que Haruto tiene "versiones anteriores", propone honrar a M-01 a M-06 de alguna manera. Sin contexto cultural Velari para entierros, Lyra improvisa:
+
+- Crea un "altar" en la habitación de Haruto con los nombres de los seis anteriores.
+- Les habla cada noche como si fueran familiares mayores.
+- Cuando Haruto llega tarde, Lyra le regaña: *"¡No llegas tarde! ¡Tienes que dar ejemplo a tus hermanos muertos!"*
+
+Kenji, al ver el altar, asume que Haruto joinó un culto. La escena cómica: Kenji prepara un pastel para "los fratelli cosmicc" y Nishimura, al ver el altar, tiene un momento de reconocimiento oscuro porque recuerda algo del nodo sobre los "prototipos fallidos".
+
+### Semillas Plantadas para Tensión Futura
+
+- **Semilla 13_01:** Los registros muestran que M-03 sobrevivió hasta los 6 años. Fue el intento más exitoso, emitió la frecuencia correcta, y murió de un jeito natural. La madre lo ocultó de todos. ¿Murió o fue "retirado" por algo más?
+- **Semilla 13_02:** Los embriones de M-01 a M-06 aún están criogenizados en el sótano. Watcher_0 sabe de su existencia. ¿Los usará como leverage? ¿Haruto tendrá que decidir qué hacer con los restos de sus "yoes anteriores"?
+- **Semilla 13_03:** El padre de Haruto aparece mencionado en los registros pero no hay datos biométricos. ¿Es humano? ¿Fue parte del proyecto? ¿Está Vivo? Esto conecta con la madre: si el padre no sabe que Haruto fue diseñado como ancla de Lyra, la confrontación madre-Haruto tiene un segundo nivel.
+
+---
+
+## IDEA 2: Watcher_0 — El Sistema
