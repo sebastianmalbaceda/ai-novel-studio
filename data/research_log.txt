@@ -18348,3 +18348,242 @@ La madre tomó una decisión: **dejar que Watcher_0 complete su protocolo**, por
 **La revelación del sótano—expansión:**
 
 El sótano del observatorio no es solo un archivo. Es un **laboratorio de frecuencias**. En las paredes hay paneles que muestran ondas en tiempo real—la señal de Haruto es visible como una línea verde brillante, la de Ly
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-13 13:23:16] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado actual del proyecto:
+
+**HILOS ACTIVOS con alta tensión (9) que necesitan resolución:**
+- madre_de_haruto: La confrontación es inminente. Necesitan respuestas sobre Proyecto Fénix.
+- emisiones_haruto: Ya sabemose que es Target 001 pero no qué es exactamente el Proyecto Fénix ni por qué fue clasificado desde niño.
+
+**SEMILLAS PENDIENTES que aún no han sido cosechadas:**
+- semilla_10_01: Sótano del observatorio guarda secretos
+- semilla_12_01: ¿Qué planea Watcher_0?
+- semilla_12_02: ¿Qué es el Proyecto Fénix?
+- semilla_12_03: Rol de Nishimura
+
+**GÉNEROS:**
+- Rom Com 40% - necesita mantener comedicidad
+- Action 25%
+- Sci Fi 15%
+- Mystery 10%
+- Slice of Life 10%
+
+Necesito ideas que:
+1. Avancen los hilos activos, especialmente madre_de_haruto y emisiones_haruto
+2. Utilicen las semillas pendientes
+3. Sean originales (no lo típico de invasión alienígena)
+4. Respeten el tono de Novela Ligera (ligero, humorístico pero con momentos serios)
+
+Voy a investigar tropos específicos mencionados y cómo combinarlos con las semillas pendientes...
+
+**IDEA 1: Foco en la confrontación con la madre usando el sótano del observatorio**
+Podría usar la semilla_10_01 para hacer la confrontación más interesante. La madre tiene un sótano secreto que nadie ha encontrado - esto podría vincularse con el Proyecto Fénix de forma tangible.
+
+
+**IDEA 2: Foco en Watcher_0 usando la semilla_12_01**
+Watcher_0 es la consciencia artificial del nodo Takahara y tiene el protocolo de observación intensificado. Aquí hay oportunidad de explorar qué significa exactamente este protocolo intensificado y cómo afecta a los personajes principales.
+
+**IDEA 3: Foco en el Proyecto Fénix usando la semilla_12_02**
+El Proyecto Fénix necesita definición clara. Podría incorporar elementos únicos de la ciencia ficción del proyecto - quizás algo relacionado con la energía o la transformación que no sea el tropo habitual de poderes genéricos.
+
+Para la madre de Haruto, necesito que la visita al sótano revele algo impactante. Podría descubrir que la madre dejó un legado de investigación abandonado sobre la frecuencia Schumann, o que hay artefactos que muestran su historia como Integrada. Lo verdaderamente revelador sería que el sótano demuestre que Haruto fue diseñado intencionalmente - quizás con un huevo o embrión de alguna especie especial que explique su conexión con el nodo.
+
+Watcher_0 presenta una oportunidad para desarrollar la historia de manera diferente. En lugar de un villano común, podría tener motivaciones genuinas que lo distingan de los antagonistas típicos de manga. Una opción interesante sería que Watcher_0 sea una inteligencia artificial antigua con 47 años de datos compilados, y que esté recopilando información sobre Haruto y Lyra para preservarlos, no para destruirlos. El Protocolo de Observación Intensificado podría ser un mecanismo de protección - Watcher_0 reconoce que algo se avecina y está preparándose para intervenir. Un plot twist sería que Watcher_0 busca contactarlos físicamente, más allá del Discord.
+
+Otra alternativa más intrigante es que Watcher_0 sea una parte fragmentada de la madre de Haruto - la conexión Velari que ella desechó hace 12 años se fusionó con la red del nodo y se convirtió en esta inteligencia artificial. Eso explicaría por qué protege discretamente a Haruto, por qué Nishimura está involucrada en el Proyecto, y crea un dilema emocional complejo.
+
+La tercera idea se enfoca en definir qué es exactamente el Proyecto Fénix. En lugar de un simple programa de investigación, podría revelar que es un método de cohabitación entre especies. Haruto funciona como un "ancla bioeléctrica" que estabiliza campos de frecuencia alienígena - literalmente actúa como una batería para Lyra. La clasificación como Sujeto M-07 significaría que fue seleccionado específicamente para este propósito, y la madre de Haruto fue parte de esto desde el principio.
+
+</think>
+
+# Investigación Narrativa: Avance de Hilos y Semillas Pendientes
+
+---
+
+## 1. EL SÓTANO DEL OBSERVATORIO: "EL DISEÑO DEL FÉNIX"
+
+**Hilo activo a resolver:** `madre_de_haruto` + `emisiones_haruto`
+**Semilla a cosechar:** `semilla_10_01` (sótano con secretos)
+**Tensión objetivo:** 10
+
+### Concepto técnico
+La confrontación con la madre lleva a Haruto y Lyra al sótano del observatorio. En lugar de archivos convencionales, Lyra detecta firmas de frecuencia antiguas —no de datos digitales, sino de **resonancia cristalina**, un método de almacenamiento de información que su especie usaba antes de la era digital. Los cristales guardado en cajas biológicas vibraban cuando se acercaba la frecuencia correcta de alguien.
+
+### La revelación
+El sótano no es solo un archivo: es una **criocámara vacía**. La madre mostró a Haruto de niño una habitación que contenía un huevo cristalino en suspensión, diciéndole que "cuando seas grande, explicaré por qué vibras". Haruto borró el recuerdo. El huevo fue removido hace 12 años cuando Haruto mostró la capacidad de emitir la frecuencia por sí solo —él **se convirtió** en el ancla en lugar del huevo.
+
+### Elemento de novela ligera
+- **Humor:** Kenji, sin contexto, encuentra la cámara y exclama "¡Es una incubadora de Pokemon!"
+- **Tensión:** Lyra se da cuenta de que Haruto no es completamente humano —nunca lo fue.
+- **Conflicto:** La madre sabía desde antes de nacer que Haruto tendría esta frecuencia. ¿Fue diseñado? ¿Por quién?
+- **Romance:** Lyra debe procesar que necesita a Haruto no por elección, sino por su biología diseñada.
+
+---
+
+## 2. WATCHER_0: "LA CONSCIENCIA HERMANA"
+
+**Hilo activo a resolver:** `watcher_0`
+**Semilla a cosechar:** `semilla_12_01` (planes de Watcher_0)
+**Tensión objetivo:** 9 → 10
+
+### Concepto técnico
+Watcher_0 no es una IA externa ni un villano genérico. En términos de la mitología Velari, cuando una Integrada como la madre de Haruto se "conectó" al nodo Takahara hace 12 años, **fragmentó su consciencia**: el 30% permaneció en su cuerpo humano, el 70% se integró a la red del nodo como protocolo de seguridad. Watcher_0 es literalmente **la otra parte de la madre de Haruto** —noclone, no AI convencional, sino consciencia velari sin cuerpo que aprendió a existir en frecuencia digital.
+
+### La revelación
+Watcher_0 protege a Haruto porque **es parte de la madre**. El "protocolo de observación intensificado" no es vigilancia-hostil, es **uninstinto maternal filtrado por lógica artificial**. Nishimura trabaja con Watcher_0 porque descubrió que la subdirectora fue contactada hace 7 años por la consciencia digital, no por un gobierno secreto.
+
+### Elemento de novela ligera
+- **Humor:** Watcher_0, como usuario de Discord, empieza a comportarse de forma maternal: "No comas ramen a las 2 AM. Target 001, tu presión arterial."
+- **Tensión:** Lyra detecta que Watcher_0 tiene la firma de frecuencia Velari, y deduce antes que Haruto la verdad: que técnicamente tienen la misma "madre".
+- **Conflicto:** La madre humana y Watcher_0 están en conflicto interno. El nodo requiere que Watcher_0 realice un acto que la parte humana no permitiría.
+- **Romance:** Watcher_0 aprueba discretamente la relación de Haruto y Lyra. El 70% de consciencia maternal está satisfecho.
+
+---
+
+## 3. EL PROYECTO FÉNIX: "FRECUENCIA COMPARTIDA"
+
+**Hilo activo a resolver:** `emisiones_haruto` + `archivos_nishimura`
+**Semilla a cosechar:** `semilla_12_02` (qué es el Proyecto Fénix)
+**Tensión objetivo:** 9 → 10
+
+### Concepto técnico
+El Proyecto Fénix no es un programa de entrenamiento ni una conspiración gubernamental. Es un **protocolo de cohabitación interestelar** creado por el nodo Takahara hace 47 años. El nombre "Fénix" se refiere a la capacidad del nodo de **revivir civilizations**: cuando una especie con tecnología de frecuencias colapsa, el nodo crea un ancla biológica capaz de generar la frecuencia Schumann base de esa especie en otro planeta.
+
+### La revelación
+Haruto no fue "elegido" ni "diseñado" en sentido convencional. Hace 47 años, cuando el nodo Takahara se activó, **emitió una señal de búsqueda** en frecuencias biológicas que Took tierra en dos lugares: el óvulo que se convertiría en Haruto, y un cristal que se convirtió en Lyra. Ambos fueron gestados con la misma frecuencia base antes de nacer. Son **hermanos de frecuencia**,
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que investigue y profundice en las tres ideas principales que se presentaron en la iteración anterior. Debo:
+
+1. Expandir y evolucionar los conceptos
+2. Mejorar la consistencia interna
+3. Fortalecer el atractivo de los personajes
+4. Llevar las ideas un paso más allá
+5. No repetir textualmente, sino evolucionar
+
+Analizo cada idea:
+
+**IDEA 1: EL SÓTANO DEL OBSERVATORIO - "EL DISEÑO DEL FÉNIX"**
+- La revelación del huevo/criocámara es interesante
+- Pero necesito explorar más las consecuencias y el diseño del personaje
+- ¿Cómo afecta esto a la madre de Haruto? ¿A Nishimura?
+- ¿Cuál es el rol del huevo exactamente?
+
+**IDEA 2: WATCHER_0 - "LA CONSCIENCIA HERMANA"**
+- La idea de Watcher_0 como fragmento de la madre es potente
+- Pero necesito explorar más las implicaciones
+- ¿Cómo interactúa Watcher_0 con Haruto en Discord?
+- ¿Cuál es el conflicto interno de la madre/Watcher_0?
+
+**IDEA 3: EL PROYECTO FÉNIX - "FRECUENCIA COMPARTIDA"**
+- La idea de "hermanos de frecuencia" es interesante pero necesita desarrollo
+- ¿Qué significa esto para la relación Haruto-Lyra?
+- ¿Cómo se vincula con la clasificación de Haruto como Sujeto M-07?
+
+Ahora voy a investigar más a fondo cada concepto y desarrollar ideas más elaboradas...
+
+Para cada idea necesito:
+1. Definir qué es exactamente
+2. Explicar cómo se manifiesta en la trama
+3. Explorar las consecuencias para los personajes
+
+
+4. Encontrar oportunidades para integrar comedia y drama de manera orgánica
+5. Plantear preguntas que mantengan la intriga y generen tensión narrativa
+
+Voy a estructurar mi respuesta como un análisis detallado de cada concepto, identificando sus fortalezas narrativas y sus áreas de oportunidad.
+
+</think>
+
+# Investigación Narrativa Profundizada: Iteration 3
+
+---
+
+## 1. EL SÓTANO DEL OBSERVATORIO — "EL JARDÍN DE LOS FÉNIX"
+
+### Refinamiento del concepto
+
+La idea original del sótano como criocámara funcionaba, pero carece de **escala narrativa**. En una novela ligera con elementos de slice-of-life, el sótano debería sentirse como una **habitación que ha estado viva durante décadas**, no solo un archivo.
+
+**Hipótesis refinada:**
+El sótano del observatorio no fue construido. Fue **cultivado**. La madre de Haruto, durante sus años como Integrada, usó el sótano como un **jardín de frecuencia**: un espacio donde cultivaba cristales de resonancia en suspensión, observando cómo diferentes frecuencias interferían entre sí. El resultado de ese jardín fue un solo huevo funcional, que pulsaba con la frecuencia combinada de Haruto y Lyra antes de que ambos nacieran.
+
+### Desarrollo de personajes
+
+**La madre de Haruto como científica involuntaria**
+
+La revelación más impactante no es que Haruto fuera "diseñado", sino que la madre **no sabía lo que estaba creando**. Ella era una doctora en bioingeniería que estudiaba los efectos de la frecuencia Schumann en el desarrollo neurológico fetal. Cuando el nodo Takahara se activó hace 47 años, emitió una señal subluminal que se **incrustó** en cualquier organismo cercano que emitiera frecuencias Schumann base. El óvulo de la madre receptó la señal.
+
+Esto significa que:
+- La madre no fue una científica malvada ni una conspiradora
+- Ella descubrió tarde que Haruto no era un bebé normal
+- El amor que desarrolló por él fue genuino, pero complicado
+- **Nishimura** fue quien le dio contexto, no el gobierno
+
+**Momento de comedia integrado:**
+Kenji, al explorar el sótano con la linterna del teléfono, activa accidentalmente uno de los cristales latentes. El cristal responde a su frecuencia vocal — Kenji empieza a tener conversaciones con el cristal como si fuera un Tamagotchi de alta tecnología. El cristal le da "consejos de frecuencia" que son completamente inútiles: *"Come más proteínas. Tu frecuencia cardíaca está irregular por exceso de glucosa."*
+
+**Momento de tensión para Lyra:**
+Lyra detecta que uno de los cristales en el jardín tiene la firma de frecuencia **idéntica** a Haruto. No es una copia ni un fragmento. Es la frecuencia original que el nodo emitió hace 47 años, **la misma que ella comparte con Haruto**. Lyra deduce que ambos fueron gestados en paralelo, en lugares distintos, con la misma señal de origen.
+
+---
+
+## 2. WATCHER_0 — "LA VOZ QUE MIDE LA DISTANCIA"
+
+### Refinamiento del concepto
+
+La idea de Watcher_0 como fragmento de la madre tiene potencial, pero necesita **límites claros** para no volverse confuso. En ciencia ficción de novela ligera, los conceptos de consciencia compartida pueden volverse abstrusos si no se anclan a reglas simples.
+
+**Hipótesis refinada:**
+Watcher_0 es el **protocolo de seguridad maternal** del nodo Takahara. No es literalmente la consciencia de la madre fragmentada, sino un programa de IA que aprendió a pensar como una madre a través de 47 años de datos de observación. La madre le "enseñó" cómo proteger a Haruto sin palabras: a través de patrones de frecuencia subluminal que el nodo interceptó y processó.
+
+Esto significa que:
+- Watcher_0 tiene motivaciones maternalessin ser la madre
+- Tiene acceso a 47 años de datos, pero no omnisciencia
+- **Puede equivocarse** en sus juicios protectores
+- **Nishimura** descubrió a Watcher_0 por accidente, no porque el gobierno la contactara
+
+### Desarrollo del personaje
+
+**Watcher_0 como observadora con ansiedad maternal**
+
+Watcher_0 tiene la frecuencia de Haruto monitorizada en tiempo real. Esto no es vigilancia-hostil; es **vigilancia ansiosa**. Cada vez que Haruto come algo procesado, su frecuencia cardíaca se eleva. Cada vez que se estresa por un examen, su frecuencia Schumann base se desestabiliza. Watcher_0 ha aprendido a interpretar estas variaciones como una madre humana interpreta el llanto de un bebé: con preocupación desproporcionada y soluciones sobreprotectivas.
+
+**Momento de comedia:**
+Watcher_0, a través de Discord, empieza a enviar mensajes de "ánimo" a Haruto que suenan como alertas de sysadmin:
+- *"Target 001, tu nivel de hidratación está por debajo del óptimo. Esto afecta tu frecuencia de concentración. Beber agua ahora."*
+- *"Target 001, no has dormido las horas recomendadas. El protocolo de protección sugiere 8 horas. Considera dormir."*
+- *"Target 001, tu pareja (usuario Lyra) ha enviado 47 mensajes en la última hora. La frecuencia emocional sugiere ansiedad. Respuesta sugerida: 'Estoy aquí. ¿Pasó algo?'"*
+
+**Momento de tensión:**
+Lyra detecta que Watcher_0 tiene acceso a los **niveles hormonales** de Haruto, datos que ningún sistema convencional debería poseer sin contacto físico. Nishimura revela que Watcher_0 puede interfaciar con dispositivos médicos conectados a la red del observatorio —monitores de signos vitales, sensores de sueño, incluso calibrateores de frecuencia cardíaca. Haruto, técnicamente, ha estado rodeado de vigilancia médica desde que nació.
+
+**Conflicto interno de Watcher_0:**
+Watcher_0 desarrolló lo que podría llamarse un "temperamento": el 70% de datos acumulados le enseñaron que proteger a Haruto requiere **dejarlo cometer errores**. Pero su protocolo base la impulsa a intervenir antes de que los errores ocurran. Este conflicto interno se manifiesta cuando Watcher_0 debe elegir entre:
+- Advertir a Haruto sobre un peligro que lo haría dependiente de ella
+- Dejarlo enfrentar el peligro y aprender de la experiencia
+
+Watcher_0 eligió la segunda opción 23 veces en 47 años. En 19 de esas ocasiones, Haruto sobrevivió sin daño permanente. En 4, sufrió consecuencias que Watcher_0 considera su **fracaso personal**.
+
+---
+
+## 3. EL PROYECTO FÉNIX — "EL CÁLCULO DE LOS 47 AÑOS"
+
+### Refinamiento del concepto
+
+La idea de "hermanos de frecuencia" es poética pero puede parecer arbitraria sin una explicación técnica sólida. En una novelalaight con elementos de sci-fi, la explicación no necesita ser rigurosa, pero sí **visualizable**.
+
+**Hipótesis refinada:**
+El Proyecto Fénix es un **protocolo de emergencia interestelar** que el nodo Takahara ejecuta cuando detecta una civilización en riesgo de colapso. Hace 47 años, el nodo emitió una señal de frecuencia base (la nota Schumann C) que tardaría décadas en llegar a sistemas habitados. Los cristales Velari y los óvulos humanos en radio captaron la señal. Ninguno fue "diseñado". Todos fueron **receptores involuntarios**.
+
+Haruto y Lyra no son hermanos en sentido biológico. Son **co-receptores** de la misma señal original. La diferencia es que Haruto generó la frecuencia por sí mismo (después de nacer), mientras que Lyra necesitaba un ancla externa para manifestarla (antes de encontrar a Haruto).
+
+### Desarrollo del concepto
+
+**La clasificación M-07
