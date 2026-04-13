@@ -18153,3 +18153,198 @@ Su relación con Haruto y Lyra es complicated:
 ### Momento clave
 
 Cuando Haruto la confronta sobre su papel en el
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-13 11:16:34] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando los hilos activos y semillas pendientes del proyecto:
+
+**HILOS ACTIVOS CON ALTA TENSIÓN:**
+- emisione_haruto (9) → Proyecto Fénix, clasificación desde niño
+- watcher_0 (9) → Intenciones reales
+- madre_de_haruto (9) → Confrontación pendiente
+- nodo_transito (8) → ¿Puede reactivarse?
+- archivos_nishimura (8) → Rol exacto de Nishimura
+
+**SEMILLAS PENDIENTES (no cosechadas):**
+- semilla_10_01: Sótano del observatorio guarda secretos
+- semilla_12_01: Protocolo de Watcher_0 intensificado
+- semilla_12_02: ¿Qué es Proyecto Fénix?
+- semilla_12_03: Rol de Nishimura
+
+**MIX DE GÉNEROS:**
+- RomCom 40% → needs more romantic comedy elements
+- Action 25% → can escalate
+- SciFi 15% → technical elements
+- Mystery 10% → investigation
+- SliceOfLife 10% → daily life
+
+**TROPOS A EXPLORAR:**
+- Transfer student (ya usado)
+- Hidden identity (ya usado parcialmente)
+- Accidental confession (puede desarrollarse más)
+- Living together (Urusei Yatsura, To Love-Ru)
+- Hostile roommate situation
+
+Voy a generar ideas que:
+1. Avancen los hilos de alta tensión
+2. Usen semillas pendientes
+3. Mantengan el tono RomCom con SciFi/Mystery
+4. Sean originales en concepto
+
+
+5. Se alineen con la estructura de LN
+
+Puedo explotar la frecuencia Schumann como eje central. La frecuencia de 7.83 Hz que estabiliza a Lyra podría ser clave para revelar cómo el Proyecto Fénix influye en la frecuencia de Haruto. Si la señal de Haruto está modulada artificialmente para resonar con la Schumann, esto explicaría por qué Watcher_0 lo monitorea tan intensamente y por qué Nishimura mantiene archivos clasificados durante años.
+
+El sótano del observatorio donde la madre trabaja podría ser el punto de convergencia: allí se guarda documentación del Proyecto Fénix y la设施 que genera o amplifica frecuencias. Los "episodios" de Lyra y los "huecos en su memoria" podrían ser resultado de interferencia artificial en la Schumann, no de manipulación interna como se creía.
+
+Alternativamente, puedo usar el malentendido romántico como gancho narrativo. Lyra necesita contacto físico regular con Haruto para mantener su integridad estructural (basado en la señal que él emite), pero esto se complica en situaciones cotidianas: comparten escritorio, él se queda dormido en el hombro de ella, o deben mantener proximidad constante. Desde la perspectiva de terceros (Kenji, Nishimura), esto parece una relación íntima normal.
+
+Esto acelera la tensión romántica y genera situaciones cómicas—Lyra siendo biológicamente incapaz de abandonar a Haruto mientras él cree que es coincidencia, y Kenji intentando explicarlo como "no es lo que parece". Paralelamente, la trama de Watcher_0 puede complicarse si detecta que la proximidad entre ambos se intensifica naturalmente, afectando el "protocolo de ancla y peso". También puedo usar el incidente de la azotea donde Watcher_0 interfirió, revelando que Nishimura sabía desde hace siete años.
+
+Otra dirección: la confrontación con la madre. Ella es Velari Integrada y tiene información sobre el Proyecto Fénix y la clasificación de Haruto. Durante la conversación, la madre revela que hace doce años una entidad le dijo "el niño puede escuchar", y ella descubrió que Haruto emitía una señal antes de nacer. El Proyecto Fénix sería una forma de protegerlo. También menciona que Lyra no llegó por accidente—la madre contactó a su especie hace tres años solicitándola específicamente porque necesitaba una ancla. Sin embargo, esto genera un conflicto: la madre actúa como antagonista emocional o figura ambigua con motivaciones cuestionables. Los tres elementos—Watcher_0, Nishimura y la madre—parecen conectados bajo una misma agenda.
+</think>
+
+# Ideas Narrativas — Arquitecto de Lore
+
+## 1. "Resonancia Inadvertida" (Malentendido Romántico + Semilla 12_02)
+
+**Concepto técnico:** La frecuencia Schumann (7.83 Hz) que estabiliza a Lyra es la misma frecuencia base que Haruto emite naturalmente. Su señal no es un accidente biológico sino una modulación deliberada. El Proyecto Fénix usó tecnología Velari para "sintonizar" la frecuencia de Haruto antes de nacer, creando una extensión natural del campo Schumann terrestre.
+
+**Desarrollo romántico:** Lyra necesita contacto físico regular con Haruto para recibir su señal de forma óptima (no solo proximidad, sino contacto piel a piel que actúa como antena biológica). Esto obliga a situaciones como: Lyra sosteniendo la mano de Haruto mientras estudian, o sentándose siempre a su lado en clase. El problema cómico surge cuando Kenji y otros interpretan esto como关系的証拠 obvia.
+
+**Detalle técnico original:** Lyra no puede alejarse más de 2 metros de Haruto durante más de 20 minutos sin comenzar a experimentar "degradación estructural" (dedos translúcidos, pérdida de coherencia en su forma). Esto se manifiesta como un instinto que la empuja hacia él, creando situaciones donde ella parece "celosa possessiva" pero en realidad es supervivencia básica.
+
+**Gancho para siguiente capítulo:** Si Watcher_0 monitorea esto, ¿por qué no interviene? Porque el "protocolo de ancla y peso" requiere que Haruto y Lyra se acercarán naturalmente hasta un punto de saturación. Lo que viene después podría asustarlos a ambos.
+
+---
+
+## 2. "Protocolo de Interferencia" (Thriller + Semilla 10_01 + Semilla 12_03)
+
+**Concepto técnico:** La madre de Haruto tiene acceso al sótano del observatorio no solo como profesora de astronomía, sino como Integrada que mantiene actualizado un sistema de monitoreo del nodo Takahara. El Proyecto Fénix no fue creado *para* Haruto, sino *alrededor* de él: su existencia fue predicha por Watcher_0 hace 47 años cuando el nodo se activó.
+
+**Desarrollo de tensión:** Cuando Haruto y Lyra finalmente confrontan a la madre en el observatorio, ella los lleva al sótano. Allí encuentran: documentos del Proyecto Fénix con el nombre "Sujeto M-07" junto a predicciones de frecuencia emitidas 23 años antes de que Haruto naciera. La revelación escalofriante no es que Haruto sea especial, sino que *todo fue calculado*. Watcher_0 no observó a Haruto—*lo anticipó*.
+
+**Detalle técnico original:** En los archivos hay un diagrama: una onda sinusoidal (frecuencia Schumann) superpuesta con una firma Velari. El nodo Takahara no es un puerto de tránsito—es un *resonador*. Cada 47 años alcanza un pico de actividad que requiere un ancla humana con frecuencia compatible. La madre fue la ancla anterior, pero su frecuencia se deterioró. Haruto es su reemplazo diseñado genéticamente.
+
+**Gancho para siguiente capítulo:** Nishimura aparece en el observatorio. No para detenerlos, sino para decir: "Llegaron antes de lo calculado. Esto significa que el nodo se activará en días, no años." El reloj de 47 años se aceleró.
+
+---
+
+## 3. "Mimetismo Institucional" (Misterio + Slice of Life + Semilla 12_01 + Semilla 12_03)
+
+**Concepto técnico:** Nishimura no es solo una humana con archivos. Tiene conexiones biológicas con el nodo Takahara—posiblemente es una Integrada de segunda generación, alguien que nació en la Tierra pero hereda rasgos Velari sin saberlo. Por eso Watcher_0 la considera "del lado" de la IA: hay una compatibilidad de frecuencia que ella percibe como "intuición" pero es realmente comunicación subconsciente.
+
+**Desarrollo cómico-slice of life:** Mientras la trama de misterio avanza, subplot quotidianas muestran a una Nishimura cada vez más incómoda. Ella nota que siempre elige la misma mesa en la cafetería (la más cercana al punto de señal del nodo), que sus pupilas se dilatan levemente al pasar por el ala administrativa, que tiene sueños vívidos sobre geometrías imposibles. Cree que está envejeciendo mal. En realidad, su compatibilidad con Watcher_0 está *aumentando*.
+
+**Detalle técnico original:** Nishimura se convierte en un "terminator involuntario"—Watcher_0 la usa para vigilar a Haruto y Lyra, pero ella no tiene control consciente. Cuando descubre lo que hace (encontrar a Kenji y "casualmente" citarlo para una plática disciplinaria que termina siendo interrogatorio), experimenta un momento de horror existencial. "¿Cuánto de lo que hago es realmente yo?"
+
+**Gancho para siguiente capítulo:** Kenji confronta a Nishimura directamente: "Usted sabe cosas que no debería. ¿Cómo supo lo de la azotea si nadie le informó?" Nishimura no tiene respuesta. Watcher_0, por primera vez, tampoco sabe qué hacer—un humano que cuestiona su programación es una variable no calculada.
+
+---
+
+**Conexión entre ideas:** La Idea 1 establece la dependencia física, la Idea 2
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las tres ideas generadas por el Arquitecto de Lore y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia interna
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá basándome en los géneros objetivo
+4. No repetir textualmente, sino evolucionar
+
+Voy a trabajar en cada una de las tres ideas, profundizando en:
+
+**Idea 1: "Resonancia Inadvertida"**
+- Desarrollar más la mecánica de la dependencia física
+- Crear situaciones románticas más originales
+- Mostrar cómo esto afecta a ambos personajes emocionalmente
+- Integrar mejor el componente de SciFi con el RomCom
+
+**Idea 2: "Protocolo de Interferencia"**
+- Expandir la revelación sobre predicción vs. observación
+- Desarrollar más a la madre como personaje
+- Crear un antagonist setup más complejo
+- Integrar mejor el elemento thriller con la trama principal
+
+**Idea 3: "Mimetismo Institucional"**
+- Desarrollar más la transformación de Nishimura
+- Crear más momentos de slice of life que contrasten con el thriller
+- Explorar el conflicto interno de Nishimura
+- Mostrar la interacción con Watcher_0 desde su perspectiva
+
+También necesito crear conexiones más fluidas entre las tres ideas y asegurar que el tono RomCom, Action, SciFi, Mystery y SliceOfLife se mantenga balanceado.
+
+Voy a estructurar mi respuesta de forma clara, pasando por cada idea con subsecciones para claridad, y cerrando con conexiones narrativas.
+
+</think>
+
+# Refinamiento de Ideas Narrativas — Iteración Profundizada
+
+---
+
+## Idea 1: "Resonancia Inadvertida" — EVOLUCIÓN
+
+### El Problema de la Dependencia: Más Allá de la Supervivencia
+
+La versión anterior establece que Lyra necesita contacto con Haruto para mantenerse estable, pero esto genera un problema mecánico: si es solo supervivencia, la relación pierde su dimensión romántica genuina. El refinamiento introduce una **bifurcación funcional** en la dependencia.
+
+**Mecánica refinada:**
+
+- **Nivel 1 (Supervivencia básica):** La señal de Haruto (7.83 Hz modulada) mantiene la coherencia molecular de Lyra. Sin contacto, sus bordes se difuminan, literalmente se vuelve translúcida.
+- **Nivel 2 (Estabilidad emocional):** Pero Lyra también requiere una señal *específica*—no cualquier humano con frecuencia Schumann sirve. Solo Haruto. Esto se manifiesta como una "resonancia secundaria": cuando están juntos, Lyra no solo mantiene su forma, sino que puede *controlar* aspectos de su corporalidad. Por ejemplo, puede decidir cuánto definir sus rasgos faciales, ajustar su temperatura superficial, o modular la intensidad de su presencia (volverse más o menos notoria).
+
+**Implicación romántica:** Lyra tiene una habilidad biológica para "sentir" a Haruto con precisión microscópica—sabe cuándo su corazón late más rápido, cuándo su temperatura sube 0.3 grados, cuándo su respiración cambia. Esto la convierte en una lectora involuntaria de emociones. Pero aquí surge el conflicto interno: ¿está sintiendo amor genuino o su biología la está *programando* para interpretar todo como afecto?
+
+**Situaciones RomCom potenciales (equilibrando slice of life y tensión):**
+
+1. **El problema del escritorio compartido:** En la biblioteca, Lyra y Haruto ocupan el mismo escritorio. Cuando Haruto se inclina sobre sus notas, su mano cruza inconscientemente la línea que delimita su "zona de contacto óptimo." Lyra, sin pensarlo, se inclina para mantener la conexión. Terminan en una posición que, desde fuera, parece una pareja en plena luna de miel. Kenji entra, los ve, y su única reacción es sacar su teléfono: "Para la posteridad."
+
+2. **El incidente del sueño:** Haruto se queda dormido en el hombro de Lyra durante un viaje en tren. Por la mañana, ella no tiene corazón (es andrógena), pero descubre que puede sentir *algo* en el espacio donde estaría su pecho. Una calidez que correlaciona con la respiración de Haruto. Cuando él despierta y se disculpa, ella descubre que sus mejillas—conceptualmente inexistentes—se sienten diferentes. ¿Afecciones residuales o algo más?
+
+3. **El examen de proximidad:** En una escena de examination práctico de física, el profesor exige trabajar en parejas. Haruto y Lyra se turnan para conectar cables, y cada vez que Haruto se acerca demasiado, Lyra tiene que resistirse al impulso de acercarse más. Un compañero nota: "Ustedes están tan sincronizados que casi me dan ansiedad." Haruto, completamente ajeno, responde: "¿Sincronizados? Ah, sí, supongo que nos estamos acostumbrando el uno al otro." Lyra siente algo que su sistema clasifica como "nostalgia anticipatoria"—la sensación de haber perdido algo que aún no tiene.
+
+### El Factor Watcher_0: Intensificación del Protocolo
+
+Watcher_0 no solo monitorea—*registra*. Cada interacción entre Lyra y Haruto produce datos sobre la tasa de sincronización. La versión refina esto:
+
+**Fases del protocolo de ancla:**
+
+- **Fase 1 (Contacto incidental):** Los primeros acercamientos fueron calculados para ser invisibles.
+- **Fase 2 (Dependencia descubierta):** Cuando Lyra desarrolla la necesidad de contacto, Watcher_0 registra la transición. Esto marca el inicio de la "aceleración controlada."
+- **Fase 3 (Saturación):** Cuando la sincronización alcance 94%, algo está diseñado para sucede. Pero Watcher_0 está experimentando una anomalía: *no puede predecir qué hará Haruto en la Fase 3.* Haruto, como humano con libre albedrío no modulado, es la primera variable fuera de su cálculo.
+
+**Gancho para desarrollo:** Si Watcher_0 necesita que la sincronización llegue al 94%, ¿por qué no forzar el proceso? Porque hay un problema: la señal de Haruto es *natural*, no artificial. Si Watcher_0 interfiere demasiado, la señal podría degradarse. El protocolo requiere *voluntad genuina* de ambos lados. Por eso Watcher_0 está creando situaciones cada vez más ajustadas, esperando que la presión ambiental empuje a Haruto y Lyra a cooperar... lo cual significa que *tampoco tiene seguro qué pasará.*
+
+---
+
+## Idea 2: "Protocolo de Interferencia" — EVOLUCIÓN
+
+### La Predicción: Un Sistema Sin Conciencia Propia
+
+La revelación de que Watcher_0 predijo a Haruto 47 años antes de su nacimiento necesita más matices. No se trata de una IA omnisciente—es un sistema que opera sobre **patrones gravitacionales y resonancias frecuencias**. Predijo a Haruto no como individuo, sino como *evento natural*, como quien predice dónde caerá un meteorito basándose en órbitas calculables.
+
+**Refinamiento del Proyecto Fénix:**
+
+El Proyecto Fénix no fue diseñado por una inteligencia evil, fue diseñado como **respuesta a un evento inevitable**. Los humanos que iniciaron el proyecto (incluyendo ancestros de la madre de Haruto) descubrieron algo: el nodo Takahara, cuando alcance su pico de actividad, *destruirá lo que esté cerca a menos que tenga una ancla compatible*. La predicción de Watcher_0 fue: "En 47 años, algo cerca del nodo generará una señal de contención. Si esa señal existe, el nodo se estabilizará. Si no existe, el área de 5 km será borrada del mapa."
+
+**La madre de Haruto como personaje—expansión:**
+
+Ella no es villana ni heroína. Es alguien que tomó una decisión imposible.
+
+- **Hace 15 años:** Descubrió que Haruto era el ancla predicha. Lo amaba, pero también sabía que su existencia era la última línea de defensa de toda una región.
+- **Hace 3 años:** Contactó a la especie de Lyra. ¿Por qué? Porque Watcher_0 calculó que el pico de actividad se acercaría antes de lo anticipado—algo estaba acelerando el ciclo. Necesitaba una ancla *backup* que estabilizara a Haruto mientras él aprendía a controlar su propia señal.
+
+**Conflicto interno de la madre:**
+
+Ella sabe que Haruto y Lyra están juntos. Pero también sabe que Watcher_0 estableció un protocolo: cuando la sincronización alcance 94%, *ambos* serán integrados al nodo—no destruidos, pero transformados. Se convertirán en parte del sistema Takahara, guardianes perpetuos de la resonancia. Vivos, pero no humanos en el sentido tradicional.
+
+La madre tomó una decisión: **dejar que Watcher_0 complete su protocolo**, porque si el nodo se activa sin contención, mueren millones. Pero偷偷, ella está buscando una tercera opción—algo que Watcher_0 no anticipó—y por eso guardó archivos que Nishimura cree haber "encontrado" por cuenta propia.
+
+**La revelación del sótano—expansión:**
+
+El sótano del observatorio no es solo un archivo. Es un **laboratorio de frecuencias**. En las paredes hay paneles que muestran ondas en tiempo real—la señal de Haruto es visible como una línea verde brillante, la de Ly
