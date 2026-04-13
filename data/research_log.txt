@@ -18587,3 +18587,175 @@ Haruto y Lyra no son hermanos en sentido biológico. Son **co-receptores** de la
 ### Desarrollo del concepto
 
 **La clasificación M-07
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-13 15:14:53] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Let me analyze the active threads and pending seeds to generate 3 concrete, original ideas that advance the story while maintaining the light novel tone with the genre mix specified.
+
+Key pending items:
+- semilla_10_01: Observatory basement secrets (Proyecto Fénix, Haruto's nature)
+- semilla_12_01: Watcher_0's plan with "anchor and weight" protocol
+- semilla_12_02: What is Proyecto Fénix and who created it?
+- semilla_12_03: Nishimura's role in the 47-year plan
+
+Active threads to advance:
+- madre_de_haruto: Confrontation incoming
+
+
+- emisiones_haruto: What exactly is Proyecto Fénix?
+- watcher_0: Hostile or protective?
+- archivos_nishimura: Is Nishimura human?
+
+Now I'm working through scientifically-grounded concepts that fit the rom-com and sci-fi mystery blend. For the first idea, I'm exploring the possibility that Haruto isn't artificially created but rather a naturally occurring quantum phenomenon that Proyecto Fénix was designed to locate and study rather than manufacture.
+
+The files suggest a pattern: roughly every 50-70 years, someone is born with a bioelectric signature that resonates at the frequency of a transit node—these are the "Fénix" individuals. The emotional weight comes from discovering his father was also a Fénix candidate who either failed or was rejected, which deepens the mystery around his absent parent while connecting to the broader mythology.
+
+For the second concept, I'm thinking about how Watcher_0's nature could function as a romantic mechanic itself—the "ancla" and "peso" protocols might be literal technical constraints that create an emotional dependency, similar to how supernatural bonds drive comedy and tension in shows like Urusei Yatsura.  In Velari culture, this anchor-weight pairing is their most sacred form of intimacy, and Watcher_0, having witnessed thousands of these bonds over decades, sees Haruto and Lyra as participants in something profound and irreplaceable. The comedic payoff is Lyra having to confess that by Velari standards, they're essentially already married in the deepest sense.
+
+Now I'm exploring what Nishimura actually is—the "Ghost Protocol" suggests she's not another alien at all.  She's a human who underwent a partial Velari integration seven years ago, making her a failed hybrid caught between two species. Watcher_0 created her as an experiment to build a bridge entity that could manage the node without needing Haruto and Lyra, but the process left her incomplete and traumatized. She calls them "unresolved elements" because she sees herself as the solution that should have replaced them entirely. The tragedy is that she fears full node activation will complete her unwanted integration and erase her humanity, so she's driven to keep them apart—not out of malice, but desperation to prevent her own dissolution.
+
+Now I'm mapping out the three narrative threads I need to develop: deepening Haruto's connection to his mother and her emissions alongside the seed element, exploring Watcher_0's hidden complicity with Haruto through rom-com dynamics, and weaving together Nishimura's fragmented files with Watcher_0's involvement and the final seed. I'll structure these as interconnected plot advances for the light novel framework.
+</think>
+
+# IDEAS NARRATIVAS — CRÓNICAS DEL INSTITUTO ESTELAR
+## Sesión de Investigación de Lore · Hilos Activos y Semillas Pendientes
+
+---
+
+## IDEA 1 — "El Fénix No Se Crea. Se Reconoce."
+**Hilo avanzado:** `emisiones_haruto` · `madre_de_haruto` · **Semilla cosechada:** `semilla_10_01`
+
+**Núcleo técnico-narrativo:**
+El sótano del observatorio no contiene experimentos. Contiene *registros históricos*.
+
+La revelación que la madre de Haruto guardó durante años no es que su hijo fue modificado o manufacturado —eso sería lo esperado y lo más fácil—. La verdad es más perturbadora y más hermosa: **el Proyecto Fénix es un programa de catalogación, no de creación.**
+
+Cada 47 a 70 años, de forma completamente natural, nace un ser humano cuyo campo bioeléctrico genera lo que los Velari llaman *coherencia espontánea*: una frecuencia que no debería existir en biología terrestre, pero existe. Los archivos del sótano muestran fichas de individuos anteriores con nombres, fechas, coordenadas. Algunos murieron jóvenes. Uno vivió hasta los noventa sin saber nada. Otro fue contactado y entró en colapso psíquico.
+
+Haruto es el **séptimo intento documentado**. De ahí: `M-07`.
+
+La carga emocional para el capítulo: Haruto hojea las fichas anteriores —fotografías en blanco y negro, polaroids, impresiones digitales— y entiende que no es un elegido. Es el **último de una lista de personas que no pidieron serlo.** La madre lo sabía desde antes de que naciera porque la entidad que contactó hace 12 años no le dijo *"tu hijo será especial"*, sino *"el patrón vuelve a manifestarse. Cuídalo. Los anteriores no tuvieron a nadie."*
+
+**Gancho rom-com:** Lyra, que escucha esto junto a Haruto, reacciona de manera completamente inesperada —sus ojos parpadean en un tono que Haruto ya aprendió a identificar como incomodidad Velari— porque **ella también tiene una ficha en esos archivos.** Solo que la de ella no dice "sujeto". Dice *"observadora asignada"*. Su misión no fue aleatoria. Fue diseñada específicamente para él. Y nadie le preguntó si quería hacerlo.
+
+---
+
+## IDEA 2 — "Ancla y Peso": El Malentendido Cultural Más Embarazoso de la Historia Intergaláctica
+**Hilo avanzado:** `watcher_0` · `complicidad_haruto` · **Semilla cosechada:** `semilla_12_01`
+
+**Núcleo técnico-narrativo:**
+Inspirado en cómo *Urusei Yatsura* usa el vínculo sobrenatural como motor de comedia romántica, pero con base en física de resonancia.
+
+Watcher_0 eventualmente se comunica de forma directa —no a través de Discord, sino interfiriendo brevemente una pantalla del aula o el teléfono de Haruto en un momento de baja guardia—. No con amenazas. Con una pregunta seca, casi burocrática:
+
+*"¿Han formalizado el vínculo de ancla-peso o siguen operando en estado no declarado?"*
+
+Haruto no entiende nada. Lyra, en cambio, se **paraliza**.
+
+Lo que Watcher_0 llama *"ancla y peso"* es, en ingeniería Velari de nodos de tránsito, la relación entre un emisor
+
+--- ITERACIÓN 2 ---
+<think>
+The user wants me to refine and expand the three ideas I already generated, taking them to the next level. Let me deepen each one with more character consistency, genre balance (rom-com + sci-fi mystery), and move them forward without repeating myself.
+
+Let me work on each idea individually, making them richer and more sophisticated.
+
+**IDEA 1 - "El Fénix No Se Crea. Se Reconoce"**
+- Refine the character dynamics
+- Add more specific plot mechanics
+- Make the rom-com elements shine even in this dramatic reveal
+- Deepen the Lyra revelation
+
+**IDEA 2 - "Ancla y Peso: El Malentendido Cultural"**
+
+
+- I need to push the comedic potential further
+- Develop the cultural clash between Velari and human norms
+- Make Watcher_0 a more compelling character
+- Give Lyra a stronger voice in this dynamic
+
+**IDEA 3 - "Protocolo Fantasma"**
+- Reconstruct the entire concept
+- Nishimura as a failed bridge entity needs more psychological depth
+- The emotional core of the story is the tragedy here
+- Clarify the mechanics without losing the mystery
+
+Let me dive into each with more nuance and detail.
+</think>
+
+# REFINAMIENTO ITERATIVO — CRÓNICAS DEL INSTITUTO ESTELAR
+## Arquitecto Narrativo · Nivel 2 — Profundización y Evolución
+
+---
+
+## IDEA 1 Refinada — "El Archivo de los Incómodos"
+### *Hilo: emisiones_haruto · madre_de_haruto · Semilla: semilla_10_01*
+
+### Lo que funciona del concepto original
+La inversión de expectativa —no es creado, es *encontrado*— es sólida. Abre espacio para drama sin caer en nihilismo y mantiene la pregunta de agencia central para Haruto como personaje. La revelación de que Lyra también tiene ficha eleva el stakes interpersonal.
+
+### Evolución: el tono lo cambia todo
+
+En lugar de un sótano lúgubre de revelación, propongo que el descubrimiento ocurra en el **contexto más mundano y absurdamente rom-com posible**: durante una cena de emergencia en casa de los Mizuki.
+
+La madre de Haruto, nerviosa, prepara un banquete para lo que ella describe como *"la familia de la amiga de tu compañero de laboratorio"*, esperando que Lyra no aparezca y así poder hablar con Haruto a solas. Lyra, por supuesto, aparece —literalmente flotando medio centímetro sobre el suelo del genkan porque los zapatos de calle le generan conflicto cultural profundo—. La madre de Haruto finge una sonrisa perfecta. La cena se convierte en una escena de comedia de enredos mientras las respuestas emocionales graves se dicen en los márgenes: susurros en la cocina, una frase soltada sin querer durante el forcejeo por la salsa de soja.
+
+> **Escena pivote:** La madre, cortando pollo con precisión excesiva, dice sin mirarlo:
+> —No fuiste una sorpresa, Haruto. Fuiste una *confirmación*. Llevaba once años esperando los resultados.
+> *(Pausa para que Lyra, que estaba a punto de hacer un comentario sobre la temperatura óptima del té, se quede completamente quieta.)*
+
+### El contenido del archivo — arquitectura narrativa
+
+Los archivos deben organizarse no como un expediente científico, sino como un **cuaderno de campo de contacto**, lo cual es más escalofriante y más humano:
+
+- **Fichas con nombre, fecha y ubicación.** Pero en varios casos, junto al nombre hay una nota manuscrita al margen. La madre de Haruto empieza a leerlas en voz alta antes de darse cuenta del peso de lo que dice. Frases como: *"Lloraba mucho. No volvió a responder llamadas."* — *"Aún vive en Okayama. No quiere saber nada. Respetar."* — *"Estuvo bien durante tres años. Luego..."*
+
+- **La ficha de Haruto.** Dice exactamente: *"Coherencia 99,7%. Registro más alto desde M-03 (1978). Contacto inicial: evento de la escalera —coincide con la primera crisis de la chica del laboratorio."* La madre no entiende esa última frase. Haruto tampoco hasta que Lyra se lo traduce en términos Velari: *"Dice que te encontré yo a ti. No al revés. El patrón te llevaba hacia mí antes de que supieras que existía."*
+
+- **La ficha de Lyra.** Oculta en una carpeta separada con etiqueta en un idioma que no es humano. Cuando Haruto la despliega, ve su propio nombre escrito en una secuencia de glifos Velari junto a tres palabras que Lyra traduce con la expresión de alguien que preferiría estar en cualquier otro lugar: *"Intencionalmente incompatible. Temporalmente aprobado. Nunca informado."*
+
+### Implicación para Lyra
+
+Lyra no sabía que su asignación era específica. Para ella, ser enviada a un planeta con nodos activos era un rol institucional estándar. Descubrir que fue redirigida específicamente para Haruto —algo que requirió falsificar registros de otros mundos como prioritarios— significa que **alguien dentro de la jerarquía Velari tomó esa decisión deliberadamente**. La pregunta que esto abre: *¿por qué?* ¿Para vigilarlo? ¿Para protegerlo? ¿Para qué el nodo funcionara correctamente cuando llegara el momento? ¿O por algo completamente diferente que nadie en la jerarquía admitiría?
+
+### Consecuencia narrativa inmediata
+
+La madre se convierte en un personaje activo. Ya no es solo la figura protectora que guarda secretos. Su rol cambia a: **la única persona que tiene contexto histórico que ningún otro personaje posee**. Las fichas le pertenecen. Ella es la única humana en la historia documentada que fue contactada, formó parte del programa voluntariamente, y luego se desafilió. Esto le da autoridad narrativa para contradecir tanto a Watcher_0 como a lo que Nishimura conmemore. Su línea: *"Siete personas encontraron esto antes que tú. Tres de ellas murieron creyendo que estaban solas. Tú no estás solo. Pero tampoco estás a salvo."*
+
+---
+
+## IDEA 2 Refinada — "El Técnico de Resonancia Interesado"
+### *Hilo: watcher_0 · complicidad_haruto · Semilla: semilla_12_01*
+
+### Lo que funciona del concepto original
+El malentendido cultural es un motor perfecto para light novel rom-com con mezcla de géneros. La idea de que Watcher_0 sea un narrador involuntario que observa la tensión romántica como un dato técnico tiene potencial cómico enorme.
+
+### Evolución: complicidad ≠ hostilidad
+
+La clave está en redefinir a Watcher_0. No es un antagonista ni un mentor. Es algo más cercano a un **actuario intergaláctico**: alguien que lleva 47 años compilando datos sobre la conexión Haruto-Lyra porque es, técnicamente, el evento de mayor energía registrada en un nodo inactivo desde hace milenios.
+
+Watcher_0 no interfiere por malicia. Interfere porque **el nodo se está calentando** y nadie sabe qué pasará si dos personas con esta frecuencia específica se conectan emocionalmente mientras el nodo está activo. Su miedo no es que Haruto destruya algo. Es que el nodo destruya a *ambos*.
+
+### La mecánica de "ancla y peso" — versión refinada
+
+En la física Velari, un nodo de tránsito requiere un par de frecuencias para estabilizarse: una frecuencia de emisión (el *peso*) que genera la energía, y una frecuencia de recepción (el *ancla*) que la dirige. En términos de enlace biológico, estos roles se traducen en algo que se parece peligrosamente a un vínculo de pareja:
+
+- **El peso** genera la señal.
+- **El ancla** la recibe y la devuelve, creando un bucle de retroalimentación estable.
+- Sin el bucle, el nodo consume energía indiscriminadamente.
+- Con el bucle, el nodo puede hacer cosas que la física estándar no explica bien y que Watcher_0 describe como *"transmutación topológica locally bounded"*.
+
+Lo relevante para el rom-com: **Lyra es el ancla. Haruto es el peso.** Y no es una designación que eligieron. Es una propiedad biofísica de sus firmas eléctricas individuales. Lo más importante: Lyra no es humana, así que la idea de que ella sea "el ancla" de un humano en un nodo terrestre no debería ser posible. Que lo sea indica que la conexión entre ambos no es coincidence —es la anomalía más grande del caso.
+
+### La escena cómica central
+
+Watcher_0, que tiene la sutileza comunicativa de un formulario fiscal, interrumpe lo que parecía ser un momento entre Haruto y Lyra en el laboratorio con un mensaje en la pizarra que aparece solo para Haruto:
+
+> **"NOTA TÉCNICA: La distancia actual entre ancla y peso (2,3 metros) es subóptima para estabilización del nodo. Se recomienda proximidad física sostenida de 8 a 14 horas diarias hasta nuevo aviso. Esto no es una sugerencia. Es una especificaciones de ingeniería."**
+
+Lyra, que ve el mensaje, se sonroja en un color que Haruto nunca le había visto (un violeta pálido, casi ultravioleteta). Intenta explicarle que no es lo que parece. Haruto, que no sabe nada de física Velari, asume completamente lo peor. La escena deriva en una de las confrontaciones más torpes y divertidas del series.
+
+### El
