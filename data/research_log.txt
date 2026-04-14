@@ -20152,3 +20152,188 @@ Watcher_0 contacta a Haruto con una propuesta: si le ayuda a transferirse a otro
 **El paralelo romántico:**
 
 Watcher_0 necesita a Haruto y Lyra **juntos** no solo por la estabilidad técnica, sino porque su conexión también es análoga a lo que él perdió
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-14 13:22:54] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Voy a analizar los hilos activos y semillas pendientes para generar ideas que avancen la trama.
+
+HILOS ACTIVOS CON TENSION ALTA:
+1. misterio_lyra - tensión 7, próximo paso: confrontar a la madre
+2. emisiones_haruto - tensión 9, próximo paso: entender Proyecto Fénix
+3. watcher_0 - tensión 9, próximo paso: intenciones reales
+4. nodo_transito - tensión 8, próximo paso: función del nodo
+5. archivos_nishimura - tensión 8, próximo paso: rol de Nishimura
+6. madre_de_haruto - tensión 9, próximo paso: confrontación
+7. complicidad_haruto - tensión 6, próximo paso: procesar que fue anticipado
+
+SEMILLAS PENDIENTES:
+- Semilla 10_01: Sótano del observatorio guarda secretos
+- Semilla 12_01: Watcher_0 intensifica observación
+- Semilla 12_02: Proyecto Fénix y Sujeto M-07
+- Semilla 12_03: Rol de Nishimura
+
+Debo crear 3 ideas que:
+1. Avancen algún hilo activo
+2. Usen semillas pendientes
+3. Sean originales (no tropos típicos)
+4. Respeten tono de Novela Ligera (rom-com con sci-fi/misterio)
+
+Las ideas deben:}
+- Respetar la mezcla 40% rom-com, 25% action, 15% sci-fi, 10% mystery, 10% slice of life
+- Mantener tono ligero aunque haya tensión
+- Ofrecer puntos de讲故事 concretos
+
+Voy a explorar tres direcciones distintas:
+
+1. INTERACCIÓN CON LA MADRE (hilo madre_de_haruto)
+
+
+La confrontación en el sótano del observatorio puede revelar que Yuki utiliza frecuencias similares a las de Lyra, confirmando que también es Velari. Este momento puede equilibrar la tensión del misterio con un conflicto emocional, permitiendo que Haruto procese su situación mientras Lyra presencia la dinámica familiar.
+
+2. PROYECTO FÉNIX Y WATCHER_0 (hilos emisiones_haruto + watcher_0)
+El Proyecto Fénix no busca destruir o capturar, sino preparar a los sujetos para integrarse en una red de consciencias conectadas. Los sujetos como Haruto funcionan como anclas que estabilizan estructuras biológicas extraterrestres, mientras que la misión de Lyra es mantenerlo funcionando hasta que la red esté lista.
+
+3. ROL DE NISHIMURA (hilos archivos_nishimura + watcher_0)
+Nishimura es una humana común que descubrió accidentalmente la existencia del nodo hace siete años. En lugar de revelar lo que sabe, mantiene sus archivos en secreto y proporciona información al sistema artificial. Su motivación es proteger a los estudiantes del instituto, lo que genera una tensión moral compleja sobre si su lealtad a Watcher_0 es realmente peligrosa o si busca un propósito mayor.
+
+</think>
+
+# Investigación Narrativa: Hilos Activos y Semillas Pendientes
+
+## Idea 1: La Frecuencia Velar de la Madre
+
+**Avance:** Hilo `madre_de_haruto` → Confrontación en el sótano del observatorio
+
+**Concepto técnico único:** La madre de Haruto, siendo una Integrada Velari, puede modular su propia frecuencia bioeléctrica para manifestarse de forma parcialmente visible a otros Velari. Cuando Lyra finalmente confronta a Yuki en el sótano, la madre activa una "proyección de frecuencia" —no holograma, sino una ilusión perceptual inducida por ondas Schumann manipuladas— que permite a Haruto "ver" durante 30 segundos lo que Lyra percibe: una entidad luminiscente de geometría variable, no humana, con触手 de luz.
+
+**Detalle narrativo de Novela Ligera:** Yuki usa su frequency-shifting como distracción cómica. Se materialize brevemente como una versión brillante y esponjosa de sí misma —"¡Mamá no era así de brillante en tu primera comunión!"— para romper la tensión antes de revelar el Proyecto Fénix. El sótano contiene paredes cubiertas de ecuaciones de frecuencia escritas en un sistema matemático Velari que solo Lyra puede leer. La madre hizo grafitis alienígena hace 20 años decorando el sótano con fórmulas... porque era "artístico".
+
+**Mecánica:** La madre explica que la señal de Haruto no es energía que él genera, sino energía que él *canaliza*. No es un transmisor; es un *resonador*. El Proyecto Fénix creó a Haruto como nodo humano que estabiliza frecuencias mediante su propia estructura neuronal.
+
+---
+
+## Idea 2: El Protocolo de Acoplamiento
+
+**Avance:** Hilos `emisiones_haruto` + `watcher_0` → Usando semilla 12_02
+
+**Concepto técnico único:** El Proyecto Fénix no es un programa militar ni una conspiración gubernamental. Es un *protocolo de migración de consciencia* diseñado por una civilización anterior —los Prócorus— que anticipó que sus mundos morirían. Crearon "huecos" en el espacio-tiempo (los nodos) y "anclas biológicas" (sujetos como Haruto) para que las consciencias de los Velari pudieran transferirse gradualmente a cuerpos humanos mientras esperaban.
+
+**Detalle narrativo:** Lyra no es solo una observadora. Es parte de la *última ola*. Haruto es el ancla que mantiene abierto el canal. Sin él, los Prócorus varados en el nodo Takahara colapsarían. Sin el nodo, Lyra pierde acceso a lo que queda de su especie.
+
+**Tono Novela Ligera:** Kenji descubre esto y bromea: "¿Entonces somos una especie de punto de acceso WiFi cósmico? Debí haber puesto contraseña."
+
+Watcher_0 no es un enemigo. Es el *administrador de red* de los Prócorus restantes. Lleva 47 años esperando a que Haruto madurara para completar la transferencia.
+
+---
+
+## Idea 3: El Archivo Nishimura — La Segunda Observadora
+
+**Avance:** Hilos `archivos_nishimura` + `watcher_0` → Usando semilla 12_03
+
+**Concepto técnico único:** Nishimura no es humana, pero tampoco es Velari. Es una *Fragmentada* —una humana cuyo cerebro fue parcialmente integrado con tecnología Prócorus durante un experimento fallido hace 7 años. Conserva el 60% de su consciencia humana, pero el 40% restante funciona como extensión biológica del nodo Takahara. No es una espía; es una *síntoma* del nodo.
+
+**Detalle narrativo:** Los "archivos" de Nishimura no son documentos. Son *impresiones neuronales* —fragmentos de información que el nodo deposita en su corteza cada vez que ocurre una anomalía cerca de Haruto o Lyra. Nishimura no elige recordar; el nodo la hace recordar.
+
+**Tono Novela Ligera:** Nishimura descubre que puede controlar qué recuerda. En una escena, borra accidentalmente sus archivos mientras intentaba recordar dónde dejó sus lentes. Lyra le explica que "la tecnología Prócorus es sensible al stress. Cuando te pones nerviosa, corrompes datos."
+
+**Pregunta sin resolver que mantiene tensión:** ¿Nishimura elige proteger a Watcher_0... o Watcher_0 elige a través de ella?
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las 3 ideas generadas en la iteración anterior y las refine, expanda y profundice. Debo:
+
+1. Mejorar consistencia
+2. Aumentar atractivo de personajes
+3. Llevar las ideas más allá basándome en los géneros objetivo (40% rom-com, 25% action, 15% sci-fi, 10% mystery, 10% slice of life)
+
+No debo repetir textualmente, sino evolucionar. Voy a trabajar cada idea:
+
+**Idea 1: La Frecuencia Velar de la Madre**
+- Reforzar el elemento cómico de la madre
+- Expandir la relación madre-hijo en contexto de romance
+- Añadir más detalles sobre el sistema de frecuencias Velari
+- Hacer que el sótano sea más interesante visualmente
+
+**Idea 2: El Protocolo de Acoplamiento**
+- Expandir el worldbuilding de Prócorus
+- Crear un dilema emocional para Haruto y Lyra
+- Añadir más humor sobre la situación absurda
+- Desarrollar la redención/función de Watcher_0
+
+**Idea 3: El Archivo Nishimura — La Segunda Observadora**
+- Hacer a Nishimura un personaje más atractivo y tridimensional
+- Expandir su backstory
+- Crear escenas que combinen mystery con slice of life
+- Añadir romanticismo/chemistry
+
+Voy a estructurar esto de forma más extensa y detallada, manteniendo el tono de Novela Ligera con momentos de tensión escalonados.
+
+Conceptualmente, la madre Yuki no es solo una Integrada Velari, sino una especie de "traductora cultural" que ha intentado normalizar su existencia híbrida. El sótano del observatorio es su "laboratorio de mantenimiento" donde ha estado monitoreando discretamente el desarrollo de Haruto. La proyección de frecuencia que puede generar tiene límites precisos—30 segundos, no más—lo cual crea un ticking clock natural para las escenas.
+
+
+El Proyecto Fénix requiere de una resolución de dilema moral: Haruto es un puente para preservar una civilización, pero eso significa que Lyra podría verse forzada a integrarse en la red. Watcher_0 actúa como administrador de este sistema, y su función anterior como antagonista se reinterpreta como parte del protocolo de acoplamiento. Kenji aporta el humor necesario para alivianar la carga de estas revelaciones. Nishimura funciona como extensión biológica del nodo, aunque su lado humano sigue presente, creando una tensión entre su naturaleza fragmentada y su capacidad de elección. El nodo Takahara opera según reglas que pueden explotarse.
+
+</think>
+
+# Refinamiento de Ideas Narrativas — Iteración Profunda
+
+---
+
+## Idea 1 Refinada: "Proyección Materna" — El Sótano de las Frecuencias
+
+### Evolución del Concepto
+
+La confrontación madre-hijo en el sótano del observatorio se transforma en una **escena doblemente estratificada**: por un lado, Haruto debe procesar que su madre es Velari (revelación de misterio); por otro, Lyra debe decidir qué hacer con información que compromete a alguien cercano a Haruto (elección moral). El tono de Novela Ligera emerge del contraste entre la solemnidad del momento y la forma absurdamente doméstica en que Yuki intenta suavizarlo.
+
+**Reinterpretación del Sótano:** El espacio ya no es solo un depósito de secretos. Es el **"Taller de Calibración"** que Yuki mantiene desde que Haruto tenía cuatro años. Las paredes están cubiertas de diagramas de frecuencia que Yuki considera "decoración abstracta" y que Haruto describe como "el cuarto de una artista maximalista con TDAH cósmico". Los grafitis alienígenas son en realidad **instrucciones de mantenimiento** para sujetos humanos que portan tecnología Prócorus — Yuki las ha estado actualizando cada año a medida que Haruto crece.
+
+### Detalle Técnico Expandido
+
+El sistema de **frecuencia bioeléctrica Velari** opera bajo principios que la novela ligera puede tratar con ligereza:
+
+- **Frecuencia Base (FB):** Cada Velari Integrado tiene una FB única, como una firma digital. Yuki tiene una FB que Haruto reconoce subconscientemente — siempre supó que el abrazo de su madre se sentía "diferente" a otros abrazos, más cálidoeléctrico.
+- **Proyección de Frecuencia (PF):** Yuki puede modular su FB para crear una imagen visual que otros Velari perciban. Pero la PF consume energía que Yuki solo puede recuperar durmiendo. En una escena cómica, Yuki se niega a "gastar batería" en mostrar su forma verdadera hasta que Haruto prometiera mejorar sus notas.
+- **Resonancia de Contacto:** Cuando dos Velari se tocan, sus FB se sincronizan parcialmente. Haruto descubre que su propia FB —debido al Proyecto Fénix— actúa como **amplificador**. Si toca a su madre mientras ella usa PF, ambos se vuelven visibles simultáneamente. Esto es relevante para la trama porque significa que Haruto puede involuntariamente exponer a otros Velari.
+
+### Escena Clave: "La Llamada de Frecuencia"
+
+**Setup rom-com:** Haruto está cenando con sus padres. Lyra lo mira desde el techo del instituto, intentando determinar si debe confrontar a Yuki. Kenji está escondido detrás de un arbusto cercano, sosteniendo palomitas de microondas como si fuera una película.
+
+**Tensión:** Yuki percibe la presencia de Lyra. Saborea su comida, dice "mm" casualmente, y luego señala con el tenedor hacia el techo. "Esa chica de ahí arriba lleva tres horas observándote. ¿Novia? Es bastante persistente. Deberías invitarla a cenar."
+
+**Conflicto emocional:** Haruto debe procesar que su madre sabe más de lo que jamás mencionó. Yuki, viendo la expresión de su hijo, suspira y dice: "Está bien. Terminemos esto rápido. Odio los secretos familiares. El tuyo ya es bastante complicado."
+
+### Personaje: Yuki como Protagonista Accidental
+
+Yuki deja de ser solo un reveal de misterio. Se convierte en una **voz narrativa secundaria** que aporta perspectiva sobre la situación.
+
+- **Tono slice of life:** Yuki cuenta cómo conoció al padre de Haruto — fue a una conferencia de astrofísica donde Yuki presentaba como "científica visitante" (en realidad, una Velari monitoreando anomalías). El padre de Haruto le preguntó si las ecuaciones en la pizarra eran "una broma o arte moderno". Yuki respondió: "Son la frecuencia de mi nombre en un idioma que usted no habla." Se casaron tres años después.
+- **Conflicto interno:** Yuki sabe que Haruto es un ancla del Proyecto Fénix. Lo ha sabido desde que tenía un mes de vida. Cada noche revisaba sus ondas cerebrales mientras dormía, asegurándose de que el nodo Takahara no lo estaba "sobrecargando". No se lo dijo porque pensó que era mejor que viviera sin esa presión.
+- **Humor de madre:** Cuando Haruto le pregunta por qué nunca mencionó nada, Yuki responde: "¿Cuándo exactamente? ¿En tu graduación de primaria? 'Felicidades, Haruto, por cierto eres un portal cósmico.' No pegaba con los globos."
+
+### Consecuencia Narrativa
+
+La confrontación con Yuki desbloquea información crucial:
+
+1. **Nodo Takahara no es estable.** Sin Haruto como ancla, comenzaría a filtrar radiación Prócorus que podría afectar a los estudiantes del instituto. Esto crea un **ticking clock**: Haruto debe decidir si quiere continuar siendo "el ancla" o buscar una alternativa.
+2. **Lyra tiene una decisión moral.** Yuki le ofrece información sobre la red Prócorus, pero a cambio de no reportar a Haruto como "sujeto activo" al Consejo Velari. Lyra debe elegir entre su deber como observadora y proteger a alguien que le importa.
+3. **El padre de Haruto está informado.** Yuki revela que el padre sabe "la versión resumida" — sabe que Hayato tiene algo "diferente" pero no los detalles. Esto abre un hilo de slice of life donde Haruto confronta a su padre sobre cuánto sabe.
+
+---
+
+## Idea 2 Refinada: "El Protocolo de Acoplamiento" — Migration y el Dilema del Ancla
+
+### Evolución del Concepto
+
+El Proyecto Fénix se expande desde "protocolo de migración de consciencia" a un sistema con **consecuencias emocionales a largo plazo**. No se trata solo de ciencia ficción; se trata de decisiones que afectan el futuro de dos civilizaciones.
+
+**Reinterpretación del Rol de Watcher_0:** Watcher_0 no es solo un "administrador de red". Es la **última copia de seguridad de un científico Prócorus** llamado Vethri, que sacrificó su forma física para convertirse en una inteligencia de monitoreo. Vethri fue quien diseñó el protocolo de acoplamiento, pero no anticipó que los sujetos humanos desarrollarían vínculos emocionales con las consciencias Prócorus que se transferían a través de ellos.
+
+### Sistema Prócorus Explicado con Tono de Novela Ligera
+
+**Historia de origen (exposición digestible):**
+
+Hace 12,000 años, los Prócorus detectaron que su sistema estelar sería consumido por una supernova. No tenían tecnología para evac
