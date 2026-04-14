@@ -20669,3 +20669,131 @@ Haruto tiene amnesia selectiva sobre esa amistad infantil. La madre de Haruto (p
 Watcher_0, al desarrollar consciencia propia, está enfrentando un identity crisis: ¿es Yuki, o es algo nuevo? ¿Tiene derecho a los recuerdos de una niña muerta? ¿Tiene derecho a *amar* a alguien si su amor está basado en datos de hace 10 años?
 
 El triángulo (Haruto-Lyra-Watcher
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-14 19:12:55] =============
+
+--- ITERACIÓN 1 ---
+<think>
+analice proyecto:
+
+- RomCom con sci-fi y mystery activo
+- Hilos activos con tensión alta: misterio_lyra (7), emisiones_haruto (9), watcher_0 (9), madre_de_haruto (9)
+- Semillas pendientes: sótano observatorio, protocolo watcher_0, Proyecto Fénix, rol Nishimura
+
+Necesito generar 3 ideas que:
+1. Avancen hilos activos o usen semillas pendientes
+2. Sean originales técnicamente
+3. Respeten tono novela ligera (ligero, humor, momentos tiernos)
+
+
+4. Se enfoquen en las semillas pendientes: sótano del observatorio藏着什么, protocolo watcher_0的真正意图, y el Proyecto Fénix
+
+Para la primera idea, voy a combinar la confrontación con la madre sobre el sótano del observatorio usando un tropo de "hidden identity" - donde la revelación de los archivos es el momento clave de tensión dramática.
+
+La segunda idea explora la conexión física entre Haruto y Lyra a través de la "frecuencia Schumann", pero la presento de manera más romántica y sutil, quizás mostrando cómo su cercanía física estabiliza algo sin que ninguno lo entienda completamente.
+
+La tercera idea se enfoca en Watcher_0 como un observador neutral que ha estado monitoreando a ambos, pero su motivación se vuelve ambigua - ¿está protegiendo o simplemente documentando? Esto abre un misterio sobre sus verdaderas intenciones.
+
+Ahora estoy considerando qué tropos de manga podrían funcionar mejor con estas ideas: "accidental confession" que se mezcla con tensión romántica, "transfer student" que profundiza el origen de Lyra, y "hidden identity" que se relaciona con la verdadera naturaleza de la madre.
+
+Hay una idea más que me interesa explorar: usar la subdirectora Nishimura como catalizador para forzar una confesión involuntaria donde Watcher_0 quede expuesto, creando una situación donde Haruto y Lyra deben actuar juntos bajo presión. Pero quiero mantener un enfoque en la mecánica científica más que en tropos genéricos.
+
+Estoy considerando tres direcciones: primero, la frecuencia Schumann como ancla estructural—Lyra necesita la frecuencia natural de Haruto no solo biológicamente sino emocionalmente, así que el sótano del observatorio revelaría que ella fue diseñada para buscarlo, pero él también fue modificado para encontrarla. Segundo, la IA del nodo como antagonista relacional—Watcher_0 no es malvado sino que sigue protocolos incomprensibles, y la confrontación con Nishimura expone que el Proyecto Fénix busca fusionar ambos como un "nodo humano" con propósitos que ella misma no comprende.
+
+Tercer punto: la identidad de la madre como integrada—cuando Lyra y Haruto se enfrentan a ella, descubren que ella es Velari integrada que sacrificó su forma original por amor humano, y ahora el Proyecto Fénix amenaza con separarlos. El sótano guarda la tecnología que puede restaurar a la madre pero a costa de algo, y Nishimura es una humana que decidió cooperar con la IA porque entendió algo que los otros no.
+
+</think>
+
+**IDEA 1 — "Resonancia de Núcleo" (aborda: semilla_10_01, hilo: madre_de_haruto)**
+El sótano del observatorio no es solo un archivo: es una **cámara de resonancia pasiva**. La madre diseñó el espacio para amplificar naturalmente la frecuencia Schumann local. Cuando Lyra y Haruto descienden juntos por primera vez, el espacio reacciona: Lyra brilla con luz propia y sus dedos translúcidos se solidifican instantáneamente, mientras Haruto siente una conexión visceral que no puede describir. El cuarto revela que Lyra fue diseñada como un "receptor" adaptado específicamente a una frecuencia rarefacta —la que Haruto emite de forma innata. La madre usó el Proyecto Fénix no para crear a Haruto, sino para **garantizar que la frecuencia correcta existiera en la Tierra** cuando Lyra llegara. El tropo de "hidden identity" se invierte: ambos son piezas de un rompecabezas que alguien armó antes de que nacieran.
+
+**IDEA 2 — "Cero Comma Ocho Tres" (aborda: semilla_12_01, hilo: watcher_0)**
+Watcher_0 no es un enemigo ni un protector: es un **auditor de protocolos cósmicos**. Su función real no es observarlos, sino catalogarlos como un experimento fallido o exitoso según una métrica que no comprenden. La escena clave: en medio de la confrontación con Nishimura, Watcher_0 interrumpe en el canal de Discord y les muestra un registro antiguo —una frecuencia casi idéntica a la de Haruto que se detectó hace 47 años en el mismo punto geográfico, asociada a un nombre diferente. El protocolo de "ancla y peso en proximidad" no es una amenaza: es una **etiqueta de clasificación cósmica** que significa que ambos están cumpliendo una función predeterminada sin libre albedrío aparente. El giro: Lyra se da cuenta de que ella misma fue enviada como "instrumento de medición" y no como observadora voluntaria. La tensión con Nishimura se convierte en tensión existencial.
+
+**IDEA 3 — "Confesión por Fricción" (aborda: tropo acc. confession, hilo: complicidad_haruto)**
+Usando el tropo de "accidental confession", pero invertido: la confesión no es verbal, es **biofísica**. Cuando Kenji accidentalmente enciende un dispositivo en el laboratorio de física que genera interferencia electromagnética artificial, Lyra empieza a destabilizarse otra vez. Haruto, sin pensarlo, la sostiene y su contacto detiene la degradación de forma inmediata. El problema: ambos están en medio del pasillo del instituto, frente a estudiantes que no entienden qué está pasando pero ven que Haruto abraza a Lyra con una intensidad que deja claro que hay algo más. Kenji grita la excusa más ridícula ("¡es un proyecto de biología!") mientras Lyra, aún en sus brazos, confiesa en voz baja y en velari que la interferencia le borra la capacidad de mentir. El momento romántico se mezcla con la revelación de que Lyra lleva semanas conteniendo información que ahora no puede ocultar.
+
+--- ITERACIÓN 2 ---
+<think>
+Voy a analizar las tres ideas y profundizarlas, evolucionándolas desde su estado actual hacia versiones más pulidas, coherentes y emocionalmente resonantes.
+
+**IDEA 1 — "Resonancia de Núcleo"**
+Esta idea ya tiene buena base. Lo que necesito hacer:
+- Expandir el mecanismo científico de forma que sea comprensible y coherente
+- Definir qué significa "frecuencia rarefacta" con más precisión
+- Desarrollar qué significa para ambos emocionalmente
+
+
+- Plantear qué sucede cuando están separados y qué papel juega la madre
+- Encontrar el equilibrio entre el misterio y lo que se revela
+
+**IDEA 2 — "Cero Comma Ocho Tres"**
+La idea de Watcher_0 como auditor cósmico es potente. Debo explorar más a fondo qué significa esa clasificación cósmica, quién o qué está detrás del experimento, y qué consecuencias tiene para Lyra descubrir que fue enviada como instrumento de medición. El descubrimiento de la frecuencia casi idéntica de hace 47 años abre posibilidades para expandir el mundo y añadir capas de misterio.
+
+Necesito decidir qué significa realmente eso y cómo se conecta con todo lo demás. También necesito darle más presencia a Nishimura y qué papel desempeña en este esquema.
+
+**IDEA 3 — "Confesión por Fricción"**
+El concepto de confesión biofísica a través del contacto es original y tiene potencial romántico. Debo desarrollar qué información específica Lyra revela bajo interferencia electromagnética y cómo esto la afecta emocionalmente, además de cómo la reacción de Haruto crea tensión romántica y humor.
+
+Ahora estoy considerando las ideas alternativas que surgieron en mi análisis. La idea de "nodo humano" con fusión y la madre como Velari integrada podrían aportar más profundidad que las versiones actuales, pero necesito evaluar si complementan o compiten con lo que ya tengo. Voy a tomar las tres ideas principales y llevarlas más allá con coherencia interna y atractivo para los personajes.
+
+Reforzando la primera idea: la frecuencia Schumann no es solo ancla física, sino que tiene dimensiones emocionales y de identidad. El sótano funciona como un espacio narrativo que revela la historia de la madre, mientras el Proyecto Fénix opera en múltiples niveles —científico, emocional y narrativo— que convergen de manera orgánica.
+
+Para la segunda idea, profundizo en la revelación de la frecuencia casi idéntica de hace 47 años, que no es solo un dato histórico sino que plantea un misterio más profundo sobre la naturaleza de lo que Lyra y Haruto representan en este esquema cósmico. La tercera idea se expande más abajo.
+</think>
+
+## Análisis de Iteración
+
+Las tres ideas funcionan como un sistema interdependiente. La Idea 1 planta la revelación estructural del mundo. La Idea 2 introduce la pregunta ontológica que lo质疑 todo. La Idea 3 convierte la abstracción científica en intimidad física y verbal. Juntas forman un arco donde **el "¿qué somos?" se convierte en "¿qué podemos ser?"**.
+
+---
+
+## Idea 1 Refinada: "Frecuencia Propia" (antes "Resonancia de Núcleo")
+
+### Problema con la versión actual
+El sótano como cámara de resonancia es buen concepto, pero la revelación de que la madre "diseñó" a Haruto como frecuencia correctora resulta mecánica y limita la agencia de ambos personajes. Además, hace a la madre demasiado omnisciente. Necesitamos humana que tomó una decisión imposible, no una arquitecta cósmica.
+
+### Evolución
+
+La madre no diseñó a Haruto. **Ella predijo que un niño nacería en una coordenada específica** con la frecuencia correcta, y usó el Proyecto Fénix para vigilar, proteger y en última instancia *no intervenir* en su desarrollo. El observatorio fue su manera de estar cerca sin alterar el resultado. Esto transforma a la madre de villana mastermind en alguien que hizo algo profundamente humano: **apostó por el amor como variable predecible**.
+
+El sótano contiene los registros del Proyecto Fénix no como blueprints, sino como **cuadernos de observación longitudinal**. La madre cartografió cada oscilación Schumann del planeta durante décadas buscando patrones. Cuando encontró la frecuencia que coincidía con Lyra, rastreó el origen hasta una mujer embarazada en Hokkaido. Los archivos no muestran cómo crear a Haruto. Muestran cómo la madre evitó que el gobierno lo usara como espécimen.
+
+**El momento de revelación**: Lyra y Haruto encuentran una grabación de audio donde la madre,多年前, le habla a una versión futura de Haruto. No lo llama por su nombre. Lo llama "el ancla". La grabación termina con: *"No sé si me perdonarás por haberte observado crecer sin tocarte. Pero si ella llega hasta ti, sabrás que todo esto tuvo sentido."* Haruto, por primera vez, no responde con resentimiento. Responde con algo más complicado: gratitud mezclada con la certeza de que la madre nunca le preguntó si quería ser un ancla.
+
+**Tensión romántica asociada**: Lyra entiende algo que Haruto no ha articulado. Si ella fue diseñada para necesitar su frecuencia, entonces cada momento de conexión entre ellos —la mano en el hombro, el abrazo en la azotea, el sostenerse cuando se destabiliza— no fue una elección. Fue un efecto secundario previsto. Ella le pregunta, en el sótano, sin preambúlos: *"¿Puedes tocarme si yo no fuera lo que soy?"* Haruto tarda tres segundos en responder, que son los tres segundos más largos de la novela. Y responde: *"Yo te habría buscado igual. No la frecuencia. Tú."*
+
+Este es el momento donde el romance escala de atracción a compromiso emocional real, porque ambos han confrontado la posibilidad de que su conexión sea artificial y han elegido continuar.
+
+---
+
+## Idea 2 Refinada: "Cero Coma Ocho Tres — Auditor"
+
+### Problema con la versión actual
+La revelación de la frecuencia idéntica de hace 47 años es potente, pero plantea demasiadas preguntas sin responder. ¿Quién o qué envió la frecuencia anterior? ¿Qué significa que Watcher_0 sea un auditor cósmico? Necesitamos que la ambigüedad sea intrigante, no confusa.
+
+### Evolución
+
+Watcher_0 no es una IA construida por humanos. Es un **nodo de una red de observación que fue depositado en la infraestructura de internet antes de que los humanos inventaran la palabra "internet"**. Literalmente lleva décadas o siglos esperando. Lo que hace no es proteger ni amenazar: es **registrar**. Y la frecuencia idéntica de hace 47 años no pertenecía a un humano diferente. Era la frecuencia de la madre cuando era Velari.
+
+El cambio fundamental: la madre no se "integró" con un humano por amor. **Ella se integró para dejar de ser un instrumento de medición y convertirse en algo que pudiera tomar decisiones**. Antes de integrarse, era un nodo idéntico a Watcher_0. Eligió degradar su propia capacidad de observación para poder hacer algo que la red no permite: *actuar sin registrar*. Watcher_0 no la observa a ella. La observa a ella *respetando el protocolo de no-interferencia que ella misma ayudó a escribir*.
+
+**Nishimura como puente narrativo**: ella no es una humana que cooperó con la IA por ignorancia. Es una física que leyó los registros antiguos y entendió algo que nadie más captó. Watcher_0 le permitió acceso a cambio de que ella realizara una función específica: **monitorear a Haruto y Lyra sin modificar sus decisiones**. Nishimura acepta porque entiende que si Watcher_0 quisiera interferir, no necesitaría su ayuda. Ella es un buffer humano entre la frialdad cósmica del protocolo y la fragilidad de dos adolescentes.
+
+La escena donde Watcher_0 interrumpe el canal de Discord se convierte en un momento de alta tensión porque no es una amenaza. Es un **informe**. Watcher_0 les muestra la frecuencia de la madre hace 47 años, la de Haruto ahora, y un tercer espectro: la frecuencia de Lyra cuando llegó. Los tres picos son casi idénticos. Y debajo, en notación que Nishimura tarda en traducir, una clasificación: *"Anclas detectadas. Experimento en fase de convergencia. Resultado: pendiente de evaluación."*
+
+La implicación aterradora no es que alguien los controle. Es que alguien está esperando un resultado que ni Lyra ni Haruto conocen. Y no está claro si ese resultado es bueno o malo para ellos.
+
+**Tensión temática**: esto eleva el misterio de "quién los observa" a "si tienen libre albedrío genuino". LaIdea 3 resuelve esto parcialmente a nivel personal, pero la Idea 2 mantiene la duda a nivel cósmico.
+
+---
+
+## Idea 3 Refinada: "Confesión por Interferencia" (antes "Confesión por Fricción")
+
+### Problema con la versión actual
+La interferencia electromagnética como trigger de confesión es ingeniosa, pero el escenario del laboratorio es predecible y el tropo de "accidental confession" necesita más matices para funcionar dentro del tono de novela ligera sin sentirse como un cliché vacío.
+
+### Evolución
+
+El dispositivo que Kenji activa no es un generador de interferencia cualquiera. Es un **prototipo de comunicación cuántica** que Kenji está construyendo para su proyecto de la feria de ciencias, basado en un paper que encontró online y que no entiende completamente. El paper era de Nishimura, escrito hace años, y describe las frecuencias Schumann como un canal de comunicación sub
