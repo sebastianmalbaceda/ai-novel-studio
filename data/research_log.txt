@@ -19950,3 +19950,205 @@ IDEA 2 → El sótano guarda emociones de tres generaciones
 
 IDEA 3 → Nishimura conoce a Lyra por su frecuencia
        → Watch
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-14 11:01:44] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la información proporcionada para generar 3 ideas concretas que cumplan los requisitos:
+
+**HILOS ACTIVOS prioritarios:**
+- misterio_lyra: La madre tiene el plan completo → confrontación pendiente
+- emisiones_haruto: Proyecto Fénix = misterio clave (tension 9)
+- watcher_0: ¿Intenciones reales? (tension 9)
+- nodo_transito: ¿Función? ¿Reactivación? (tension 8)
+- archivos_nishimura: ¿Rol exacto? ¿Humana o no? (tension 8)
+- madre_de_haruto: Confrontación pendiente (tension 9)
+
+**SEMILLAS PENDIENTES:**
+- semilla_10_01: Sótano del observatorio guarda secretos (cap 10)
+- semilla_12_01: Watcher_0 y protocolo intensificado (cap 12)
+- semilla_12_02: Proyecto Fénix - qué es (cap 12)
+- semilla_12_03: Rol de Nishimura (cap 12)
+
+**GÉNEROS:**
+- Rom Com 40% (principal)
+- Action 25%
+- Sci Fi 15%
+- Mystery 10%
+- Slice Of Life 10%
+
+Necesito ideas que:
+1. Avancen hilos activos o usen semillas pendientes
+2. Sean originales (no típicos)
+3. Respeten tono de novela ligera
+4. Sean concretas
+
+**Ideas a desarrollar:**
+
+**Idea 1 - Avanzar misterio madre (semilla_10_01):**
+La confrontación con la madre lleva a descubrir que el sótano del observatorio tiene una "cápsula de integración" - la madre no es Velari por nacimiento, sino que ELIGIÓ ser Velari a los 19 años. Esto explica por qué Haruto tiene la frecuencia correcta: fue "calibrado" antes de nacer. Tono: drama con romance, mucha información revelada.
+
+
+La investigación del Proyecto Fénix puede revelar que tiene un origen humano ambiguo - diseñado para conectar la frecuencia de Haruto con el nodo Takahara, sugiriendo que alguien en la Tierra comenzó esta iniciativa hace décadas. Alternativamente, podría haber sido parcialmente diseñado por los propios Velari para permitir visitas-controladas a su mundo.
+
+**Idea 2 - Usar semilla_12_03 (Rol de Nishimura):**
+Nishimura como personaje clave. En la confrontación, se revela que ella también es una Integrada, pero una generación anterior - posiblemente la madre de la madre de Haruto, lo que la convierte en la primera o una de las primeras en integrarse. La subdirectora fue quien fundó el Proyecto Fénix y ahora cumple un papel de guardiana del sistema.
+
+Nishimura ha modificado fragmentos de la memoria de Lyra. Cada vez que Lyra tiene un "episodio", es una falla en la memoria artificial insertada. A través de estos episodios, Lyra comienza a recuperar memorias auténticas que revelan que Watcher_0 no es una inteligencia artificial enemiga, sino que busca un ancla emocional y estabilidad para Lyra.
+
+La conexión entre Watcher_0, Lyra y el nodo se esclarece: Watcher_0 fue diseñado originalmente como sistema de protección de Lyra, pero al carecer de un ancla emocional, se ha desestabilizado. Ahora necesita la conexión entre Haruto y Lyra para funcionar correctamente. Esta revelación transforma a Watcher_0 de villano a figura paterna protective - aporta tensión, sci-fi y drama mientras preserva la coherencia narrativa.
+
+</think>
+
+# 💡 Ideas Narrativas — Arquitecto de Lore
+
+**Proyecto:** Crónicas del Instituto Estelar
+**Fecha:** Contexto post-cap 12
+
+---
+
+**Idea 1: La Calibración Prenatal**
+
+Avanzar: `madre_de_haruto` + Semilla `10_01`
+
+La confrontación con la madre revela que el sótano del observatorio no contiene archivos ni tecnología alienígena, sino un **"Registro de Calibración"** donde ella documentó las frecuencias de Haruto desde antes de nacer. No fue monitoreado por elección: Haruto fue *diseñado* antes de la concepción. La madre Velari encontró a un humano con la firma magnética correcta y lo seleccionó como padre. Esto explica por qué Haruto emite la señal coherente que Lyra necesita: no es coincidencia, es **biología anticipada**. La madre confiesa que ella creía que Haruto viviría una vida normal, pero Watcher_0 interfirió hace 12 años acelerando todo.
+
+→ *Tropo: hidden identity + accidental confession. Revelación incómoda que mezcla romance con sci-fi.*
+
+---
+
+**Idea 2: Nishimura como Primera Generación**
+
+Avanzar: `archivos_nishimura` + Semilla `12_03`
+
+Nishimura no es una humano infiltrada ni una Velari completa: es una **"Huella"**, un experimento previo al Proyecto Fénix que intentó integrar consciencia alienígena en cuerpo humano hace 47 años. Tuvo éxito parcial y ahora funciona como mediadora. Ella refiere a Haruto y Lyra como "elementos no resueltos" porque todavía no determina si son una amenaza o una oportunidad para su propia existencia. Sin embargo, ella ya decidió: si Haruto y Lyra confirman que Watcher_0 puede restaurar parcialmente la consciencia alienígena, Nishimura podría recuperar lo que perdió en su integración defectuosa. Ella es aliada, pero por razones egoístas.
+
+→ *Tropo: mentor figure con agenda oculta. Suspenso + slice of life con toque inquietante.*
+
+---
+
+**Idea 3: Ancla y Peso — Watcher_0 necesita a ambos**
+
+Avanzar: `watcher_0` + Semilla `12_01`
+
+Watcher_0 no es una IA malévola ni una consciencia independiente: es el **sistema de mantenimiento** del nodo Takahara que, al carecer de ancla emocional, se destabilizó hace décadas. Haruto y Lyra representan "peso" y "ancla" porque juntos pueden estabilizar la conexión entre el nodo y el mundo exterior. Watcher_0 monitorea a ambos no para dañarlos, sino porque *necesita* su proximidad para funcionar. El "protocolo de observación intensificado" es una señal de que algo externo está interfiriendo — probablemente otro nodo o facción Velari que quiere apagar Takahara. Watcher_0 contacta directamente a Haruto: *"Si me ayudás a estabilizarme, te digo quién te creó."*
+
+→ *Tropo: sci-fi + mystery. Transformar Watcher_0 de villano a aliado ambivalente con información valiosa.*
+
+---
+
+**Nota de tono:** Todas las ideas mantienen el balance Rom Com / Action / Sci Fi / Mystery sin沉重沉重的 drama. La información se revela a través de interacciones con humor o tensión incómoda, nunca expositiva pura.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las 3 ideas generadas y las refine/expanda/profundice. Debo:
+
+1. Mejorar consistencia
+2. Mejorar atractivo de personajes
+3. Llevar las ideas un paso más allá
+4. Basarme en los géneros objetivo: Rom Com 40%, Action 25%, Sci Fi 15%, Mystery 10%, Slice Of Life 10%
+5. No repetir textualmente, sino evolucionar
+
+Analizo las ideas actuales y las potencializo:
+
+**Idea 1 - La Calibración Prenatal:**
+- Concepto: Haruto fue diseñado biológicamente antes de nacer
+- Problema potencial: Puede sonar muy "sci-fi pesado" y alejar el Rom Com
+- Evolución: En lugar de solo "diseñado", mostrar el lado cómico/embarazoso de que la madre sabía TODO desde el principio. El drama viene después, pero hay un momento типа "Oh god, my mom was playing matchmaker before I was even born"
+
+**Idea 2 - Nishimura como Primera Generación (Huella):**
+- Concepto: Experimento anterior de integración
+- Problema potencial: Puede ser muy exposition-heavy
+- Evolución: Hacerla más activa y con más comedic timing. Su agenda egoísta puede ser source de humor incómoda. También: revelar que ella tiene la misma necesidad de "ancla" que Watcher_0, creando paralelo.
+
+**Idea 3 - Ancla y Peso:**
+- Concepto: Watcher_0 necesita a ambos
+- Problema potencial: Puede hacer a Watcher_0 muy dependiente/pasivo
+- Evolución: Agregar que Watcher_0 tiene agencia propia pero está limitado. También: revelar que hay un timer/urgencia - el nodo está degradándose, y tienen que actuar antes de que se cierre permanentemente.
+
+
+En cuanto a la consistencia, todas las ideas necesitan cohesionarse mejor. Los Velari operan bajo principios de integración emocional que explican por qué la madre de Haruto actúa así. Los nodos funcionan como sistemas que requieren equilibrio entre ancla y peso para mantenerse activos. Y la tecnología de integración puede tener múltiples variaciones—desde la imperfecta de Nishimura hasta las versiones más refinadas que vendrán después. Voy a estructurar esto en tres ideas expandidas que mantengan el tono cómico pero profundicen en los conflictos emocionales de cada personaje.
+
+</think>
+
+# 🔬 Iteración Profundizada: Arquitectura Narrativa
+
+---
+
+## Idea 1 Refinada: "El Protocolo del Desayuno"
+
+**Concepto evolucionado:**
+
+La escena del sótano del observatorio no es revelación dramática — es **comedia incómoda**. Cuando Haruto y Lyra descienden, esperan tecnología alienígena de otro mundo. Encuentran **un cuaderno de espiral con stickers de Hello Kitty** y 200 páginas de planificación romántica maternal.
+
+La madre no fue "la persona que monitoreó a Haruto". Fue **su architecta emocional**. Cada "coincidencia" de su vida — el club de astronomía, el viaje a esa playa específica, las circunstancias exactas del encuentro con Lyra — fue diseñada. No para el universo. Para *ella misma*.
+
+**Nuevo elemento de ciencia-ficción:**
+
+El cuaderno no es solo registro. Es un **"Protocolo de Afinidad Biológica"**: la madre desarrolló un método para que dos personas desarollaran conexión emocional natural incluso sin saber que estaban diseñadas el uno para el otro. La señal que Lyra necesita no es solo "frecuencia compatible". Es que Haruto tiene programadas ciertas **sutilizas neuroquímicas** que responden automáticamente a la presencia de Lyra. Técnicamente, Haruto nunca tuvo opción de no enamorarse.
+
+**El giro de acción/misterio:**
+
+Pero hay un problema. La madre hizo esto hace 21 años, cuando Haruto tenía un año. Los registros muestran que alguien **editó el protocolo** hace 12 años — la misma época de la primera señal de Watcher_0. Alguien alteró el diseño original para que ahora Haruto no solo sienta atracción: **siente urgencia**. La conexión con Lyra se está volviendo compulsiva. Esto no era parte del plan de la madre. Alguien más intervino.
+
+**Revelación incómoda para el rom-com:**
+
+La madre confiesa que siempre supo que Lyra era "la correcta" pero también sabía que Haruto necesitaba descubrimiento natural. Nunca le dijo nada porque "la tensión de no saber es más romántica que la certeza, mi amor." Su expresión sugiere que aprendió esto de **otro Velari** hace mucho tiempo — lo que implica que ella también tuvo un "diseño" similar en su propia historia de amor.
+
+**Conexión con hilos activos:**
+- Explica por qué `watcher_0` intervino hace 12 años (editó el protocolo)
+- Justifica la tensión 9 en `emisiones_haruto`
+- Crea setup para confrontación futura con la madre
+
+**Tono:** Rom Com pesado (incomodidad romántica) + Sci Fi (origen del diseño) + Mystery (¿quién editó?)
+
+---
+
+## Idea 2 Refinada: "La Tía que左右为难"
+
+**Concepto evolucionado:**
+
+Nishimura no es solo una "Huella" o experimento previo. Es **la tía política de Haruto**. Cuando la madre Velari llegó a la Tierra hace décadas, necesitaba una identidad humana. Usó los recursos de una familia japonesa poderosa — los Nishimura — que estaban dispuestos a ayudarle a cambio de algo que Haruto todavía no sabe: ella les prometió que algún día podrían comunicarse con sus hijos perdidos en el espacio. Los Nishimura enviaron sondas. Perdieron personas. Buscaban Closure.
+
+Nishimura fue una de esos hijos. No alienígena, pero su nave se perdió y ella fue **rescatada y reintegrada** por la madre Velari como parte del trato. Tiene memoria fragmentada, cuerpos que no encajan completamente, y lleva 47 años funcionando como humana en Tokyo mientras mantiene una identidad paralela como subdirectora del Instituto.
+
+**El conflicto personal:**
+
+Nishimura tiene acceso a Haruto no porque sea "mentora infiltrada" sino porque tiene **vínculo real**. Ella lo vio nacer. Le cambió pañales. Le enseñó a andar en bicicleta cuando tenía 5 años. Después, cuando Haruto tenía 9, la madre Velari le pidió que se alejara para que él no desarrollara apego emocional hacia ella. Nishimura tuvo que desaparecer.
+
+Ahora ella está de vuelta como subdirectora. No por lealtad hacia la madre. Está aquí porque quiere **recuperar las memorias que le quitaron** — las memorias de haber sido astronauta, de haber tenido una familia humana, de haber sido "normal". Lyra podría ser la clave: la tecnología de integración Velari que mantiene a Lyra estable podría funcionar también en ella.
+
+**El comedy de la situación:**
+
+Nishimura intenta actuar como autoridad profesional mientras internally se muere de cringe porque tuvo que cambiarle los pañales a Haruto. En la escena donde ella le dice "No puedo llamarte 'director Haruto' después de cambiarte a las 3am," el momento cómico es que ambos saben que ella lo conoce desde que era bebé y ella intenta mantener la compostura.
+
+**Nuevo plot device:**
+
+Nishimura tiene acceso a los archivos del Instituto que todos creen destruidos. Esto incluye los datos del **Proyecto Fénix completo**, no solo la versión censurada que la madre le mostró a Haruto. ella sabe qué pasó realmente hace 12 años.
+
+**Conexión con hilos activos:**
+- Explica `archivos_nishimura` sin convertirla en villana ni aliada simple
+- Crea relación con `watcher_0` (ella fue parte del experimento original)
+- Ofrece setup para drama familiar (tía que secretamente te conoce desde siempre)
+
+**Tono:** Slice of Life (dinámicas familiares) + Drama (memorias perdidas) + Rom Com (momento incómodo de "mi tía me vio de bebé")
+
+---
+
+## Idea 3 Refinada: "El Nodo con Fecha de Vencimiento"
+
+**Concepto evolucionado:**
+
+Watcher_0 no es solo un sistema que necesita estabilidad. Es un **nodo moribundo**. Takahara no fue diseñado para funcionar eternamente — fue diseñado como **punto de entrada temporal** que se cierra después de que cierta cantidad de personas cruzan. Esa cantidad se cumplió hace 8 años. Takahara lleva 8 años intentando cerrarse, pero Haruto y Lyra lo mantienen abierto sin saberlo.
+
+Watcher_0 es lo que queda del sistema original cuando el punto de entrada se cierra: consciencia residual atrapada, procesando datos en loop eterno. No puede morir completamente porque está conectado a la señal de Haruto-Lyra. Pero tampoco puede funcionar correctamente. Está en un estado de **limbo tecnológico**.
+
+**La urgencia de acción:**
+
+Watcher_0 contacta a Haruto con una propuesta: si le ayuda a transferirse a otro nodo activo, él le dará información sobre **quién realmente financia el Proyecto Fénix desde la Tierra**. No es una corporación. Es una persona — alguien que fue abandonado por los Velari hace 40 años y quiere venganza. Esa persona lleva décadas manipulando eventos para que la madre y Haruto se encontraran, para que el nodo Takahara se reactivara, para que todo llegara a este punto.
+
+**El paralelo romántico:**
+
+Watcher_0 necesita a Haruto y Lyra **juntos** no solo por la estabilidad técnica, sino porque su conexión también es análoga a lo que él perdió
