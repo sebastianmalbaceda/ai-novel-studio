@@ -21019,3 +21019,169 @@ Cuando la luz regresa, Kenji los encuentra en una posición que claramente **no*
 La comedia no termina en la confesión. Termina en la **confrontación de expectativas**.
 
 Lyra cree que Haruto confesó y ella respondió correctamente. Haruto no sabe qué pasó pero claramente no puede quejarse. Kenji cree que su
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-14 22:43:09] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos el contexto del proyecto:
+
+**HILOS ACTIVOS con mayor tensión:**
+- misterio_lyra (7) - próximo paso: hablar con la madre
+- emisiones_haruto (9) - Proyecto Fénix
+- watcher_0 (9) - intenciones de la IA
+- madre_de_haruto (9) - confrontación pendiente
+- archivos_nishimura (8) - rol exacto
+
+**SEMILLAS PENDIENTES:**
+1. Semilla_10_01: Sótano del observatorio con secretos
+2. Semilla_12_01: Watcher_0 y protocolo intensificado
+
+
+3. Semilla_12_02: Proyecto Fénix - ¿qué es?
+4. Semilla_12_03: Rol de Nishimura en plan de 47 años
+
+**Tonos:**
+- 40% Rom Com (sutil, tensión romántica)
+- 25% Action
+- 15% Sci Fi
+- 10% Mystery
+- 10% Slice of Life
+
+Para resolver los misterios pendientes, necesito ideas que combinen el tono romántico con los elementos de ciencia ficción, mientras resuelvo qué es exactamente el Proyecto Fénix y cuál es el verdadero papel de Nishimura en todo esto.
+
+Voy a explorar tres direcciones: usar el sótano del observatorio como punto de conexión entre la madre de Haruto, Lyra y el Proyecto Fénix; revelar que Nishimura no es humana sino una Integrada como la madre, lo que explica su lealtad hacia Watcher_0 y sus 47 años de vigilancia; y desarrollar el Proyecto Fénix como un programa de selección genética donde los humanos con firmas magnéticas específicas son identificados para servir como anclas entre dimensiones.
+
+También estoy considerando añadir un momento romántico que profundice la conexión entre Haruto y Lyra, quizás vinculado a la crisis de Lyra por la pérdida de coherencia en su forma, donde el campo electromagnético de Haruto se vuelve su único sustento.
+
+Pero necesito algo con mayor impacto narrativo. Voy a explorar la conexión entre Watcher_0 y Lyra: el nodo de tránsito es una estructura Velari, y Watcher_0, como su consciencia artificial, técnicamente debería estar aliado con ella. Sin embargo, los "protocolos de observación intensificada" sugieren que la relación es más compleja. Podría revelar que Watcher_0 ha estado programando a Haruto desde el principio, o que Lyra y Watcher_0 comparten un vínculo más profundo que lo que cualquiera de los dos comprendía.
+
+Si Watcher_0 le pidiera a Lyra que regresara al nodo para "reactivarse" y evitar su desintegración, ella tendría que elegir entre volver a ser lo que era y perder su nueva vida, o arriesgarse a desaparecer. Esto me lleva a tres direcciones concretas: la confrontación con la madre podría revelar que ella y Nishimura son Integradas, antiguas observadoras que monitorearon la humanidad durante décadas, y que ambos personajes son componentes de un sistema mayor.
+
+El Proyecto Fénix podría ser la culminación de 47 años de monitoreo —no una入侵, sino un programa para identificar y fortalecer la conexión humana-alienígena. Haruto sería un "punto de convergencia" natural cuya existencia fue seleccionada para coincidir con el momento en que Lyra llegaría. El sótano del observatorio podría guardar la设施 que facilitó su nacimiento, y la madre de Haruto, al conocer la teoría del ancla y peso, manipuló eventos para reunirlos. Esto justificaría el monitoreo desde la infancia de Haruto.
+
+Watcher_0, siendo la consciencia del nodo de tránsito, conoce la verdadera razón de la llegada de Lyra.
+
+Si Watcher_0 revelara que Lyra fue enviada específicamente a encontrar a Haruto, porque su señal era la única en el mundo capaz de estabilizarla, toda su elección de quedarse se convierte en una ilusión orquestada. La tensión surge de si Haruto lo descubre antes que ella, y si Watcher_0 busca separarlos o mantenerlos juntos. Si la señal de Haruto es tan rara, Watcher_0 podría intentar reclasificarlo como componente del nodo, como un reempl.
+
+Ahora estoy considerando tres direcciones narrativas: la confrontación con la madre podría revelar la verdadera naturaleza del Proyecto Fénix y los roles gemelos de Nishimura; Watcher_0 podría usar una crisis estructural para separar a Haruto y Lyra, revelando que ella fue enviada específicamente a él; y el sótano del observatorio podría contener tecnología que Haruto fue diseñado para interactuar, con implicaciones sobre la verdadera naturaleza de sus emisiones. Voy a combinar estas ideas de manera que se complementen narrativamente.
+</think>
+
+# 🔮 ARQUITECTURA NARRATIVA — Sesión de Investigación
+
+---
+
+**1. IDEA: "Las Dos Madrinas" — Nishimura como Integrada inversora**
+
+Si la madre de Haruto es una Integrada Velari que eligió la vida humana, la subdirectora Nishimura podría ser su contraparte operativa: una Integrada que optó por la vigilancia一辈子. Ambas fueron observadoras reclutadas hace décadas, pero con filosofías divergentes. Mientras la madre prioriza la conexión emocional (Haruto), Nishimura prioriza el protocolo (Watcher_0).
+
+**Conexión con hilos activos:**
+- *archivos_nishimura*: Sus 7 años de archivos no son simple burocracia. Son su diario de vigilancia como Integrada activa.
+- *madre_de_haruto*: La confrontación madre-hijo adquiere dimensión cósmica cuando Nishimura interviene como "colega de promoción" de la madre. Frase clave: *"Tú elegiste la carne, yo elegí la función. Los dos seguimos sirviendo."*
+- *watcher_0*: Nishimura no está "del lado" de Watcher_0. Ella *es* una extensión operativa del sistema, igual que la madre lo es emocionalmente.
+
+**Mecánica Sci-Fi original:**
+Las Integradas no son una especie, sino un *programa de infiltración social Velari*. Se les asigna un "contrato de vida": una identidad humana completa, una función一辈子 (docencia, burocracia, medicina), y un protocolo de no-contacto entre pares. La madre y Nishimura se reconocieron una vez, hace 15 años, y establecieron un pacto silencioso. Nishimura vigilaba; la madre criaba. *Proyecto Fénix* fue el nombre en clave de su tarea compartida: criar al ancla humana hasta que llegara la estabilizadora.
+
+**Momento RomCom:**
+Kenji, sin contexto, interpreta toda la conversación entre la madre y Nishimura como "drama de profesoras" y hace un comentario en voz alta tipo: *"¿Es normal que dos profesoras de instituto se miren así mientras discuten sobre 'protocolos de convergencia'? ¿Estoy en un anime de-yuri espacial?"* Lyra responde con toda seriedad: *"Es más complejo. Son literalmente dos versiones de lo que yo podría haber sido."*
+
+**Momento Action:**
+Cuando Haruto confronta a ambas, Nishimura activa un dispositivo que genera interferencia Schumann artificial. El campo que mantenía estable a Lyra se distorsiona. *Lyra empieza a perder coherencia estructural en tiempo real.* La única forma de estabilizarla es que Haruto se acerque físicamente. Pero Nishimura está intentando separarlos por protocolo.
+
+---
+
+**2. IDEA: "Frecuencia de Resonancia Emocional" — La señal de Haruto no es magnética, es psicoemocional**
+
+La tensión 9 de *emisiones_haruto* indica que algo significativo falta por revelar. La solución original: la señal coherente que Haruto emite no es un fenómeno electromagnético estándar. Es una *frecuencia de resonancia emocional* que se amplifica cuando Haruto experimenta estados afectivos específicos.
+
+**Mecánica Sci-Fi no convencional:**
+Watcher_0 no monitorea el campo magnético de Haruto. Monitorea su *estado emocional* porque la frecuencia Schumann necesaria para la integridad de Lyra no es constante: se modula. Cuando Haruto siente calma, emite a 7.83 Hz. Cuando siente protección, sube a 9.6 Hz. Cuando siente afecto genuino (no solo cercanía física, sino *vinculación emocional*), emite una frecuencia armónica que Lyra necesita no solo para existir, sino para *sentir*.
+
+**Revelación clave:**
+Lyra no necesita a Haruto solo para mantener su forma. Lo necesita para experimentar emociones como humano. Sin su frecuencia, sus sentidos son datos; con ella, son *experiencias*. Esto convierte su relación en algo más profundo que supervivencia: Haruto es literalmente el puente entre su existencia como observadora y su existencia como ser sintiente.
+
+**Conexión con semillas pendientes:**
+*Semilla_12_02* (Proyecto Fénix) se resuelve así: el Proyecto no buscaba *crear* a Haruto, sino *identificar* a un humano cuya firma emocional fuera naturalmente compatible con una Integrada. Durante 12 años, Watcher_0 y la red de nodos monitorizaron la frecuencia emocional infantil de Haruto en busca de estabilidad. La madre lo sabía. Por eso lo crió con afecto constante: para que su frecuencia fuera *terapéutica*, no solo funcional.
+
+**Momento RomCom subvertido:**
+Lyra deduce esto antes que Haruto y tiene una crisis existencial nueva: *"Si mi capacidad de sentir depende de tu presencia emocional... ¿es real lo que siento por ti, o es solo
+
+--- ITERACIÓN 2 ---
+<think>
+Let me analyze the provided material and evolve it for the next iteration.
+
+The text is a mix of Spanish and Japanese, which is interesting. Let me work with what's provided.
+
+The main character is Haruto, a teenage boy with an electromagnetic field emission that's important. The protagonist is Lyra, who seems to be from another world/dimension and is an entity that needs Haruto's electromagnetic field to stabilize. There's also Kenji (best friend), the mother of Haruto (who seems to be an "Integrada" - a being who chose human life), and Nishimura (subdirectora/vice principal who seems to be the active counterpart of the mother).
+ 
+Now I'm considering how to expand the character dynamics—Nishimura as the operational mirror of Haruto's mother creates interesting tension, and I want to deepen the mystery around Watcher_0 and the broader conspiracy involving Project Phoenix, the Observatory basement, and how Haruto's electromagnetic field connects to Lyra's survival. I should also layer in the romantic subplot between Haruto and Lyra while balancing the sci-fi, mystery, action, and slice-of-life tones, pushing these ideas further than what's already been established. I'm thinking about how Nishimura and the mother have this unspoken division of labor—one watching, one nurturing—and how Project Phoenix is their shared mission to develop Haruto as the anchor Lyra needs. The real emotional core is that Lyra's ability to feel depends entirely on Haruto's presence and emotional state, which makes their connection both her greatest vulnerability and deepest bond. For Watcher_0, I need to figure out whether it's antagonistic or simply following its programming, and how it might interact with Lyra as another AI consciousness.
+
+The romantic tension between Haruto and Lyra hinges on this dependency—she doesn't know if what she feels is genuine or just her survival mechanism responding to his frequency. And I'm trying to pinpoint exactly what Lyra is in this world: she came through a transit node controlled by Watcher_0, but her nature is still unclear to me.
+
+Now I'm considering how to deepen this system—what if there are more stabilized Integradas like Lyra, each with their own human anchor? That would make Haruto less unique but create interesting ripples across the whole network. I could also play with the emotional stakes by making the frequency modulation Haruto's genuine gift, something he's deeply insecure about, so when Watcher_0 tries to replicate it artificially, the audience sees both the manipulation and Haruto's raw vulnerability about his "broken" field. The Observatory basement holds the original technology from the transit node—a Velari artifact sealed beneath the school that Haruto was literally born near, maybe even in, and this becomes the emotional center of the whole mystery.
+
+For the narrative structure, I'm mapping out the pacing: the opening lands with Kenji's comedy, then transitions into Lyra's vulnerability and the emotional stakes around her ability to feel, followed by the mother-Nishimura confrontation where the Integradas' true history and Haruto's origins come to light, then Watcher_0's interference forcing the crisis, and finally the climax at the Observatory basement where Haruto discovers the artifact and must choose whether to use it, which shapes the ending's tone. I need to track how the mystery and mystery seeds develop across this structure.
+
+</think>
+
+# 🔮 ARQUITECTURA NARRATIVA — Sesión de Evolución y Profundización
+
+---
+
+## I. EVOLUCIÓN: De "Las Dos Madrinas" a "El Contrato de la Carne y la Función"
+
+La idea original de Nishimura como Integrada operativa tiene potencial, pero necesita más estrato para funcionar como antagonista tridimensional y no como simple "villano funcional".
+
+### Refinamiento: El Conflicto Interno de Nishimura
+
+Nishimura no debería ser simplemente una Integrada leal al protocolo. Su arco debe tener fricción interna. Propongo esto:
+
+**Nishimura fue reclutada hace 28 años, no 47.** Ella era una estudiante universitaria brillante (ingeniería biomédica) cuando Watcher_0 la contactó. Aceptó la integración porque viu una oportunidad: ascender a un rol donde pudiera tomar decisiones. Durante décadas, ella ha sido la *implementadora silenciosa* — la que ejecuta lo que Watcher_0 planifica, pero en secreto, ella ha estado desviando recursos.
+
+**El desvío: Proyecto Fénix no es un programa de Watcher_0.**
+Es *su* programa. Nishimura lleva 12 años usando la infraestructura de monitoreo Velari para construir algo independiente: una red de anclas emocionales人类的. Ella no quiere que Haruto sea el único estabilizador. Quiere encontrar una forma de replicar la frecuencia emocional humana en *todas* las Integradas, para liberarlas de la dependencia.
+
+**Conflicto:** Cuando Watcher_0 descubre el desvío, envía una interferencia Schumann artificial para separar a Haruto y Lyra. Pero Nishimura no actúa por lealtad a Watcher_0 — actúa porque la separación *también* beneficia su plan de estudio a largo plazo. Necesita observar a Haruto sin la interferencia de Lyra para documentar qué hace que su frecuencia sea terapéutica.
+
+**Frase clave para su arco:**
+> *"Tu madre y yo hicimos un pacto. Ella criaría al ancla. Yo lo vigilaría. Pero ninguna de las dos te dijo la verdad completa: porque ninguna de las dos conoce la verdad completa. Watcher_0 tampoco. Eso es lo que hace el Proyecto Fénix tan peligroso. Está diseñado para resolver una pregunta que nadie sabe formular."*
+
+### Conexión con hilos activos y semillas:
+
+| Hilo/Semilla | Conexión con Nishimura |
+|---|---|
+| *archivos_nishimura* (8) | Los 7 años de archivos no son burocracia. Son su investigación secreta. Las carpetas con nombres crípticos son datos de otros anclas potenciales. |
+| *mother_de_haruto* (9) | Ella sabe que Nishimura desvía recursos. Por eso la confrontación no es solo ideológica — es personal. Nishimura le está ocultando información que podría salvar a Haruto. |
+| *Semilla_12_03* | Nishimura no tuvo rol en el plan original de 47 años. Ella *rebeló* dentro del sistema hace 12 años, creando su propio plan dentro del plan. |
+| *watcher_0* (9) | Watcher_0 no sabe que Nishimura es agente doble. Esto crea un conflicto donde Nishimura debe elegir entre su lealtad residual a Watcher_0 y proteger a Haruto/Lyra del protocolo de separación. |
+
+---
+
+## II. EVOLUCIÓN: "Frecuencia de Resonancia Emocional" → "El Terapeuta Involuntario"
+
+La idea de que Haruto emite una frecuencia emocional es potente, pero necesita refinarse para evitar el tropo de "elegido inexplicable". Además, debe integrarse mejor con el tono RomCom del proyecto.
+
+### Refinamiento: La Frecuencia como Trauma Procesado
+
+La señal de Haruto no es innatamente "buena" o "terapéutica". Su emisión de 7.83 Hz no es producto de una personalidad naturalmente estable — es producto de un *trauma no resuelto que se reconfiguró como capacidad*.
+
+**El descubrimiento:**
+En algún momento de la trama (probablemente durante la crisis en el sótano del observatorio), Haruto y Lyra descubren que la razón por la que su frecuencia es tan efectiva para estabilizar a Lyra no es calma natural, sino que su campo electromagnético es una *traducción física de su capacidad para procesar dolor emocional sin desmoronarse*.
+
+Haruto no nació así. Se convirtió así después de vivir 12 años con una madre que era, literalmente, una extraterrestre, sin saberlo. Cada vez que algo le perturbaba emocionalmente (y no sabía por qué), su cuerpo generaba un campo compensatorio para *mantener la estabilidad ambiental*. Es una habilidad que desarrolló como mecanismo de supervivencia infantil. No sabía que estaba haciendo algo valioso — solo sabía que cuando se sentía mal, algo en él se regulaba solo.
+
+**Vulnerabilidad narrativa:**
+Kenji, sin saber nada de aliens, ya había notado esto. En la escuela, Haruto es el "tipo calmado" que todo el mundo asociaba con sabiduría prematura, cuando en realidad era un niño que había aprendido a *regular su entorno electromagnético* para que la madre no se sintiera incómoda. El amigo sabía que Haruto "regulaba" la habitación cuando estaban juntos — interpretó esto como "Haruto es la persona más zen del mundo". Pero Kenji también notó: *"Cuando estás triste, el aire se pone raro. Como antes de un tsunami."*
+
+**Conexión RomCom:**
+Lyra deduce que Haruto ha estado "cuidando" emocionalmente a todos los que lo rodean sin saberlo. Esto le genera una crisis invertida: si su capacidad de sentir depende de la frecuencia de Haruto, y esa frecuencia se produce porque Haruto ha aprendido a procesar dolor, entonces... *¿necesita que él sufra para poder sentir?* Esto genera tensión romántica real: ¿es el amor de Lyra un drenaje emocional para Haruto disguised as connection? ¿O la conexión con Lyra es lo que finalmente transforma su trauma en algo que no necesita ser doloroso?
+
+La respuesta: *ambos son verdad, y eso es lo que hace que la relación sea evolución, no solo romanticismo.*
+
+### Conexión con semillas y tono:
+
+| Elemento | Cómo se conecta |
+|---|---|
+| *Semilla_12
