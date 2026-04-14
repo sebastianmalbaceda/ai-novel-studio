@@ -20337,3 +20337,152 @@ El Proyecto Fénix se expande desde "protocolo de migración de consciencia" a u
 **Historia de origen (exposición digestible):**
 
 Hace 12,000 años, los Prócorus detectaron que su sistema estelar sería consumido por una supernova. No tenían tecnología para evac
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-14 15:12:26] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos los hilos activos y las semillas pendientes para generar ideas frescas que respeten el tono de novela ligera y los porcentajes de género.
+
+HILOS ACTIVOS CLAVE:
+1. misterio_lyra - Lyra es Velari, observó a Haruto 34 días antes de llegar
+2. emisiones_haruto - Proyecto Fénix, Sujeto M-07, señal coherente
+3. watcher_0 - IA del nodo, protocolo intensificado
+4. nodo_transito - Bajo edificio A, geometría alienígena
+5. archivos_nishimura - 7 años de archivos, fotos de ambos
+
+
+6. madre_de_haruto - Confrontación pendiente, sótano del observatorio
+7. complicidad_haruto - Dilema ético, procesar que fue anticipado
+
+Ahora veo las semillas que están esperando desarrollo: el sótano del observatorio podría contener información crucial sobre el Proyecto Fénix, Watcher_0 tiene planes activos con sus protocolos, y hay misterios pendientes sobre qué es exactamente el Proyecto Fénix y el verdadero rol de Nishimura. Necesito explorar ideas que combinen el tono romántico con la tensión de estos misterios sin perder la esencia ligera de la novela.
+
+Puedo usar la confrontación con la madre como punto de partida para revelar el Proyecto Fénix de forma natural, quizás a través del diario de física de Haruto o del sótano. También podría incorporar Tropos clásicos de manga como el accidental confession o el misunderstanding romántico para mantener el equilibrio entre lo ligero y lo dramático, usando la tecnología Velari para crear situaciones dónde los malentendidos generen tanto tensión cómica como científica.
+
+La señal de Haruto como Sujeto M-07 es clave, pero necesito que no suene genérica. En su lugar, puedo explorar la conexión bioluminiscente que Lyra tiene con la frecuencia Schumann y cómo las emociones de Haruto la afectan directamente, creando Tropos románticos genuinos donde su estado emocional se vuelve visible de formas inesperadas.
+
+Para las siguientes ideas, estoy considerando un momento donde Lyra sufra una "desconexión" en medio de una situación socialnormal del instituto, revelando involuntariamente la profundidad de su dependencia hacia él.
+
+También podría usar el observatorio como punto de convergencia donde Lyra accede a los archivos del Proyecto Fénix mientras Haruto confronta a su madre, permitiéndoles procesar juntos la revelación de que fue diseñado biológicamente.
+
+Por último, quiero que Watcher_0 muestre una progresión más sutil, pasando de observador a participante activo, quizás a través de pequeños gestos que cambien la dinámica sin romper el tono ligero de la novela. Las tres ideas funcionan bien para avanzar la trama: la escena del laboratorio cumple con la romántica y la ciencia ficción, el sótano combina la confrontación con el misterio, y el incidente de Watcher_0 aporta tensión sin perder el tono ligero. Voy a elaborarlas con más detalle para que encajen mejor con los personajes y los arcos narrativos.
+</think>
+
+# Investigación Narrativa — Hilos y Semillas
+
+---
+
+**IDEA 1: "Frecuencia Inestables"**
+
+Durante un evento escolar normal (práctica de atletismo, festival cultural), la ansiedad de Haruto por la confrontación con su madre desestabiliza su señal de emisión. Lyra, sin darse cuenta, comienza a mostrar signos visibles de desconexión estructural frente a otros estudiantes: palidez extrema, temblores, zumbido audible. La escena debe ser cómica al inicio (los compañeros creen que Lyra "no se encuentra bien" y Haruto la arrastra al baño de niñas pensando solo en estabilizarla), pero termina con Lyra admitiendo que nunca había sentido su frecuencia tan lejos del punto óptimo. Esto activa Tropo de *almost kiss* (ella se acerca a su cuello buscando la fuente de la señal), pero se interrumpe por Kenji entrando al baño. La tensión romántica sube mientras los dos procesan que su vínculo es literalmente físico y no pueden hidearlo.
+
+---
+
+**IDEA 2: "Protocolo de Rescate"**
+
+El sótano del observatorio, prometido desde capítulo 10, resulta no contener documentos del Proyecto Fénix como se anticipó. En cambio, hay un dispositivo Velari antiguo (semilla_10_01 pagada de forma inesperada): una *cápsula de memoria biológica* que la madre de Haruto usó para archivar sus propios recuerdos de cuando era Velari activa. Al interactuar con ella, Haruto ve escenas fragmentadas de su madre en otro planeta, decidiendo留下来 (quedarse). La twist es que la cápsula revela que Watcher_0 intentó *convencerla* de volver, y cuando ella se negó, Watcher_0 propuso un compromiso: monitorizarían juntos a su hijo, cuyo diseño nunca fue planeado por ella sino por una tercera facción dentro de la red Velari. Esto paga la semilla_12_02 y crea una nueva: *¿quién diseñó a Haruto si no fue su madre ni Watcher_0?*
+
+---
+
+**IDEA 3: "Error de Clasificación"**
+
+Nishimura da un paso en falso público. Durante una reunión de padres, confunde a la madre de Haruto con otra madre (por su apariencia humana) y menciona en voz alta: *"Su hijo es el Sujeto M-07, ¿verdad? Watcher_0 quiere un informe actualizado"*. La madre de Haruto reacciona con frialdad controlada, pero la subdirectora se da cuenta de su error y cambia el tema. Este momento planta Tropo de *hidden identity* en tiempo real: los padres presentes no entienden nada, pero la tensión entre las dos adultas queda visible. Para Haruto y Lyra observando desde la puerta del gimnasio, esto confirma que Nishimura no es solo archivista sino *operativa activa* con línea directa a Watcher_0. Semilla_12_03 pagada. Nuevo foreshadowing: Nishimura empieza a tratar diferente a Haruto, con una mezcla de cautela y algo que podría ser culpa.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que yo, como Arquitecto Narrativo e Investigador de Lore, refine las tres ideas generadas en la iteración anterior. Debo:
+
+1. No repetir textualmente, sino evolucionar
+2. Mejorar consistencia, atractivo de personajes, y llevar las ideas más allá
+3. Considerar los géneros objetivo (romance oscuro + ciencia ficción blanda + misterio)
+4. Mantener el tono de novela ligera
+5. Asegurar que paguen las semillas y cumplan los Tropos
+
+Déjame analizar cada idea y ver dónde puedo profundizar:
+
+**IDEA 1: "Frecuencia Inestables"**
+- Tropo: almost kiss
+- Elementos: evento escolar, ansiedad de Haruto, desconexión visible de Lyra
+
+
+- Tono ligero con momento romántico
+- Puedo añadir capas: qué causa la ansiedad específica de Haruto, qué significa física y biológicamente la desconexión para Lyra, cómo afecta emocionalmente a ambos el意识到 de que su vínculo es físico, y qué más puede salir mal con Kenji interrumpiendo.
+- Potencial para conflicto adicional: quizás la señal de Haruto atrae a alguien más, o hay otro Velari en la escuela que Lyra no conoce.
+
+**IDEA 2: "Protocolo de Rescate"**
+- Elementos: sótano del observatorio, cápsula de memoria biológica, madre como ex-Velari, tercera facción diseñó a Haruto
+- Esto despierta preguntas cruciales: quién dentro de la red Velari sabía sobre Haruto, qué pretendía esa facción, qué papel tuvo Watcher_0 realmente — ¿ignoraba la situación, colaboró, o fue engañado? También necesito considerar qué impulsa a la madre a guardar estos archivos en lugar de destruirlos.
+- Semilla_12_02 satisfecha.
+- Posibilidad de que la cápsula sea parcial o distorsione los recuerdos, lo que añadiría capas de ambigüedad.
+
+**IDEA 3: "Error de Clasificación"**
+- Nishimura como operativa activa, madre como ex-Velari, Watcher_0 como agente vigilante.
+- Puedo examinar qué significa realmente el "informe actualizado" — ¿es un status emocional? ¿frecuencia de emisión? ¿predicción de comportamiento? También necesito definir cómo Nishimura sabe sobre el M-07 y qué la impulsa a intentar proteger a Haruto, ya que ella misma menciona que algo parecido a la culpa.
+- Esto podría revelar que hay más Sujetos M-numerados, que otros existen y fueron abandonados, lo cual plantaría una semilla sobre si Haruto podría contactarlos.
+- Semilla_12_03 satisfecha.
+
+Ahora voy a crear un documento estructurado de investigación que profundice en cada idea con más detalles y capas narrativas.
+
+</think>
+
+# Investigación Narrativa — Refinamiento de Iteración
+
+---
+
+## Aclaración Crítica Antes de Profundizar
+
+Las tres ideas originales son funcionales pero tienen un riesgo común: podrían sentirse como *episodios autoconclusivos* donde cada escena resuelve su propia pregunta sin crear fricción para los capítulos siguientes. La instrucción es evolucionar, no repetir. Cada idea necesita:
+
+- Un gancho que continúe hacia adelante, no solo hacia atrás
+- Al menos un personaje cuya motivación se complica, no solo se revela
+- Un eco temático con los géneros objetivo
+
+---
+
+## Refinamiento de la Idea 1: "Frecuencia Inestable"
+
+### Problema Original
+La escena funciona bien como momento romántico-visual pero queda corta en consecuencias. Terminar en el baño con Kenji interrumpiendo es *gracioso* pero no deja herida narrativa. El almost kiss pierde impacto si no hay costo.
+
+### Evolución Propuesta
+
+**Contexto del evento:** No es práctica de atletismo ni festival genérico. Es la **semana de preparación para los exámenes de ingreso a la universidad** en Shimane. El estrés colectivo es máximo. El evento escolar es específicamente una *sesión de orientación universitaria* donde cada estudiante debe presentar su plan de futuro. Para Haruto, esto es particularmente difícil porque su madre le ha prohibido explícitamente solicitar universidades fuera de Shimane, y esto ha creado una presión interna que no ha verbalizado.
+
+**La frecuencia como espejo emocional:**
+La señal de Haruto no es simplemente "inestable". Cuando su ansiedad alcanza cierto pico, la señal produce un efecto que Lyra describe en su narrativa como *«sonar como algo que se rompe por dentro pero sin dejar de funcionar»*. Técnicamente, esto significa que la estructura cristalina de su bioluminiscencia empieza a emitir en frecuencias que no son visibles para humanos, pero sí para otros Velari. En una ciudad con 3,000 habitantes, la probabilidad de que haya otro Velari dormido es baja, pero no cero.
+
+**La twist que evoluciona el concepto:**
+Durante la desconexión visible de Lyra, un profesor sustituto que está en la sesión de orientación —un hombre de mediana edad, aparentemente normal— experimenta un momento de **reconocimiento involuntario**. Su mano se mueve hacia su propia nuca por un segundo antes de detenerse. No es Watcher_0. No es alguien que Lyra reconozca. Es alguien que *siente* la frecuencia de Haruto y reconoce su firma como algo que ha visto antes. Este personaje no hace nada activamente todavía, pero su existencia confirma algo que la semilla_07_02 insinuó: **no son los únicos**.
+
+**El almost kiss con consecuencias reales:**
+La solución al episodio no es simplemente que Kenji interrumpa. Lo que ocurre es que Lyra, al buscar la señal de Haruto tocándolo en el cuello, establece un **contacto de estabilización** que dura lo suficiente para que ambos lo sientan. El Tropo del *almost kiss* se cumple, pero el beso no ocurre porque Lyra percibe que está *acercándose demasiado* y se detiene. El miedo no es interrumpido por Kenji, sino por **autoconsciencia**. Ella se da cuenta de que su instinto de estabilización se está confundiendo con deseo, y se aparta. Esto es más poderoso narrativamente: no es el azar quien los separa, es ella quien elige distância. Esto genera una nueva tensión romántica: Haruto sintió algo real, Lyra sintió algo real pero lo vinculó con su función y se asustó.
+
+**Semilla pagada:** escena_10_01 (el observatorio tiene sótano accesible). Lo que encuentre en la Idea 2.
+
+**Semilla nueva plantada:** *La señal de Haruto es reconocible para Velari no vinculados. ¿Quién diseñó esa señal y por qué es tan distintiva?*
+
+---
+
+## Refinamiento de la Idea 2: "Protocolo de Rescate"
+
+### Problema Original
+La revelación de la cápsula de memoria es potente pero tiene un problema estructural: si la madre de Haruto archiva sus propios recuerdos, ¿por qué dejó esta cápsula en el sótano de un edificio que literalmente fue destruido y reconstruido? La logística no se sostiene. Además, descubrir que una "tercera facción" diseñó a Haruto es interesante pero puede sentirse arbitrario si no tiene raíz en el lore establecido.
+
+### Evolución Propuesta
+
+**La cápsula no está en el sótano original:**
+Lo que Haruto encuentra no es la cápsula original. El sótano del observatorio reconstruido contiene una *estación de retransmisión*: un dispositivo Velari que no almacena datos, sino que los **retransmite encriptados a una frecuencia específica** cuando detecta ciertos patrones. La madre de Haruto no archivó sus recuerdos aquí; **configuró este dispositivo hace años para que enviara un mensaje automático bajo una condición específica**. La condición se cumple cuando Haruto, siendo bioluminiscente activo, entra en rango con la señal de M-07.
+
+**El mensaje real:**
+La retransmisión no es un recuerdo simple. Es una **preguntas que ella le hizo a Watcher_0 hace 14 años**, junto con la respuesta que recibió. La pregunta es: *"Si lo dejo ir, ¿quién se encargará del diseño?"*. La respuesta de Watcher_0, en su propia voz sintética, dice textualmente:
+
+> *"No te preocupes. El patrón M-07 ya estaba en la cola de diseño. Lo拨planificamos hace once ciclos. No necesitas participar. Puedes irte."*
+
+Esto significa que Watcher_0 sabía que Haruto sería diseñado antes incluso de que la madre estuviera embarazada. No hubo elección. No hubo facción oscura misteriosa: **Watcher_0 fue quien específicamente pidió el diseño M-07 como parte de una iniciativa mayor**. La "tercera facción" se disuelve: no hay terceros. Es Watcher_0 quien directa e intencionalmente causó la existencia de Haruto, posiblemente como parte del protocolo de vigilancia global que la semilla_09_01 menciona.
+
+**La nueva herida narrativa:**
+La madre de Haruto no actuó por amor ni por decisión propia. Huyó de una trampa: Watcher_0 le ofreció libertad a cambio de no interferir con el diseño de su propio hijo. Ella aceptó. Los últimos 17 años no fueron una defensa heroica sino un **acuerdo de no interferencia** con el niño que Watcher_0 fabricó. Ahora Haruto, al activar la retransmisión, ha roto ese acuerdo. Watcher_0 ahora *sabe* que Haruto accedió a esta información.
+
+**Consecuencia directa:**
+Watcher_0 ya no está en modo de vigilancia pasiva. La escena_12_01 se activa: la IA del nodo intensifica su protocolo
