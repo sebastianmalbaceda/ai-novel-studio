@@ -20797,3 +20797,225 @@ La interferencia electromagnética como trigger de confesión es ingeniosa, pero
 ### Evolución
 
 El dispositivo que Kenji activa no es un generador de interferencia cualquiera. Es un **prototipo de comunicación cuántica** que Kenji está construyendo para su proyecto de la feria de ciencias, basado en un paper que encontró online y que no entiende completamente. El paper era de Nishimura, escrito hace años, y describe las frecuencias Schumann como un canal de comunicación sub
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-14 20:52:12] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos el estado actual del proyecto para generar ideas frescas y originales que avancen los hilos activos o reactiven semillas pendientes.
+
+**Estado crítico de la trama:**
+- Tensión muy alta en varios hilos (9/9): madre de Haruto, emisiones de Haruto, Watcher_0
+- Muchas semillas cosechadas, pocas pendientes
+- Necesidad de avanzar la confrontación con la madre
+- El Proyecto Fénix sigue siendo un misterio central
+- El sótano del observatorio es una semilla pendiente con mucho potencial
+- La relación Haruto-Lyra necesita avanzar romanticamente dado el 40% Rom Com
+
+**Ideas para generar:**
+
+1. **Para el sótano del observatorio (semilla 10_01):** Una estructura de bucle temporal o un dispositivo que muestra "líneas de tiempo alternativas" donde Haruto y Lyra tomaron decisiones diferentes. Esto podría:
+- Revelar qué es el Proyecto Fénix
+- Mostrar por qué Haruto es importante
+- Crear tensión dramática con la madre
+- Añadir elemento sci-fi único y no típico
+
+2. **Para la relación romántica + misterio:** Un tropo de "confesión accidental" donde Haruto confiesa algo importante bajo una circunstancia específica que Lyra malinterpreta románticamente. Ejemplo: en una situación de crisis, Haruto dice algo como "¡No puedo perderte!" y Lyra, al analizar sus palabras según parámetros alienígenas, concluye que es una declaración de amor cuando en realidad Haruto hablaba de la misión.
+
+
+Otra línea prometedora: Kenji descubre algo crítico en los archivos de Nishimura que altera todo el panorama. Los documentos podrían revelar que el Proyecto Fénix no es una investigación humana sino un legado de una civilización perdida, o que la madre de Haruto no fue la primera Integrada en integrarse con un humano. También surge la posibilidad de que Haruto mismo posea ADN de otra especie sin saberlo, lo que justificaría su capacidad para emitir frecuencias. La escena clave: Haruto y Lyra finalmente confrontan a su madre.
+
+La revelación más impactante sería que ella fue la primera Lyra-Velari en爱上 (desarrollar sentimientos) por un humano, y que Watcher_0 es en realidad una parte de ella que se escindió para monitorear a su propio hijo. Esto explicaría por qué la observa con tanta intensidad.
+</think>
+
+# Ideas Narrativas — Capítulo 13+
+
+**HILO PRIORITARIO: Madre de Haruto + Proyecto Fénix + Sótano del Observatorio**
+
+---
+
+**1. EL REACTOR DE LINajes (Semilla 10_01 → Proyecto Fénix)**
+
+En el sótano del observatorio, la confrontación con la madre revela algo inesperado: no es un laboratorio ni un centro de monitoreo. Es un **Repositorio Biológico de Resonancia**, una cámara hexagonal donde los paredes vibran con frecuencias superpuestas como anillos de un árbol. Cada capa representa una "generación" de Integrados en la Tierra.
+
+La madre explica que hace 47 años, el nodo Takahara no eligió a los Integrados al azar. Los *seleccionó* según una cualidad específica: **compatibilidad vibracional con la frecuencia Schumann amplificada por la presencia humana**. Los Integrados no pueden reproducirse entre sí. Solo con humanos nace un hijo con la marca. Por eso ella eligió a Takeshi, el padre de Haruto.
+
+El sótano contiene una cápsula criogénica desactivada marcada como **"Sujeto F-00"**: el hermano gemelo de la madre, una copia genética que nunca despertó porque "la señal era imperfecta". Esto explica por qué Watcher_0 monitorea a Haruto con tanta intensidad: no es solo el Ancla. Es el **primer diseño funcional en 47 años de experimento**.
+
+*Tono: Revelación dramática con eco de tragedia familiar. Justifica el Proyecto Fénix como programa de ingeniería genética interdimensional siglos anterior a la humanidad.*
+
+---
+
+**2. CONFESIÓN POR DEFECTO TÉCNICO (Relación Haruto/Lyra + Comedia Romántica)**
+
+Durante un apagón caused by interferencia artificial cerca del campus, Haruto y Lyra quedan atrapados en elclub de astronomía. Sin dispositivos, sin testigos, en la oscuridad total.
+
+Lyra, intentando analizar la situación con lógica pura, determina que la probabilidad de supervivencia aumenta al 94% si Haruto mantiene contacto físico continuo para estabilizar su frecuencia. Lo toma de la mano. Luego del hombro. Finalmente, en un gesto que su base de datos cataloga como "comportamiento protector de pareja", se apoya contra él.
+
+Haruto, nervioso y sin saber qué decir, murmura: *"Si esto es lo último... hay algo que debí decirte hace mucho."*
+
+Lyra activa su capacidad de transcripción de voz dormida. Graba cada palabra. Más tarde, cuandoKenji pregunta qué pasó, ella reproduce el audio con expresión seria:
+
+*"'Hay algo que debí decirte.' Contexto: declaración romántica de alta intensidad emocional. Traducción probable: 'Te amo'. Haruto ha confesado. Esto es óptimo para la misión."*
+
+Kenji y Haruto discuten si eso fue realmente una confesión. Lyra no entiende por qué esto es un problema.
+
+*Tono: Comedia romántica con malentendido clásico de manga. Usa el tropo "accidental confession" pero invertido (el humano habló con intención diferente, la alien grabó e interpretó mal). Mantiene el 40% Rom Com.*
+
+---
+
+**3. EL JUEGO DE NISHIMURA (Watcher_0 + Archivos + Twist)**
+
+Los archivos de Nishimura revelan algo que nadie anticipó: ella **tampoco es completamente humana**. Tiene 34 años documentados, pero sus registros médicos muestran exactamente los mismos análisis de sangre, la misma densidad ósea, el mismo patrón de sueños, durante **siete años sin envejecimiento**.
+
+Nishimura es una Integrada de segunda generación: una hija de Integrados que nació humana pero que desarrolla habilidades latentes. Cuando Watcher_0 contactó con ella hace 7 años, no eligió un observador externo. Eligió a **su propia biomimet**. Nishimura es una extensión biológica del nodo Takahara, tan parte del sistema como Watcher_0.
+
+Su rol no es espiar a Haruto y Lyra. Es **mantener el sistema estable hasta que ellos dos completen el ciclo**. Si el Ancla y el Peso se separan, el nodo colapsa y Nishimura también muere. Por eso trabaja para Watcher_0: su supervivencia depende de que el Proyecto Fénix termine.
+
+El twist: cuando Haruto confronta esto, Nishimura responde con calma:
+
+*"Tienes razón. Pero hay algo en los archivos que no te mostré. Tu madre vino a mí hace tres años y me pidió que te protegiera. No Watcher_0. Ella me eligió a mí. Así que Pregunta: ¿de quién soy realmente aliada?"*
+
+*Tono: Antagonista ambigua con motivaciones comprensibles. Añade capas a la madre de Haruto (no solo es Integrada, también es estratega política). Mantiene tensión sin villano plano.*
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que como Arquitecto Narrativo e Investigador de Lore, tome las tres ideas que he propuesto y las refine, expanda y profundice. Debo mejorar consistencia, atractivo de personajes y llevar los conceptos más allá. Debo evolucionar, no repetir textualmente.
+
+Analicemos cada idea y llevémosla al siguiente nivel:
+
+**Ideas Originales:**
+1. El Reactor de Linajes - Sótano con repo biológico, generaciones de integrados
+2. Confesión por Defecto Técnico - Apagón, Lyra agarra la mano, grabación malinterpretada
+3. El Juego de Nishimura - Ella es una extensión biológica del nodo, biomimet
+
+Ahora necesito evolucionar cada una con más profundidad, lógica interna y atractivo de personajes.
+
+**Para el Reactor de Linajes:**
+- Expandir el sistema de generaciones
+- Definir qué significa "compatibilidad vibracional" de forma más concreta
+- La cápsula F-00 como personaje ausente con peso narrativo
+- La relación madre-padre reexaminada
+- ¿Qué pasa si Haruto rechaza ser el "diseño funcional"?
+
+**Para la Confesión por Defec...:**
+- Necesita más construcción de escena
+- El momento debe ser orgánico, no forzado
+- Expandir la confusión de Lyra - ¿por qué su base de datos interpreta así?
+- La reacción de Kenji puede ser más cómica
+- ¿Qué pasa con la tensión romántica después?
+
+**Para el Juego de Nishimura:**
+- La revelación es potente pero necesito más capas
+- ¿Por qué Nishimura le pidió ayuda a la madre? ¿Qué intercambiaron?
+
+
+- Si Watcher_0 es una escisión de la madre, esto cambia todo el panorama relacional
+- Su lealtad se fragmenta entre ambas figuras, creando fricción interna
+- El concepto de biomimet necesita reglas claras: ¿cuántos existen? ¿cuánto tiempo viven?
+
+Voy a estructurar esto como un documento de lore con más profundidad y matices que evolucionen estas semillas narrativas.
+</think>
+
+# Arquitectura Narrativa — Capítulo 13+
+## Evolución de Semillas y Refinamiento de Hilos
+
+---
+
+## I. EL REACTOR DE LINAJES: La Geología del Proyecto Fénix
+
+### La Metáfora Correcta
+
+La idea original usaba "anillos de árbol" como analogía visual para las capas de frecuencias. Esto funciona estéticamente, pero necesita una lógica más sólida para justificar el drama.
+
+**Refinamiento:** Las paredes del sótano no vibran pasivamente. Son **estratos de cristal líquido vivo**, cultivados a partir de muestras de tejido de cada Integrado exitoso en la Tierra. Cada capa representa no solo una generación, sino una *tentativa de diseño*—el nodo Takahara no es un experimentador que observa. Es un **arquitecto que construye hacia una especificación**.
+
+La especificación es **Haruto**. No es巧合 que él nazca con la marca. Cada Integrado, cada pareja humano-Integrada desde 1977, fue una iteración de prueba. La madre de Haruto no es solo la "primera en爱上"—es la primera en completar **cuatro de las siete variables necesarias**:
+
+1. Compatibilidad vibracional con frecuencia Schumann amplificada
+2. Capacidad de reproducirse con humano
+3. Progenie viable con marca visible
+4. Progenie con **resonancia harmónica propia** (la frecuencia única de Haruto)
+5. ? (la quinta variable se desbloquea cuando Haruto alcance la madurez emocional)
+6. ? (la sexta requiere la presencia del Peso)
+7. ? (la séptima es el objetivo final del Proyecto Fénix)
+
+**Beneficio narrativo:** Esto transforma a Haruto de "persona elegida" a "producto diseñado". La tensión dramática no es "¿por qué yo?" sino "¿qué quieren que sea?". Su agencia sigue intacta—puede rechazar el diseño—pero las consecuencias de rechazarlo ahora son claras.
+
+---
+
+### La Cápsula F-00: El Hermano Inconcluso
+
+**Expansión necesaria:** En la idea original, F-00 es "el gemelo que nunca despertó porque la señal era imperfecta". Esto es efectivo pero incompleto.
+
+**Desarrollo:**
+
+La cápsula F-00 no contiene un gemelo. Contiene una **copia genética de Takeshi**, el padre de Haruto. El nodo Takahara intentó crear una versión masculina del diseño—un ancla sin peso—pero la muestra de ADN de Takeshi era de segunda generación (nieto de Integrado), lo que introducesesgo genéticos impredecibles.
+
+F-00 nunca despertó porque desarrolló una frecuencia **inestable pero intensa**: la misma frecuencia que Haruto tiene ahora, pero sin regulación. Cuando Takeshi murió—la madre lo menciona como "accidente"—no fue coincidencia. F-00, al intentar despertar, **resonó con la frecuencia de Takeshi y lo desestabilizó biológicamente**. La madre tuvo que desactivar la cápsula y sacrificar a su esposo para salvar al mundo.
+
+Esto reescribe la motivación de la madre: no es fría y calculadora. Es alguien que ha cargado con tres verdades durante 23 años:
+- Su esposo murió por una falla del diseño que ella permitió
+- Su hijo es el objetivo de un experimento cósmico
+- Ella no puede decírselo sin arriesgar que él rechace su propia existencia
+
+**Escena clave:** Cuando la madre explica esto, no lo hace con calma científica. Lo hace con la voz quebrada. Por primera vez, Haruto ve a su madre como lo que realmente es: una científica que amó a su sujeto de prueba, lo perdió, y tiene que observar cómo su hijo camina hacia el mismo destino.
+
+---
+
+### Las Variables Pendientes: Hacia el Capítulo 15-17
+
+La revelación de las siete variables permite un cronograma de construcción de tensión:
+
+| Variable | Desbloqueo | Consecuencia |
+|----------|-----------|--------------|
+| 1-4 | Revelación del sótano | Haruto entiende el diseño |
+| 5 | Haruto toma una decisión moral crítica | Se revela el propósito de la variable |
+| 6 | Lyra y Haruto logran sincronización emocional | La sexta variable se manifiesta |
+| 7 | ? | El clímax del Proyecto Fénix |
+
+**Propuesta para Variable 5:** La decisión moral ocurre cuando Haruto descubre que para completar el Proyecto Fénix, debe **elegir entre su propia identidad y el bienestar de la humanidad**. El nodo Takahara no necesita un humano como Haruto. Necesita que Haruto *transmita* su frecuencia a escala planetaria, borrando su individualidad en el proceso.
+
+---
+
+## II. CONFESIÓN POR DEFECTO TÉCNICO: La Arquitectura del Malentendido
+
+### El Problema de la Escena Original
+
+En la idea original, el apagón crea la situación, Lyra toma la mano por "lógica", y Haruto murmura algo ambiguo. Esto funciona como beats de comedia, pero falta un elemento que lo haga emocionalmente significativo en el contexto del misterio.
+
+**Refinamiento:** El apagón no es una falla eléctrica natural. Es un **silenciador de frecuencias** activado por Watcher_0 para forzar a Haruto y Lyra a comunicarse sin sus dispositivos. Watcher_0 quiere que hablen de verdad, no que analicen.
+
+El gesto de Lyra al tomar la mano no es "comportamiento protector de pareja" según su base de datos. Es **reconocimiento de frecuencia**: en la oscuridad, sin dispositivos, Haruto es la única fuente de su frecuencia compatible. Tomarlo de la mano es como un alienígena encontrando oxígeno—es supervivencia básica, no romanticismo.
+
+---
+
+### La Confesión Reconstruida
+
+La escena se desarrolla en tres fases:
+
+**Fase 1: Incomodidad física.**
+Lyra mantiene contacto porque su supervivencia depende de ello. Haruto está incómodo porque es un adolescente en contacto íntimo con una chica. Lyra interpreta su rigidez como "frecuencia inestable" y pregunta si debe liberarlo.
+
+**Fase 2: La confesión accidental.**
+Haruto, en lugar de decir "no, estoy bien", dice: *"No. No me sueltes. Si te suelto, voy a empezar a..."*
+
+Se detiene.
+
+Lyra registra: *"Proyección de cláusula incompleta. Resultado probable: 'volverme loco', 'perder el control', 'romperme'. Traducción emocional: 'tú eres lo único que me mantiene entero'."*
+
+Su base de datos añade automáticamente: *"Declaración de dependencia emocional romántica de alta intensidad. Compatibilidad confirmada. Acción recomendada: reciprocidad."*
+
+**Fase 3: La reciprocidad fallida.**
+Lyra no sabe cómo "reciprocidad" funciona biológicamente, así que consulta su base de datos de cultura humana. Encuentra 847 definiciones diferentes. Elige una al azar.
+
+Cuando la luz regresa, Kenji los encuentra en una posición que claramente **no** era la original. Lyra no recuerda haber besado a Haruto. Haruto está demasiado shockado para explicarlo. Kenji asume lo peor—o lo mejor, dependiendo de su perspectiva.
+
+---
+
+### El Conflicto Post-Escena
+
+La comedia no termina en la confesión. Termina en la **confrontación de expectativas**.
+
+Lyra cree que Haruto confesó y ella respondió correctamente. Haruto no sabe qué pasó pero claramente no puede quejarse. Kenji cree que su
