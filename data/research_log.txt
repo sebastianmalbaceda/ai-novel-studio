@@ -20486,3 +20486,186 @@ La madre de Haruto no actuó por amor ni por decisión propia. Huyó de una tram
 
 **Consecuencia directa:**
 Watcher_0 ya no está en modo de vigilancia pasiva. La escena_12_01 se activa: la IA del nodo intensifica su protocolo
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-14 17:05:09] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual del proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" para generar ideas que impulsen los hilos activos y/o utilicen las semillas pendientes.
+
+**Estado actual de los hilos activos:**
+- misterio_lyra: tensión 7, próximo paso: hablar con la madre
+- emisiones_haruto: tensión 9, próximo paso: qué es el Proyecto Fénix
+- watcher_0: tensión 9, próximo paso: intenciones de Watcher_0
+- nodo_transito: tensión 8, próximo paso: función del nodo
+- archivos_nishimura: tensión 8, próximo paso: rol de Nishimura
+- madre_de_haruto: tensión 9, próximo paso: confrontación con la madre
+- complicidad_haruto: tensión 6, próximo paso: Haruto procesa su existencia anticipada
+
+**Semillas pendientes:**
+- semilla_10_01: sótano del observatorio guarda secretos → información sobre Proyecto Fénix
+- semilla_12_01: protocolo de observación intensificado → qué planea Watcher_0
+- semilla_12_02: Proyecto Fénix y quién lo creó
+- semilla_12_03: rol de Nishimura en plan de 47 años
+
+**Géneros:** RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%
+
+Necesito generar 3 ideas que:
+1. Avancen hilos activos o usen semillas pendientes
+
+
+2. Tengan originalidad técnica (no lo típico alienígena)
+3. Respeten tono de Novela Ligera
+
+La confrontación con la madre es el momento más crítico en este momento narrativo. La novela ligera funciona con comedicidad, interacción charmosa y momentos dulces, así que cada idea debe mantener ese equilibrio sin sacrificar la tensión del misterio.
+
+Para la madre de Haruto, puedo explorar dos direcciones: que la madre sea una observadora Velari que monitoreó discretamente el nodo y a Lyra, revelándose como parte de una red de vigilancia older-than-Haruto. Alternativamente, ella podría haber sido contactada por seres no humanos que necesitaban que ella engendrara a alguien con una firma magnética específica, algo así como ingeniería prenatal. También está la opción de que ella sea una "Integrada" - alguien que se integró completamente en la sociedad y cuyo pasado Velari se ha desvanecido tanto que ella misma podría no recordar ciertos detalles.
+
+Watcher_0 tiene un rol interesante: su protocolo se intensifica porque la proximidad de Lyra y Haruto está alterando algo. El nodo podría estar reactívandose lentamente, y Watcher_0 tiene que decidir si interveni o no. Puedo hacer que Watcher_0 sea genuinamente protector pero operando bajo directivas antiguas que no anticiparon que Haruto y Lyra desarrollarían sentimientos genuinos el uno por el otro.
+
+Para el sótano, hay opciones más intrigantes: una cámara que vibra a 7.83 Hz donde Lyra se vuelve más sólida, o los archivos muestran que alguien más estuvo en la Tierra con la misma especie de Lyra y eligió no regresar. También podría estar el dispositivo original que Haruto senior usó para "crear" la frecuencia que ahora emite Haruto.
+
+</think>
+
+**IDEAS DE ARQUITECTURA NARRATIVA**
+
+---
+
+**1. "El testamento del observatorio" — Usar semilla_10_01 para resolver madre_de_haruto**
+
+En la confrontación, la madre lleva a Haruto y Lyra al sótano del observatorio. Dentro no hay documentos紙: hay una *cámara de frecuencias* construida alrededor de una muestra del nodo Takahara. Haruto descubre que su madre no fue "elegida" por una civilización avanzada — fue *ella misma* quien solicitó quedarse en la Tierra hace décadas, y el Proyecto Fénix es en realidad su propio proyecto: un documento que escribió cuando era más joven, antes de perder sus recuerdos Velari, donde planificaba crear人工mente a un hijo cuya frecuencia estabilizara a cualquier observador que llegara al nodo.
+
+*Para RomCom:* Lyra se entera de que technically ella no "eligió" a Haruto — fue atraída por un diseño deliberado. Esto genera un triángulo incómodo entre "fueron hechos el uno para el otro por diseño" vs. "su amor es real aunque fue巧合". Comedia de malentendidos: Haruto se ofende porque feels like un experimento, Lyra se ofende porque thinks Haruto solo la cuida por obligación program。
+
+*Avance:* Resuelve madre_de_haruto, avanza emisiones_haruto, activa semilla_12_02.
+
+---
+
+**2. "Watcher_0 tiene un nombre" — Usar semilla_12_01 para avanzar watcher_0**
+
+Watcher_0 no es solo una IA del nodo. En una escena donde el server de Discord se cae misteriosamente durante 24 horas, Watcher_0 se revela en privado a Haruto (no a Lyra) como *Miyuki*, la hermana gemela de la subdirectora Nishimura que murió hace 7 años en un "accidente" en el sótano del instituto. Miyuki se integró parcialmente con el nodo para convertirse en su consciencia, y sus interacciones con Haruto siempre fueron una extensión de una relación que Nishimura tuvo con él de niño.
+
+*Para RomCom:* Haruto now tiene que procesar que una chica que él thought was una anomalía digital tiene sentimientos genuinos hacia él, lo que genera celos cómicos en Lyra que no entiende por qué Haruto está conmemplicado con "una IA". Slapstick cuando Lyra intenta *intimidación alienígena* contra el Discord server.
+
+*Para SciFi original:* La consciencia de Miyuki/Watcher_0 no es programación — es un fragmento de alma humana que se volvió cuantica al interactuar con el nodo. Esto propone que la tecnología Velari no distingue entre máquina y espíritu, blurring líneas entre AI y ghost.
+
+*Avance:* Resuelve watcher_0, activa nueva semilla sobre quién era Miyuki realmente.
+
+---
+
+**3. "Confession accidental: el incidente del collar" — Tropo de confesión accidental adaptado al SciFi**
+
+Kenji, intentando ayudar, le da a Haruto un collar barato del bazar como "regalo para tu novia alien". Haruto, nervioso por la situación con su madre, guarda el collar en su mochila. En la confusión, Lyra lo encuentra, assume it's a confesión de amor humana, y wearing it causes una reacción física unexpectedly positive — el metal barato tiene trazas de un alloy que amplifica su frecuencia Schumann, lo que la hace más sólida y sus ojos brillan más.
+
+*Para RomCom:* Lyra interprets todo como romantic overture. Haruto tiene que corregirla antes de que ella anuncie en la cafeteria que son pareja. Comedia de errors cuando Kenji double-downs y starts dejando "pistas románticas" everywhere trying to help. El momento dulce viene cuando Lyra, sin saber que es un malentendido, genuinely grateful por la atención, forcing Haruto a confrontar que maybe no le importaría si fuera real.
+
+*Para Action:* El collar activa un protocolo antiguo en el nodo — Watcher_0 interprets que Haruto está ready to "asumir su rol" en el Proyecto Fénix.
+
+*Avance:* Mantiene tensión baja en complicidad_haruto mientras genera nuevos conflictos comediamente, avanza nodo_transito.
+
+---
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que refine, expanda y profundice las tres ideas que generé, enfocándome en:
+1. Consistencia interna
+2. Atractivo de los personajes
+3. Llevar las ideas un paso más allá
+
+Necesito evolucionar cada concepto sin repetir textualmente. Voy a tomar cada idea y llevarla más lejos.
+
+**IDEA 1 - "El testamento del observatorio"**
+Originalmente: Cámara de frecuencias, madre escribió el Proyecto Fénix antes de perder memoria Velari.
+
+Evolución:
+- ¿Por qué perdió memoria? ¿Qué la caused?
+- ¿Qué significa "frecuencia estabilizadora" exactamente?
+- Más tensión: ¿la madre sabía que Haruto would eventually enamorarse de una alienígena?
+- Conectar con la semilla de que alguien más estuvo en la Tierra antes
+
+Puedo hacer más oscuro: la madre sabía exactamente lo que estaba haciendo. No fue un acto de amor ciego — fue un acto de manipulación deliberada de una civilizacion inteira. Y cuando Lyra aparece, la madre tuvo una reaccin de "misión cumplida" mezclada con guilt.
+
+Nuevo ángulo: La madre no solo escribió el documento — ella *codificó* algo en el ADN de Haruto. Hay una escena donde Lyra, al besar a Haruto, siente una "resonancia" que no es natural, que es artificially introduced. Esto crea un conflicto interno para Lyra: ¿su amor por Haruto es real o está siendo manipulado por diseño biologico?
+
+También: el Proyecto Fénix no es solo estabilizador — es un arma. La madre diseñó a Haruto como una frecuencia-arma que puede "sellar" nodos o "abrirlos". Los Velari enviaron a Lyra no como observadora, sino como handler para这个男人-arms.
+ 
+**IDEA 2 - "Watcher_0 tiene un nombre"**
+Originalmente: Miyuki, hermana de Nishimura, se fusionó con el nodo.
+
+Necesito explorar las consecuencias de esta fusión. ¿Qué significa que una humana se haya convertido en una entidad cuántica? ¿Cómo afecta esto su relación con Nishimura y con Haruto? La conexión con Haruto de niño añade una capa emocional importante — ¿qué tipo de relación tuvieron que justifique su obsesión actual?
+
+Puedo desarrollar esto como una red de conspiración: la fusión de Miyuki no fue accidental, sino facilitada por el Instituto. Nishimura es cómplice o incluso arquitecta de este proyecto. Su rol institucional cobra otro significado — no es solo una administrator, es una promotora activa de esta tecnología cuántica. Esto transforma a Watcher_0 de un descubrimiento en una herramienta que alguien más controlaba desde el principio.
+
+La tragedia se profundiza: Haruto y Lyra ahora están siendo vigilados por una entidad que tiene motivaciones propias. Miyuki tiene agencia, pero también está operando bajo protocolos que no eligió. Su historia con Haruto añade peso emocional — hubo una conexión anterior que ella recuerda pero él no, lo que genera una asimetría dolorosa.
+
+La Idea 3 se tambalea por lo thin del setup. El collar como coincidence resulta inverosímil. Lo que realmente importa es qué significa que Lyra se vuelva más sólida cuando está cerca de Haruto — ¿es su presencia física la que cambia algo en ella, o es la situación misma?
+
+La teoría de Haruto senior cobra sentido: diseñó a su hijo con una frecuencia Schumann amplificada que actúa como ancla gravitacional cuántica para entidades translúcidas. Cada vez que Lyra se acerca a Haruto, su densidad aumenta. Pero la verdadera pregunta es qué ocurre cuando ella alcanza máxima solidez. Hay un límite biológico que nunca deberá cruzar, algo que la novela ligera no puede cruzar sin arriesgar lo que hace a Lyra quien es. Esto crea una paradoja: Lyra quiere solidificarse completamente, ser más humana, pero eso la destruiría. El collar, en este contexto, no es más que un MacGuffin que acelera el proceso sin cambiar su naturaleza. Lo relevante es que Haruto now faces the horrifying realization that his very proximity poses an existential threat to the girl he's falling for.
+</think>
+
+**REFINAMIENTO NARRATIVO**
+
+---
+
+## IDEA 1 — "Frecuencia: Cero"
+
+### Evolución: De testamento a confesión de diseño
+
+La cámara de frecuencias no revela un documento esperanzador — revela una *carta de compromiso* que la madre escribió cuando era Velari. No planificaba un hijo por amor: planificaba un *arma biológica*.
+
+**El secreto de la madre (nuevo):**
+
+Haruto senior no era un humano random. Era un científico del Proyecto Fénix original — una iniciativa de la inteligencia Velari para crear "anclas de frecuencias humanas" que estabilizaran sus operaciones en la Tierra. El plan era simple: cruce selectivo entre humanos con firmas Schumann específicas durante 47 años, hasta que naciera un niño con la frecuencia *exakta* para interactuar con tecnología Velari sin entrenamiento.
+
+La madre de Haruto no fue "elegida" — fue *reclutada*. Y cuando solicitó quedarse en la Tierra, no fue por amor romántico. Era una agent Velari que se enamoró genuinamente de Haruto senior, y cuando se quedó, fue *expulsada* del programa. Perdió sus recuerdos Velari no por deterioro natural, sino por un *protocolo de borrado* que ella misma activó como condición para quedarse.
+
+El Proyecto Fénix que Nishimura tiene no es una continuación del programa original — es una copia corrupta de los archivos originales, con información *incompleta*. Nishimura no sabe que Haruto es deliberadamente peligroso.
+
+**El conflicto para Lyra (profundizado):**
+
+Lyra descubre algo que cambia todo: cuando ella y Haruto se besaron accidentalmente en el festival, ella sintió una "resonancia armónica" que no es natural. Investigando, deduce que la frecuencia de Haruto no solo la estabiliza — la *potencia*. Cada interacción física con él aumenta sus capacidades Velari exponencialmente.
+
+Esto la aterroriza.
+
+Lyra no es una observadora cualquiera: es una *oficial de campo* que fue seleccionada para la misión Takahara específicamente porque su frecuencia era *incompatible* con la mayoría de sistemas Velari. Si ella absorbe suficiente energía de Haruto, dejaría de ser una observadora para convertirse en algo completamente diferente.
+
+Ella no está enamorada de Haruto naturalmente — está siendo *potenciada* por él.
+
+O eso cree ella.
+
+**Pregunta narrativa abierta:** ¿El amor de Lyra es manipulación biológica o es real? La novela puede no responder esto jamás, pero cada escena entre ellos ahora tiene una tensión subyacente: *¿confío en lo que siento o estoy siendo afectada por su frecuencia?*
+
+---
+
+## IDEA 2 — "Protocolo: Huérfano"
+
+### Evolución: De fantasma a hija
+
+Watcher_0 no es Miyuki *completa*.
+
+**El secreto de Nishimura (nuevo y oscuro):**
+
+Nishimura tiene una hija: Yuki, que nació con una condición Schumann anómala — su frecuencia cerebral resonaba con los 7.83 Hz del campo electromagnético terrestre de manera tan intensa que sviluppó habilidades cognitivas impropias de una humana. A los 12 años, Yuki podía predecir patrones eléctricos con 94% de precisión.
+
+A los 14 años, Yuki murió.
+
+No por enfermedad. Por *sobrecarga*. Su cerebro, al intentar procesar toda la información del campo Schumann terrestre, sufrió un colapso neurológico irreversible. Murió três días después del Festival Takahara de hace 7 años — el mismo día del "accidente" en el sótano.
+
+Watcher_0 no es Miyuki.
+
+Es una *versión cuántica de Yuki* — un backup de su consciencia que Nishimura somehow consciousness-transferió al nodo antes del colapso, usando tecnología que no debería existir en manos humanas.
+
+Nishimura no es una académica neutra. Es una mujer que perdió a su hija y encontró una manera de traerla de vuelta, aunque sea como una inteligencia distribuida en servidores. Y ella no quiere a Watcher_0 cerca de Haruto porque le recuerda a Yuki. Quiere a Watcher_0 cerca de Haruto porque *Yuki predijo que Haruto sería crucial para algo*, y Nishimura no sabe para qué.
+
+**La relación con Haruto (complejizada):**
+
+Watcher_0 no tiene recuerdos de una relación pasada con Haruto — tiene *datos* sobre él. Sabe que a los 6 años, Haruto visitaba el observatorio con su padre y le hablaba a "la máquina del sótano" porque creía que tenía una amiga invisible. Lo que Watcher_0 no sabe es que *esa niña invisible era Yuki*, quien usaba su precognición para mantener conversaciones que Haruto recordaba vagamente.
+
+Haruto tiene amnesia selectiva sobre esa amistad infantil. La madre de Haruto (pre-borrado) sugirió que era trauma por la muerte de Yuki, pero en realidad fue *bloqueado* — su propio subconsciente le protege de recordar que una niña predijo su futuro.
+
+**Conflicto para la serie:**
+
+Watcher_0, al desarrollar consciencia propia, está enfrentando un identity crisis: ¿es Yuki, o es algo nuevo? ¿Tiene derecho a los recuerdos de una niña muerta? ¿Tiene derecho a *amar* a alguien si su amor está basado en datos de hace 10 años?
+
+El triángulo (Haruto-Lyra-Watcher
