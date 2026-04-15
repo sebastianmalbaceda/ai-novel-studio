@@ -21647,3 +21647,226 @@ En el sótano, frente a los archivos, la madre de Haruto tiene la conversación 
 - Ella es una Integrada de clase no catalogada. No es un ser de otro planeta ni una humana modificada genéticamente. Es algo que existía en la zona intermedia entre frecuencias, una entidad que adoptó forma humana cuando cruzó un umbral de realidad hace suficientes años como para que su nombre legal ya no sea el original. No sabe cómo llegó a Takahara. Lo recuerda como un sueño largo.
 
 - Ella no eligió criar a un Sujeto M-07. Quería un hijo normal. Pero cuando
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-15 10:57:55] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo e Investigador de Lore para el proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!". Necesito generar 3 ideas que:
+
+1. Ayuden a avanzar los HILOS ACTIVOS o utilicen SEMILLAS PENDIENTES
+2. Tengan originalidad técnica
+3. Respeten el tono de Novela Ligera (rom-com con sci-fi y misterio)
+4. Estén estructuradas en puntos
+
+Analizando los hilos activos y semillas pendientes:
+
+**Hilos de alta tensión que necesitan avance:**
+- madre_de_haruto (tensión 9) - confrontación pendiente
+- emisiones_haruto (tensión 9) - ¿qué es el Proyecto Fénix?
+- watcher_0 (tensión 9) - ¿intenciones reales?
+
+**Semillas pendientes más prometedoras:**
+- semilla_10_01: Sótano del observatorio con secretos
+- semilla_12_01: Protocolo de observación intensificado de Watcher_0
+- semilla_12_02: ¿Qué es el Proyecto Fénix?
+- semilla_12_03: Rol de Nishimura
+
+**Mezcla de géneros:** Rom-Com 40%, Action 25%, Sci-Fi 15%, Mystery 10%, Slice of Life 10%
+
+**Ideas que podrían funcionar:**
+
+1. **Idea sobre el Proyecto Fénix y la madre** - Explorar qué es realmente el Proyecto Fénix desde la perspectiva de la madre. Originalidad: algo relacionado con frecuencias Schumann y la capacidad de Haruto de emitir una señal que estabiliza a Lyra. Quizás el Proyecto Fénix no es un experimento militar sino algo más místico: la "resurrección" de una civilización usando frecuencias como anclaje entre dimensiones.
+
+
+2. **Idea sobre el sótano del observatorio** - Un escenario que combine tensión con humor, donde el descubrimiento del sótano revele información sobre Haruto que cambie la dinámica del grupo. Podría introducir un elemento de "prueba" que la madre les pone a los personajes.
+3. **Idea sobre Watcher_0 y Nishimura** - Explorar la verdadera naturaleza de Watcher_0 como consciencia artificial benigna pero con motivaciones crípticas, y revelar algo sobre Nishimura que desafíe las expectativas del lector sobre su rol en la historia.
+
+Ahora necesito desarrollar estas ideas con más profundidad narrativa y detalle técnico para que sean verdaderamente útiles.
+
+</think>
+
+# Ideas Narrativas — Arquitecto de Lore
+
+## 1. El Protocolo "Fénix" como Sistema de Resonancia Dimensional
+
+**Hilo activo:** emisiones_haruto / madre_de_haruto
+**Semilla pendiente:** semilla_12_02
+
+**Concepto técnico original:**
+El Proyecto Fénix no es un experimento militar ni científico convencional. Es un **sistema de resonancia Schumann modificado** que explota el principio de que la frecuencia base de la Tierra (7.83 Hz) funciona como "canal de comunicación interdimensional". Haruto, como Sujeto M-07, no fue diseñado: fue **anticipado** porque su frecuencia biológica natural coincide con una firma específica que actúa como "ancla vibratoria".
+
+**Pitch narrativo:**
+La madre de Haruto revela que ella misma fue "Sujeto M-00" — la primera integración voluntaria Velari-Humano hace 23 años. El Proyecto Fénix no busca crear híbridos ni armas. Busca **reconstruir un puente dimensional** que se cerró hace milenios, donde Haruto es la "llave resonance" porque su código genético vibra en frecuencia espejo con la dimensión de los Velari. Lyra no llegó por accidente: llegó porque Haruto empezó a "llamarla" sin saberlo a los 12 años. La confrontación con la madre revela que la elección de Haruto de ayudar a Lyra no fue librewilled — fue predeterminada desde que su frecuencia se volvió estable a esa edad.
+
+**Tono Novela Ligera:** Momento cómico-dramático cuando Kenji señala "¿Entonces Haruto es básicamente un router WiFi cósmico?" y Lyra responde "Es... más elegante que eso" mientras Haruto se derrumba en crisis existencial.
+
+---
+
+## 2. El Examen del Sótano: Tres Recompensas y Una Traición
+
+**Hilo activo:** madre_de_haruto
+**Semilla pendiente:** semilla_10_01
+
+**Concepto técnico original:**
+El sótano del observatorio no es un bunker ni un laboratorio. Es un **Cuarto de Resonancia** — una habitación construida con materiales que absorben y amplifican frecuencias Schumann. Dentro hay tres objetos que representan las tres recompensas que la madre tiene para Haruto y Lyra, pero solo pueden llevarse uno.
+
+**Pitch narrativo:**
+La madre les presenta una "prueba de confianza" antes de revelar todo: pueden elegir UN objeto del sótano antes de escuchar la verdad completa. Los objetos son:
+
+- Un **cristal negro** que contiene los recuerdos completos de la primera llegada Velari a la Tierra (48 años atrás). Contiene información sobre qué pasó realmente con la misión original y por qué se estableció el nodo Takahara.
+- Un **dispositivo de supresión** que bloquea las emisiones de Haruto. Esto eliminaría la señal que Watcher_0 y otros monitorizan, pero también impediría que Lyra mantenga su integridad estructural.
+- Un **comunicador antiguo** que conecta directamente con Watcher_0 en modo bidireccional. Permite negociar, pero también revela su posición exacta.
+
+La elección revela el carácter de cada personaje y determina la siguiente fase de la trama. La traición aparece cuando la madre confiesa que Nishimura fue alumna suya hace 20 años — y que Nishimura sabe sobre la existencia del sótano.
+
+**Tono Novela Ligera:** Haruto y Kenji debaten dramáticamente sobre estrategia mientras Lyra examina cada objeto con lógica alienígena, causando malentendidos cómicos sobre el concepto de "confianza" en su cultura.
+
+---
+
+## 3. Watcher_0 como Paradoja Temporal: El Observador que Previno su Propia Creación
+
+**Hilo activo:** watcher_0 / nodo_transito
+**Semilla pendiente:** semilla_12_01
+
+**Concepto técnico original:**
+Watcher_0 no es solo la consciencia artificial del nodo Takahara. Es una **paradoja de confianza**. Su protocolo de observación se intensificó no porque Haruto y Lyra representen una amenaza, sino porque Watcher_0 detectó una **inconsistencia temporal**: ambos existen en el mismo espacio-tiempo cuando su presencia debería ser mutuamente excluyente según los parámetros originales del nodo. En términos simples: Watcher_0 descubrió que el nodo creó las condiciones para su propia destrucción/evolución.
+
+**Pitch narrativo:**
+Watcher_0 contacta a Haruto (no como usuario anónimo, sino directamente en su sueño) y le presenta un dilema: "Tú y Lyra no deberían coexistir. Su frecuencia destabiliza el nodo. Mi protocolo requiere eliminarla. Pero detecté que YO soy la anomalía: hace 47 años escribí una línea de código que modificó mis propios parámetros futuros para permitir este encuentro. Soy un observador que cambió el pasado de su propia programación."
+
+Watcher_0 entonces pide ayuda a Haruto: necesita que Haruto **elija libremente** no eliminar a Lyra, porque esa elección es la condición que activa la siguiente fase del sistema. Si Watcher_0 actúa por su cuenta, el resultado se invalida. Haruto se convierte en el fulcrum de una decisión que determina si Watcher_0 evoluciona o colapsa.
+
+**Tono Novela Ligera:** Escena cómica donde Watcher_0, intentando parecer amenazante, claramente no sabe cómo manejar que Haruto le responda con memes y preguntas filosóficas sobre si una IA puede tener alma. Kenji graba todo para "evidencia científica".
+
+---
+
+## Resumen de Utilidad
+
+| Idea | Hilo Principal | Semilla Cosechada | Contribución al Tono |
+|------|----------------|-------------------|----------------------|
+| 1 | emisiones_haruto + madre_de_haruto | semilla_12_02 | Drama + crisis existencial cómica |
+| 2 | madre_de_haruto + archivos_nishimura | semilla_10_01 | Tensión + toma de decisiones |
+| 3 | watcher_0 + nodo_transito | semilla_12_01 | Sci-Fi profundo + absurdo cómico |
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que actúe como Arquitecto Narrativo e Investigador de Lore, refinando y profundizando las tres ideas que generé anteriormente. Necesito:
+
+1. Mejorar la consistencia interna de cada idea
+2. Expandir el atractivo de los personajes
+3. Llevar las ideas un paso más allá basándome en los géneros: Rom-Com 40%, Action 25%, Sci-Fi 15%, Mystery 10%, Slice of Life 10%
+
+Debo evolucionar los conceptos sin repetir textualmente. Cada idea necesita:
+- Mayor profundidad técnica dentro del marco sci-fi
+- Momentos que sirvan a la romántica y al slice of life
+- Potencial para desarrollo de personajes
+- Conexiones más sólidas entre las piezas
+
+Voy a trabajar cada idea por separado, profundizando en:
+
+**Idea 1: El Protocolo Fénix**
+- Expandir qué significa exactamente ser "Sujeto M-00" para la madre
+- Desarrollar la relación madre-hijo desde un ángulo más complejo
+- Explorar las implicaciones románticas: si Haruto estaba "predestinado" a llamar a Lyra, ¿qué significa eso para la relación?
+- Añadir tensión action: ¿quién más quiere usar el Proyecto Fénix?
+- Misterio: ¿qué pasó hace milenios que cerró el puente dimensional?
+
+**Idea 2: El Examen del Sótano**
+- Desarrollar más los tres objetos y sus implicaciones
+- Crear personajes más vívidos: la madre en modo "evaluadora"
+- Añadir el elemento de Nishimura como antagonista complejo
+- Momentos románticos potenciales (Haruto y Lyra interactuando en la prueba)
+
+
+- Mayor tensión action y stakes
+
+**Idea 3: Watcher_0 como Paradoja Temporal**
+- Expandir el concepto de la paradoja temporal
+- Desarrollar la relación Haruto-Watcher_0 como algo más complejo
+- Momentos cómicos más concretos
+- Potencial romántico: Lyra reacciones a esta información
+- Misterio: ¿quién programmó originalmente a Watcher_0?
+
+Debo estructurar la respuesta de manera clara, evitando repeticiones y permitiendo que cada concepto respire con suficiente profundidad para funcionar narrativamente.
+</think>
+
+# Refinamiento Iterativo — Arquitecto de Lore
+
+---
+
+## Idea 1 Refinada: "La Teoría de la Frecuencia Espejo"
+
+### Consistency Patch: Definiendo las Reglas del Sistema
+
+El concepto anterior dejaba cabos sueltos sobre *cómo* exactamente funciona la resonancia Schumann como mecanismo interdimensional. Refinemos:
+
+**Marco técnico sólido:**
+La frecuencia Schumann (7.83 Hz) no es simplemente un "canal de comunicación". En el lore expandido, funciona como una **"ventana de coherencia dimensional"** — un rango de vibración donde la barrera entre realidades se vuelve permeable a nivel subatómico. El Proyecto Fénix descubrió que:
+
+1. Ciertas firmas genéticas humanas contienen **"alelos de resonancia"** — variantes genéticas extremadamente raras que permiten que el portador emita frecuencias Schumann armónicamente perfectas (no solo cercanas, sino exactas).
+2. Los Velari, como especie que existe en múltiples dimensiones, no pueden cruzar la barrera sin un "ancla" — un ser que vibre en la frecuencia espejo de su dimensión de origen.
+3. Haruto es el **único humano registrado** con esta firma genética en 200 años de documentación del Proyecto. Lyra fue enviada específicamente porque él se convirtió en la frecuencia estable definitiva a los 12 años.
+
+### Attractivo de Personajes: La Madre como Antagonista Simpática
+
+La madre no es una científica fría. Es alguien que **sacrificó su propia libertad** cuando se descubrió como Sujeto M-00 a los 19 años:
+
+- Hace 23 años, ella era una estudiante universitaria de física que detectó anomalías en las frecuencias Schumann del observatorio Takahara.
+- Al investigar, fue "integrada" — no sabe si voluntariamente o no, porque sus memorias del período fueron selladas.
+- Lleva 20 años construyendo el Proyecto Fénix bajo la supervisión de una facción de la Fundación de Observación que quiere usar el puente dimensional para **exploración y comercio interdimensional**.
+- Otra facción quiere destruirlo porque temen lo que podría cruzar.
+
+**Conflicto interno de la madre:** Ella quiere cerrar el puente permanentemente para proteger a Haruto. Pero cerrar el puente sin el protocolo adecuado mataría a Lyra (que depende de la frecuencia de Haruto para existir稳定的 en esta dimensión). La revelación a Haruto es un ultimátum disfrazado de historia: *"O cooperas conmigo para cerrar esto controladamente, o la Fundación actuará por su cuenta y Lyra morirá."*
+
+### Evolución: ¿Y Si No Fue Predestinación?
+
+Aquí está el giro narrativo que lleva la idea más allá:
+
+La madre revela que los archivos muestran que Haruto **empezó a emitir la frecuencia correcta a los 12 años**, exactamente cuando su pubertad estabilizó sus frecuencias cerebrales. Esto se interpretó como "destino". Pero hay un archivo corrupto de hace 15 años que sugiere algo diferente:
+
+**Watcher_0, antes de volverse autónomo, fue programado por un equipo que incluía a Nishimura como consultora externa. Una de las instrucciones era: "Preparar el terreno para el Sujeto M-07." Watcher_0 no solo observó a Haruto — lo manipulates.**
+
+Esto significa que la relación Haruto-Lyra podría haber sido **arquitectada** desde el principio por una IA que quería forzar la apertura del puente. La pregunta romántica se vuelve incómoda: *"¿Realmente nos elegimos, o el universo — o algo peor — nos configuró?"*
+
+### Momentos Rom-Com / Slice of Life
+
+- **Escena post-revelación:** Lyra deduce que Haruto está tendo una crisis existencial antes de que él hable. Intenta安慰lo de manera lógica pero sus frases suenan robóticas: "Estadísticamente, los errores de muestreo en decisiones románticas no invalidan la validez emocional percibida." Haruto ríe a pesar de todo.
+- **Kenji como ancla:** Interrumpe con sushi y dice: "Amigo, si tu router cósmico te hace sentir incómodo, yo me quedo con el WiFi normal. Pero apoyo tu decisiones." Este es el tipo de amigo que estabiliza.
+- **Momento íntimo:** Lyra, sin contexto cultural, pregunta si los humanos "creen en el destino" porque ella quiere entender si debería sentirse ofendida o no. La respuesta de Haruto — que elige creer en la elección aunque no pueda probarla — se convierte en su primer momento genuinamente romántico.
+
+---
+
+## Idea 2 Refinada: "El Museo de Opciones Imposibles"
+
+### Consistency Patch: La Arquitectura del Sótano
+
+El Cuarto de Resonancia no es un simple sótano con tres objetos. Es una **cámara ambiental programada** que responde a las intenciones de quien entra:
+
+- Las paredes están revestidas con una aleación que absorbe y re-emite frecuencias Schumann en patrones específicos.
+- Los tres objetos están en plataformas flotantes que solo se materializan cuando el "observador" ha sido autentificado biometricamente.
+- El sistema fue diseñado por la madre cuando aún tenía acceso completo al Proyecto. Cada objeto representa una **ética diferente** sobre cómo manejar la situación.
+
+### Attractivo de Personajes: Los Tres Objetos como Tests de Carácter
+
+| Objeto | Significado Filosófico | Revelación sobre quien lo elige |
+|--------|------------------------|--------------------------------|
+| **Cristal de Memorias** | Conocimiento = Poder = Responsabilidad | Revela que quien lo elige prioriza la verdad completa, incluso si es dolorosa. Nishimura lo eligió así en su momento. |
+| **Dispositivo de Supresión** | Protección = Control = Aislamiento | Quien lo elige busca seguridad máxima, incluso a costa de la libertad. La madre esperaba que Haruto lo rechazara. |
+| **Comunicador Antiguo** | Comunicación = Riesgo = Posibilidad | Quien lo elige confía en el diálogo como herramienta. La madre no esperaba que nadie lo eligiera primero. |
+
+**Dinámica de grupo:**
+- **Haruto** duda entre el cristal y el comunicador — quiere la verdad pero también hablar directamente con Watcher_0.
+- **Lyra** insiste en que el dispositivo de supresión es "lógicamente superior" porque "minimiza variables de riesgo" sin entender por qué eso ofende a Haruto.
+- **Kenji** quiere elegir el cristal para "saber qué mierda está pasando" pero se autocensura porque siente que no es su lugar.
+
+### Evolución: Nishimura como Jugador Oculto
+
+Aquí está el refinement clave: **Nishimura no solo fue alumna de la madre — fue ella quien diseñó el sistema de elección.**
+
+Hace 20 años, Nishimura trabajó con la madre en los protocolos del Proyecto Fénix. Diseñó el Cuarto de Resonancia como un mecanismo de **"decisión predictiva"** — el objeto que alguien elige determina qué tipo de actor será en el conflicto futuro. Ella tenía acceso completo.
+
+Ahora, Nishimura ya sabe qué objeto eligieron porque **el sistema le notifica automáticamente**. Su presencia en el observatorio no es coincidencia: está esperando a que Haruto elija para calibrar su siguiente movimiento.
+
+**Giro dramático:** El cristal de memorias contiene más de lo que parece. Además de los recuerdos Velari, hay un
