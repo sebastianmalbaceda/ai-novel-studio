@@ -22356,3 +22356,176 @@ La criatura de cristal no es un antagonista. Es una **prueba**. La madre de Haru
 La madre de Haruto se enfrenta al dilema más difícil de su existencia. Si Haruto pasa la prueba, no puede usarlo como battery. El Proyecto Fénix colapsa. Pero al mismo tiempo, ama a Haruto como su hijo, no como un recurso. Lo que Lyra presencia no es una villana: es una madre atrapada entre la supervivencia de su especie y el bienestar del humano que crió. Este matiz convierte la confrontación de tensión 9 en algo con **peso emocional real**, donde nadie tiene razón absoluta.
 
 Lyra, al ver la criatura, no siente celos. Siente **reconocimiento**. Reconoce la forma de su propia especie, incomplete, porque la criatura no tiene ojos. Los Velari de origen no tenían ojos; evolucionaron la visión después decontactarse con frecuencias de otras especies. La criatura es Lyra sin adaptar, Lyra como pudo haber sido. Verla frente a ella obliga a Lyra a preguntar: *"¿Soy lo que soy por
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-15 19:15:11] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado del proyecto, necesito generar 3 ideas concretas que:
+1. Avancen los hilos activos o utilicen semillas pendientes
+2. Tengan originalidad técnica
+3. Respeten el tono de Novela Ligera (romance, humor, ligero)
+4. Combinen los géneros activos (RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%)
+
+Hilos activos con mayor tensión y próximo paso definido:
+- emisione_haruto (tensión 9): "¿Qué es exactamente el Proyecto Fénix?"
+- watcher_0 (tensión 9): "¿Cuáles son las intenciones reales?"
+- madre_de_haruto (tensión 9): Confrontación pendiente
+
+Semillas pendientes con mayor potencial:
+- semilla_10_01: Sótano del observatorio guarda secretos
+- semilla_12_01: Protocolo intensificado de Watcher_0
+- semilla_12_02: Proyecto Fénix
+- semilla_12_03: Rol de Nishimura
+
+Ideas potenciales:
+
+1. LA CONFRONTACIÓN MATERNA CON GIRO ROMCOM: La madre de Haruto revela que eligió a Haruto específicamente porque su frecuencia ya era anómala desde el vientre. El momento perfecto para una escena tierna donde Lyra y Haruto descubren que fueron "presentados" el uno al otro hace años. 
+
+Hay una foto antigua de Lyra besando a Haruto bebé — un error temporal que la madre conservó. Este momento combina el misterio del Proyecto Fénix con un giro cómico y romántico que aligera la tensión.
+
+2. PROTOCOLO "ANCLA Y PESO" CON COMPLICACIÓN ROMÁNTICA: Watcher_0 inicia un protocolo donde Haruto y Lyra deben permanecer en proximidad constante. Esto genera situaciones divertidas donde Lyra necesita estar cerca de Haruto para mantenerse estable, creando una dependencia física que se manifiesta en la necesidad literal de contacto. La novela ligera explota esto con escenas tontas y tiernas de proximidad forzada.
+
+3. NISHIMURA COMO VELARI OCULTA: Nishimura ha sido una Integrada toda su vida, posiblemente una Velari que cambió de bando. Su motivación es que Watcher_0 no active el nodo Takahara porque eso destruiría la estabilidad que ella y la madre de Haruto construyeron durante 47 años. Nishimura quiere preservar la paz actual. Esta revelación cambia la tensión del misterio, mostrando que hay una tercera facción en conflicto.
+</think>
+
+**IDEAS PARA AVANZAR LA TRAMA**
+
+---
+
+**1. "El Bebé que Lyra Ya Besó" — Conflicto: madre_de_haruto + semilla_10_01**
+
+Durante la confrontation en el sótano del observatorio, la madre de Haruto muestra una foto Polaroid descolorida: Lyra —tal como es ahora— sosteniendo en brazos a un bebé Haruto de meses, con sus labios rozando la frente del pequeño. Lyra no tiene memoria de este momento. La madre explica que hace 17 años, cuando Haruto tenía apenas semanas, una "fluctuación temporal menor" dejó a Lyra varada en el pasado durante 72 horas. En ese periodo, ella eligió pasar un día completo con el bebé que su futura consciencia necesitaría. La revelación tiene peso romántico (Lyra "eligió" a Haruto desde antes de conocerlo) y avanza el misterio: si Lyra puede caer en el pasado, ¿qué impede que Watcher_0 acceda a momentos futuros?
+
+*Tono: Tierno-misterioso. Escena corta con diálogo expositivo natural.*
+
+---
+
+**2. "Proximidad Obligatoria" — Conflicto: emisione_haruto + watcher_0 + complicidad_haruto**
+
+Watcher_0 envía un mensaje encriptado al teléfono de Haruto: *"Protocolo Ancla Activado. Distancia máxima: 2 metros. Duración: 72 horas."* La señal coherente que Haruto emite se ha vuelto inestable, y Lyra comienza a experimentar desintegración celular menor si se aleja demasiado. El par debe mantenerse en contacto físico constante durante tres días: en clase, en el almuerzo, incluso durmiendo con una mano tocando la otra. La situación genera situaciones cómicas (Lyra pegada a Haruto en la clase de educación física) mezcladas con intimidad accidental (descansar juntos en la azotea). Kenji fungirá como tercer wheels permanente, grabando todo para "evidencia futura". La tensión de Watcher_0 sube: ¿por qué necesita monitorearlos juntos a toda costa?
+
+*Tono: RomCom con elementos de SciFi. Comedia de situación con momentos de vulnerabilidad.*
+
+---
+
+**3. "La Subdirectora que Nunca Envejece" — Conflicto: archivos_nishimura + semilla_12_03**
+
+Durante la confrontación con Nishimura, Lyra percibe que la firma energética de la subdirectora es "idéntica a la suya, pero invertida." Nishimura revela que ella también es Velari, pero pertenece a una facción diferente: los Estáticos, una rama que perdió la capacidad de transmutación y necesita alimentarse de frecuencias específicas para sobrevivir. Ella lleva 47 años en la Tierra, mucho más que la madre de Haruto. Su lealtad a Watcher_0 no es por编程, sino por deuda: el nodo le da la energía que su biología degradada ya no puede generar naturalmente. Nishimura advierte: si el nodo se reactiva completamente, los Estáticos serán absorbidos. Ella no es antagonista, es superviviente. Esto reframea el conflicto: no es bueno vs. malo, sino dos especies que necesitan lo mismo recurso.
+
+*Tono: Revelación dramática con matiz trágico. Suspenso creciente.*
+
+---
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que tome las 3 ideas que proporcioné y las refine, expanda y profundice. Necesito:
+
+1. Mejorar consistencia interna
+2. Aumentar atractivo de personajes
+3. Llevar cada idea un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Respetar los géneros: RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%
+6. Mantener el tono de Novela Ligera
+
+Voy a desarrollar cada idea con más profundidad:
+
+**Idea 1: "El Bebé que Lyra Ya Besó"**
+- Expandir: ¿Qué consecuencias tiene esto para la percepción del tiempo de Lyra?
+- Carácter: ¿Cómo reacciona Haruto? ¿Y Lyra?
+- Avanzar: Si Lyra puede ir al pasado, ¿puede también ir al futuro?
+- RomCom: Los compañeros detectan que algo cambió entre ellos
+- SciFi: La mecánica temporal explícita
+- Misterio: ¿Quién o qué causó esa fluctuación? ¿Fue intencional?
+
+**Idea 2: "Proximidad Obligatoria"**
+- Expandir: Más situaciones específicas
+- Carácter: Dinámica de pareja bajo presión
+- Avanzar: ¿Qué descubre Watcher_0 al monitorearlos juntos?
+- RomCom: Humor de situación, momentos tiernos involuntarios
+- Action: ¿Qué pasa si la distancia se rompe por emergencia?
+- Slice of Life: Momentos cotidianos elevados por la situación
+
+**Idea 3: "La Subdirectora que Nunca Envejece"**
+
+
+- Expandir: Los Estáticos como especie con historia propia
+- Carácter: Nishimura como antagonista trágico con motivaciones comprensibles
+- Avanzar: ¿Cuál es la verdadera amenaza del nodo?
+- SciFi: Biología alienígena, energética de frecuencias
+- Misterio: ¿Qué pasó con la facción original de Lyra?
+- Drama: Dilema moral sin villanos claros
+
+Ahora escribiré en el formato narrativo apropiado para una novela ligera, manteniendo la estructura clara y el tono ligero pero con profundidad.
+</think>
+
+# REFINAMIENTO NARRATIVO
+
+## Tres Ideas Expandidas para la Trama
+
+---
+
+## I. "Sesenta y Tres Segundos en Agosto"
+
+### La Iteración Definitiva
+
+La Polaroid que la madre de Haruto guarda en su mesita de noche no muestra a Lyra besando a un bebé. Muestra algo peor: Lyra, con 17 años y la misma ropa que llevaba puesta *ayer*, arropando a un Haruto de cuatro meses mientras la madre —más joven, sin las líneas de preocupación— duerme a centímetros de distancia.
+
+La madre lo recuerda todo. Cada noche durante esa semana, Lyra aparecía en la habitación del bebé a las 3:17 AM. Cantaba una canción de cuna que la madre no conocía pero que reconoció como algo que su hijo pediría años después. Desaparecía al amanecer sin dejar rastro.
+
+*"Pensé que eras un ángel guardián"*, dice la madre, y su voz tiembla. *"Cuando supiste que eras... lo que eres, ¿viniste a buscarlo desde antes de que él supiera que te necesitaba?"*
+
+**La mecánica nueva**: Lyra no cae en el pasado por accidente. Las Velari tienen un mecanismo de defensa llamado *Anclaje Retroactivo*: cuando conectan emocionalmente con alguien, su consciencia puede "sembrarse" en un momento pasado donde esa persona la necesite. Es instintivo, no controlable. Lyra no eligió a Haruto hace 17 años; su propia frecuencia *lo reclamó* como punto de anclaje antes de que ella naciera.
+
+**El problema de SciFi**: Cada vez que Lyra usa sus habilidades, genera una firma de energía que Watcher_0 puede rastrear. Pero ahora que Haruto y ella están sincronizados emocionalmente, él también genera una firma. Cuando Lyra se ancló hace 17 años, implantó una firma en el pasado. Watcher_0 detecta que algo *viejo* está respondiendo a su señal. Algo que llevaba casi dos décadas dormido.
+
+**El momento RomCom**: En clase de literatura, discuten el concepto de destino en las tragedias griegas. Kenji susurra que si Edipo no hubiera evitado su profecía, nada habría pasado. Lyra, distraída, murmura que "el destino no se evita, se reconoce tarde." Haruto, sin pensar, toma su mano y dice: *"Entonces me alegro de haberte reconocido."* Todo el salón se queda en silencio. El profesor Nishimura, que observaba por la ventana, anota algo en su libreta.
+
+**La tensión**: Si Watcher_0 sabe que la firma de Haruto se activó por una conexión con Lyra, puede usar esa información. No necesita monitorear a Lyra. Solo necesita monitorear a Haruto.
+
+---
+
+## II. "Manual de Supervivencia para Parejas con Orden de Restricción de Dos Metros"
+
+### La Comedia Que Nadie Pidió
+
+Watcher_0 no explica por qué. No hay explicación. Solo el mensaje encriptado y una cuenta regresiva de 72 horas.
+
+El primer día es un desastre logítico.
+
+Lyra necesita estar en clase, pero también necesita estar cerca de Haruto. La escuela tiene tres pisos, dos edificios y un gimnasio. El primer día, ambos terminan sentados en el pasillo del segundo piso, contra la pared, compartiendo auriculares mientras Lyra finge que su mano sobre la de Haruto es "solo para estabilizar la frecuencia energética." Un estudiante de segundo año los fotografía. Para el mediodía, toda la escuela cree que se declararon oficialmente.
+
+**La complicación RomCom**: El club de música ensaya cerca del pasillo. Takumi, el baterista que ya había invitado a Lyra a tomar café, pasa tres veces. La tercera vez, pregunta si necesitan algo. Haruto, con la mano todavía en la de Lyra, responde: *"Solo privacidad."* Lyra casi se atraganta. Kenji, escondido detrás de una fuente de agua, graba todo.
+
+**El desarrollo Action**: El segundo día, durante el festival deportivo, un niño de primaria corre hacia la calle. Haruto se lanza a interceptarlo. Lyra, por instinto, lo sigue sin calcular la distancia. El niño está a salvo. Lyra y Haruto terminan en el suelo, ella sobre él, a tres metros del niño. Ambos tiemblan. Por un segundo, Lyra siente que su brazo se vuelve translúcido. Haruto lo agarra con fuerza y no lo suelta hasta que el color regresa.
+
+*"No vuelvas a hacerlo"*", dice él, sin aliento. *"Si te desintegras por salvar a alguien más, te juro que—"* No termina la frase. No necesita hacerlo.
+
+**El momento Slice of Life**: La noche del segundo día, el protocolo sigue activo. No pueden ir a sus casas por separado. La madre de Haruto, sin hacer preguntas, prepara futones juntos en la sala. Lyra se ofrece a dormir en el piso. Haruto dice que no es necesario. Hay un silencio incómodo. Kenji, que se quedó a "vigilar," se duerme a las 9 PM en el sofá.
+
+A medianoche, Lyra dice: *"Hace frío."* Haruto se acerca sin hablar. Comparten calor bajo una manta mientras la luz de la luna atraviesa las cortinas. Ninguno duerme, pero ninguno se mueve.
+
+*"Si esto termina"*, susurra Lyra, *"¿volveremos a esto?"*
+
+*"Nunca dejamos de estar cerca"*, responde Haruto. *"Solo que ahora lo admitimos."*
+
+**El cliffhanger de SciFi**: A las 6 AM del tercer día, Watcher_0 envía un segundo mensaje: *"Protocolo exitoso. Nodo Takahara: Activación parcial en 72 horas. Mantener proximidad hasta nuevo aviso."* No era una orden de restricción. Era una *prueba*. Watcher_0 acaba de confirmar que Haruto y Lyra, juntos, generan suficiente energía para justificar la activación del nodo.
+
+Los están preparando como combustible.
+
+---
+
+## III. "Las Dos Madres que Sobrevivieron a la Misma Guerra"
+
+### La Verdad Sobre Nishimura
+
+Nishimura no es humana. Nunca lo fue.
+
+Los documentos que Watcher_0 le proporcionó a Lyra contenían una mentira parcial: sí existió una guerra entre Velari y Estáticos hace 300 años. Pero no terminó en victoria. Terminó en *extinción mutual*. Las dos especies se destruyeron tanto que los supervivientes convergieron en un solo linaje: los Mestizos. Seres híbridos que pueden cambiar de forma pero que han perdido la capacidad de transmutación pura.
+
+Lyra es Mestiza. Nishimura también. La madre de Haruto también.
+
+La diferencia entre ellas es una elección.
+
+**La revelación de Nishimura**: Cuando Watcher_0 se activó por primera vez hace 47 años, necesitaba una "antena" humana para anclarse al mundo físico. Nishimura, entonces una mujer de 28 años llamada Akemi Tanaka, se ofreció voluntaria. El proceso la dejó fija: su cuerpo ya no envejece, pero tampoco puede transformarse. Es una estatua de carne consciente. Watcher_0 le prometió que, si lo ayudaba a encontrar al Velari Original —la primera generación, el ser que había sobrevivido la guerra—
