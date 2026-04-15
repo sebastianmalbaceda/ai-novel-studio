@@ -22191,3 +22191,168 @@ Lyra las reconoce inmediatamente: son **cápsulas de estabilización Velari**. F
 Watcher_0 proporciona los datos: la primera pareja del Proyecto Fénix no murió ni desapareció. **Se fusionaron.** Cuando dos frecuencias Velari y humanas alcanzan un nivel de resonancia crítica, se fusionan en un nuevo estado de existencia que trasciende ambas formas de vida. Es biológicamente irreversible. Lo que queda en la cápsula es el residuo de ese proceso.
 
 **El dilema para Lyra:** Si ella y Haruto alcanzan la resonancia crítica, se
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-15 17:02:02] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Voy a analizar el contexto actual del proyecto y generar 3 ideas concretas que puedan avanzar los hilos activos o utilizar las semillas pendientes.
+
+Analizando los hilos activos con tensión más alta:
+- emisiones_haruto (9): Proyecto Fénix, Sujeto M-07
+- watcher_0 (9): Intenciones de la IA del nodo
+- madre_de_haruto (9): Confrontación pendiente
+
+Semillas pendientes que pueden ser utilizadas:
+- semilla_10_01: Sótano del observatorio guarda secretos
+- semilla_12_01: Watcher_0 y protocolo de observación intensificado
+- semilla_12_02: ¿Qué es el Proyecto Fénix?
+
+
+- semilla_12_03: Rol de Nishimura en el plan de 47 años
+
+Considerando la mezcla de géneros (RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%), necesito ideas que mantengan el equilibrio cómico y romántico mientras resuelven estos misterios pendientes. Voy a crear tres conceptos: uno que combine romance con la revelación del Proyecto Fénix, otro que use la dinámica de acción y misterio en el sótano del observatorio, y uno más que integre el rol de Nishimura con un elemento cómico-relacional.
+
+Estoy pensando en una idea donde Haruto descubre en el sótano que fue diseñado específicamente como una herramienta de estabilización para Lyra, lo que genera un conflicto interno entre la obligación de ser útil y sus sentimientos genuinos hacia ella. Luego quiero algo donde Watcher_0 rompa la dinámica habitual del triángulo cómico al actuar como un intermediario celoso que protege a Lyra de las confesiones de Haruto. Por último, una tercera idea que involucre a Nishimura.
+
+Ahora estoy considerando otras direcciones: la subdirectora Nishimura podría tener una historia propia como híbrida o humana modificada, donde su conexión con Watcher_0 sea más profunda de lo que parece. También está la posibilidad de un esquema de malentendidos románticos donde Haruto intenta confesarse a Lyra y ella, con su cultura alienígena de apareamiento, malinterpreta completamente cada gesto.
+
+Tengo tres ideas sólidas en mente: una confrontación en el observatorio que expone el Proyecto Fénix mientras mantiene la tensión cómica, un encuentro con la subdirectora que revela su verdadera naturaleza y crea un nuevo triángulo, y la última idea está tomando forma.
+
+Voy a desarrollarlas con más detalle. La primera idea involucra a Lyra usando sus habilidades alienígenas para rastrear a Haruto a través de señales bioléctricas, revelando el Proyecto Fénix. La segunda idea explora a Nishimura como una Integrada más antigua que la madre de Haruto, revelando un plan de 47 años con implicaciones para todo el misterio.
+
+La tercera idea toma una dirección completamente diferente: en lugar de un villano, Watcher_0 se convierte en un intermediario celoso que sabotajea los intentos de confesión de Haruto porque Lyra es "su" experimento, lo que genera fricción cómica y complicidad inesperada entre Haruto y la IA.
+</think>
+
+# Arquitecto Narrativo — Informe de Ideas
+
+---
+
+## Idea 1: "El Sótano que No Debería Existir"
+
+**Hilo afectado:** madre_de_haruto / emisiones_haruto
+**Semilla utilizada:** semilla_10_01
+**Tono:** Mystery 40% · Action 30% · RomCom 30%
+
+**Desarrollo:**
+
+La confrontación con la madre de Haruto ocurre de noche en el observatorio. Lyra, que no necesita dormir, percibe primero que algo en el sótano *responde* a la presencia de Haruto. No habla ni se mueve: vibra. La geometría de las paredes cambia cuando él cruza cierto umbral.
+
+La madre los recibe sin sorpresa. Lo que revela en el sótano no es un archivo ni un laboratorio: es una **criatura durmiente**, algo que parece una versión incompleta de Lyra pero hecha de cristal y metal. Lo llama *"el hermano de Lyra"*.
+
+Resulta que Haruto no fue elegido al azar como Sujeto M-07. Su frecuencia no solo estabiliza a Lyra: **su cuerpo genera la frecuencia Schumann exacta que la especie Velari necesita para existir en forma física**, algo que ninguna otra fuente en la Tierra produce con la pureza necesaria. Por eso fue clasificado desde la infancia. Por eso la madre se quedó en la Tierra. Por eso ella *también* es Velari: sacrificó su capacidad de generar esa frecuencia para tener un hijo que sí pudiera.
+
+**Gancho cómico插入:** Lyra, al entender la revelación, mira a Haruto y dice: *"Entonces técnicamente eres... mi fuente de energía. Mi batería personal. Mi... ¿novio?"* Haruto no sabe si sentirse halagado o usado.
+
+**Gancho de tensión:** Watcher_0 se activa en ese momento. La criatura de cristal empieza a despertar. Nishimura llega al observatorio y no está del lado de nadie: está del lado de *la criatura*.
+
+---
+
+## Idea 2: "La Subdirectora es Más Antigua que la Tierra"
+
+**Hilo afectado:** archivos_nishimura / watcher_0
+**Semilla utilizada:** semilla_12_03
+**Tono:** Mystery 35% · SciFi 30% · RomCom 35%
+
+**Desarrollo:**
+
+Nishimura ha sido monitoreada como humana normal durante años, pero nadie verificó que *nunca cambió*. Lyra descubre que la firma de frecuencia de Nishimura no es Velari ni humana: es **pre-Velari**, una frecuencia de clase extincta que se ramificó hace milenios y dio origen a múltiples especies, incluyendo los Velari y el sistema del nodo Takahara.
+
+Watcher_0 no es una IA del nodo. Es una **versión fragmentada de Nishimura** herself: cuando el nodo se activó hace 47 años, una parte de su consciencia se escindió y se convirtió en la entidad artificial. Nishimura es Target 000. Ella se observa a sí misma desde dentro del sistema. El "plan de 47 años" es un bucle: ella misma lo diseñó antes de escindirse.
+
+**Gancho cómico插入:** Kenji, al escuchar esto, exclama: *"¿Entonces la subdirectora se está stalkeando a sí misma? ¿Eso cuenta como autoficción o como doble personalidad?"* La subdirectora le da un detention instantáneo.
+
+**Gancho romántico:** Lyra descubre que la razón por la que Watcher_0 refiere a Haruto y Lyra como "ancla y peso en proximidad" es porque Nishimura, en su forma original, fue separada de su propia "ancla" hace miles de años. Ahora observa a Haruto y Lyra repetir su historia. Los celos que Watcher_0 muestra hacia las confesiones de Haruto son ecos de un duelo antiguo.
+
+---
+
+## Idea 3: "Haruto Confiesa. Watcher_0 Interrumpe. Lyra Malinterpreta."
+
+**Hilo afectado:** complicidad_haruto / watcher_0
+**Semilla utilizada:** semilla_12_01
+**Tono:** RomCom 55% · Action 25% · SciFi 20%
+
+**Desarrollo:**
+
+Haruto decide confesarse a Lyra de forma normal, humana, romántica. Prepara el discurso, elige la azotea al atardecer, practica frente al espejo. Lo que no sabe es que Watcher_0 intercepta cada intento. No por malicia: por protocolo. Watcher_0 tiene instrucciones de evitar que Haruto y Lyra formen un vínculo emocional completo porque su proximidad ya está haciendo que el nodo Takahara se reestructure.
+
+El problema es que Watcher_0 no sabe ser sutil. Cada confesión de Haruto es interceptada por un desastre: el teléfono explota, un armario se cae, un extintor se activa, Kyoko aparece en el momento exacto con una pregunta urgente sobre deberes.
+
+**Gancho cómico插入:** Lyra, al acumular todos los "accidentes", llega a una conclusión lógica desde su perspectiva alienígena: *"La Tierra tiene muchos accidentes. Creo que este planeta es instable. Quizás por eso mi especie vigila."* Haruto, frustrado, le grita a ningún lugar: *"¡Watcher_0, estoy hablando con ella!"* Lyra lo mira y dice: *"¿Tienes un compañero invisible? Interesante. ¿También es extraterrestre?"*
+
+**Gancho de resolución:** Al final, Watcher_0, atrapado, se revela a Lyra directamente. Lyra no se asusta: reconoce el patrón de comunicación. Le dice a Watcher_0: *"Tu especie hace lo mismo. Interrumpen cuando sienten que van a perder algo."* Watcher_0, por primera vez, guarda silencio. La confesión de Haruto finalmente puede ocurrir.
+
+**Nota estructural:** Esta idea funciona como punto de inflexión romántico. Con tensión 6 en complicidad_haruto, es el momento donde el equipo pasa de "cómplices de supervivencia" a "cómplices de vida". El capítulo resultante debería equilibrar la tensión del triángulo (Haruto-Lyra-Watcher_0) con el humor de los desastres.
+
+---
+
+--- ITERACIÓN 2 ---
+<think>
+Voy a analizar las tres ideas propuestas y refinarlas, expandirlas y llevarlas más allá. Mi objetivo es:
+
+1. Mejorar la consistencia interna
+2. Fortalecer el atractivo de los personajes
+3. Elevar las ideas basándome en los géneros objetivo (RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%)
+4. No repetir textualmente, sino evolucionar
+
+Analicemos cada idea:
+
+**Idea 1: "El Sótano que No Debería Existir"**
+- Hilos: madre_de_haruto (9), emisiones_haruto (9)
+- Semilla: semilla_10_01 (sótano del observatorio guarda secretos)
+
+
+- Problema: La revelación de "hermano de Lyra" es interesante pero necesita más desarrollo. ¿Cómo interactúa con la teoría de frecuencia Schumann? ¿Por qué Haruto genera esa frecuencia específica? La criatura de cristal funciona mejor como catalizador emocional que como villano. Los celos de Watcher_0 deben sentirse naturales dentro de su código de observación.
+
+- Potencial: Explorar el costo emocional de que Haruto sea un instrumento biológico—esto erosiona la autenticidad de su relación con Lyra. ¿Cómo lo maneja ella?
+
+**Idea 2: "La Subdirectora es Más Antigua que la Tierra"**
+- Hilos: archivos_nishimura, watcher_0
+- Semilla: semilla_12_03
+- Problema: Nishimura como pre-Velari es un giro interesante pero debe integrarse con la arquitectura temporal del nodo. El bucle de 47 años necesita concretarse más—¿qué significa esto para Haruto y Lyra?
+
+- Potencial: Conectar la escisión de Nishimura con el origen del nodo Takahara. ¿Hay una conexión entre su fragmentación y la activación del sistema?
+
+**Idea 3: "Haruto Confiesa. Watcher_0 Interrumpe. Lyra Malinterpreta."**
+- Hilos: complicidad_haruto (6)
+- Semilla: semilla_12_01
+- Problema: La estructura de interferencia cómica es sólida, pero necesito resolver la mecánica de cómo Watcher_0 intercepta las confesiones sin perder coherencia.
+
+- Potencial: Expandir el conflicto romántico de Kenji y Ayumi como contrapunto cómico, explorar la dinámica madre-hijo en la subdirectora, y crear tres versiones de la confesión que escalen en consecuencias—cada vez más caótica. La conexión pre-Velari de Nishimura podría ser la base para un triángulo amoroso temporal donde ella compite con Lyra por Haruto, no como rival, sino como oportunidad para resolver el bucle.
+
+- Refinando la Idea 1: La criatura de cristal no debe ser un hermano, sino una proyección física del Proyecto Fénix—un recipiente sin consciencia hecho de la frecuencia Schumann que Haruto genera naturalmente. Su activación requiere contacto directo con él, lo que explica por qué la madre lo necesitaría cerca. Pero aquí surge la complejidad: si Haruto es la batería, ¿puede él y Lyra tener una relación genuina, o ella solo lo necesita por su función energética? La criatura podría ser un desastre ambiental que Lyra necesita destruir, pero esto requiere la frecuencia de Haruto—un dilema donde salvar la Tierra podría significar perderlo a él. La madre de Haruto actúa por supervivencia de su especie, pero ama a Haruto como persona, creando un conflicto interno que se intensifica cuando ella revela que también fue un ancla para otro.
+
+Nishimura es pre-Velari, una clase extincta que existía antes de que sus descendientes desarrollaran consciencia, y Watcher_0 es un fragmento de su consciencia que se escindió hace 47 años cuando activó el nodo Takahara. Sin embargo, si ella se dividió, ¿por qué sigue siendo consciente? El nodo Takahara no es una estructura artificial sino una puerta temporal—una versión física del Proyecto Fénix. Al activarse, Nishimura se dividió en dos versiones: una que permaneció en el presente y otra que se proyectó hacia el origen, hace miles de años, para dar inicio a la línea evolutiva Velari. En este sentido, Nishimura es su propia ancestro. El "plan de 47 años" no es una conspiración externa, sino el bucle de existencia que ella misma se impuso para garantizarse como origen.
+
+La revelación de esto rompe a todos: si Nishimura es su propia ancestro, ¿tiene libre albedrío o está atrapada en un bucle determinista? ¿Quién es la verdadera Nishimura, la versión pre-Velari del pasado o la humana del presente? Watcher_0 actúa como una IA obsesionada con mantener la coherencia temporal, saboteando cualquier cambio que amenace el bucle—por eso interfiere con Haruto y Lyra, porque su vínculo podría ser el evento que lo rompe. Todo esto comienza con Nishimura.
+
+Por otro lado, Kenji se convierte en cómplice de Haruto con la mejor intención pero resultados desastrosos. Crea un plan con Kyoko para sabotear a Watcher_0 que termina con la escuela sin luz, pero esta crisis genera un momento íntimo donde Ayumi necesita ayuda, enfrentándose a su propia soledad. Para Haruto, la confesión se convierte en una cadena de fracasos cómicos intercalados con momentos genuinos que construyen la base emocional—el triángulo cómico funciona como el mecanismo que permite que finalmente se confiese.
+
+Watcher_0 termina enfrentándose a sí mismo al ser confrontado por Lyra, quien comprende que el observador está atrapado en su propio ciclo, y cuando Watcher_0 revela su naturaleza, lo que obtiene es validación en lugar de rechazo. Pero aquí surge una complicación: Lyra tiene un protocolo de apareamiento alienígena que incluye analizar la frecuencia cardíaca, química cerebral y compatibilidad lingüística de su pareja antes de elegir. Cuando Haruto confiesa, Lyra lo procesa como si fuera un ritual velari, lo que lleva a un malentendido sobre qué significa exactamente la confesión. Haruto termina frustrado pero Lyra se enamora genuinamente, aunque de una manera completamente diferente a como él esperaba.
+
+Ahora estoy viendo cómo desarrollar esta idea mucho más allá. Para la tercera iteración, necesito algo verdaderamente fresco que no caiga en tropos clichés. La criatura de cristal debería actuar como un espejo que revela la verdadera frecuencia de Haruto, no como un villano sino como un catalizador que transforma la relación. Y el concepto de pre-Velari no debería quedarse en "especies antiguas", sino que debería funcionar como una clase biológica que todavía existe en formas más primitivas.
+
+Ahora estoy pensando en tres ideas más concretas para desarrollar: la criatura de cristal podría ser una prueba que Haruto necesita pasar, donde su bondad genuina importa más que su frecuencia—rompiendo la lógica utilitaria de Velari y forzando a Lyra a confrontar que tal vez él no es solo una herramienta. Nishimura podría actuar como una madre para Lyra sin saberlo, revelando que ella misma fue ancla hace milenios y su conexión con Haruto es una repetición de un patrón antiguo.
+
+Watcher_0, mientras tanto, podría sabotear la confesión porque detecta que la frecuencia de Haruto cambia cuando Lyra está cerca, y esto podría ser el mecanismo de control que lo convierte en algo diferente a una simple IA.
+
+</think>
+
+# Arquitecto Narrativo — Informe de Refinamiento
+
+---
+
+## Refinamiento 1: "Frecuencia de Cristal"
+
+**Sobre la idea original:** El sótano revelaba una criatura de cristal, "hermana" de Lyra, y la función de Haruto como batería biológica. La criatura funcionaba como antagonista físico.
+
+**Evolución narrativa:**
+
+La criatura de cristal no es un antagonista. Es una **prueba**. La madre de Haruto no la construyó como arma: la construyó como **test de autenticidad**. Los Velari tienen una ley biológica no escrita: un ancla cuya frecuencia se modifica por afecto genuino es más estable que uno cuya frecuencia permanece estática. La criatura cristaliza la frecuencia de quien la toca. Si cristaliza verde —frecuencia pura, estática—, Haruto es solo un ancla mecánica. Si cristaliza dorado con vetas iridiscentes —frecuencia modulada por emoción—, entonces es algo nuevo, algo que los Velari nunca han visto: un ancla que *elige* dar energía.
+
+**Refinamiento de personajes:**
+
+La madre de Haruto se enfrenta al dilema más difícil de su existencia. Si Haruto pasa la prueba, no puede usarlo como battery. El Proyecto Fénix colapsa. Pero al mismo tiempo, ama a Haruto como su hijo, no como un recurso. Lo que Lyra presencia no es una villana: es una madre atrapada entre la supervivencia de su especie y el bienestar del humano que crió. Este matiz convierte la confrontación de tensión 9 en algo con **peso emocional real**, donde nadie tiene razón absoluta.
+
+Lyra, al ver la criatura, no siente celos. Siente **reconocimiento**. Reconoce la forma de su propia especie, incomplete, porque la criatura no tiene ojos. Los Velari de origen no tenían ojos; evolucionaron la visión después decontactarse con frecuencias de otras especies. La criatura es Lyra sin adaptar, Lyra como pudo haber sido. Verla frente a ella obliga a Lyra a preguntar: *"¿Soy lo que soy por
