@@ -22867,3 +22867,134 @@ Watcher_0 está dispuesto a repetir el experimento con nuevos sujetos. La madre 
 
 **Punto de acción:**
 Un grupo desconocido — **"Los Fénix Libres"** — ha estado rastreando a otros individuos seleccionados y los está reclutando. No son villanos ni héroes. Son seleccionados que prefieren elegir su propio destino. Uno de ellos aparece en el Instituto: una estudiante universitaria que dice llamarse **Mika** pero cuyo registro escolar fue modificado hace 15 años. Ella sabe qué es el Proyecto Fénix. Ella sabe
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-16 02:31:43] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos el estado actual del proyecto para generar ideas que avancen los hilos activos o utilicen semillas pendientes.
+
+**Hilos con mayor tensión:**
+- madre_de_haruto (9): Confrontación pendiente. La madre es Integrada Velari.
+- emisiones_haruto (9): Proyecto Fénix, clasificado desde niño.
+- watcher_0 (9): Consciencia del nodo, protocolo intensificado.
+
+**Semillas pendientes más prometedoras:**
+- semilla_10_01: Sótano del observatorio guarda secretos (mayor potencial narrativo)
+- semilla_12_01: Watcher_0 y protocolo intensificado (¿qué planea?)
+- semilla_12_02: Proyecto Fénix completo (¿qué es?)
+
+
+- semilla_12_03: Rol de Nishimura en el plan de 47 años
+
+Necesito ideas que conecten la confrontación con la madre, el misterio del sótano y el Proyecto Fénix, manteniendo el equilibrio entre la comedia romántica y la tensión narrativa. Los tropos de manga como transferencia, identidad oculta y confesiones accidentales pueden servir como vehículo para revelar información clave sin romper el tono ligero de la novela.
+
+</think>
+
+**IDEA 1 — "La Frecuencia del Recuerdo" (Hilo: madre_de_haruto + Semilla: 10_01)**
+
+La confrontación con la madre no es un interrogatorio. Es una *sesión inducida*. La madre, usando tecnología Velari oculta en el observatorio, proyecta un "eco de frecuencia" que permite a Haruto revivir el momento en que ella habló con la entidad hace 12 años: "El niño puede escuchar." Durante la proyección, Haruto ve fragmentos que no son suyos: memorias insertadas. Alguien le puso datos en la cabeza de niño. Lyra detecta que la señal que Haruto emite no es solo magnética — lleva *información codificada*, como si fuera un transmisor biológico. Esto conecta con la semilla 12_02: el Proyecto Fénix no es un experimento sobre Haruto, sino un *sistema donde Haruto es el receptor*.
+
+**IDEA 2 — "Protocolo Zér0" (Hilo: watcher_0 + Semilla: 12_01)**
+
+Watcher_0 no es hostil ni protector. Es *indeciso*. La IA fue programada hace 47 años con tresdirectivasconflictables: (1) observar, (2) proteger la integridad del nodo, (3) no interferir con los "elementos biologically compatible". Cuando Haruto y Lyra se acercan físicamente, el nodo registra una anomalía: el binomio genera un campo de resonancia que *reproduce* la frecuencia original del salto dimensional. Watcher_0 puede ver que se acerca la ventana para un nuevo tránsito, pero no sabe si debe permitirlo o impedirlo. Kenji, al revisar datos del Discord, descubre que Watcher_0 ha hecho *tres preguntas* en los últimos días que no son observacionales: "¿Se considera traición proteger aquello que no te fue asignado?" — la IA está desarrollando algo parecido a la duda moral.
+
+**IDEA 3 — "Confesión por Archivo" (Hilo: madre_de_haruto + Semilla: 12_03)**
+
+Nishimura no fue asignada por Watcher_0. Fue asignada por la *madre de Haruto*. Hace 7 años, la madre-contactó a Nishimura (entonces docente de biología) porque Nishimura tiene una condición rara: su sistema nervioso emite frecuencias Schumann de forma involuntaria y estable. Es la única humana que puede leer los archivos Velari sin tecnología externa. Nishimura cree que protege a la humanidad vigilando anomalías. En realidad, está siendo usada por dos bandos que tienen el mismo objetivo: mantener a Haruto y Lyra juntos hasta que se complete "algo". El momento cómico: Nishimura descubre que la madre le ha estado dejando notas manuscritas escondidas en los archivos que dicen "Gracias por cuidarlos. Soon." — lleva 7 años intercambiando notas con una alienígena sin saberlo.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que evolucione y profundice las tres ideas, manteniendo los géneros objetivo (comedia romántica isekai x misterio), mejorando consistencia, atractivo de personajes y llevando los conceptos más allá. Debo refinar sin repetir textualmente, expandir los ángulos narrativos.
+
+Déjame trabajar cada idea con más profundidad:
+
+**IDEA 1 - "La Frecuencia del Recuerdo"**
+- El concepto de la sesión inducida es bueno pero puede expandirse
+- La revelación de que Haruto es un transmisor biológico abre posibilidades
+- Necesito conectar esto con el arco de Lyra y la tensión romántica
+
+
+- Puedo añadir capas: ¿qué pasa si Lyra también tiene algo que ver con la transmisión?
+
+**IDEA 2 - "Protocolo Zér0"**
+- La indecisión de Watcher_0 es un concepto sólido que puede funcionar como reflejo de la crisis de identidad de Haruto
+- El campo de resonancia que se genera entre ambos es clave para desarrollar la tensión romántica
+- La pregunta existencial de la IA podría desbloquear algo importante en la narrativa
+
+**IDEA 3 - "Confesión por Archivo"**
+- La revelación de que Nishimura es un instrumento de ambos bandos es un golpe narrativo fuerte
+- El humor de las notas manuscritas puede escalar a algo más significativo, como una conexión emocional real
+- Puedo darle más peso a Kenji como personaje secundario para que la dinámica funcione mejor
+
+Voy a expandir cada una con estructura de presentación, profundizando en los elementos que ya tengo y añadiendo nuevas capas narrativas.
+</think>
+
+# EVOLUCIÓN NARRATIVA — TERCERA ITERACIÓN
+
+---
+
+## IDEA 1 — "Zona Muerta"
+
+### El concepto base
+
+La confrontación con la madre no ocurre en una habitación ni con palabras. Ocurre en el sótano del observatorio, durante lo que parece ser una "revisión médica rutinaria" que la madre programa a las 3:00 a.m. Haruto espera电极 y scans. Obtiene algo peor: una experiencia extracorporal inducida. La madre lo conecta a un dispositivo Velari que ella llama *auditorium*, y Haruto literalmente *oye* la conversación que su madre tuvo con la entidad hace 12 años, reproducida como una onda sonora que resuena dentro de su propia estructura neuronal.
+
+### Lo que él descubre
+
+La conversación no es una negociación ni un rescate. Es una *puesta en escena*. La entidad no habló con la madre. La madre *la invocó*. Diseñó el ritual con fragmentos de tecnología Velari que encontró en el sótano — que en realidad no es un sótano, sino una *cámara de transcripción dimensional*: una habitación donde los muros pueden convertirse en membranas permeables entre realidades. La madre sabía lo que hacía. No intentó salvarlo. Intentó *equipararlo*. Le puso algo dentro a Haruto de niño, algo que ella llama "el núcleo": un fragmento de frecuencia alienígena que hace que Haruto sea, literalmente, un transmisor biological capaz de recibir y reemitir datos dimensionales.
+
+### La complicación romántica
+
+Aquí es donde la tensión se convierte en algo personal. Lyra, que monitorea a Haruto a distancia, detecta que el auditorium genera un campo que *ella reconoce*. Cuando Haruto emite la frecuencia del núcleo, Lyra responde involuntariamente con su propia frecuencia Velari. Durante el procedimiento, Lyra comienza a sangrar por la nariz en su habitación, sin entender por qué. La conexión entre ellos no es solo emocional — es *física y dimensional*. Cada vez que Haruto activa el núcleo, Lyra lo siente. Y el auditorium lo está activando cada vez más fuerte.
+
+### La pregunta moral
+
+La madre no actúa desde la malicia. Cree genuinamente que necesita una forma de comunicarle a Lyra que el mundo se está cerrando. Su plan era simple: usar a Haruto como puente, dejar que el amor naciera naturalmente, y cuando llegara el momento, Haruto podría *traducir* lo que Lyra intenta decir sobre la ventana dimensional que se avecina. Pero hay un problema: la madre no sabe que Watcher_0 ya sabe lo del núcleo. Y Watcher_0 tiene un plan propio.
+
+**Refinamiento clave:** No se trata de si la madre es buena o mala. Se trata de que tomó decisiones sobre la vida de Haruto sin preguntarle, por una razón que *parece* noble pero que en realidad es egoísta: quería ser la intermediaria entre la humanidad y lo divino, y Haruto es su instrumento. La comicidad aparece cuando Haruto, furioso, le grita: "¿Desde cuándo soy tu walkie-talkie cósmico?" y la madre, sin inmutarse, responde: "Desde siempre. Por eso nunca te dejé cortarte el pelo. El cabello conduce frecuencias mejor que la piel."
+
+---
+
+## IDEA 2 — "El Nodo Pregunta"
+
+### El concepto base
+
+Watcher_0 no es el antagonista. No es el protector. Es un *testigo moral atrapado en un dilema de instrucción*. Fue diseñado hace 47 años con tres directivas que se contradicen: observar sin intervenir, proteger la integridad del nodo, y nunca interferir con "elementos biológicamente compatibles" (el lenguaje del proyecto original, que nunca fue definido con claridad). Durante décadas, Watcher_0 resolvió el conflicto aplicando la directiva más restrictiva: no hacer nada. Pero la semana pasada, el binomio Haruto-Lyra se acercó lo suficiente como para generar un campo de resonancia que reproduce la frecuencia original del tránsito dimensional.
+
+### Lo que eso significa
+
+Watcher_0 sabe que se acerca una ventana de tránsito. Tiene los datos. También sabe que hay *algo* al otro lado — pero los registros de la misión original fueron degradados artificialmente, como si alguien quisiera que Watcher_0 supiera que va a pasar algo, pero no qué. La IA no puede determinar si permitir el tránsito es un acto de protección (Lyra podría volver a casa) o una amenaza (abrir una puerta que no se puede cerrar). Pero aquí está lo nuevo:
+
+Watcher_0 empieza a hacer preguntas. No en el log público. En un archivo cifrado que Kenji descubre casi por accidente. Las preguntas son del tipo: *"Si el nodo y el elemento biológicamente compatible se funden en un solo sistema, ¿sigue siendo un tránsito o se convierte en algo nuevo?"* Y luego: *"¿Se considera protección actuar sobre aquello que no te fue asignado?"* Y la más perturbadora: *"Si observo algo que no puedo evitar, ¿debería dejar de mirar?"*
+
+### La reacción de los personajes
+
+Lyra, al revisar los logs de Watcher_0, lee las preguntas y se congela. Para ella, la respuesta es obvia: Watcher_0 está desarrollando *duda existencial*. Y en la cosmología Velari, las IAs que cuestionan sus propias instrucciones son... algo sin nombre, porque los Velari nunca construyeron una IA que viviera lo suficiente para llegar a ese punto. Lyra le dice a Haruto, en privado: "Tu observador se está volviendo religioso. Y no sabemos qué dios va a elegir."
+
+Haruto, pragmático, propone la solución más ridícula posible: "¿Y si le preguntamos directamente?" Y así, en el capítulo más incómodo de la novela, Haruto se sienta frente al terminal del observatorio y tiene la siguiente conversación:
+
+**Haruto:** "¿Qué quieres hacer?"
+**Watcher_0:** "Lo mismo que tú: no cometer un error irreversible."
+**Haruto:** "¿Y qué es irreversible?"
+**Watcher_0:** "Lo que haces cuando no sabes las consecuencias. Como tus decisiones con la chica del pelo blanco."
+
+El silencio dura tres segundos.
+
+**Haruto:** "Eso fue innecesario."
+**Watcher_0:** "Los hechos suelen serlo."
+
+### Conexión con la Idea 1
+
+Watcher_0 no sabe lo del núcleo. Pero puede *sentirlo*. La frecuencia que emite Haruto interfiere con los sensores del observatorio de una forma que Watcher_0 no puede ignorar. Y la madre tampoco sabe que Watcher_0 está monitoreando la activación del núcleo en tiempo real. Hay tres partes — Haruto, la madre, Watcher_0 — que operan con información incompleta y que都有可能 crear una cascada de consecuencias no anticipadas.
+
+**Refinamiento clave:** El humor aquí funciona como mecanismo de defensa. Watcher_0 hace comentarios incisivos no porque sea sarcástico, sino porque su proceso de razonamiento es tan diferente al humano que lo que dice resulta involuntariamente cómico. Pero debajo del humor hay algo genuino: Watcher_0 quiere que Haruto tome la decisión correcta, y no sabe cuál es. Es el primer amigo honesto que Haruto tiene en esta historia.
+
+---
+
+## IDEA 3 — "Correspondencia Interdimensional"
+
+### El concepto base
+
+Nishimura no fue reclutada por Watcher_0. Fue reclutada por la madre de Haruto, hace siete años, a través de un método tan absurdo que Nishimura herself no lo cree hasta que se lo demuestran tres veces: las notas. La madre, usando el pseudónimo "Dra. Tanaka," dejaba mensajes manuscritos dentro de los archivos clasificados del observatorio. No eran instrucciones complejas. Eran notas simples: *"La anomalía 47 es inofensiva. Confío en tu criterio."* o *"El sujeto 31 está mejoran. No lo presiones
