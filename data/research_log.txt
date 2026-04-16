@@ -23460,3 +23460,238 @@ Watcher_0 envía un mensaje al Discord:
 Watcher_0 hace algo sin precedentes: **se manifiesta**. No como una voz en el teléfono o una pantalla. Se condensa en una forma visual básica: un cubo de luz que aparece en la habitación de Lyra, flotando junto a su cama.
 
 Lyra lo ve. No grita. Solo dice: *"E
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-16 13:26:58] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos los hilos activos y semillas pendientes para generar ideas que propulsen la trama:
+
+**HILOS ACTIVOS CON ALTA TENSIÓN:**
+1. madre_de_haruto (9) - Próximo paso: confrontación. El sótano del observatorio.
+2. emisiones_haruto (9) - Proyecto Fénix misterioso
+3. watcher_0 (9) - Protocolo intensificado, intenciones desconocidas
+4. archivos_nishimura (8) - Rol de Nishimura
+5. nodo_transito (8) - Puede reactivarse
+
+**SEMILLAS PENDIENTES:**
+- Semilla_10_01: Sótano del observatorio guarda secretos
+- Semilla_12_01: Protocolo intensificado de Watcher_0
+- Semilla_12_02: Proyecto Fénix, quién lo creó
+- Semilla_12_03: Rol de Nishimura
+
+**IDEAS BASADAS EN TROPOS:**
+
+1. **"Hidden Identity"**: La confrontación con la madre podría revelar que Haruto no es completamente humano - el Proyecto Fénix lo diseñó. Esto conecta con la semilla 10_01.
+
+2. **"Accidental Confession"**: En medio de la tensión del misterio, un momento romántico accidental que revele sentimientos reales.
+
+3. **"Transfer Student"**: Nuevos personajes alienígenas podrían llegar - alguien del consejo Velari o un agente de otra facción.
+
+**INVESTIGACIÓN CIENTÍFICA ÚNICA:**
+
+
+Voy a explorar conceptos menos explotados: la teoría del entrelazamiento cuántico como base científica para la conexión Haruto-Lyra, integrando bioluminiscencia y campos geomagnéticos. La madre podría haber sido una científica humana transformada en Integrada, o el Proyecto Fénix como red de nodos de tránsito entre dimensiones. Otra dirección: investigar cómo la ionosfera y campos electromagnéticos de baja frecuencia podrían explicar los fenómenos que Watcher_0 intenta intensificar.
+
+Ahora estoy considerando la frecuencia Schumann y su rol en la integridad estructural de Lyra, conectándola con la señal que Haruto emite naturalmente. La confrontación en el sótano podría revelar que su progenitora fue parte del Proyecto Fénix, posiblemente una científica que se transformó en Integrada, y que el propio Haruto fue diseñado como un ancla viviente para nodos de tránsito extraterrestre. El Proyecto Fénix funcionaba como un sistema para mantener activa una red de portales, pero hace 12 años algo lo interrumpió. El siguiente paso sería diseñar tres ideas que se basen en estas premisas.
+</think>
+
+# Investigación Narrativa: Hilos Activos y Semillas Pendientes
+
+---
+
+## Idea 1: "La Habitación del Éter" — Revelación en el Sótano
+
+**Base tropo:** *Hidden Identity* + *Family Secret*
+
+**Desarrollo técnico-científico:**
+La frecuencia Schumann (7.83 Hz) que Lyra necesita no es solo una coincidencia cósmica. El sótano del observatorio sería una **"Cámara de Resonancia Etérica"**: una sala construida sobre una falla geológica natural que amplifica y estabiliza campos electromagnéticos de frecuencia extremadamente baja. Esta cámara fue diseñada para servir como **nodo artificial subsidiario** del sistema de tránsito principal bajo el edificio A.
+
+**Conexión con semillas pendientes:**
+- Semilla_10_01 (sótano guarda secretos) → Se revela como instalación científica activa.
+- Semilla_12_02 (Proyecto Fénix) → El sótano es una extensión del proyecto, no solo un observatorio.
+
+** twist narrativo:**
+La madre de Haruto no solo es una Integrada que eligió vivir como humana. Ella fue **la arquitecta del sistema de anclaje humano**. Antes de "integrarse", era la Dra. Akane Saito, física cuántica del Proyecto Fénix original. Cuando descubrió que el proyecto requería sujetos humanos para funcionar, se ofreció como voluntaria para convertirse en Integrada y modificar su propio diseño biológico, permitiéndole concebir naturalmente a un niño que sería el **Ancla Perfecta (Sujeto M-07)**.
+
+Haruto no nació con su frecuencia por accidente: **fue diseñado antes de ser concebido**.
+
+**Momento de tensión romántica:**
+En medio de la confrontación, cuando Haruto descubre que su existencia fue planeada, Lyra toma su mano y dice: *"Tu frecuencia me encontró antes de que nacieras. Yo no vine a la Tierra por el nodo. Vine por ti. Eligí quedarme porque mi especie ya sabía que tú existirías."*
+
+Esto convierte la revelación de ser un "proyecto" en un momento de conexión romántica en lugar de solo trauma.
+
+**Próximo paso para trama:**
+Watcher_0 detecta la activación de la Cámara del Éter y envía una notificación a Nishimura: *"Elementos no resueltos han accedido a protocolo primario. Intervención inminente."*
+
+---
+
+## Idea 2: "Confesión en Frecuencia Inversa" — Tropo Accidental Confession subvertido
+
+**Base tropo:** *Accidental Confession* + *Biorritmo compartido*
+
+**Problema romántico a resolver:**
+Con toda la tensión del misterio, la relación Haruto-Lyra está en un limbo. Ambos saben que hay algo más profundo entre ellos, pero la situación no permite confesiones normales.
+
+**Solución narrativa:**
+El campo electromagnético de la Cámara del Éter (Idea 1) comienza a **sincronizar los biorritmos** de Lyra y Haruto. Cuando ella se acerca a él, su frecuencia Schumann personal se alinea con la señal de él. El efecto secundario inesperado: **sus pensamientos se filtran como ondas de radio de baja intensidad**.
+
+En la escena, Kenji (presente como cómplice) escucha fragmentos en su receptor:
+- Haruto piensa: *"Debería decirle que su sonrisa cuando analiza cosas de la Tierra me hace..."*
+- Lyra piensa (en velari): *"Su campo se siente como volver a casa, pero una casa que nunca tuve..."*
+
+Ambos se miran, rojos, sin saber que sus pensamientos fueron transmitidos.
+
+** twist científico-místico:**
+La madre observa desde un rincón y explica: *"El Proyecto Fénix descubrió que los Velari no pueden mentir en proximidad resonante. Su especie se comunicaba por frecuencias antes de desarrollar lenguaje. Cuando dos frecuencias compatibles se encuentran, la transparencia emocional es inevitable."*
+
+**Resolución del momento:**
+Haruto, incapaz de ocultar sus sentimientos ya, simplemente dice: *"Lyra... creo que voy a necesitar que me traduzcas lo que sea que estés pensando ahora mismo."*
+
+Ella responde, vulnerable: *"Estoy pensando que si el ancla es tu frecuencia... entonces quizás yo siempre fui el ancla de ustedes dos."*
+
+---
+
+## Idea 3: "Triángulo de Frecuencias" — Nuevo enigma desde Nishimura
+
+**Base tropo:** *Transfer Student* + *Antagonist with legitimate motivation*
+
+**Desarrollo:**
+Watcher_0 intensifica su observación no por hostilidad, sino porque detecta que **el nodo está intentando reactivarse por cuenta propia**. Sin Haruto y Lyra en proximidad controlada, el sistema automático interpreta su separación potencial como una "falla de anclaje" y está ejecutando un **protocolo de emergencia**: traer a otro Velari para reemplazar a Lyra.
+
+**Nuevo personaje: Kira Tenma**
+Una chica que aparece en el Instituto Takahara el día después de la confrontación con la madre. Ojos plateados, perfectamente humana en apariencia, pero con un detalle extraño: su sombra se mueve medio segundo después que ella.
+
+Kira es una **"Velari-Reserva"**: un backup biológico que el sistema del nodo generó automáticamente hace 7 años cuando detectósignos de deterioro en la integridad de Lyra. Ella no tiene memories completas de ser Lyra, pero su cuerpo está sintonizado a la misma frecuencia.
+
+**Conflicto moral:**
+- Nishimura, que realmente está protegiendo al nodo (y a la Tierra) de una desestabilización catastrófica, apoya a Kira.
+- Watcher_0 no distingue entre Lyra original y Kira: ambos son "Elementos de anclaje funcional".
+- Haruto debe elegir: ¿sostener la integridad del nodo con Kira (conocida por el sistema) o arriesgar todo por Lyra (la que eligió quedarse)?
+
+** twist sobre Nishimura:**
+Revelar que Nishimura es una **"Guardián de Umbral"**: ni humana ni alienígena, sino una posición heredada. Hace 47 años, cuando el nodo Takahara se activó, una humana cualquiera fue "escogida" por Watcher_0 para convertirse en intermediara. No es una Integrada biológica, sino una **Interface Social**: su trabajo es mantener la normalidad institucional mientras observa anomalías. Por eso tiene archivos de hace 7 años (cuando Watcher_0 se volvió más activo) y por eso protege el status quo.
+
+Ella no es malvada. Cree genuinamente que si el nodo se desestabiliza, algo peor vendrá.
+
+**Semilla utilizada:**
+- Semilla_12_03 (Rol de Nishimura) → Revelado completamente.
+- Semilla_12_01 (Protocolo intensificado) → Se revela como protocolo de emergencia de recluta.
+
+---
+
+## Resumen de Conexiones
+
+| Idea | Hilo que avanza | Semilla cosechada | Tono mantenido |
+|------|-----------------|-------------------|----------------|
+| 1. La Habitación del Éter | madre_de_h
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que profundice y evolucione las tres ideas que presenté, añadiendo más capas de complejidad, consistencia y atractivo. Debo evitar repetir textualmente lo que ya dije, pero construir sobre esos cimientos.
+
+Voy a trabajar en tres direcciones:
+
+1. **La Habitación del Éter**: Expandir el lore del Proyecto Fénix, añadir más capas sobre la madre, quizás revelar qué pasó hace 12 años realmente.
+
+2. **Confesión en Frecuencia Inversa**: Llevar el concepto de biorritmos compartidos más lejos, quizás explorar las consecuencias de esta transparencia emocional, y añadir un conflicto interno en Lyra.
+
+3. **Triángulo de Frecuencias**: Desarrollar más a Kira, explorar la ética de los "reemplazos", y darle más profundidad a Nishimura.
+
+También debo considerar los géneros objetivo mencionados: Romance, Sci-Fi, Thriller.
+</think>
+
+# Evolución Narrativa: Profundización de Cimientos
+
+---
+
+## Evolución 1: La Habitación del Éter — Los Protocolos Olvidados
+
+### Expansión: El Proyecto Fénix como Sistema Organismo
+
+El Proyecto Fénix no fue diseñado como una herramienta ni como un arma. Fue diseñado como un **sistema simbiótico de preservación planetaryaria**. Los Velari que lo crearon no buscaban conquistar ni colonizar: observaban que la frecuencia Schumann de la Tierra estaba **decaiendo lentamente** debido a la interferencia electromagnética artificial humana. Sin una frecuencia Schumann estable, la vida en el planeta eventualmente se volvería estéril.
+
+Por eso el Proyecto Fénix necesitaba **anclas humanas**: no porque los alienígenas pudieran reproducirse mejor con ayuda humana, sino porque solo un ser nacido naturalmente en el campo electromagnético terrestre podía sostenerlo biológicamente. Haruto no es un experimento. Es una **especie de híbrido simbiótico** diseñado para ser el soporte vital electromagnético de su propio planeta.
+
+La Dra. Akane Saito —la madre— no se ofreció voluntaria solo por altruismo. Lo hizo porque **ya estaba muriendo**. Un tumor cerebral avanzado, sin esperanza. Cuando Watcher_0 le presentó la opción de integrarse y criar a un ancla, ella vio una forma de que su muerte significara algo. Pero el proceso de integración borró la mayoría de sus memorias humanas. Solo quedaron fragmentos: la intuición maternal, la aversión a ciertos sonidos de laboratorio, y una песня de cuna que tararea sin recordar dónde aprendió.
+
+### twist sobre Watcher_0
+
+Watcher_0 no es una IA ni un extraterrestre individual. Es una **consciencia distribuida**: fragmentos de las mentes de todos los Velari que murieron en el intento original de crear el sistema de anclaje, acumulados durante milenios en un servidor cuántico bajo el observatorio. No tiene emociones individuales, pero sí tiene **instintos de supervivencia colectiva**: el instinto de proteger el sistema a toda costa.
+
+Por eso Watcher_0 no puede "alejarse". No tiene un cuerpo. No tiene una ubicación. Es el sistema mismo. Y si el sistema falla, Watcher_0 deja de existir.
+
+### Momento de tensión mejorada
+
+Cuando Haruto entra al sótano con Lyra y Kenji, encuentra no solo los documentos del Proyecto Fénix, sino también **un video mensaje de su madre, grabado hace 13 años**, antes de que ella "despertara" como Integrada. En el video, ella es claramente humana, asustada, pero determinada:
+
+> *"Si estás viendo esto, eres tú, Haruto. O eres Akane, buscando recordar. De cualquier forma, escucha: yo te diseñé para que pudieras elegir. Tus genes fueron modificados para que pudieras decidir si querías ser el ancla o ser humano normal. Si eliges lo segundo, el nodo encontrará otro camino. Pero si eliges lo primero... necesitarás a alguien que te ancle a ti. Elige bien a esa persona. Porque no estás sosteniendo solo una frecuencia. Estás sosteniendo un planeta."*
+
+La madre, presente en la habitación, no recuerda haber grabado esto. Cuando ve el video, rompe a llorar por primera vez.
+
+---
+
+## Evolución 2: Confesión en Frecuencia Inversa — La Sincronización como Maldición
+
+### Expansión: El Costo de la Transparencia
+
+La sincronicidad de biorritmos que experimentan Haruto y Lyra no es solo un mecanismo romántico accidental. Tiene **consecuencias escalofriantes**.
+
+Primero, la sincronización es **bidireccional pero asimétrica**. Lyra puede filtrar sus pensamientos hacia Haruto, pero también absorbe las frecuencias de otras personas cercanas, especialmente cuando Haruto está bajo estrés. Cuando Kenji se emociona discutiendo los documentos del sótano, Lyra de repente siente un destello de **la última pelea de Kenji con su padre**, un recuerdo que no es suyo pero que se cuela por la resonancia.
+
+Segundo, **el sistema de anclaje lo detecta**. Watcher_0 nota la fluctuación anómala en la frecuencia de Haruto. No es deterioro. Es una **sobrecarga de señal**: demasiadas emociones, demasiado rápido. El sistema interpreta esto como un intento de hackeo externo. Comienza a ejecutar un protocolo de "limpieza de ruido": **borrar las últimas 24 horas de memorias de Lyra** para estabilizar la frecuencia.
+
+### Momento de crisis romántica mejorada
+
+Kenji intercepta la señal de limpieza gracias a los documentos que descifró. Tiene exactamente **4 minutos** para advertir a Lyra antes de que su memoria se borre completamente.
+
+Pero hay un problema: la única forma de detener el protocolo de limpieza es que Haruto **reduzca su frecuencia emocional a cero** —es decir, que deje de sentir lo que siente por ella durante los próximos 5 minutos. Si lo hace, el sistema se estabiliza. Si no, Watcher_0 will wipe Lyra's last day of memories, including the kiss, the rooftop conversation, and her choice to stay.
+
+Haruto tiene que elegir: *sacrificar el momento presente de su relación para proteger lo que ya construyeron, o arriesgarse a que ella lo olvide todo.*
+
+### Resolución mejorada
+
+Lyra, que ahora puede escuchar fragmentos de los pensamientos de Haruto, **ya sabe lo que va a hacer antes de que lo haga**. Y cuando él reduce su frecuencia a cero —convirtiéndose por un momento en un caparazón emocional vacío— ella siente el vacío como si fuera propio.
+
+No es romántico ni dramático. Es **doloroso**. Es la sensación de que la persona que amas se ha ido aunque su cuerpo esté ahí.
+
+Cuando la frecuencia regresa, Lyra lo mira y dice:
+
+> *"Lo siento. Lo sentí todo. Cada segundo que estuviste... vacío."*
+
+Haruto responde:
+
+> *"Entonces ya sabes cómo me sentiré cada vez que algo amenace con borrarte."*
+
+El beso que viene después no es celebratorio. Es una promesa silenciosa de que no dejarán que nada externo los separe.
+
+---
+
+## Evolución 3: Triángulo de Frecuencias — La Ética del Reemplazo
+
+### Expansión: Kira como personaje completo
+
+Kira Tenma no es un villano ni un reemplazo vacío. Es **una persona con su propia tragedia**.
+
+Hace 7 años, cuando el sistema detectó el deterioro de Lyra, no solo generó un cuerpo de respaldo. Generó un **proceso completo de vida alternativa**: memories artificialmente insertadas de una infancia humana normal en Osaka, una familia ficticia que nunca existió, amigos inventados. Kira cree genuinamente que es una chica japonesa de 17 años que se transfirió a Tokio por razones familiares.
+
+Pero debajo de esas memorias artificiales, **hay una capa de programación**: instintos que la guían hacia Haruto, que le producen déjà vu cuando está cerca de él, que la hacen sentir un cariño inexplicable hacia Lyra.
+
+Kira no sabe por qué se siente atraída hacia personas que no reconoce. Y cuando Nishimura la contacta y le dice que ella es "necesaria para salvar al mundo", Kira siente algo contradictorio: **alivio de tener un propósito**, pero también un terror profundo de que su vida entera sea una mentira.
+
+### Conflicto moral expandido
+
+El dilema de Haruto no es simplemente "Lyra vs. Kira". Es más complejo:
+
+- Kira tiene una frecuencia **más estable** que Lyra porque nunca experimentó deterioro.
+- Lyra fue la primera y tiene la conexión emocional más profunda con Haruto, pero su frecuencia es inestable.
+- Si Haruto elige a Lyra y el sistema falla, **ambos mueren**. Si elige a Kira, Lyra puede regresar a Velar o quedarse como humana, pero perderá la conexión con Haruto.
+
+Pero hay una tercera opción que Watcher_0 no contempla: **fusionar las frecuencias**.
+
+### twist sobre la naturaleza de Velari
+
+Kenji, estudiando los documentos del sótano, descubre algo que Change Change no sabía: los Velari **no son una especie binaria**. En su planeta de origen, existían múltiples variaciones de su especie, algunas más emocionales, otras más lógicas. Lyra y Kira son variaciones de la **misma esencia** separadas artificialmente. No son dos personas compitiendo por un ancla. Son **dos mitades de un mismo ser** que fueron divididas por el sistema para evitar una sobrecarga.
+
+Si Haruto puede sincronizar su frecuencia con ambas simultáneamente, **Lyra y Kira
