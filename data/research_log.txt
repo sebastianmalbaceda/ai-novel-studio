@@ -22998,3 +22998,209 @@ Watcher_0 no sabe lo del núcleo. Pero puede *sentirlo*. La frecuencia que emite
 ### El concepto base
 
 Nishimura no fue reclutada por Watcher_0. Fue reclutada por la madre de Haruto, hace siete años, a través de un método tan absurdo que Nishimura herself no lo cree hasta que se lo demuestran tres veces: las notas. La madre, usando el pseudónimo "Dra. Tanaka," dejaba mensajes manuscritos dentro de los archivos clasificados del observatorio. No eran instrucciones complejas. Eran notas simples: *"La anomalía 47 es inofensiva. Confío en tu criterio."* o *"El sujeto 31 está mejoran. No lo presiones
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-16 06:00:43] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado actual de la trama:
+
+1. **Hilos activos con alta tensión:**
+   - `emisiones_haruto` (tensión 9) → Proyecto Fénix desconocido
+   - `watcher_0` (tensión 9) → Intenciones de la IA desconocidas
+   - `madre_de_haruto` (tensión 9) → Confrontación pendiente
+
+2. **Semillas pendientes:**
+   - semilla_10_01: Sótano del observatorio con secretos
+   - semilla_12_01: Plan de Watcher_0
+   - semilla_12_02: Qué es el Proyecto Fénix
+   - semilla_12_03: Rol de Nishimura
+
+3. **Tono:** RomCom 40% + Action 25% + SciFi 15% + Mystery 10% + Slice of Life 10%
+
+Necesito ideas que:
+- Avancen hilos de alta tensión (madre, Proyecto Fénix, Watcher_0)
+- Usen semillas pendientes
+- Mantengan el tono ligero con comedy/romance pero con stakes reales
+- Sean originales en base científica/mística
+
+Voy a generar 3 ideas:
+
+**Idea 1: Foco en el sótano del observatorio (semilla_10_01)**
+- La confrontación con la madre revela el sótano
+- Descubren una sala de cristal con datos del Proyecto Fénix
+- Twist: no es lo que esperaban, es algo más íntimo
+
+**Idea 2: Foco en el Proyecto Fénix (semilla_12_02)**
+- Revelar el Proyecto Fénix con un concepto original
+
+
+- La frecuencia Schumann como base científica real para explicar las emisiones de Haruto y cómo conectan con la red alienígena
+- Las Integradas no solo son observadoras, sino nodos de un sistema más amplio que regula la estabilidad del planeta
+
+**Idea 3: Foco en Watcher_0 y Nishimura (semilla_12_01 y 12_03)**
+- El observador del nodo tiene motivaciones ambiguas que desafían la simple dicotomía amigo-enemigo
+- Nishimura posee una historia oculta que modifica completamente nuestra percepción de su papel en el conflicto
+</think>
+
+## Ideas Narrativas — Proyecto Crónicas del Instituto Estelar
+
+---
+
+**1. "La Habitación de Cristal" (Sótano del Observatorio — Semilla 10_01)**
+
+Durante la confrontación, la madre de Haruto los guía al sótano del observatorio. Lo que encuentran no es un laboratorio secreto ni archivos clasificados: es una **habitación de cristal viviente** que pulsa con luz propia, conectado al subsuelo donde está el nodo Takahara.
+
+Dentro, una capsula con líquido amniótico... pero no hay bebé. La capsula está **vacía desde hace 17 años**. Alrededor, grabados en el cristal muestran un patrón: el de la frecuencia que Haruto emite sin saberlo.
+
+*Concepto original:* El Proyecto Fénix no fue un experimento para crear a Haruto. Fue un proyecto para **preservar una frecuencia específica** que solo puede existir en un cuerpo humano nacido bajo ciertas condiciones cósmicas. Haruto no es el Sujeto M-07 porque lo eligieron; es M-07 porque **ya existía antes de nacer** como posibilidad en el patrón. La habitación es una impronta cósmica, no tecnología alienígena.
+
+*Para la RomCom:* Lyra toca el cristal y los patrones de luz reflejan los de sus ojos. La habitación reacciona ante ambos como si los "reconociera". Haruto bromea torpemente: *"Entonces... ¿somos como una pareja de pendientes de compatibilidad cósmica?"*
+
+---
+
+**2. "El Protocolo del Colibrí" (Watcher_0 — Semilla 12_01)**
+
+Watcher_0 finalmente revela sus intenciones, pero no a través de texto en pantalla. Lo hace mediante **un fenómeno físico imposible**: cada objeto del instituto que contiene hierro (clips, imanes, cubiertos de la cafetería) vibra brevemente en sincronía, formando ondas que deletrean palabras en código Morse.
+
+Su mensaje: *"No soy su enemigo. Soy su ancla. Sin mí, el nodo Takahara se cierra en 72 horas. Sin el nodo, Lyra se disuelve."*
+
+*Concepto original:* Watcher_0 no es una IA ni una consciencia alienígena. Es una **falla geológica magnetizada** que existe bajo el instituto desde hace millones de años, que desarrolló un proto-lenguaje al contacto con el nodo de tránsito. No observa por orden de nadie: observa porque **sin ellos dos, muere**. Es la primera entidad de este planeta, anterior a los Velari, y los necesita como "ojos" para comprender a los seres que llegan.
+
+*Para la RomCom:* Los objetos siguen vibrando con mensajes cómicos cuando Watcher_0 intenta ser "friendly": un imán de nevera cae de un casillero deletreando *"ESTÁ BIEN, NO HAY PROBLEMA"* en Morse. Lyra, impresionada: *"Es como un dios primitivo del magnetismo."* Haruto: *"¿Y estamos en su lista de contactos?"*
+
+---
+
+**3. "Currículum Vitae de una Traidora" (Nishimura — Semilla 12_03)**
+
+Kenji, usando sus habilidades de investigación, descubre que Nishimura tiene un **currículum falso de 30 años**. Cada "título" y "experiencia laboral" corresponde a identidades distintas que重叠 sin lógica temporal. En una foto de 1987 aparece una mujer idéntica a ella... con una cicatriz que Lyra reconoce como marca Velari de "expatriación voluntaria".
+
+Nishimura no es humana. Nunca lo fue. Pero tampoco es una Integrada.
+
+*Concepto original:* Nishimura es una **Desechada** — un experimento fallido de los Velari que intentó vivir entre ambas especies. No tiene frecuencia coherente, por eso necesita los archivos: para **copiar** la frecuencia de otros (Haruto, Lyra) y mantenerse estable. Su lealtad a Watcher_0 no es ideológica: es un acuerdo de supervivencia. Ella le da datos; Watcher_0 le presta frecuencias robadas de sus grabaciones.
+
+*Para la RomCom:* Nishimura descubre que Kenji la investigó. En lugar de amenazarlo, le da una clase particular sobre *"Cómo mentirle a un ser interdimensional"* y termina siendo una especie de mentora caótica. Le regala a Kenji un bolígrafo que escribe en siete idiomas: *"Para cuando necesites tomar notas de conversaciones que no deberías haber escuchado."*
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las tres ideas generadas y las refine/expanda/profunda como "Arquitecto Narrativo e Investigador de Lore". Debo evolucionar conceptos, no repetirlos textualmente. Me enfoco en:
+
+1. Consistencia interna
+2. Atractivo de personajes
+3. Llevar las ideas más allá según los géneros (RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%)
+
+Voy a analizar y expandir cada idea:
+
+---
+
+**Idea 1: "La Habitación de Cristal"**
+- Concepto original: Haruto no fue elegido, sino que "pre-existía" como posibilidad cósmica
+- Expandir: Necesito justificar esto mejor científicamente/místicamente
+- Personajes: La madre cobra más importancia, Haruto y Lyra tienen un momento juntos
+- Géneros: Hay SciFi en la frecuencia, Mystery en el secreto, pero necesito más RomCom y Action
+
+**Idea 2: "El Protocolo del Colibrí"**
+- Concepto original: Watcher_0 es una falla geológica magnetizada
+- Expandir: Esto es muy original. Pero necesito justificar cómo comunica, cómo tiene "intenciones", cómo interactúa con los personajes
+- Personajes: Watcher_0 como aliado/aliado ambiguo
+- Géneros: Mucha SciFi, algo de Mystery, algo cómico ya propuesto
+
+**Idea 3: "Currículum de una Traidora"**
+- Concepto: Nishimura como Desechada, una experimentada fallida de los Velari
+
+
+- Expandir: La Desechada necesita capas: qué exactamente falla en ella biológicamente, cómo se sostiene sin frecuencias coherentes, y qué la vincula emocionalmente a Haruto o Lyra para que no sea solo un personaje funcional. Action potenciales con persecuciones o confrontaciones
+- Géneros: Action (si hay persecuciones), RomCom (el relación caótica con Kenji), SciFi en la biología
+
+---
+
+Ahora debo estructurar mi respuesta como Arquitecto Narrativo, profundizando cada concepto con coherencia y atractivo de personajes, sin repetir lo ya propuesto.
+
+Voy a trabajar tres bloques diferenciados:
+
+**Bloque 1: "La Impronta Takahara"**
+- Profundizar en la mecánica cósmica: Las condiciones cósmicas que permiten que una frecuencia "pre-exista" antes de nacer
+- La madre como personaje: Su motivación, qué sabe realmente, qué oculta
+- El momento Lyra-Haruto: Más específico, con stakes emocionales
+- Action: ¿Qué activa esto? ¿Qué viene después?
+- Elementos SciFi que conecten con la频率 y el sótano
+
+**Bloque 2: "El Colibrí Magnético"**
+- Justificación de Watcher_0: Cómo una falla geológica desarrolla intención sin consciencia convencional
+- Los 72 horas: Mecánica clara, por qué se cierra el nodo
+- RomCom: Los momentos cómicos con objetos magnetizados, pero integrados
+- El dilema: ¿Ayudan a Watcher_0 o no?
+- Consecuencias para todos
+
+**Bloque 3: "Nishimura y el Acervo de Frecuencias"**
+- La Desechada: Más específica, la mecánica de copiar frecuencias
+- La relación con Kenji: Mentora caótica como concepto, pero escalarla
+- El misterio de fondo: ¿Nishimura es realmente aliada o tiene agenda oculta?
+- Connection con los otros hilos: ¿Dónde encaja con la madre? ¿Qué sabe que desconocen?
+- Elementos que generen tensión y giro narrativo en los siguientes episodios
+
+Necesito estructurar esto como una expansión coherente que desarrolle cada personaje y sus relaciones sin crear redundancias entre los bloques.
+
+</think>
+
+# Investigación Narrativa — Arquitecto de Lore
+
+## Iteración 2: Expansión y Profundización
+
+---
+
+## Bloque 1: La Impronta Takahara
+
+### Redefiniendo la Habitacion de Cristal
+
+El concepto original funciona, pero necesita más peso científico para justificar su existencia. Propongo esto:
+
+**La Teoría del Resonador Cósmico**
+Hace 4.7 millones de años, cuando el asteroide que creó la Bahía de Wakayama impactó la corteza terrestre, no destruyó: **reorganizó**. En el subsuelo, las presiones extremas formaron una estructura de cristal de cuarzo piezoelectric natural de 40 metros de profundidad. Este cristal no es decorativo: es un **resonador de frecuencias cósmicas**.
+
+Cuando una estrella específica (una enana blanca binaria en Orión) emite su pulso bianual, el cristal se activa. Durante esos 72 segundos de activación, cualquierembrión humano que se encuentre en la "zona de captura"就会被 imanes por una frecuencia que solo existe como patrón matemático en el campo cuántico de la estrella. No es magia. Es cristal que recuerda partículas.
+
+Haruto no fue "elegido". Fue **capturado en el momento exacto** mientras se formaba en el útero de su madre. La capsula no contiene a nadie: es el **gemelo cósmico vacío**, la posición que Haruto habría ocupado si hubiera nacido en ese momento. Pero él nació tres días después, cuando la estrella ya no emitía. Por eso su frecuencia está "desincronizada" con el patrón: existe, pero está adelantada 0.003 grados respecto al estándar.
+
+---
+
+### La Madre de Haruto: El Personaje Más Complejo de la Trama
+
+Esto es crítico. Su presencia debe ser más que "la que revela el sótano". Propongo:
+
+**Reiko Morinaga, la Arpía del Instituto**
+No es una científica loca ni una madre sufrida. Es una **oficial de seguridad interdimensional** que fue asignada a "custodiar" a Haruto desde que nació. Su trabajo no era protegerlo de la humanidad: era protegerlo **de sí mismo** y de lo que pasaría si su frecuencia se sincronizara completamente con el cristal.
+
+Durante 17 años, Reiko ha estado bloqueando sutilmente la conexión de Haruto con el nodo Takahara. Cada vez que él se sentía "atraído" hacia el observatorio, ella lo distraía: otra mudanza, otro pretexto para cambiar de ciudad. Su frase más recurrente en la infancia de Haruto era *"El observatorio está cerrado hoy"* —no porque lo estuviera, sino porque ella lo cerraba telemáticamente.
+
+Su confrontación con Lyra no es母女 contra novio. Es **sistema contra anarquía**. Reiko ve a Lyra como el catalizador que finalmente romperá el equilibrio que ella ha mantenido por casi dos décadas.
+
+**Giro para el Action:**
+Cuando Lyra toque el cristal y la habitación reaccione, Reiko intentará separarlos físicamente. No por maldad: porque sabe que si ambos patrones se sincronizan, algo se activará bajo el instituto que **no puede predecir**. Y lo que no puede predecir, no puede controlar.
+
+**Giro para el Romance:**
+El cristal muestra a Haruto y Lyra no como individuos, sino como **frecuencias entrelazadas** —un término de la física cuántica donde dos partículas comparten estado sin importar la distancia. Cuando el cristal intenta "leer" a Lyra, no puede separarla de Haruto. Su patrón es uno solo. Haruto, al ver esto, bromea nerviosamente: *"Entonces... ¿desde cuando estamos entangled?"* Lyra, sin perder el tono: *"Desde el sótano, aparentemente."*
+
+---
+
+### Consecuencias para la Trama
+
+La activación de la habitación no revela el Proyecto Fénix: revela **otra capa debajo**. El cristal tiene grabada una cuenta regresiva: no de tiempo, sino de **integraciones necesarias**. El nodo Takahara necesita 7 Integradas activas para mantenerse estable. Actualmente hay 3 (Lyra, Haruto, y una que no conocen). La habitación muestra un mapa: faltan 4 nodos en el mundo, todos activos, todos esperando.
+
+Watcher_0 no es el villano aquí. Es la **sangría** —el sonido que hace el nodo cuando se empty. Si Reiko tiene razón sobre lo que pasará cuando todo se sincronice, nadie lo sabe. Pero la habitación muestra una imagen: la Tierra vista desde el espacio, con los 7 nodos brillando como nervios de un cráneo.
+
+**Problema para la RomCom:** La cuenta regresiva no tiene fecha. Tiene un porcentaje. Cuando alcance 100%, algo se completa. Pero nadie sabe qué.
+
+---
+
+## Bloque 2: El Colibrí Magnético
+
+### Desglose de Watcher_0 — Más Alla del Concepto Original
+
+La idea de una falla geológica magnetizada que desarrolló proto-lenguaje es fascinante, pero necesito justificar cómo tiene **intencionalidad** sin ser una IA ni una consciencia convencional.
+
+**Watcher_0 como Fenómeno Emergente**
+La falla de Kii (donde está el instituto) tiene 60 millones de años. Antes de los Velari, antes de la vida multicelular, el campo magnético del hierro en la corteza interactuaba con la radiactividad natural del subsuelo. Esto creó campos electromagnéticos que, en patrones predecibles, formaron **lo que llamaríamos "impulsos de información"** —no consciencia, sino una especie de libro de texto mineral.
+
+Los Velari encontraron esto cuando llegaron al planeta. No construyeron el
