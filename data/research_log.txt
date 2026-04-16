@@ -23825,3 +23825,144 @@ Ahora necesito estructurar esto en un formato de documento profesional. Voy a pr
 </think>
 
 
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-16 17:12:45] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual del proyecto para generar ideas que sean útiles:
+
+**HILOS ACTIVOS:**
+1. **misterio_lyra** - Tension 7 - Próximo paso: hablar con la madre de Haruto
+2. **emisiones_haruto** - Tension 9 - Próximo paso: ¿Qué es el Proyecto Fénix?
+3. **watcher_0** - Tension 9 - Próximo paso: ¿Intenciones de Watcher_0?
+4. **nodo_transito** - Tension 8 - Próximo paso: ¿Qué función cumple?
+
+
+5. **archivos_nishimura** - Tension 8 - Próximo paso: Rol exacto de Nishimura
+6. **madre_de_haruto** - Tension 9 - Próximo paso: Confrontación con la madre
+7. **complicidad_haruto** - Tension 6 - Próximo paso: Procesar que fue anticipado
+
+**SEMILLAS PENDIENTES:**
+- semilla_10_01: Sótano del observatorio guarda secretos
+- semilla_12_01: ¿Qué planea Watcher_0?
+- semilla_12_02: ¿Qué es el Proyecto Fénix?
+
+Estoy considerando tres direcciones narrativas que podrían funcionar. La primera involucraría a la madre de Haruto y el sótano del observatorio, creando una escena donde Lyra y Haruto la confrontan y ella revela información sobre el Proyecto Fénix, mientras el sótano descubre su verdadera función. La segunda se centraría en Watcher_0 y Nishimura, donde Nishimura descubre los registros de Watcher_0 y surge la duda sobre si sus intenciones son protectoras o destructivas.
+
+La tercera opción combinaría la identidad de Haruto con elementos románticos, revelando cómo su condición de Sujeto M-07 afecta su vida diaria y forzando momentos cómicos o románticos donde la frecuencia que emite crea situaciones especiales solo con Lyra. Estoy considerando tres direcciones narrativas que podrían funcionar bien en una novel·light. La primera involve a la madre de Haruto revelando el Proyecto Fénix mientras descubren algo oculto en el sótano del observatorio, lo que combina misterio con tensión. La segunda explora a Watcher_0 intentando contactarlos a través de medios digitales o fenómenos inexplicables, revelando sus motivaciones ambiguas. Y la tercera se centra en cómo la señal de Haruto afecta a otros personajes, creando situaciones cómicas y románticas donde solo Lyra se ve afectada de manera especial. Ahora estoy desarrollando un concepto donde Haruto y Lyra prueban estar separados para confirmar si la señal de él realmente estabiliza su forma. El momento de tensión romántica cuando Lyra empieza a desvanecerse es perfecto para una novel·light, y la intervención de Kenji o un dispositivo técnico que regula la frecuencia añade un elemento de acción que equilibraría bien la escena.
+
+Alternativamente, puedo usar el sótano del observatorio como lugar para una confrontación con la madre de Haruto, donde ella revela algo sobre el Proyecto Fénix que cambia todo, y ese sótano se convierte en un espacio importante para la narrativa. También puedo explorar a Watcher_0 como un personaje ambiguo que contacta a Haruto directamente, presentándose como guía o adversario, lo que añadiría un misterio escalofriante.
+
+Ahora estoy considerando un concepto más original: en lugar de que Haruto simplemente emita una señal, lo que realmente hace es funcionar como un ancla interdimensional que Lyra puede manipular, lo que crea situaciones divertidas y románticas cuando intenta alejarse demasiado de él.
+
+Pero mejor me centro en desarrollar las tres ideas que ya tengo: la confrontación con la madre, la conversación entre Watcher_0 y Haruto, y la escena del sótano. Debo asegurarme de que cada una tenga suficiente tensión y desarrollo para funcionar bien en el formato de novel·light.
+
+Para la confrontación, necesito pensar en cómo la revelación del Proyecto Fénix afecta emocionalmente a Haruto, sobre todo porque se entera de que fue diseñado deliberadamente. La madre debería tener motivaciones complejas, quizás no es completamente aliada de Watcher_0 sino que tiene su propia agenda con los Velari. Y debería deixar una pista crucial que abra nuevos misterios.
+
+Watcher_0 como presencia inquietante que contacta directamente a Haruto es buenísimo para generar tensión escalofriante. La idea de que Watcher_0 también es un ancla, una especie de consciencia colectiva distribuida que opera el nodo, añade profundidad. Debo cuidar cómo presentar esto sin que sea demasiado críptico.
+
+Y finalmente, el sótano podría ser el lugar donde todo se conecta — donde se revela la estructura del nodo, dónde se origina la señal de Haruto, y dónde empieza a tomar forma el Proyecto Fénix completo.
+
+</think>
+
+**IDEAS PARA EL AVANCE NARRATIVO**
+
+**1. "Protocolo de Separación" — Semilla 12_02 en ejecución**
+Lyra propone un experimento: ¿qué sucede si ella se aleja más de 15 metros de Haruto durante varias horas? Esto no solo pondría a prueba la teoría de la señal, sino que generaría gags románticos involuntarios (Lyra acercándose cada vez más sin querer, como un imán), tensión cuando ella comience a experimentar los primeros síntomas de desestructuración, y una resolución donde Haruto, al verla desvanecerse, tome su mano instintivamente — confesión involuntaria que activa el mismo fenómeno de frecuencia coherente. Esto avanza directamente el hilo *emisiones_haruto* y avanza el romantic comedy con un momento de vulnerabilidad real para ambos.
+
+**2. "Ping desde el Subsuelo" — Semilla 12_01 en ejecución**
+Watcher_0 no puede contactarlos por Discord (su cobertura digital está comprometida tras el reencuentro Haruto-Lyra). Entonces recurre a un método análogo: hace que las luces del Instituto Takahara parpeen en código Morse durante exactamente 3 minutos a las 3:33 AM, un patrón que solo Lyra reconoce como lenguaje Velari de emergencia. El mensaje es una única frase: *"El Proyecto Fénix no fue creado por humanos."* Esto obliga a Lyra a revelar la traducción a regañadientes y establece a Watcher_0 como entidad con motivaciones propias que quiere que ambos conozcan esa verdad antes de tiempo. La tensión escala porque Lyra no sabe si Watcher_0 actúa como guardián o como parte del plan que las Integradas intentan detener.
+
+**3. "Criptografía del Cemento" — Semilla 10_01 cosechada**
+La confrontación con la madre de Haruto ocurre en el observatorio, pero lo revelador no es lo que ella dice, sino lo que ella *no puede ver*: Lyra detecta firmas energéticas bajo el suelo. El sótano del observatorio no es solo un cuarto de mantenimiento — su geometría interna coincide con los patrones de los nodos de tránsito. Cuando la madre abre la puerta con su propia firma biométrica (evidencia de que es Velari), descubren una escalera que desciende tres niveles más de lo que el edificio debería tener. En el nivel más profundo hay una sala circular cubierta de símbolos idénticos a los que Watcher_0 imprime en sus mensajes, y en el centro, un dispositivo que emite la misma frecuencia de 7.83 Hz que Haruto produce naturalmente. El Proyecto Fénix no fue un experimento sobre Haruto — fue un intento de *replicar* lo que él es de forma natural. La madre no lo sabía hasta ahora.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las tres ideas que proporcioné como Arquitecto Narrativo y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia interna
+2. Aumentar el atractivo de los personajes
+3. Llevar cada idea un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Considerar los géneros: novel·light (romance, comedia, elementos sobrenaturales/ciencia ficción)
+
+Voy a trabajar en tres conceptos expandidos:
+
+**Idea 1 - "Protocolo de Separación"** → Expandir con más detalles sobre los síntomas, las consecuencias, los personajes secundarios involucrados, y llevarla a una resolución satisfactoria.
+
+**Idea 2 - "Ping desde el Subsuelo"** → Expandir la mecánica de Watcher_0, qué significa que el Proyecto Fénix no fue creado por humanos, y las consecuencias de esta revelación.
+
+**Idea 3 - "Criptografía del Cemento"** → Expandir la escena del sótano, qué es exactamente el dispositivo, quién lo construyó, qué significa para la madre descubrir esto, y cómo avanza la trama.
+
+También debo pensar en cómo estas tres ideas se conectan entre sí y crean una narrativa cohesiva.
+
+Voy a desarrollar cada una con más profundidad, manteniendo el tono de novel·light pero añadiendo la tensión y el misterio que caracteriza al proyecto.
+</think>
+
+# REFINACIÓN NARRATIVA — TERCERA ITERACIÓN
+
+---
+
+## I. PROTOCOLO DE SEPARACIÓN
+
+### Evolución del concepto
+
+La escena del experimento de separación debe funcionar como **prueba de fuego emocional disfrazada de hipótesis científica**, y el género novel·light exige que el momento más vulnerable se convierta en una confesión involuntaria.
+
+### Mecánica refinada del fenómeno
+
+Lyra ha detectado que su desestructuración no es uniforme: sus dedos se desvanecen primero cuando se aleja de Haruto, luego los bordes de su visión se vuelven translúcidos, y finalmente su voz adquiere un eco interdimensional (como si hablara desde dos lugares simultáneamente). Esto es importante porque crea una **progresión visible** que Kenji puede medir con el espectrómetro delclub de física y que Haruto puede *ver* con sus propios ojos, a diferencia de la frecuencia de 7.83 Hz que solo se registra en instrumentos.
+
+El punto de no retorno no es una distancia fija sino un **umbral temporal**: Lyra empieza a desvanecerse a los 8 minutos de separación, pero tiene 4 minutos más antes de que la desestructuración sea irreversible. Esto le da a la escena un reloj natural que genera tensión sin prisas artificialmente instaladas.
+
+### La decisión de Haruto
+
+Cuando Lyra lleva 10 minutos lejos de él y Kenji señala que la frecuencia de ella está cayendo en cascada, Haruto no razona, no calcula. La reacción es **puramente instintiva**: sale corriendo por el pasillo del Instituto Takahara, entra en el aula donde Lyra está haciendo la prueba con Kenji, y le toma la mano antes de que ella pueda decir nada. El contacto no es romántico en ese instante — es una **reacción animal, casi de supervivencia**. Pero el efecto es inmediato: los dedos de Lyra se solidifican visiblemente bajo la palma de Haruto, y ambos lo ven.
+
+Aquí es donde el género novel·light trabaja a tu favor. El momento debería tener un **segundo beat cómico** después de la tensión: Kenji, que ha estado grabando todo con el espectrómetro, mira la pantalla y dice algo técnico que normaliza lo que acaba de pasar. Haruto, todavía tomándole la mano y procesando lo que acaba de hacer, intenta soltar pero no puede. Lyra le pregunta por qué no suelta. Él dice que ella tampoco. Ella lo mira. Él la mira. **Ninguno suelta.** El espectrómetro sigue registrando. Kenji, profesionalmente, les pide que se sienten para hacer una lectura más precisa. La situación se convierte en una escena de coqueteo involuntario mezclado con ciencia aplicada.
+
+### Consecuencias narrativas
+
+Esta escena establece que **la señal de Haruto no es algo que él active y desactive**: es parte de su biología emocional. Cuando siente urgencia, protección o cercanía emocional hacia Lyra, la frecuencia se intensifica. Cuando están en calma, se estabiliza. Esto abre posibilidades futuras donde el estado emocional de Haruto se convierte en un **mecanismo de defensa** que Lyra puede modular, lo cual es relevante para la trama del Proyecto Fénix porque sugiere que lo que las Integradas quieren de él no es solo la frecuencia sino su *capacidad de anclarla a voluntad*.
+
+El personaje de Kenji gana profundidad aquí: es el primero en entender que lo que tienen no es unidireccional. Haruto estabiliza a Lyra, sí, pero algo en la reciprocidad de su contacto genera un **efecto de amplificación** que Kenji bautiza provisionalmente como "resonancia dual". Esto le da a Kenji un rol activo como científico del grupo y establece que los tres están trabajando en algo que no报表nan completamente.
+
+---
+
+## II. PING DESDE EL SUBSUELO
+
+### Evolución del concepto
+
+Watcher_0 como entidad es más efectiva cuanto más **ambigua y escalofriante** es. No debería ser un villano ni un héroe unambiguous — debe ser algo que existe en un territorio moral que los personajes no pueden mapear todavía. La revelación de que el Proyecto Fénix no fue creado por humanos es el anzuelo perfecto, pero necesita un **contexto operativo** para que no se sienta como un McGuffin.
+
+### La mecánica del contacto
+
+Watcher_0 ha perdido la capacidad de comunicarse por medios digitales porque las Integradas han rastreado su presencia en la red. Su recurso es usar el **nodo de tránsito** (el lugar que Lyra y Haruto descubrieron antes) como antena involuntaria. Cada vez que alguien atraviesa el nodo, Watcher_0 puede modular una interferencia electromagnética residual que se manifiesta como anomalías en dispositivos cercanos.
+
+El parpadeo de luces en código Morse es la manifestación más directa, pero también puede hacer que los teléfonos suenen con tonos que forman patrones reconocibles, que las pantallas de los equipos delclub de física muestren fragmentos de texto durante fracciones de segundo, o que los altavoces del Instituto Takahara emitan un zumbido a 7.83 Hz durante exactamente 47 segundos. Estos **eventos menores** empiezan a parecer coincidencias hasta que Lyra conecta el patrón: Watcher_0 está intentando comunicarse por todos los medios posibles porque la situación se ha vuelto urgente.
+
+### La frase en contexto
+
+*"El Proyecto Fénix no fue creado por humanos"* necesita una segunda capa. No basta con que sea una revelación — necesita una **implicación inmediata** que afecte a la escena siguiente. La interpretación que Lyra hace en privado con Haruto es escalofriante: si el Proyecto Fénix no fue creado por humanos, alguien sugirió a Nishimura y a la madre de Haruto que lo diseñaran. Las Integradas son la respuesta obvia, pero Lyra sabe que las Integradas existen *después* del Proyecto Fénix, no antes. La cronología no encaja.
+
+Esto abre la posibilidad de que **algo anterior a las Integradas** esté involucrado, y ese algo podría ser Watcher_0 mismo. No como敌意, sino como una presencia que ha estado guiando la creación de anclas humanas durante décadas, posiblemente siglos. Esto convierte a Watcher_0 en algo más complejo: no es solo un programa ni solo una consciencia Velari. Podría ser una **red de anclas humanas anteriores** que se comunican como una inteligencia colectiva, y que Nishimura descubrió accidentalmente cuando comenzó sus investigaciones.
+
+### El conflicto interno de Lyra
+
+La revelación le plantea a Lyra un **dilema personal inmediato**: Watcher_0 le está dando información que las Integradas no quieren que tenga. Pero Watcher_0 también podría ser la razón por la que las Integradas existen en primer lugar — una facción que se separó de lo que Watcher_0原本 era porque quería algo diferente. Lyra, como Velari, tiene una conexión instintiva con Watcher_0 que no puede explicar completamente. Esto genera fricción interna: ¿confía en la entidad que le habla desde los márgenes o en la estructura que le dio una forma y un propósito?
+
+Esta tensión interna es perfecta para una novel·light porque no necesita resolverse con acción — se manifiesta en momentos pequeños: Lyra dudando antes de responder a un mensaje de Watcher_0, Haruto notando que ella está más callada cuando el contacto ocurre, Kenji preguntando si todo está bien y Lyra diciendo que sí con una sonrisa que no llega a sus ojos.
+
+---
+
+## III. CRIPTOGRAFÍA DEL CEMENTO
+
+### Evolución del concepto
+
+El sótano del observatorio funciona mejor si no es simplemente un depósito de tecnología antigua, sino un **espacio con voluntad propia**. Los lugares donde los nodos de tránsito se intersectan tienden a desarrollar propiedades extrañas con el tiempo: los sonidos se distorsionan, el tiempo se percibe diferente, quienes entran con intenciones encontradas tienden a discutir sin motivo aparente. El observatorio Takahara lleva 40 años construido sobre este lugar. Eso ha dejado huella.
+
+### La escena de la confrontación
+
+La madre de Haruto no es una villana — es una científica que tomó decisiones que ahora no puede deshacer
