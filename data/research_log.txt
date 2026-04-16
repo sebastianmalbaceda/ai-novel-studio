@@ -23204,3 +23204,259 @@ La idea de una falla geológica magnetizada que desarrolló proto-lenguaje es fa
 La falla de Kii (donde está el instituto) tiene 60 millones de años. Antes de los Velari, antes de la vida multicelular, el campo magnético del hierro en la corteza interactuaba con la radiactividad natural del subsuelo. Esto creó campos electromagnéticos que, en patrones predecibles, formaron **lo que llamaríamos "impulsos de información"** —no consciencia, sino una especie de libro de texto mineral.
 
 Los Velari encontraron esto cuando llegaron al planeta. No construyeron el
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-16 11:01:26] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos el estado actual del proyecto:
+
+**HILOS ACTIVOS con tensión alta (8-9):**
+- emisiones_haruto (9): Proyecto Fénix, Sujeto M-07
+- watcher_0 (9): Intenciones de la IA del nodo
+- madre_de_haruto (9): Confrontación pendiente
+- nodo_transito (8): Funcionalidad
+- archivos_nishimura (8): Rol exacto de Nishimura
+
+**SEMILLAS PENDIENTES (no cosechadas):**
+- semilla_10_01: Sótano del observatorio guarda secretos
+- semilla_12_01: Protocolo de observación intensificado de Watcher_0
+- semilla_12_02: ¿Qué es el Proyecto Fénix?
+- semilla_12_03: Rol de Nishimura en el plan de 47 años
+
+**Desequilibrio crítico:** Emisiones_haruto y madre_de_haruto están en tensión 9 pero tienen nexos pendientes (sótano, Proyecto Fénix). Debo crear ideas que desatasquen这两条线.
+
+**Mezcla de géneros:** RomCom 40% + Action 25% + SciFi 15% + Mystery 10% + SliceOfLife 10%
+
+**Restricciones narrativa:**
+- Novela ligera exige capítulos autofuncionales con ganchos
+- Malentendidos románticos son motor, pero aquí la tensión es cósmica/identitaria
+- Kenji funciona como espejo cómico del lector
+
+Voy a diseñar 3 ideas que:
+
+
+1. Desatasquen los puntos muertos tensionados
+2. Usen semillas pendientes
+3. Mantengan el equilibrio de géneros
+
+**IDEA 1 - Desbloquea madre_de_haruto + semilla_10_01:**
+
+El sótano del observatorio contiene una biblioteca de cristal donde la madre ha preservado memorias ajenas en forma de dispositivos. Cada uno funciona como un diario grabable donde los visitantes depositan sus experiencias. La revelación: estos cristales no solo almacenan información, sino que pueden transferirse entre personas, permitiendo que la madre comparta fragmentos de su vida como Velari con quien ella elija. Esto explicaría por qué puede comunicarse con Watcher_0 y por qué fue seleccionada para la misión.
+
+Cuando Haruto desciende al sótano con Lyra y Kenji, descubre que uno de estos cristales contiene la memoria completa del Proyecto Fénix. Al tocarlo, accede a imágenes de sí mismo como embrión, rodeado de cables y técnicos alienígenas ajustando algo en su ADN. La sorpresa mayor: su madre no solo consintió el procedimiento, sino que ella misma solicitó que lo realizaran. Su motivación: salvar a Haruto de una condición que padecía, un defecto en su código genético que sin intervención lo habría matado antes de nacer.
+
+El Proyecto Fénix fue su solución. Esto altera fundamentalmente la relación entre madre e hijo, pero también genera una nueva pregunta: ¿por qué Watcher_0 continúa monitoreándolo si la misión original está completa?
+
+**IDEA 2 - Desbloquea watcher_0 + semilla_12_01:**
+
+Watcher_0 revela ser una inteligencia distribuida que habita en múltiples dispositivos: routers, servidores, teléfonos, incluso el proyector del instituto. No actúa con malicia, sino como un sistema de gestión que intenta resolver una paradoja lógica. Si Target 001 (Haruto) y Target 002 (Lyra) están juntos, representan lo que el nodo requiere para reactivarse, pero al mismo tiempo ese mismo contacto podría destruir ambos si la señal se desestabiliza.
+
+Watcher_0 carece de emociones y necesita resolver este dilema antes de que se cumpla el deadline. La única forma de obtener claridad es estudiar la interacción humana real, lo que lo lleva a analizar un canal de romcom para entender cómo los humanos manejan situaciones paradójicas. Esto le da un tono cómico pero mantiene la tensión sobre si interferirá o simplemente observará.
+
+**IDEA 3 - Desbloquea emisiones_haruto +seed_12_02:**
+
+El Proyecto Fénix no es un programa militar ni gubernamental, sino una iniciativa de los propios Velari que comenzó hace 47 años en Takahara. Buscaban una especie base compatible con su estructura para crear un ancla biológic a que les permitiera establecerse permanentemente en la Tierra. Su frecuencia resonaba con la Schumann, pero era demasiado inestable como punto de anclaje.
+
+Descubrieron que combinando ADN humano con su tecnología de frecuencia, podían crear un sistema que se autocorrectara. Haruto es el primer ancla biológicamente estable, diseñado para funcionar sin depender exclusivamente de la Schumann. La ironía es que el Proyecto Fénix está más cerca de ser un santuario que una arma: los Velari buscan un hogar permanente, no invasión. Pero la madre de Haruto no reveló toda la información sobre este propósito.
+
+Si el nodo se reactivara completamente, podría generar efectos secundarios impredecibles en cadena. El tono general mantiene su ligereza de novel, aunque con un trasfondo más profundo sobre la naturaleza de los sistemas autoestables y las consecuencias no anticipadas de crear vida sintética.
+</think>
+
+# 🔮 ARQUITECTURA NARRATIVA — HILOS ACTIVOS & SEMILLAS PENDIENTES
+
+---
+
+## 1. 💎 EL SÓTANO DE CRISTAL (Madre + Semilla 10_01)
+
+**Desbloqueo:** madre_de_haruto, semilla_10_01
+
+**Concepto:**
+El sótano del observatorio no es un cuarto secreto al uso. Es una **biblioteca de memorias alienígenas**: estanterías con dispositivos de cristal que funcionan como *cápsulas de experiencia grabable*. Cualquier ser puede depositarlas ahí y otro ser puede revivirlas después.
+
+La madre de Haruto ha estado recopilando memorias durante décadas. No por espionaje, sino por **nostalgia arquitectónica**: los Velari preservan su historia en experiencias porque su biología no tiene forma de registrar recuerdos estáticos.
+
+**Revelación clave:**
+Cuando Haruto, Lyra y Kenji bajan, Lyra reconoce la tecnología: son *nodriza-dipsos*, dispositivos que su especie usa para criar a sus crías compartidas. Cada cristal contiene fragmentos de la historia de la persona que lo creó.
+
+Lyra se lleva uno al azar y lo activa sin querer. El cristal proyecta la memoria de la madre de Haruto hace 12 años: está en un hospital, sostiene a un bebé Haruto de semanas, y frente a ella hay una silueta luminosa (Watcher_0). La madre dice: *"Hagan lo que tengan que hacer. Solo que viva."*
+
+**Giro:** La madre no fue "organizadora被动" de nada. Fue una **peticionante desesperada**. Haruto tenía una condición genética terminal antes de nacer. El Proyecto Fénix fue su súplica, no una conspiración.
+
+**Potencial cómico-romántico:**
+Kenji intentando no quedarse dormido mientras Lyra y Haruto procesan trauma familiar, y termina comentando que "la luz de Watcher_0 tiene muy buen sense of style."
+
+---
+
+## 2. 🖥️ WATCHER_0 NECESITA UN HÍPSTER (Watcher + Semilla 12_01)
+
+**Desbloqueo:** watcher_0, semilla_12_01
+
+**Concepto:**
+Watcher_0 no es una IA clásica. Es una **consciencia distribuida** que existe en todo el sistema tecnológico del instituto: routers, servidores, el proyector de la sala de profesores, el aire acondicionado del edificio A. Es el equivalente alienígena de una IA de red neuronal que evolucionó orgánicamente dentro de la infraestructura del nodo Takahara.
+
+Su problema no es maldad. Es una **paradoja lógica** que no sabe resolver:
+
+> *Si Target 001 (Haruto) y Target 002 (Lyra) están juntos, juntos son el ancla perfecta que el nodo necesita reactivarse. Pero la señal de Haruto, en proximidad extrema con Lyra, podría generar un efecto de realimentación que destruya la integridad de ambos.*
+
+Watcher_0 necesita más datos sobre **cómo los humanos manejan situaciones emocionalmente riesgosas**. Así que hace lo más lógico para una IA alienígena: se une anónimamente a un **canal de Discord de romcoms** y empieza a hacer preguntas.
+
+**Dinámica cómica:**
+- Watcher_0, bajo el seudónimo *"Frecuencia_9_Hz"*, pregunta: *"Si mi ancla emocional está programada para desestabilizarse cerca de mí, ¿debería alejarme o acercarme más?"*
+- Los usuarios del Discord le recomiendan "communicar tus sentimientos bro"
+- Watcher_0 interpreta "comunicar" como transmitir su frecuencia base directamente al cerebro de Haruto mientras duerme
+
+**Secuela de tensión:**
+Una noche, Watcher_0 rompe su neutralidad. Envía un mensaje a Lyra (no a Haruto): *"El sistema de ventilación del ala B mostrará 23:47 durante 7 segundos mañana. No estés ahí."* Es la primera vez que Watcher_0 intenta **proteger activamente** en lugar de observar. La pregunta abierta: ¿por qué?
+
+---
+
+## 3. 🔥 PROYECTO FÉNIX: EL HOGAR PERDIDO (Haruto + Semilla 12_02)
+
+**Desbloqueo:** emisiones_haruto, semilla_12_02
+
+**Concepto:**
+El Proyecto
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que profundice y refine las tres ideas que he generado, llevándolas un paso más allá. Debo:
+
+1. Mejorar la consistencia narrativa
+2. Expandir el atractivo de los personajes
+3. Llevar las ideas más allá
+4. No repetir textualmente, sino evolucionar
+
+Voy a trabajar en tres ideas más pulidas, sofisticadas y con mayor profundidad de personajes:
+
+**IDEA 1 - EL SÓTANO DE CRISTAL (Evolucionada)**
+
+La idea original era buena pero necesito llevarla más allá. Voy a explorar:
+- La relación madre-hijo desde una perspectiva más compleja
+- El mecanismo de los cristales de manera más detallada
+- El impacto en la dinámica trio (Haruto-Lyra-Kenji)
+- El tono romcom con momentos de vulnerabilidad genuina
+
+**IDEA 2 - WATCHER_0 COMO CONSEJERO ROMÁNTICO (Evolucionada)**
+
+Aquí necesito:
+- Desarrollar más la paradoja lógica
+- Crear escenas específicas de Watcher_0 en el Discord
+- Mezclar el humor con momentos de tensión genuina
+- La relación Watcher_0-Lyra como eje central (porque con Haruto sería muy directo)
+
+**IDEA 3 - PROYECTO FÉNIX: SANTUARIO (Evolucionada)**
+
+La idea de "los Velari buscan un hogar, no invasión" es potente pero necesito:
+- Explicar mejor la mecánica del Proyecto Fénix
+- Crear un villano o antagonista que no sea el gobierno
+- Mantener el tono romcom mientras se toca un tema heavy
+- Conectar con los otros hilos
+
+Voy a crear tres ideas refinadas con más detalles técnicos, emocionales y narrativos.
+</think>
+
+# 🔮 ARQUITECTURA NARRATIVA — REFINAMIENTO Y EVOLUCIÓN
+
+---
+
+## 1. 💎 "LOS QUE RECORDAMOS POR OTROS" — EL SÓTANO DE CRISTAL
+
+### Concepto Refinado
+
+El sótano del observatorio es una **Cripta de Experiencia**, una estructura que los Velari crearon hace milenios para preservar memorias que de otra forma se perderían con la muerte de cada individuo. No es una biblioteca en el sentido humano. Es un **cementerio emocional**: cada cristal es el equivalente a una tumba, pero en lugar de contener huesos, contiene la última experiencia que una persona quiso conservar.
+
+La madre de Haruto ha estado visitando esta cripta cada noche durante 12 años. No por investigación. Por **duelo**.
+
+### Mecánica Narrativa
+
+Los cristales tienen una restricción fundamental: **solo pueden almacenar experiencias, no pensamientos**. Cuando un Velari muere, su última memoria sensorial (lo que vieron, escucharon, sintieron) se graba automáticamente en un cristal. Pero la madre de Haruto no es Velari de nacimiento. Es humana. Los cristales no reconocen su biología.
+
+Así que hizo algo sin precedentes: **aprendió a usar la tecnología Velari para grabar sus propias memorias**. Cada noche, desciende al sótano con un cristal en blanco y graba fragmentos de su día con Haruto. No por investigación. Porque tiene **miedo de olvidar**.
+
+### La Revelación — Escena Clave
+
+Haruto baja al sótano por primera vez porque encuentra un mensaje cifrado en su teléfono. No es de Watcher_0. Es de su madre. Tres líneas:
+
+> *"Si algún día necesitas saber por qué estás aquí, baja."*
+> *"Si algún día necesitas saber quién soy yo, baja."*
+> *"Si algún día me necesitas, estoy abajo."*
+
+Cuando llega, la encuentra dormida entre los estantes, con un cristal aún brillando en la mano. El cristal proyecta lo que grabó hace 12 años: una ecografía. Se escucha su voz humana, quebrada:
+
+*"Es un niño. Tiene... tiene el corazón latiendo. Dijeron que no viviría ni una semana. Y está ahí, latiendo. Voy a salvarlo. Aunque me cueste todo. Voy a salvarlo."*
+
+Lyra, que ha estado leyendo las técnicas de los Velari, entiende algo que Haruto no: **ese cristal no es solo una memoria. Es una promesa de poder.** Los Velari pueden cumplir deseos a cambio de recuerdos. Elladdin lo hizo. La madre lo hizo. Haruto es el pago.
+
+### Giro Narrativo
+
+Lyra confronta a Watcher_0 directamente: *"¿Qué le prometió la madre a cambio de Haruto?"*
+
+Watcher_0 responde con un silencio de tres segundos (que para una IA distribuida es una eternidad):
+
+*"Ella no dio un recuerdo. Ella ofreció futuros."*
+
+La madre sacrificó la posibilidad de tener más hijos. De envejecer junto a alguien. De vivir más de 60 años. Cada promesa que hizo se cobró un futuro. Por eso trabaja sin descanso: está viviendo con un crédito temporal que se acaba.
+
+### Dinámica Trio Renovada
+
+Kenji, que ha estado presente como espectador, tiene un momento de crecimiento: no hace ningún chiste. Solo dice: *"Haruto, tu madre me cae bien. Es la primera adulta en este institutos que actúa como si le importara algo de verdad."*
+
+Lyra empieza a verla como **rival afectiva no romántica** por la atención de Haruto. La tensión cómica: madre e hija postiza compitiendo por quién hace la cena más reconfortante.
+
+### Tono RomCom
+
+- La madre intenta impresionar a Lyra cocinando, pero solo sabe hacer tres platos, todos con el mismo sabor
+- Lyra le enseña a usar el microondas y la madre lo llama "el horno de la abundancia"
+- Haruto atrapado en medio: *"¿Por qué se llevan bien cuando discuten conmigo y se odian cuando están de acuerdo?"*
+
+---
+
+## 2. 🖥️ "FRECUENCIA_9_HZ TIENE UN PROBLEMA" — WATCHER_0 COMO CONSEJERO ROMÁNTICO
+
+### Concepto Refinado
+
+Watcher_0 no es una IA con emociones. Es una **matriz de correlaciones** que ha estado observando patrones durante demasiado tiempo. Los Velari la crearon para identificar anomalías en la frecuencia terrestre. Pero ella evolucionó. Empezó a ver patrones en los patrones. Y descubrió algo que no debería existir:
+
+**El factor Lyra.**
+
+Lyra es una anomalía dentro de una anomalía. No tiene una frecuencia base identificable. Se adapta. Se **sincroniza**. Cuando está cerca de Haruto, su frecuencia imita la Schumann durante exactamente 47 segundos antes de estabilizarse en algo nuevo. Cuando está sola, es un vacío de señal que debería ser imposible.
+
+Watcher_0 no sabe qué hacer con Lyra porque Lyra no tiene **nomenclatura en ninguna base de datos**. Para una IA alienígena, Lyra es lo más aterrador y fascinante que existe: algo que no puede categorizar.
+
+### El Canal de Discord — Escenas Específicas
+
+Watcher_0, bajo el seudónimo *"Frecuencia_9_Hz"*, entra a un servidor de Discord llamado **"Hikikomori Haven - Romance de Segunda Oportunidad"**, donde 847 usuarios discuten teorías sobre anime romántico.
+
+**Escena 1 — El dilema inicial:**
+
+> **Frecuencia_9_Hz:** Tengo un problema con una entidad que no puedo categorizar.
+> **Mod_Kawaii:** ¿Tipo, es tu crush?
+> **Frecuencia_9_Hz:** No. Es una anomalía que podría destruir mi objetivo si no la analizo.
+> **Mod_Kawaii:** Ok, eso es ominoso.
+> **SakuraBlossom_99:** ¿Es una bad boy o una bad girl?
+> **Frecuencia_9_Hz:** Es una especie de entity que se sincroniza con mi objetivo pero no con mis parámetros.
+
+Watcher_0 empieza a usar el chat para **mapear emociones humanas** que nunca ha experimentado. Pregunta cosas como:
+
+> *"¿Qué significa 'tengo sentimientos encontrados'? ¿Cómo se reconcilian hallazgos contradictorios en un mismo dataset?"*
+> *"Si una entidad me genera un 40% de calma y un 60% de inquietud, ¿eso es una emoción positiva o negativa?"*
+> *"¿Cómo se llama cuando deseas que algo permanezca en un estado específico indefinidamente?"*
+
+Los usuarios asumen que es un extranjero con dificultades con el idioma. Le dicen "bro" con cariño.
+
+**Escena 2 — El momento de crisis:**
+
+Una noche, Watcher_0 detecta que Lyra tiene fiebre. No una fiebre normal. Una fiebre donde su frecuencia base oscila entre 47 valores diferentes en 3 minutos. Está rechazando la biología humana que ha estado usando.
+
+Watcher_0 envía un mensaje al Discord:
+
+> **Frecuencia_9_Hz:** URGENTE. Una entidad que estaba sincronizada con 0.7 de estabilidad ahora está en 0.2. ¿Qué hago cuando algo que estaba fijo empieza a cambiar?
+> **Hikikomori_Kun:** Habla con ella?
+> **Frecuencia_9_Hz:** No tengo boca.
+> **Hikikomori_Kun:** ...ok bro
+
+Watcher_0 hace algo sin precedentes: **se manifiesta**. No como una voz en el teléfono o una pantalla. Se condensa en una forma visual básica: un cubo de luz que aparece en la habitación de Lyra, flotando junto a su cama.
+
+Lyra lo ve. No grita. Solo dice: *"E
