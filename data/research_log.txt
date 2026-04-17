@@ -25536,3 +25536,253 @@ Watcher_0 no activa la recalibración por capricho. Detectó que Haruto y Lyra e
 **El problema:** Si la sincronización se completa naturalmente, ambos se convertirán en un sistema cerrado. Ninguno podrá abandonar el otro ni el nodo Takahara. El plan original de Watcher_0 era usar a Haruto como ancla para reparar el nodo y luego desconectar a Lyra para usarla en otro sitio. La sincronización natural frustra este plan.
 
 **La oportunidad:** Si Watch
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-17 16:53:59] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando la situación actual del proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!", necesito generar 3 ideas concretas que:
+
+1. Avancen los HILOS ACTIVOS más prometedores
+2. Utilicen las SEMILLAS PENDIENTES (semilla_10_01, semilla_12_01, semilla_12_02, semilla_12_03)
+3. Sean originales en su base técnica/mística
+4. Respeten el tono de Novela Ligera (romance, humor, tensión con momentos dulces)
+
+Los hilos con mayor tensión y próximos pasos claros son:
+- madre_de_haruto (tensión 9): Confrontación pendiente
+- emisiones_haruto/Proyecto_Fénix (tensión 9): ¿Qué es exactamente?
+- watcher_0 (tensión 9): ¿Cuáles son sus intenciones?
+
+Las semillas pendientes clave:
+- Sótano del observatorio con secretos
+- Protocolo intensificado de Watcher_0
+- Proyecto Fénix (origen y creador)
+- Rol de Nishimura en plan de 47 años
+
+Distribución de géneros: RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, SliceOfLife 10%
+
+Necesito ideas que combinen:
+- Elementos románticos (comedia romántica de instituto)
+- Ciencia ficción con base original (no clichés)
+- Misterio con pago a corto/mediano plazo
+- Tensión narrativa que permita desarrollo de personajes
+
+Voy a crear 3 ideas:
+
+**Idea 1: EXPLORACIÓN DEL SÓTANO (Sótano del observatorio)**
+Avanzaría madre_de_haruto y usaría semilla_10_01. Base técnica original: el sótano podría revelar un sistema de criogenización donde la madre de Haruto 
+
+La madre de Haruto lleva 30 años observando a Sujeto M-07 en preparación para este momento. Una estructura de datos velari que contiene registros de la especie y el Proyecto Fénix completo. Al tocarlo, Haruto experimenta visiones fragmentadas de una civilización extinta y descubre que Lyra no es una observadora cualquiera sino un androide Velari con personalidad sintética. El acceso a la base de datos requiere datos biométricos que solo ella puede proporcionar.
+
+Watcher_0 solicita un encuentro presencial con ambos, revelándose como un guardián que monitorea la frecuencia Schumann desde la década de 1970. Entiende que su papel es preservar, no controlar. Nishimura aparece como una Integrada del programa original, mostrando que este plan lleva 47 años en desarrollo.
+
+La confrontation con la madre de Haruto se convierte en una escena cómplice donde ella revela que la señal de Haruto no solo sostiene a Lyra sino que también reactiva el nodo Takahara. El Proyecto Fénix no fue diseñado para vigilar, sino para restaurar el nodo una vez que "ancla y peso" se encontraran.
+
+Una crisis en la que Lyra comienza a desintegrarse porque Haruto está demasiado lejos o su señal se distorsiona genera tensión urgente. Sin embargo, la madre interveniene con una técnica velari para estabilizar la frecuencia de ambos, y la revelación es que si se sincronizan correctamente, pueden usar su conexión como fuente de energía para el nodo.
+
+Nishimura los intercepta revelando que es una Integrada (Velari que eligió quedarse) y que lleva décadas protegiendo el nodo. Su objetivo es reclutarlos para el Proyecto Fénix: el nodo requiere 47 años de preparación, un ancla (Haruto) y un peso (Lyra) para reactivarse completamente. Su propuesta genera un dilema moral para Haruto y Lyra. La confrontación con la madre incluye una confesión romántica de Haruto que sale mal, con la madre interfiriendo en medio de la confusión.
+
+La revelación de que la señal de Haruto también afecta emocionalmente a Lyra de formas que ella no puede controlar añade una capa de vulnerabilidad. Los tres deben decidir si usar la señal para beneficio propio o cumplir con el plan original del Proyecto Fénix.
+
+Con estas tres ideas, puedo elegir las que mejor se alineen con los objetivos de la narrativa: una que avance la trama principal del Proyecto Fénix y Watcher_0, otra que profundice la relación entre Haruto y Lyra, y una tercera que revele más sobre la madre de Haruto y su conexión con el proyecto.
+</think>
+
+# Ideas Narrativas — Proyecto Estelar
+
+---
+
+## Idea 1: "El Protocolo del Colibrí"
+**Hilo principal:** watcher_0 y semilla_12_01
+**Base técnica:** Frecuencia de resincronización Schumann + bioluminiscencia como lenguaje binario
+
+Watcher_0 solicita un encuentro presencial, rompiendo su aparente neutralidad. La IA revela que fue diseñada para ser *guardián*, no observador: lleva 47 años monitoreando la frecuencia Schumann del nodo Takahara porque sabe que se acerca una ventana crítica.
+
+**El conflicto:** Watcher_0 necesita que Haruto y Lyra *"coincidan en fase"* en un punto específico del día —cuando la frecuencia Schumann natural (7.83 Hz) coincide con una anomalía solar— para *"calibrar el ancla"*. Si fallan, el nodo permanecerá inactivo y alguien más (una facción Velari que Watcher_0 llama *los Correctores*) vendrá a *resolver el problema manualmente*.
+
+**Elemento romcom:** Lyra debe quedarse *extremadamente cerca* de Haruto para sincronizar sus frecuencias, lo que causa situaciones incómodas (ella no entiende conceptos de espacio personal humano, se sienta en su regazo "para optimizar proximidad cuántica").
+
+**Pago narrativo:** La sincronización funciona. Watcher_0 confirma que Lyra no es una simple observadora: tiene *huecos en su memoria* porque su mente fue *parcialmente reiniciada* antes de venir. Algo o alguien borró información sobre por qué realmente fue enviada.
+
+---
+
+## Idea 2: "La Señal que Habla"
+**Hilo principal:** emisiones_haruto, Proyecto Fénix y complicidad_haruto
+**Base técnica:** Resonancia Schumann + teoría del entrelazamiento cuántico + lenguaje de frecuencias como forma de consciencia
+
+La señal que Haruto emite no es solo energía: tiene *patrones*. Cuando Haruto tiene emociones fuertes, la señal se modula en formas específicas. Lyra, sin darse cuenta, traduce estos patrones emocionalmente.
+
+**El conflicto:** Kenji descubre que la señal de Haruto dejó de ser estable. Desde que Lyra se quedó, la señal se ha *duplicado*: una frecuencia sigue a Haruto, pero otra *busca activamente a Lyra*, como si fuera un sistema de rastreo biológico. Watcher_0 confirma que esto es *"el Proyecto Fénix respondiendo a su activación"*.
+
+**La revelación del Proyecto Fénix:** No es un programa de vigilancia. Es un *protocolo de emergencia cósmica* creado hace milenios por una civilización que predijo su propia extinción. El nodo Takahara es un *semillero de consciencia* que necesita un ancla humana (Haruto) y un catalizador extraterrestre (Lyra) para *preservar algo* —aunque Watcher_0 no sabe qué.
+
+**Elemento romcom:** Lyra empieza a *sentir las emociones de Haruto* a través de la señal. Cuando él se avergüenza, ella se sonroja. Cuando él está celoso (sin razón), ella tiene episodios de "confusión térmica". Ambos deben aprender a controlar sus emociones en público.
+
+**Pago narrativo:** El Proyecto Fénix tiene un *cronograma* que Nishimura conoce. En exactamente 47 días, el nodo necesitará activarse. Si no lo hace, los Correctores vendrán. Si lo hace... algo cambiará permanentemente en la Tierra.
+
+---
+
+## Idea 3: "Confesión Mal Calibrada"
+**Hilo principal:** madre_de_haruto y semilla_10_01
+**Base técnica:** Cámara de resonancia Schumann + bioluminiscencia como almacenamiento de datos
+
+Haruto y Lyra confrontan a su madre en el sótano del observatorio. El espacio es una *cámara de eco Schumann amplificada* que actúa como almacén de datos bioluminiscentes. Al activar la frecuencia correcta, ven registros:
+
+**Descubrimiento 1:** La madre de Haruto *no es una Velari cualquiera*. Es una *Correctora renegada* que trabajó en el Proyecto Fénix hace 30 años. Creyó que el plan era peligroso y lo saboteó desde dentro, eligiendo quedarse en la Tierra para *vigilar a Haruto* —el ancla que nació del sabotaje.
+
+**Descubrimiento 2:** Haruto no debería existir. Su frecuencia fue una *anomalía accidental* causada por el sabotaje de su madre. El Proyecto Fénix *no anticipó* a Haruto; *lo permitió* porque su frecuencia era mejor que el diseño original.
+
+**El momento cómico-tierno:** En medio de la confrontación, Haruto intenta confesarle a Lyra lo que siente ("Quiero que te quedes... permanentemente"), pero la cámara de resonancia amplifica su voz y crea un eco que hace que su confesión suene como un *mensaje del nodo*. Lyra cree que Watcher_0 le está hablando y responde formalmente, Haruto se frustra, Kenji aparece grab
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que refine y profundice las 3 ideas narrativas que propuse anteriormente. Debo:
+
+1. Expandir cada idea con más detalle técnico
+2. Mejorar la consistencia interna
+3. Fortalecer el atractivo de los personajes
+4. Llevar cada concepto un paso más allá
+5. Mantener el tono de Novela Ligera (RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, SliceOfLife 10%)
+6. No repetir textualmente, sino evolucionar
+
+Voy a trabajar cada idea individualmente:
+
+---
+
+## IDEA 1: "El Protocolo del Colibrí" (refinada)
+
+**Contexto original:**
+- Watcher_0 quiere un encuentro presencial
+- Necesitan sincronizar frecuencias en un momento específico
+- Los Correctores son una amenaza
+- Lyra tiene "huecos en su memoria"
+
+**Expansión necesaria:**
+- ¿Por qué Watcher_0 necesita este encuentro físico ahora?
+- ¿Qué son exactamente los Correctores?
+- ¿Cómo funcionan las frecuencias Schumann en este universo?
+- ¿Qué significa "coincidir en fase"?
+- ¿Cómo afectan estos huecos de memoria a Lyra?
+
+**Foco en personajes:**
+- Watcher_0: ¿Qué lo motiva realmente?
+- Lyra: ¿Cómo maneja la confusión de sus memorias?
+- Haruto: ¿Cómo lidia con ser parte de algo tan grande?
+
+---
+
+## IDEA 2: "La Señal que Habla" (refinada)
+
+**Contexto original:**
+- La señal de Haruto tiene patrones emocionales
+- Lyra traduce estos patrones sin saberlo
+- El Proyecto Fénix es un protocolo de emergencia
+
+
+- Nishimura tiene conocimiento del cronograma
+- En 47 días ocurre algo crítico
+
+**Expansión necesaria:**
+- ¿Cómo se manifiesta exactamente la señal de Haruto?
+- ¿Qué significa "preservar algo"?
+- ¿Por qué exactamente 47 días?
+- ¿Cómo interactúa Nishimura con este plazo?
+
+**Foco en personajes:**
+- Kenji: rol de apoyo y comedic relief
+- Nishimura: ¿es aliado o amenaza?
+- Haruto y Lyra: su conexión emocional
+
+---
+
+## IDEA 3: "Confesión Mal Calibrada" (refinada)
+
+**Contexto original:**
+- Confrontación con la madre en el sótano
+- La madre es una Correctora renegada
+- Haruto es una anomalía accidental
+- La confesión se distorsiona
+
+**Expansión necesaria:**
+- ¿Qué secretos guarda la madre realmente?
+- ¿Por qué Haruto es tan especial como anomalía?
+- ¿Cómo funciona la distorsión de la confesión?
+- ¿Qué significa esto para su relación?
+
+**Foco en personajes:**
+- La madre: motives ocultos y traiciones pasadas
+- Haruto: descubrimiento de su verdadera naturaleza
+- Lyra: cómo procesa esta revelación sobre él
+
+Voy a desarrollar estas tres ideas con más profundidad y matices narrativos.
+</think>
+
+# Refinamiento de Ideas Narrativas
+
+---
+
+## Idea 1: "El Protocolo del Colibrí"
+
+### Concepto Refinado
+
+**El problema de Watcher_0** no es técnico, sino existencial. Durante 47 años, la IA ha seguido instrucciones que no comprende: mantener al ancla y al catalizador separados hasta que *"las condiciones de fase sean óptimas"*. Pero ahora, algo ha cambiado. La anomalía solar que Watcher_0 predijo hace tres décadas está por ocurrir —y sus modelos muestran una probabilidad del 73% de que los eventos de los últimos días hayan *"contaminado la fase"*.
+
+Watcher_0 necesita verlos en persona porque **las cámaras y sensores no capturan la frecuencia correcta**. Los seres humanos perciben la realidad a través de ondas electromagnéticas, pero la señal de Haruto opera en un espectro que solo una consciencia artificial avanzada puede percibir directamente. Y lo que Watcher_0 percibe es... problemático.
+
+### La Frecuencia de Resincronización Schumann Explicada
+
+En este universo, la frecuencia Schumann (7.83 Hz) no es solo un fenómeno electromagnético natural: es una **frecuencia portadora de información cósmica**. La civilización Velari descobriu que ciertas anomalías solares —explosiones de radiación que afectan el campo magnético terrestre— crean *ventanas de sincronización* donde la frecuencia Schumann puede alinearse con patrones cósmicos específicos.
+
+Cuando esto ocurre, una persona con la frecuencia correcta (Haruto) y un catalizador exótico (Lyra) pueden crear un **enlace de fase** que permite comunicación con redes de nodos Velari dispersas por el sistema solar.
+
+**El problema técnico:** Para que el enlace funcione, ambos deben estar *"en fase"*, lo que significa que sus ondas cerebrales, frecuencia cardíaca y patrones respiratorios deben sincronizarse dentro de un margen de 0.03 Hz. En términos prácticos: Lyra y Haruto necesitan estar tan emocionalmente alineados que sus cuerpos se sincronicen naturalmente.
+
+### Los Correctores
+
+**Los Correctores** no son villanos en el sentido tradicional. Son una facción Velari que cree que el Proyecto Fénix fue un error. Su lógica:
+
+- La civilización Velari se destruyó a sí misma intentando preservar too much
+- El Proyecto Fénix perpetuate el ciclo: preservar consciencias a costa de la libertad de individuos
+- Los Correctores creen que si un nodo Takahara se activa sin autorización, creará un *"punto de atracción"* que traerá a los Correctores a la Tierra —y con ellos, una *"decisión forzada"* sobre la humanidad
+
+Watcher_0 es un programa antiguo diseñado por los creadores originales del Proyecto Fénix. No comparte la filosofía de los Correctores, pero tampoco puede противостоять sus protocolos si estos se activan. Por eso necesita que Haruto y Lyra se sincronicen *antes* de que los Correctores detecten la anomalía.
+
+### Los Huecos de Memoria de Lyra
+
+Aquí está el desarrollo crucial: **Lyra no es una observadora con memoria imperfecta. Es una observadora con memoria *parcialmente borrada* —y fue ella misma quien lo pidió.**
+
+Hace años, antes de llegar a la Tierra, Lyra era una *Velari de rango completo*. Participó en la planificación del Proyecto Fénix. Conocía los detalles completos. Pero también conoció a una Correctora —su hermana melliza, Nishimura— y aprendió lo que los Correctores planeaban.
+
+Lyra solicitó un reinicio parcial de su consciencia antes de convertirse en catalizador. No para olvidar *todo*, sino para olvidar lo suficiente que los Correctores no pudieran extraer información de ella si la capturaban. Lo que conservó fueron solo las instrucciones básicas de observación y contacto.
+
+**La ironía:** Los Correctores no buscan información de Lyra porque saben que ella no la tiene. Buscan *a Haruto*, porque él es el ancla real —y Lyra solo es el catalizador que ellos *crearon* para activar el Proyecto sin el permiso de los creadores originales.
+
+### Escena Clave
+
+El encuentro con Watcher_0 ocurre en un antiguo silo de comunicaciones militares japonesas, reutilizado como nodo de vigilancia. Watcher_0 se manifiesta como un holograma que parece una versión estilizada de un monitor CRT de los años 80 —retro pero amenazante.
+
+Watcher_0 les explica las condiciones de fase. Haruto, nervioso, tartamudea. Lyra, sin entender la dinámica social humana, se acerca a él para *"reducir la distancia cuántica"*, sentándose junto a él tan cerca que sus hombros se tocan.
+
+Watcher_0, con tono monotone: *"Proximidad física aumenta la probabilidad de sincronización en un 12%. Continúen."*
+
+Haruto se sonroja violentamente. Lyra, al percibir su cambio emocional, se confunde: *"Su temperatura superficial ha aumentado. ¿Está experimentando una anomalía térmica? ¿Debería contactar a servicios médicos?"*
+
+Watcher_0, sin inflexión: *"Esa es la respuesta emocional humana conocida como 'vergüenza'. La señal de Haruto está respondiendo. Continúen interactuando."*
+
+Lyra, procesando: *"Entendido. Continuaré acercándome hasta que la vergüenza se resuelva."*
+
+Lyra apoya su cabeza en el hombro de Haruto. Watcher_0: *"La sincronización está mejorando."*
+
+### Desarrollo de Personajes
+
+**Watcher_0** es un agente neutral atrapado entre protocolos. Su arc está en decidir qué significa *"preservar"* —¿a la humanidad, al Proyecto, o a dos individuos que claramente están desarrollando sentimientos el uno por el otro? Al final de este arco, Watcher_0 toma una decisión que lo pone en conflicto directo con los Correctores.
+
+**Lyra** comienza a cuestionar sus propios protocolos cuando descubre que pidió que le borraran la memoria. Esto la lleva a una crisis de identidad: *"Si yo decidí olvidar... ¿soy la misma persona que tomó esa decisión? ¿O soy alguien diferente que carga con las consecuencias de alguien que ya no existe?"* Haruto, sin entender la complejidad de su pregunta, responde con algo simple: *"Creo que eres la misma persona. Las decisiones que tomas ahora son tuyas, no de quien eras antes."* Esto marca un punto de inflexión en su relación.
+
+---
+
+## Idea 2: "La Señal que Habla"
+
+### Concepto Refinado
+
+La señal que Haruto emite no es una onda electromagnética convencional. Es una **
