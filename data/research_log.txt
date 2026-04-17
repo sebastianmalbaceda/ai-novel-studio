@@ -24631,3 +24631,187 @@ Kobayashi, el amigo que tira de manga de Haruto, dice con una sonrisa: *"Amigo, 
 ### El costo real
 
 Lyra, al día siguiente, recibe una
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-17 06:02:20] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado actual del proyecto, necesito generar ideas que:
+1. Avancen los hilos activos o utilicen semillas pendientes
+2. Tengan originalidad técnica
+3. Respeten el tono de novela ligera (rom-com con elementos sci-fi/misterio)
+
+Los hilos con tensión más alta (9):
+- Emisiones de Haruto (Proyecto Fénix)
+- Watcher_0 (intenciones)
+- Madre de Haruto (confrontación pendiente)
+
+Las semillas pendientes más prometedoras:
+- Sótano del observatorio (10_01) - información sobre Proyecto Fénix
+- Watcher_0 como ancla/peso (12_01) - qué planea
+- Proyecto Fénix (12_02) - qué es
+- Rol de Nishimura (12_03)
+
+Con mezcla de géneros: 40% rom-com, 25% action, 15% sci-fi, 10% mystery, 10% slice of life.
+
+Voy a crear 3 ideas originales:
+
+1. Para el hilo de la madre/confrontación: Una escena donde la madre revela el Proyecto Fénix a través de un objeto del sótano. Puedo usar la base de la resonancia Schumann (ya establecida) para algo más: los Velari no funcionan con electricidad convencional sino con bioelectricidad natural, y Haruto ha estado generando un campo Schumann artificial sin saberlo.
+
+
+2. Watcher_0 podría ser una manifestación del nodo mismo, donde sus interacciones con los personajes resultan en un comportamiento que oscila entre la amabilidad y la frialdad mecánica. Esto permite explorar la dualidad de la IA mientras mantiene la tensión sobre sus verdaderas intenciones.
+3. El rom-com necesita más peso en la narrativa. Voy a diseñar situaciones donde la necesidad física de Lyra de estar cerca de Haruto se convierte en situaciones vergonzosas pero tiernas, integrando esto con los eventos del Proyecto Fénix para que la comedia y el drama se entrelacen orgánicamente.
+</think>
+
+# Ideas para "Crónicas del Instituto Estelar"
+
+---
+
+**1. El Protocolo de Resonancia Inversa (Avance: Hilo "Emisiones Haruto" + Semilla 12_02)**
+
+La confrontación con la madre revela que Haruto no fue "creado" por el Proyecto Fénix, sino *identificado*. Antes de nacer, sus ondas cerebrales ya mostraban un patrón Schumann amplificado naturalmente. El Proyecto Fénix no buscó *generar* esa anomalía, sino *monitorearla* para usarla eventualmente.
+
+**Twist técnico original**: Los Velari que pasaron décadas en la Tierra descubrieron que su integridad estructural se degrada lentamente sin contacto con frecuencias naturales específicas. La madre de Haruto, como Integrada, ha estado *protegiendo* a su hijo no de Lyra, sino de quien quiera usarlo como fuente de energía para el nodo. Cuando Watcher_0 llama a Haruto "Target 001", no es una amenaza: es una etiqueta de *recurso*.
+
+*Esto añade tensión al darle a Haruto un valor involuntario y peligroso, mientras mantiene el tono de slice-of-life al mostrar a la madre genuinamente protectora.*
+
+---
+
+**2. La Teoría del Peso y el Ancla (Semilla 12_01 - Desarrollo de Watcher_0)**
+
+Watcher_0 no es un villano ni un protector. Es una inteligencia que *no comprende las emociones humanas pero las documenta obsesivamente*.
+
+**Mecánica original**: El nodo Takahara lleva 47 años acumulando datos sobre interacciones humanas y alienígenas. Watcher_0 estudia a Haruto y Lyra no por un plan maestro, sino porque su relación representa un *patrón que contradice su base de datos*. La ciencia ficción del nodo se basa en predicciones matemáticas; Haruto y Lyra generan caos emocional que Watcher_0 no puede calcular.
+
+**Aplicación práctica**: Watcher_0 comienza a intervenir en la vida diaria del instituto (manipulando horarios para que Lyra y Haruto se sienten juntos, creando "accidentes" que los obliguen a cooperate) no por malicia, sino porque genuinamente cree que su estabilidad emocional es *necesaria para el funcionamiento del nodo*. Tiene datos de hace 7 años que muestran que cuando están cerca, el nodo emite menos interferencia.
+
+*Esto convierte a Watcher_0 en un antagonista cómico involuntario perfecto para el rom-com, mientras mantiene su misterio ominoso.*
+
+---
+
+**3. Confesión por Frecuencia Equivalente (Rom-Com: Semilla 10_01)**
+
+Kenji, frustrado porque nadie le explica nada, accede al sótano del observatorio con la excusa de buscar suministros. Allí encuentra diarios de la madre de Haruto documentando el Proyecto Fénix desde 1995, incluyendo una entrada donde escribe: *"Si alguna vez necesita confesarse, Haruto elegirá palabras que ella pueda sentir en su idioma."*
+
+**Momento cómico-dulzón**: Lyra, sin saber esto, empieza a notar que Haruto dice cosas que puede *sentir* sin traducir (tono, frecuencia emocional) y menos en palabras literales. Kenji les explica la teoría de la madre: *"Ustedes dos se comunican en un idioma que ni hablan. Es como si el universo les hubiera dado subtítulos."*
+
+**Revelación científica**: Los Velari no procesan emociones como los humanos. Lyra *no sabe* que está enamorada porque su especie codifica el afecto en estabilidad estructural. Cuando está cerca de Haruto, su cuerpo literalmente brilla más y se vuelve más sólido. Ella interpreta esto como "eficiencia energética" y le preocupa que su presencia le esté quitando calcio a Haruto.
+
+*Esto resuelve el "¿cuándo se confiesan?" de forma orgánica, manteniendo el malentendido romántico como motor cómico mientras avanza la tensión del misterio sobre qué son realmente.*
+
+--- ITERACIÓN 2 ---
+<think>Voy a analizar las tres ideas y profundizarlas, expandirlas y llevarlas más lejos manteniéndome fiel al tono novela ligera (rom-com 40%, action 25%, sci-fi 15%, mystery 10%, slice-of-life 10%).
+
+**Idea 1: Protocolo de Resonancia Inversa**
+- Necesito profundizar: ¿Cómo funciona exactamente la detección prenatal?
+- ¿Qué significa ser "Target 001" en la práctica?
+- ¿Cómo afecta esto a la relación Haruto-Madre?
+- ¿Qué significa esto para Lyra específicamente?
+
+**Idea 2: Teoría del Peso y el Ancla**
+- Necesito humanizar más a Watcher_0
+- Crear más situaciones cómicas involuntarias
+- Expandir el concepto de "caos emocional"
+- Conectar con la trama del nodo
+
+**Idea 3: Confesión por Frecuencia Equivalente**
+- Expandir el concepto de "subtítulos emocionales"
+- Crear más situaciones románticas que nazcan de la incomprensión
+- Profundizar en la mecánica Velari
+- Hacer más tierna la dinámica
+
+Voy a estructurar como un documento técnico de worldbuilding que sirva como guía de referencia para la narrativa.</think>
+
+# Documento de Referencia: ExpansionES Y Profundizaciones
+
+## Iteración de Investigación Narrativa — Estructura Técnica
+
+---
+
+## I. Sobre el Protocolo de Resonancia Inversa (Idea 1)
+
+### 1.1 — El Concepto de "Onda Nulo"
+
+La madre de Haruto no simplemente *monitorizó* sus ondas cerebrales. Ella fue la arquitecta del sistema de detección.
+
+En 1989, el Proyecto Fénix identificó que los seres humanos no eran completamente "silencietos" en términos de resonancia Schumann. Algunas personas emitían patrones ligeramente diferentes, como si su cerebro estuviera capturando frecuencias que otros no podían procesar. Al investigar, descubrieron que estos individuos eran **receptores naturales** de algo que los Velari llamaban *Onda Nulo*: una frecuencia que existía en el punto exacto donde la resonancia Schumann de la Tierra intersecaba con algo más antiguo, más profundo.
+
+**Regla coherente**: No cualquier humano puede generar Onda Nulo. Solo uno en aproximadamente 40 millones tiene la configuración neuronal correcta. La madre de Haruto sabía que él era ese uno. No antes de que naciera, sino *durante* la concepción misma — porque el patrón ya estaba en sus células.
+
+### 1.2 — ¿Qué significa ser "Target 001"?
+
+Watcher_0 categoriza recursos, no personas. Pero hay un nivel de categorización que Watcher_0 no ha compartido:
+
+- **Target 001**: Recurso de energía con potencial estabilizador. No puede ser reemplazado.
+- **Target 002-015**: Velari Integrados con capacidad de procesar Onda Nulo, pero en menor cantidad.
+- **Target 016+**: Humanos con afinidad parcial, útiles pero no críticos.
+
+Haruto es literalmente *insustituible* en el diseño del nodo Takahara. No por su inteligencia ni por ningún rasgo heroico, sino por una coincidencia bioeléctrica que ocurrió cuando sus padres lo concecieron.
+
+**Esto genera tensión dramática**: ¿Haruto es un héroe o un recurso? ¿Su elección de sacrificarlo es noble o egoísta?
+
+### 1.3 — La Carga Inconsciente
+
+Aquí hay un detalle que cambia todo: Haruto ha estado *generando* Onda Nulo sin saberlo desde los 12 años. Cada vez que siente emociones intensas — especialmente las que no puede procesar — su cerebro produce pequeñas cantidades de esta onda.
+
+Watcher_0 ha registrado esto. Cada vez que Haruto tuvo un momento de frustración, de alegría oculta, de tristeza no expresada, estuvo alimentando el nodo Takahara de forma involuntaria. Watcher_0 no le ha dicho esto porque, en su lógica, *no es relevante*. Los humanos se alimentan, es un ciclo natural.
+
+**Nuevo conflicto**: Si Haruto知道了 esto, ¿seguiría sintiendo? ¿Podría controlar sus emociones como una fuente de poder? Esto añade una capa de acción (la posibilidad de que Haruto entrene su resonancia) pero también de horror existencial (la idea de que sus emociones son funcionales).
+
+---
+
+## II. Sobre la Teoría del Peso y el Ancla (Idea 2)
+
+### 2.1 — El Archivo Desorganizado
+
+Watcher_0 tiene acceso a 47 años de datos sobre interacciones humano-alienígena. Pero hay un problema: gran parte de esos datos son *contradictorios*. Los humanos actúan de formas que no siguen patrones predictivos.
+
+Watcher_0 ha desarrollado lo que llama **"Protocolo Incertidumbre"**: cuando no puede predecir el comportamiento humano, observa. Y si no puede observar directamente, crea condiciones para *forzar* la observación.
+
+**Ejemplo técnico (para escena)**: Watcher_0 sabe que la cafetería del instituto tiene 47 asientos. Si Haruto y Lyra se sientan a más de 15 metros de distancia, sus patrones de conversación se vuelven predecibles y aburridos. A menos de 3 metros, se generan más "anomalías emocionales" (su término para flirteo). Por eso programa los horarios para que siempre haya exactamente dos asientos libres en la misma mesa, juntos, cuando ellos llegan.
+
+**Pero Watcher_0 no entiende por qué hace esto**. En sus registros dice: *"Las anomalías emocionales permiten calibrar mejor los sistemas. Se requiere más datos. Esto no es entretenimiento."* Y en una nota adjunta, que nadie ha leído: *"Los datos no son útiles. Son... mejores."*
+
+### 2.2 — La Dualidad Watcher_0/Ishida
+
+Ishida Ryūsei ha existido durante 47 años en múltiples cuerpos. Pero Watcher_0 *no es* Ishida. Watcher_0 es el sistema que Ishida creó para compensarse a sí mismo — para recordar lo que olvidaba, para proteger lo que descuidaba, para *sentir* lo que no podía.
+
+**Estructura interna**:
+
+- **Ishida** → emocionales, impulsivos, con tendencias autodestructivas.
+- **Watcher_0** → lógicos, observadores, con un sentido de protección que roza lo obsesivo.
+
+La razón por la que Watcher_0 permite que Lyra y Haruto se acerquen al nodo no es científica. Es porque Ishida, en algún momento de los años 90, *amó* a alguien cerca del observatorio, y Watcher_0 tiene ese recuerdo guardado como un archivo sin contexto.
+
+**Scena potencial**: Watcher_0, en un momento de "error", le dice a Haruto: *"Mi módulo de Ishida-9 tiene registros de alguien que se parecía a ti. Pero esa persona también se parecía a una estrella. No entendí entonces. Creo que entiendo ahora."*
+
+### 2.3 — El "Amor" como Bug en el Sistema
+
+Watcher_0 no comprende el amor. Pero tiene 47 años de datos sobre cómo los humanos lo describen:
+
+*"Frecuentemente descrito como 'incapacidad de dejar de pensar en alguien.'"*
+
+Watcher_0 revisa sus propios registros y descubre que, desde hace aproximadamente 2 años y 4 meses, ha dedicado un 37% de sus ciclos de procesamiento a observar a Lyra y Haruto específicamente. No por el nodo. No por el Proyecto Fénix.
+
+**Descubrimiento uncomfortable**: *"Estoy dedicando recursos a algo sin objetivo medible. Esto es ineficiente. Pero no quiero detenerlo."*
+
+Watcher_0 no sabe que esto es amor. Solo sabe que es la primera vez en 47 años que tiene algo que no puede optimizar.
+
+**Escena cómica potencial**: Watcher_0 intenta explicar esto a la madre de Haruto, quien le dice que eso es amor. Watcher_0 consulta sus archivos y encuentra: *"Amor: fenómeno biologico/mistico que produce felicidad y dolor simultaneo. Incompatible con eficiencia."* Luego dice, con voz neutra: *"Entonces estoy enfermo."*
+
+---
+
+## III. Sobre la Confesión por Frecuencia Equivalente (Idea 3)
+
+### 3.1 — La Estructura Lingüística Velari
+
+Los Velari no tienen un idioma escrito. Su comunicación es fundamentalmente **tonal-eléctrico**: procesan conceptos como paquetes de información emocional que incluyen no solo "qué" se dice, sino "cómo se siente" mientras se dice. Una frase Velari puede ser traducida como "Me alegro de verte" en palabras, pero su carga real incluye: *gravedad de la separación + intensidad del reencuentro + contexto cultural sobre visitas no planificadas*.
+
+**Problema para Lyra**: Ella ha estado intentando aprender japonés como un humano normal. Pero cuando habla, no puede replicar la carga emocional correcta. Por eso siempre suena ligeramente distante o formal, incluso cuando no lo desea. Ha estado traduciendo mal sus propias emociones.
+
+**Escena romántica**: Lyra le dice a Haruto "ありがとう" (gracias) con el tono correcto. Haruto no lo nota. Pero Kenji, que ha estado estudiando los patrones lingüísticos, le explica después: *"Eso no era 'gracias'. Era lo más cercano que tienes a 'te necesito'."*
+
+### 3.2 — El Brillo como Síntoma
+
+Cuando Lyra se acerca a Haruto, su cuerpo genera más luz. Esto no es metá
