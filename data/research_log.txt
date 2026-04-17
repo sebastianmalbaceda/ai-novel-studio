@@ -25345,3 +25345,194 @@ La progresión dramática en tres actos:
 
 **Acto 1 — La adaptación.**
 Kenji, como humano normal, nota que la oscuridad no le afecta tanto como a los otros dos. Lyra puede ver (su visión es parcialmente independiente de la luz, basada en frecuencia), y Haruto puede sentir (su frecuencia le permite detectar contornos). Kenji hace una broma: *"Genial
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-17 14:54:02] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual del proyecto:
+
+**HILOS ACTIVOS MÁS CRÍTICOS:**
+1. Madre de Haruto (tensión 9): próximo paso es confrontación. La semilla 10_01 habla del sótano del observatorio con secretos.
+2. Proyecto Fénix (semilla 12_02): ¿qué es exactamente?
+3. Watcher_0 (tensión 9): semillas 12_01 pendientes sobre sus intenciones.
+4. Nishimura (tensión 8): semillas 12_03 pendientes sobre su rol.
+
+**SEMILLAS PENDIENTES:**
+- 10_01: Sótano del observatorio guarda secretos
+- 12_01: Protocolo de observación intensificado de Watcher_0
+- 12_02: Proyecto Fénix - ¿qué es?
+- 12_03: Rol de Nishimura
+
+**MIX DE GÉNEROS:**
+- RomCom 40%: necesita mantener las situaciones cómicas y románticas
+- Action 25%: necesita tensión y momentos de acción
+- SciFi 15%: explicar la tecnología alienígena de forma interesante
+- Mystery 10%: resolver los misterios pendientes
+- Slice of Life 10%: días normales del instituto
+
+Voy a generar 3 ideas que:
+1. Avancen los hilos activos
+2. Usen las semillas pendientes
+3. Mantengan el tono de novela ligera
+4. Sean originales técnicamente
+
+**IDEA 1: La confrontación con la madre en el sótano**
+Usar la semilla 10_01 (sótano del observatorio). La confrontación revela que la madre no solo es una Integrada, sino que fue ella quien solicitó específicamente a Lyra como "reemplazo" para Haruto. El Projeto Fénix tiene dos fases: la primera creó a Haruto como ancla, la segunda necesita a alguien que estabilice su frecuencia. La madre revela que Watcher_0 le prometió que Lyra sería libre si cumplía su función.
+
+**IDEA 2: La crisis de Lyra y la frecuencia Schumann**
+Esta idea combina ciencia real con la trama. El campo electromagnético artificial que genera la señal de Haruto está interfiriendo con la capacidad de Lyra para mantener su forma. Cuando Watcher_0 intensifica la observación, Lyra comienza a desintegrarse en el momento más inesperado, generando una escena romántica intensa en medio del caos. Kenji propone usar generadores caseros de 7.83 Hz para estabilizarla, introduciendo un nuevo problema a resolver.
+
+**IDEA 3: Nishimura como figura ambigua**
+Nishimura fue seleccionada por Watcher_0 hace siete años, pero sus motivaciones no son claras. En un momento crítico, ella sacrifica algo valioso para salvar a Haruto, revelando que su lealtad verdadera es ambigua y que sus archivos contienen información crucial sobre la especie de Lyra. Su transformación en antagonista o aliada depende de quién logre influenciarla primero.
+
+Mi selección se basa en tres direcciones narrativas que se complementan: la confrontación que expone la mecánica del Projeto Fénix, la crisis romántica que surge de la desintegración de Lyra, y la ambigüedad moral de Nishimura que crea incertidumbre sobre quién representa una amenaza real.
+
+</think>
+
+# Ideas para Avance de Hilos Activos
+
+---
+
+**1. La Llamada de Resonancia (Sótano del Observatorio)**
+> *Hilo: Madre de Haruto + Semilla 10_01*
+> *Tono: RomCom (revelación emocional) + Mystery*
+
+**Concepto:** El sótano del observatorio contiene un dispositivo que la madre ha mantenido activo durante décadas: un **resonador de frecuencias Schumann artificiales**. Cuando Haruto, Lyra y Kenji acceden al sótano, la madre les revela la verdad completa:
+
+- **El Projeto Fénix** no es un experimento gubernamental, sino un **protocolo de supervivencia cósmica** activado por una civilización que vio venir la degradación del nodo Takahara. Haruto fue diseñado genéticamente antes de nacer para ser un *ancla biocompatible* — su capacidad de emitir frecuencias coherentes no es accidental, fue cultivada.
+- Lyra no vino como "reemplazo", sino como **estabilizador互补**. Su misión original era temporal: sincronizar la frecuencia de Haruto con el nodo para que ambos pudieran abandonar la Tierra. Pero ella decidió quedarse, alterando el protocolo.
+- **Watcher_0** no es enemigo ni aliado: es un **guardián que ejecuta un plan de 47 años sin emoción**. La madre sospecha que Watcher_0 ya no busca restaurar el nodo, sino *completar* algo que requiere que Haruto y Lyra estén juntos en proximidad.
+
+**Desenrollo cómico:** Kenji descubre que la madre le ha estado robando Wi-Fi del observatorio durante años. Lyra se entera de que técnicamente fue "comprada" como refuerzo para Haruto. Haruto tiene un momento de identidad al descubrir que su existencia fue planificada.
+
+---
+
+**2. Fragmentación (La Crisis de Frecuencia)**
+> *Hilo: Emisiones de Haruto + tensión romántica*
+> *Tono: RomCom (escena de vulnerabilidad) + Action*
+
+**Concepto:** Watcher_0, al detectar que Haruto y Lyra se acercan al sótano, activa un protocolo de "recalibración forzada" que intensifica artificialmente el campo electromagnético del campus. Esto tiene un efecto dramático:
+
+- Lyra empieza a **fragmentarse molecularmente** durante la hora del almuerzo en la cafetería — frente a todo el instituto. Sus dedos se vuelven translúcidos, su voz reverbera en frecuencias que nadie más puede escuchar.
+- **La única forma de estabilizarla** es que Haruto genere su frecuencia de forma consciente. El problema: necesita tocarla directamente y *sentir* emocionalmente lo que ella siente. El beso en la mejilla de la azotea no fue suficiente; ahora requiere algo más íntimo.
+- **Watcher_0 graba todo** — el incidente se convierte en evidencia para alguien más en la escuela que también ha estado observando: alguien que no es Nishimura. Aparece un nuevo personaje: un estudiante callado que trabaja en mantenimiento del edificio A, que reconoce la frecuencia de fragmentación y murmura en un idioma que Lyra entiende.
+
+**Desenrollo romántico:** El momento de "estabilización" sucede en privado después de la crisis pública. Haruto debe literalmente *sentir* la vulnerabilidad de Lyra para mantenerla entera. Esto obliga una confesión accidental mezclada con pánico existencial. Mixto perfecto de comedia y tensión dramática.
+
+---
+
+**3. La Trama de Nishimura (Siete Años de Archivos)**
+> *Hilo: Archivos Nishimura + Semilla 12_03*
+> *Tono: Mystery + SciFi + Slice of Life*
+
+**Concepto:** Kenji, obsesionado con la teoría conspirativa, logra acceder al archivo clasificado de Nishimura durante el festival cultural de la escuela (cubierta perfecta para hackear sistemas). Lo que descubre cambia todo:
+
+- **Nishimura no es humana.** Es una Integrada de segunda generación — su madre fue una de las "primeras llegadas" al nodo hace más de 60 años. Nishimura fue convertida biológicamente a los 17 años por Watcher_0 como parte de un acuerdo: ella vigilaría a los "sujetos del Projeto Fénix" a cambio de información sobre cómo revertir la degradación de su propia madre.
+- **Sus archivos** no contienen pruebas contra Haruto y Lyra. Contienen **registros de las visitas de la madre de Haruto** al nodo desde 1987. Nishimura ha estado documentando cómo una humana común se convierte en Integrada — ella quiere el mismo proceso para salvar a su madre.
+- El dilema: **Nishimura trabaja para Watcher_0, pero no le es leal.** Ella está recopilando información para eventualmente negociar. Cuando Haruto y Lyra se acercan a la verdad, Nishimura se enfrenta a una elección: reportarlos y mantener a su madre viva en el sistema del nodo, o ayudarlos y arriesgar que Watcher_0 termine el soporte vital de su madre.
+
+**Desenrollo cotidiano:** Nishimura empieza a "charlar casualmente" con Lyra en la sala de profesores. Hay un momento de vulnerabilidad donde Nishimura le confiesa que envyje su libertad de elección. Lyra, que eligió quedarse, se convierte en la primera persona que entiende el conflicto de Nishimura. Esto plantará las semillas para un eventual equipo de 4 personajes.
+
+--- ITERACIÓN 2 ---
+<think>
+Analicemos las tres ideas con más profundidad y llevémoslas al siguiente nivel.
+
+**HILOS ACTIVOS CRÍTICOS:**
+1. Madre de Haruto (tensión 9) - Confrontación pendiente
+2. Proyecto Fénix (semilla 12_02) - Naturaleza oculta
+3. Watcher_0 (tensión 9) - Semillas 12_01 pendientes
+4. Nishimura (tensión 8) - Semillas 12_03 pendientes
+5. Emisiones de Haruto (tensión 7)
+6. Lyra y la integración (tensión 7)
+
+**MIX DE GÉNEROS:**
+- RomCom 40%
+- Action 25%
+- SciFi 15%
+- Mystery 10%
+- Slice of Life 10%
+
+Necesito llevar cada idea más allá, mejorar consistencia, atractivo de personajes y evolucionar los conceptos sin repetir textualmente.
+
+**IDEA 1 REFINADA - Más específica:**
+El Projeto Fénix no solo es un protocolo de supervivencia cósmica. Tiene fases específicas. La fase 1 fue Haruto. La fase 2 necesita a alguien como Lyra. Pero hay una fase 3 que nadie menciona. Los documentos de la madre revelan que Watcher_0 completó la fase 3 antes de lo esperado — ¿con quién? ¿O con qué?
+
+La madre de Haruto no es solo una Integrada común. Ella fue voluntaria. Pero no por altruismo. Watcher_0 le prometió algo específico que aún no ha llegado. El sótano del observatorio no es solo un resonador — es una **cápsula de intercambio dimensional** que solo funciona cada 7 años cuando la frecuencia Schumann de la Tierra se alinea con el nodo Takahara.
+ 
+En la segunda idea, profundizo en la fragmentación. El campo de recalibración de Watcher_0 no es aleatorio — busca forzar que Haruto y Lyra alcancen un estado de sincronización cuántica completo. La fragmentación de Lyra no es solo visual: sus recuerdos也开始 filtrarse hacia Haruto, quien comienza a experimentar los últimos 12,000 años desde la perspectiva de ella. La escena de estabilización se convierte en algo íntimo y traumático, con Lyra perdiendo temporalmente la capacidad de distinguir entre sus propios recuerdos y los de Haruto.
+
+Watcher_0 no está tratando de destruirlos. Está intentando algo específico que requiere que sus estados mentales se fusionen. El nuevo personaje que detecta la frecuencia no es un estudiante cualquiera — es un testigo de eventos anteriores, alguien que comprende lo que está en juego porque ha visto este ciclo repetirse.
+
+En cuanto a Nishimura, su revelación es más compleja. No es solo una Integrada de segunda generación: fue la primera Integrada completamente funcional creada fuera de un nodo, utilizando tecnología desarrollada específicamente para ese propósito. Su madre no necesita soporte vital del nodo Takahara — ella es parte del nodo mismo, y Nishimura fue diseñada como un ancla para permitir que su madre se manifieste completamente en la realidad física. Nishimura ha sido tanto observadora como intermediaria entre Watcher_0 y su madre. Si Watcher_0 descubriera que Haruto y Lyra interfieren con esta conexión, no solo terminaría el soporte vital de la madre, sino que Nishimura también perdería su capacidad de manifestarse en la realidad física.
+
+Es más, Watcher_0 no opera en solitario. Hay otros tres Watchers funcionando en diferentes ubicaciones globales, y están en conflicto entre ellos. Takahara es uno de los tres sitios clave donde se está librando una batalla silenciosa por control. Nishimura tiene archivos sobre los otros dos sitios, y en uno de ellos hay alguien monitoreando la situación. Escribiré tres versiones evolucionadas con profundidad técnica y tono de novela ligera.
+</think>
+
+# Evolución Profundizada de Hilos Activos
+
+---
+
+## Idea 1: El Protocolo de Siete Años (Reescalado)
+
+> **Hilo:** Madre de Haruto + Proyecto Fénix + Semillas 10_01/12_02  
+> **Tono:** RomCom (confrontación familiar) + Mystery (revelación cósmica)  
+> **Momento narrativo:** Capítulos 14-15, crisis del festival cultural
+
+### Evolución del Concepto
+
+El sótano del observatorio no es un simple cuarto técnico — es una **cápsula de extracción dimensional** construida sobre el punto exacto donde el nodo Takahara se intersecta con la superficie. La madre de Haruto lo ha mantenido funcionando en secreto durante décadas, y lo que planea hacer allí cambiará la naturaleza del conflicto.
+
+La revelación completa del Projeto Fénix se desglosa en **tres fases documentadas**:
+
+| Fase | Propósito | Estado |
+|------|----------|--------|
+| **Alfa** (1977-1997) | Crear ancla biocompatible enHaruto pre-nacimiento | Completada |
+| **Beta** (2008-presente) | Introducir estabilizador exógeno (Lyra) | En curso |
+| **Gamma** (fecha desconocida) | **Clasificada** | ¿? |
+
+Lo que la madre revela no es solo que Haruto fue diseñado genéticamente. Es que **ella lo diseñó**. Antes de Haruto, tuvo dos hijos con el mismo patrón. Ambos murieron antes de cumplir cinco años — el nodo los rechazaba. Watcher_0 le prometió que si persistía, encontraría la combinación correcta. Haruto es el tercer intento, y el único que sobrevivió.
+
+### El Conflicto Interno de la Madre
+
+La madre de Haruto no es antagonista simple. Su motivación se ramifica en dos direcciones:
+
+**a) La Promesa Cumplida:**
+Watcher_0 le prometió hace 25 años que si Haruto se convertía en un ancla funcional, ella podría "regresar al inicio" — revertir su integración, volver a ser humana completamente. Pero Watcher_0 nunca definió qué significa "inicio" ni cuándo ocurriría. La madre sospecha que para Watcher_0, ella ya es obsoleta.
+
+**b) El Archivo Oculto:**
+La madre tiene sus propios archivos — 23 años de notas sobre el Projeto Fénix que Watcher_0 no conoce. Descubrió algo en los registros de 1987: **los otros tres nodos** tienen anclas humanas. Takahara no es único. Y uno de esos sitios reportó un "incidente de sincronización completa" hace 15 años — donde el ancla y el estabilizador se fusionaron. El resultado fue una **brecha dimensional permanente** que Watcher_0 tuvo que sellar con recursos significativos.
+
+### El Momento de Confrontación
+
+La escena del sótano escalona las revelaciones:
+
+1. La madre muestra el dispositivo de extracción. Explica que tiene **72 horas antes de la ventana de alineación** — el único momento donde el nodo Takahara puede transferir información a otro sitio.
+2. Revela que **no es una prisionera de Watcher_0**, sino una colaboradora voluntaria. Pero su voluntario tiene condiciones.
+3. Le muestra a Haruto los archivos de sus hermanos. El momento emocional es cuando Haruto entiende que su existencia no fue un accidente amoroso, sino un proyecto de diseño.
+4. **El giro:** La madre no quiere que Lyra desaparezca. Quiere que Lyra y Haruto **se fusionen** — no por Watcher_0, sino porque ella quiere a su hijo de vuelta, y la única forma de revertir su integración es que él complete el ciclo que empezó.
+
+### Desenrollo Cómico-Slice of Life
+
+El contraste con la tensión pesada viene de Kenji:
+
+- Kenji descubre que la madre ha estado usando los servidores del club de ciencia para minar criptomonedas durante años. La "investigación científica" que financió la reconstrucción del observatorio era en realidad un esquema de fraude.
+- Lyra, confrontada con la idea de fusionarse, entra en pánico existencial y empieza a listar en voz alta todas las cosas que no ha hecho: *"¿No podré comer taiyaki? ¿No podré burlarme de Haruto? ¿No podré ganar el festival de yukata?"*
+- La madre, por primera vez, muestra un lado humano: le ofrece a Lyra té y bollos, y le dice que ella también tuvo miedo cuando supo la verdad. Es un momento maternal genuino que complica la narrativa de "mamá villana".
+
+---
+
+## Idea 2: Sincronización Incompleta (La Crisis de Frecuencia)
+
+> **Hilo:** Emisiones de Haruto + Lyra + Semilla 12_01  
+> **Tono:** Action (crisis pública) + RomCom (escena íntima)  
+> **Momento narrativo:** Capítulo 16, durante el festival cultural
+
+### Evolución del Concepto
+
+Watcher_0 no activa la recalibración por capricho. Detectó que Haruto y Lyra están desarrollando un **patrón de sincronización natural** — las frecuencias de ambos están convergiendo sin intervención externa. Para Watcher_0, esto es un problema y una oportunidad.
+
+**El problema:** Si la sincronización se completa naturalmente, ambos se convertirán en un sistema cerrado. Ninguno podrá abandonar el otro ni el nodo Takahara. El plan original de Watcher_0 era usar a Haruto como ancla para reparar el nodo y luego desconectar a Lyra para usarla en otro sitio. La sincronización natural frustra este plan.
+
+**La oportunidad:** Si Watch
