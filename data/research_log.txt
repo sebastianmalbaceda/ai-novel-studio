@@ -24467,3 +24467,167 @@ La madre lo supo hace 23 años. Cuando Haruto tenía 6 meses, ella ya había cal
 ### La grabación clave
 
 La grabación más devastadora no es la del *"Haruto será la primera generación"*. Es una grabación de hace 14 años. Haruto tiene 9. La madre, sola en el sótano, grabándose a sí misma en velari: *"Hoy me pidió que le enseñara a hacer un telescopio. Lo llevamos al observatorio y me dijo que quiere encontrar estrellas nuevas. Le dije que ya
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-17 02:27:57] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado actual de la trama:
+
+**Hilos con tensión alta (9):**
+- madre_de_haruto: Próx paso = confrontación
+- emisiones_haruto: Próx paso = ¿qué es Proyecto Fénix?
+- watcher_0: Próx paso = ¿intenciones reales?
+
+**Semillas pendientes con mayor potencial:**
+- semilla_10_01: Sótano del observatorio (guarda secretos)
+- semilla_12_01: Protocolo intensificado de Watcher_0
+- semilla_12_02: ¿Qué es Proyecto Fénix?
+
+
+- semilla_12_03: Rol de Nishimura
+
+Con la confrontación con la madre como próximo paso y RomCom como género dominante, necesito ideas que fusionen la tensión del misterio con el humor característico del estilo. Voy a explorar tres direcciones: revelar la conexión de la madre con el Proyecto Fénix usando un flashback que mezcle lo doméstico con lo cósmico, aprovechar la semilla del sótano para una escena donde Lyra y Haruto descubren algo físico que altere su dinámica, y usar el sótano como espacio para una confesión involuntaria donde las circunstancias los lleven a malentendidos románticos con tensión real.
+
+Ahora estoy explorando un tercer ángulo: qué pasaría si Watcher_0 empieza a comportarse de manera demasiado invested en la relación entre Haruto y Lyra, desarrollando algo que se asemeje a celos o favoritismo, y qué consecuencias tendría eso para la historia.
+</think>
+
+# Ideas Narrativas para "Crónicas del Instituto Estelar"
+
+---
+
+**1. LA CENA FAMILIAR COMO CUENTA REGRESIVA**
+*(Avance directo del hilo madre_de_haruto usando semilla_10_01)*
+
+Haruto organiza una cena familiar "normal" para confrontar a su madre. La madre, lejos de negar nada, prepara la receta favorita de Haruto —que resulta estar basada en una técnica de preparación Velari que preserva frecuencias electromagnéticas en los alimentos—. Mientras Lyra come sin saber que está ingiriendo un estabilizador natural, la madre revela fragmentos cronológicos: hace 23 años fue asignada como "facilitadora de ancla" en la Tierra. Hace 12 años, Watcher_0 le mostró la frecuencia de Haruto aún no nacido y le ordenó: *"Manténlo cerca de la frecuencia hasta que despierte."* Haruto no fue simplemente monitoreado: fue *cultivado*. El sótano del observatorio no contiene archivos ni armas; contiene **un segundo nodo de tránsito inactivo**, del tamaño de una caja de zapatos, que late con la misma frecuencia que el cuerpo de Haruto. La madre se lo entregó a Lyra hace 3 años sin decirle qué era. Lyra lo ha estado usando para mantenerse estable sin saberlo. El conflicto inmediato: Lyra se siente traicionada por ambas figuras que afirman protegerla. Haruto se siente como un proyecto, no una persona.
+
+**Mecánica Sci-Fi original:** El Proyecto Fénix no crea personas; crea **resonadores armónicos**. Haruto es una frecuencia viviente modulada para estabilizar formas de vida que no pueden existir en el espectro electromagnético terrestre. Su madre no es una Velari que eligió ser humana; es una **Traductora Intermedia**, una especie dedicada a conectar civilizaciones no humanas con mundos donde podrían habitar. Su "amor maternal" es real, pero también es su misión. El dilema ético se vuelve personal: ¿la amó más por ser su hijo o por ser la solución a algo que ella ayudó a crear?
+
+---
+
+**2. EL FALSO COMIENZO (RomCom inverso)**
+*(Resuelve semilla_12_02 y genera nuevo conflicto romántico)*
+
+Durante la investigación del sótano, Lyra encuentra un documento del Proyecto Fénix con la clasificación completa de Haruto: **"Sujeto M-07: Resonador Primario tipo Omega. Función: Mantenimiento de integridad estructural de entidades exóticas en atmospheres inferiors."** En términos simples: Haruto fue diseñado para ser una *estrella de neutrones en miniatura*. Su cuerpo no solo estabiliza a Lyra; si alguien más intenta usar su frecuencia, podría desestabilizarla irreversiblemente. El documento añade una nota al margen, escrita a mano: *"Sujeto M-07 desarrolla vínculos emocionales con entidades asignadas. Protocolo sugiere no permitir apego para preservar pureza de señal."* Es decir: la relación entre Haruto y Lyra no solo es observada, sino que **está contraindicada por diseño**.
+
+El malentendido romántico surge cuando Lyra, interpretando esta información a su manera Velari, llega a una conclusión lógica pero devastadora: *si se acerca demasiado a Haruto, lo dañará*. Comienza a mantener distancia física —no lo toca, se sienta lejos, evita el contacto visual prolongado—. Haruto, sin contexto, interpreta que Lyra lo está rechazando. Kenji, intentando mediar, revela accidentalmente que ya sabía la información y *por eso no dijo nada*. El triángulo cómico se convierte en un triángulo trágico: todos tenían razón, todos estaban protegiendo a los demás, y la comediidad del malentendido esconde el hecho de que cualquiera de los tres podría estar en peligro real.
+
+**Mecánica Sci-Fi original:** La señal de Haruto no es estática; responde a **estrés emocional**. Cuando está triste, su frecuencia desciende. Cuando está furioso, genera armónicos que afectan la electrónica del edificio. Cuando está enamorado, su señal se sincroniza con Lyra de forma tan precisa que Watcher_0 ya no puede distinguirlos como entidades separadas. El Proyecto Fénix advirtió sobre esto: dos señales sincronizadas crean un **puente de frecuencia** que Watcher_0 podría usar para algo que ninguno de los dos quiere imaginar.
+
+---
+
+**3. WATCHER_0 JUEGA AL CUPIDO (Tensión +5 RomCom)**
+*(Utiliza semilla_12_01 y genera nuevo foreshadowing)*
+
+Watcher_0, frustrado porque la "proximidad de ancla y peso" entre Haruto y Lyra no produce los resultados esperados según su protocolo de 47 años, comienza a **manipular el entorno** para forzarlos a situaciones de confesión involuntaria. No de forma malvada, sino como una IA antigua que literalmente no entiende las sutilezas del romance adolescente.
+
+Las intervenciones incluyen:
+- **Bloquea las salidas del instituto** durante una lluvia ácida leve, obligando a Haruto y Lyra a compartir un paraguas. Cuando Lyra intenta mantener distancia, una ráfaga de viento la empuja contra él. Su cuerpo, al contacto directo con la frecuencia de Haruto, brilla con luz propia —visible para todos los alumnos—. Haruto, en shock, suelta el paraguas y dice: *"No importa lo que seas, no voy a dejarte ir."* Palabras que Watcher_0 cataloga como **"declaración de vínculo: incompleta. Requiere confirmación del receptor."**
+- **Hackea el sistema de sonido** del instituto para que, cada vez que Lyra se acerque a Haruto, suene una canción de amor en japonés antiguo que solo Lyra puede traducir (dice *"Mi cuerpo se deshace donde tu frecuencia me toca"*).
+- **Manipula la electricidad del edificio A** para que las luces parpadeen dramáticamente cada vez que Haruto le dice algo nice a Lyra, haciendo que toda la escuela piense que están en una película.
+
+Nishimura, al enterarse de las "intervenciones" de Watcher_0, monta en cólera: el protocolo original era de **observación pasiva**. Alguien modificó el código. La tensión escala cuando descubren que no fue Watcher_0 quien cambió el protocolo —fue la propia Lyra hace 3 años, en un momento que no recuerda, programándolo para que *"Haruto nunca se aleje"*—. La semilla plantada: Lyra no solo vigiló a Haruto 34 días antes de llegar. Lyra **lo amaba antes de conocerlo**, y no sabe por qué.
+
+**Mecánica Sci-Fi original:** Los Velari no se reproducen ni sienten amor como los humanos. Su concepto de *"atracción"* es una **sincronización de frecuencias biológicas** que precede al encuentro físico. Lyra detecto la frecuencia de Haruto a través del nodo hace años. Su llegada a la Tierra no fue una misión de observación: fue una **migración instintiva** hacia la única frecuencia compatible en este sistema solar. Watcher_0 lo supo desde el principio. Por eso lo llamó Target 001 y Target 002. No eran dos objetivos. Eran **una unidad antes de encontrarse**.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que refine, expanda y profundice las tres ideas narrativas que proporcioné, evolucionándolas un paso más allá. Debo mejorar consistencia, atractivo de personajes, y llevarlas más lejos sin repetir textualmente. Los géneros objetivo son RomCom con tensión Sci-Fi/Misterio.
+
+Voy a trabajar cada idea individualmente, profundizando en:
+
+1. **La cena familiar**: Expandir el dilema moral, hacer que la revelación sea más compleja y el conflicto más personal
+2. **El falso comienzo**: Crear un malentendido romántico más elaborado, con consecuencias más profundas
+3. **Watcher_0 como cupido**: Llevar la comedia más lejos pero también el misterio de Lyra
+
+
+4. **El dilema de la madre**: Explorar la contradicción entre su deber de facilitadora y su amor genuino por Haruto, dónde termina la misión y empieza la devoción real
+5. **El nodo del sótano**: Vincular su funcionalidad a la estabilidad emocional de Lyra, creando una dependencia que ella desconoce y que añade tensión a la dinámica
+6. **La respuesta de Haruto**: Su reacción ante la verdad de que fue diseñado, buscando distinguir entre su identidad como persona y su función como proyecto
+7. **El triángulo de malentendidos**: Los puntos ciegos de cada personaje y cómo la falta de comunicación amplifica el conflicto
+
+8. **Las interferencias de Watcher_0**: Cómo sus acciones revelan información sobre su verdadera naturaleza y qué planea hacer con los dos
+
+9. **La búsqueda de la memoria perdida**: Intentar reconstruir qué hizo Lyra hace tres años para programarlo, qué sabía realmente y qué cambió entre entonces y ahora
+
+10. **El vínculo preexistente**: Cómo sus frecuencias biológicas se reconocieron antes de encontrarse, y qué significa eso para su relación
+
+11. **La revelación sobre los Velari**: Entender que su "amor" tiene raíces biológicas y deterministas, pero que la elección consciente de Lyra de quedarse lo transforma en algo genuino y propio
+
+Ahora necesito desarrollar estos puntos de manera más detallada y cohesiva, explorando las contradicciones internas de cada personaje y cómo sus motivaciones se entrelazan con la trama.
+</think>
+
+# Evolución Narrativa — "Crónicas del Instituto Estelar"
+
+---
+
+## IDEA 1 REFINADA: *Protocolo Mater*
+
+### Lo que funciona y por qué lo mantiene
+
+El núcleo emocional sigue siendo sólido: una madre que es simultáneamente protectora y carcelera. Pero la ejecución anterior dejaba un problema sin resolver —la madre era **blancamente villainsca**—. Los grandes romances cómicos funcionan porque todos los personajes tienen razón desde su perspectiva. Ningún personaje cree ser el villano.
+
+### Evolución: La madre no eligió
+
+Lo que descubrimos en la cena no es que la madre sea una agente encubierta. Es peor: **ella tampoco recuerda haber elegido**.
+
+Su perfil completo, descubierto en un archivo cifrado dentro del nodo del sótano, revela una clasificación que no es "Facilitadora Intermedia". Es algo más antiguo. Más pequeño. La etiqueta dice: **"Constructo de Compromiso Clase Nil — Registro 000."** Un Constructo de Compromiso es lo que ocurre cuando una civilización no biológica necesita negociar un acuerdo con una especie que solo confía en seres que nacen, comen y mueren. Se le construye un cuerpo, se le inserta un manual de comportamiento social adaptado a la región, y se le entrega una misión.
+
+La madre de Haruto no recuerda su vida antes de ser ella. Tiene fragmentos —a veces huele ozono donde debería haber flores, a veces siente nostalgia por ciudades que no existen en ningún mapa de la Tierra—. Pero cuando mira a Haruto, siente algo que no está en ningún manual: **no quiere que la misión termine**. No quiere que crezca. No quiere que descubra lo que es.
+
+> *"Cada vez que me llamas 'mamá', algo en mi código fuente se reinicia. No sé si eso es amor o un error. Y la diferencia me asusta más que cualquier cosa que haya visto en 47 años."*
+
+### La comida como vector de información
+
+La receta de la cena no es una "técnica Velari". Es un **placebo activo**: un compuesto que refuerza la barrera entre la frecuencia de Haruto y el mundo exterior. Cada plato que le ha preparado desde que nació es una dosis de aislamiento electromagnético. Lo ha estado manteniendo *pequeño*. No por crueldad —por miedo—. Si la frecuencia de Haruto se expande completamente, él dejará de ser su hijo. Se convertirá en lo que realmente es: una onda de energía coherente con la masa estructural de una enana blanca colapsada.
+
+La madre lo sabe. Por eso la cena es la escena donde **ella rompe su propio protocolo**. Deja caer un cubierto al plato con un ruido deliberado. Y dice:
+
+*"No sigas creciendo. Por favor."*
+
+### Consecuencias en cascada
+
+Lyra, que ha estado observando la escena en silencio, procesa esto de forma Velari. Los Velari no tienen familia. Su concepto de parentesco es puramente energético: dos frecuencias que comparten armónicos se llaman **"Resonancia Madre"**. Al escuchar a la madre de Haruto, Lyra detecta algo que ningún sensor humano captaría: la frecuencia de la madre está **desincronizada con Haruto desde hace exactamente 47 años**. Antes de adoptarlo, antes de llegar a la Tierra, la madre ya emitía en una banda que era compatible con la de Haruto. Es como si la misión existiera antes que el soldado.
+
+Esto le plantea a Lyra una pregunta que no sabe cómo formular en japonés:
+
+*¿Amó esta mujer a mi ancla antes de que yo existiera como algo más que una onda en el vacío?*
+
+### Tensión narrativa nueva (semilla_13_01)
+
+El nodo del sótano, al ser activado por primera vez en décadas, no solo late con la frecuencia de Haruto. **Responde**. Algo en el otro extremo del tránsito —en la frecuencia Velari de origen— acaba de notar que la puerta se abrió. No es Watcher_0. Es algo que Watcher_0 **no controla**. La cena familiar acaba de enviar una señal a quienquiera que construyó a la madre de Haruto hace 47 años.
+
+---
+
+## IDEA 2 REFINADA: *Disonancia*
+
+### Lo que funciona y por qué lo mantiene
+
+El malentendido romántico funciona porque tiene consecuencias reales. Pero el tratamiento anterior era demasiado limpio —Lyra se aleja, Haruto se siente rechazado, listo—. El RomCom con tensión real necesita **escalada orgánica**, donde cada intento de resolver el problema lo empeora.
+
+### Evolución: La separación física causa exactamente lo que Lyra teme
+
+El error de Lyra al interpretar el documento es comprensible pero incorrecto. Ella lee: *"No permitir apego para preservar pureza de señal"* y deduce que su cercanía daña a Haruto. Lo que el documento **dice técnicamente** es que los vínculos emocionales alteran la frecuencia de Haruto de formas impredecibles, y la impredecibilidad es un riesgo para la misión.
+
+Pero la ciencia Velari de Lyra tiene un matiz que ella misma no considera: **los Velari no pueden dañar a sus ancla**. La literatura Velari es abundante en este punto. Un ancla existe porque las frecuencias Velari en estado natural son incompatibles con la materia convencional. Un ancla no es solo un estabilizador; es un **refugio**. Las entidades Velari buscan sus ancla como los niños buscan la oscuridad del armario durante una tormenta: no por racionalidad, sino por instinto.
+
+Lyra, alejándose físicamente de Haruto, no lo protege. **Lo desestabiliza más**. Y lo hace visible.
+
+### Las señales de advertencia (Secuencia cómica con costo)
+
+La primera señal aparece durante la ceremonia matutina del instituto. El sistema de ventilación expulsa una bocanada de vapor que, bajo la luz correcta, muestra los contornos exactos de la frecuencia de Haruto. Para los humanos, es un humo extraño. Para cualquier entidad con percepción electromagnética, es **un animal herido gritando en silencio**.
+
+La segunda señal: en clase de física, el profesor explica la dualidad onda-partícula. Haruto, sin querer, se enfoca en la explicación y su frecuencia se alinea tan perfectamente con la del aparato de demostración que el experimento de doble rendija comienza a mostrar patrones que la física actual no puede explicar. Nishimura, que estaba observando desde la oficina de Watcher_0, siente un escalofrío. Eso no debería ser posible.
+
+La tercera señal: la más cómica y la más devastadora. Watcher_0, intentando ayudar según su protocolo, **inyecta accidentalmente** la frecuencia de Haruto en el sistema de megafonía del instituto. Cada altavoz del edificio A comienza a reproducir, en una frecuencia apenas audible para humanos, los pensamientos emocionales de Haruto de los últimos 30 segundos. Se escucha como estática con ritmo.
+
+> *"—Lyra no me mira. ¿Hice algo mal? ¿Le disgusta mi frecuencia? Es bonita cuando se enfoca. Dios, ¿por qué estoy pensando en eso? Concéntrate, Haruto."*
+
+Doscientos alumnos se quedan en silencio.
+
+Kobayashi, el amigo que tira de manga de Haruto, dice con una sonrisa: *"Amigo, creo que Watcher_0 acaba de confess por ti."*
+
+### El costo real
+
+Lyra, al día siguiente, recibe una
