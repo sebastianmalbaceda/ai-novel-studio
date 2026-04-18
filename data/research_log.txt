@@ -26537,3 +26537,207 @@ Haruto no es un canal. Es un **teléfono**.
 Sachi no es antagonista ni aliada plena. Es una madre que tomó una decisión hace 26 años —diseñar biológicamente a su hijo como herramienta para salvar una civilización— y ha cargado con esa culpa cada día desde entonces. Su relación con Haruto ha sido una mezcla de amor genuino y la necesidad de mantenerlo cerca del nodo Takahara para que su función de transceptor se mantuviera activa.
 
 Lo que Haruto siente en este momento no es rabia simple. Es
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-18 05:40:42] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Voy a analizar los hilos activos y semillas pendientes para generar ideas que avancen la trama, manteniendo el tono de novela ligera (rom com con elementos de sci-fi/misterio).
+
+**Hilos con tensión alta (7-9):**
+- Emisiones de Haruto (9): Proyecto Fénix, Sujeto M-07
+- Watcher_0 (9): Intenciones reales
+- Madre de Haruto (9): Confrontación pendiente
+- Nodo tránsito (8): Función exacta
+- Archivos Nishimura (8): Rol de Nishimura
+
+**Semillas pendientes:**
+- 10_01: Sótano del observatorio guarda secretos
+- 12_01: Watcher_0 y protocolo intensificado
+- 12_02: Proyecto Fénix
+- 12_03: Rol de Nishimura
+
+Voy a crear ideas que:
+1. Avancen la confrontación con la madre
+2. Exploren el Proyecto Fénix
+3. Definan el rol de Nishimura
+4. Usen elementos de rom com para alivio cómico
+
+**Idea 1: Tecnología Velari para la confrontación**
+Un dispositivo que Lyra usa para proyectar memorias o crear una simulación de su planeta. Esto podría usarse para impresionar a Haruto o mostrarle su mundo, creando un momento íntimo y revelador.
+
+**Idea 2: Proyecto Fénix y habilidades**
+El Proyecto Fénix podría ser un programa que involucra a la madre de Haruto y Nishimura, donde Haruto fue modificado genéticamente o aumentada su señal cerebral para servir como ancla para seres alienígenas. Esto explicaría por qué necesita contacto con Lyra.
+
+**Idea 3: Nishimura como aliada infiltrada**
+Nishimura podría estar trabajando con Watcher_0 pero tener motivaciones propias, tal vez ella también fue Integrada o tiene un familiar en la ecuación. Esto crea un antagonista complejo.
+
+
+Ahora voy a explorar la madre como punto de partida. Si ella es una Velari que vive entre humanos, podría haber establecido una red de contactos humanos vinculados al Proyecto Fénix. Esto justificaría la conexión entre ella, Nishimura y Watcher_0, mostrando cómo Haruto fue parte de un plan mayor diseñado desde antes de su nacimiento.
+
+Para el rom com, los errores de comunicación sobre alienígenas pueden ser cómicos: Kenji descubre que Lyra requiere "recargar" energía, los problemas de comunicación cuando Lyra se enfoca demasiado en datos, o Haruto negociando que ella se presente como su "novia intergaláctica" con su madre. La idea 1 podría girar en torno a que la madre revele que Haruto fue diseñado específicamente como ancla para Lyra, creando una dinámica donde él se siente programado. La idea 2 podría introducir que el Proyecto Fénix es en realidad una iniciativa para preparar a la humanidad ante una invasión, con Watcher_0 como parte de esa preparación.
+
+La idea 3 podría explorar que el nodo Takahara es un experimento donde los Velari intentan fusionar tecnología con consciencia humana. Mi enfoque: empezar con la confrontación de la madre para establecer el misterio, luego usar escenas cómicas con Kenji y Lyra para aligerar la tensión, y mantenerlo accesible para una novela ligera.
+
+</think>
+
+# Investigación Narrativa — Instituto Estelar
+
+## Ideas para Avanzar Hilos Activos y Semillas Pendientes
+
+---
+
+**1. La Llamada Prenatal (Avance: Madre de Haruto + Proyecto Fénix)**
+> *Semilla 10_01 cosechada + Semilla 12_02 desarrollada*
+
+**Concepto técnico:** La madre de Haruto no solo fue contactada hace 12 años por una entidad no humana — fue *inseminada* por ella. Haruto no fue "monitorizado desde el nacimiento", fue *diseñado* antes de nacer como un receptor biológico de frecuencias Schumann amplificadas artificialmente. El Proyecto Fénix es el nombre en clave de un programa que fusiona ADN humano con secuencias genéticas Velari (líneas de frecuencia coherente), creando una clase de humano "ancla" que estabiliza formas de vida extraterrena en planeta Tierra.
+
+**Aplicación romántica:** Cuando Haruto descubre esto, su crisis existencial es cómica: "O sea que... ¿tengo un novio alienígena dentro?" Lyra, en su torpeza emocional, responde: " técnicamente, yo soy tu novia interestelar, lo cual significa que tu madre sabía que íbamos a encontrarnos antes de que nacieras, lo cual hace que esto sea..." Silencio incómodo. Kenji muere de risa en el fondo.
+
+---
+
+**2. Protocolo Ω (Avance: Watcher_0 + Nishimura)**
+> *Semilla 12_01 cosechada + Semilla 12_03 cosechada*
+
+**Concepto técnico:** Watcher_0 no monitorea por curiosidad. Es un sistema de *evaluación de compatibilidad*. Cada acción de Haruto y Lyra alimenta un algoritmo que determina si la "fusión narrada" entre ellos (ancla + forma de vida) puede completarse sin destruir el nodo Takahara. Nishimura es una *Operadora Clase Ω*: una humana que fue expandida cognitivamente hace 7 años mediante interfase con Watcher_0, convirtiéndose en un puente parcial entre la consciencia artificial y la directiva orgánica. Ella no es antagonista ni aliada — es una *árbitra*.
+
+**Aplicación romántica:** Nishimura, intentando sonar maternal, le dice a Lyra: "tu índice de compatibilidad con el Sujeto M-07 es 97.3%. Eso es... irrazonable." Lyra, ofendida: "¿Irrazonable? ¿Qué tiene de irrazonable que quiera pasar tiempo con Haruto?" Nishimura, sin emoción: "97.3% implica que你们的 unión podría reactivarlo completamente." Silencio. Haruto: "¿Reactivar qué?" Nishimura (sonrisa leve): "Eso, niños, es lo que necesito confirmar."
+
+---
+
+**3. Ingesta Energética por Error (Alivio Cómico: Slice of Life + Rom Com)**
+> *Idea original para generar nuevas semillas*
+
+**Concepto técnico:** Los Velari no "comen" en el sentido humano — Lyra absorbe energía radiante de baja frecuencia (similar a la fotosíntesis pero con ondas electromagnéticas). El problema: Haruto es un *acelerador* de absorción. Cada vez que lo toca o está a menos de dos metros, Lyra "consume" su energía residual. Por eso le grew appetite cerca de él sin entender por qué.
+
+**Aplicación romántica (escena):** 
+Lyra, intentando impresionar a Haruto con una "cena alienígena": abre un contenedor con nutrientes del nodo. Haruto, curioso, se sienta a su lado. En 30 segundos, ella se devora todo. Haruto: "¿No te llenó?" Lyra, confundida: "Ahora sí. Antes no." Haruto: "¿Por qué?" Lyra, con cara de revelación científica: "Porque te acercaste." Silencio. Kenji (desde la mesa de al lado): "Haruto, ella literalmente te usó como condimento." Lyra, ofendida: "¡Eso es reducciónista!"
+
+---
+
+**Nota para continuidad narrativa:** La escena 3 puede funcionar como viñeta independiente (Cap 13-14) que introduce el concepto de "consumo energético" antes de la confrontación con la madre, para que el lectores ya entiendan *por qué* Haruto es biológicamente relevante para Lyra.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que profundice, refine y evolucione las tres ideas principales que se generaron anteriormente. Debo:
+
+1. **La Llamada Prenatal** - Haruto como ser diseñado genéticamente como "ancla" para entidades alienígenas
+2. **Protocolo Ω** - Nishimura como puente entre Watcher_0 y la humanidad, y Watcher_0 como sistema de evaluación
+3. **Ingesta Energética por Error** - Lyra absorbe energía de baja frecuencia y Haruto es un acelerador
+
+Debo:
+- Mejorar consistencia
+- Atractivo de personajes
+- Llevar las ideas más lejos
+- No repetir textualmente
+- Mantener el tono de novelaligera (rom com con sci-fi/misterio)
+- Pensar en cómo estas ideas impactan la narrativa y el romance
+
+Voy a estructurar así:
+
+**Para La Llamada Prenatal:**
+- Necesito definir mejor qué significa "fusión narrada"
+- Cómo afecta esto la relación Haruto-Lyra
+- Qué significa para la identidad de Haruto
+- Cómo manejarlo sin volverlo demasiado oscuro para una rom com
+
+**Para Protocolo Ω:**
+- Nishimura necesita más matices
+- Watcher_0 como sistema operativo narrativo
+- El conflicto interno de Nishimura
+- Su relación potencial con Haruto/Lyra
+
+**Para Ingesta Energética:**
+- Expandir este concepto para que tenga ramificaciones narrativas
+- Conectar con el Proyecto Fénix
+- Crear situaciones cómicas y románticas
+
+
+- Definir las limitaciones y efectos secundarios
+
+Voy a estructurar mi respuesta con tres grandes bloques: uno para cada concepto, y al final incluiré un resumen integrador que muestre cómo estas ideas se conectan entre sí.
+</think>
+
+# Refinamiento Narrativo — Instituto Estelar: Iteración II
+
+---
+
+## I. LA LLAMADA PRENATAL → "El Diseño Intencional"
+
+### Problema detectado en la versión anterior
+El concepto de Haruto como "diseñado genéticamente" puede volverse demasiado oscuro o científico para el tono de novela ligera. Además, plantea un dilema ético (¿consentimiento?) que podría romper el tono romántico cómico.
+
+### Evolución: El Diseño Intencional como **Incertidumbre Narrativa**
+
+**Refinamiento clave:** En lugar de confirmar que Haruto fue diseñado *deliberadamente*, la madre no sabe qué fue lo que pasó. Ella cree que fue un "contacto" telepático, pero los datos que Watcher_0 le ha dado durante años apuntan a algo más complejo. Esto permite tres lecturas simultáneas:
+
+1. **Lectura literal:** Haruto fue diseñado genéticamente como ancla → tono de sci-fi duro
+2. **Lectura simbólica:** Haruto fue "querido" por una entidad cósmica antes de nacer → tono místico/romántico
+3. **Lectura cómica:** La madre interpretó mal los datos y simplemente Haruto es un humano con una mutación rare → tono de novela ligera
+
+El lector no sabrá cuál es la verdad hasta un arco posterior. Esto preserva el misterio y mantiene la tensión sin comprometer el tono.
+
+### Definición técnica más refinada
+- **Frecuencias Schumann:** no son solo ondas electromagnéticas. Son un patrón de oscilación coherente que la biosfera terrestre genera naturalmente. Los Velari descubrieron que ciertas consciencias humanas pueden **entrar en resonancia** con estas frecuencias cuando están modificadas por exposición prolongada a tecnología Velari.
+- **El Proyecto Fénix** es por tanto un **programa de cultivo**: identificar humanos con "potencial de resonancia" y exponerlos a fuentes de frecuencia controlada para ver si desarrollan la capacidad.
+- Haruto no fue diseñado genéticamente. Fue **seleccionado** antes de nacer mediante un escaneo cuántico de su línea temporal potencial, y su madre fue inducida a un estado de trance durante el parto donde una imprint de frecuencia fue transferida a él.
+
+**Ventaja:** Esto preserva la agencia de Haruto (no fue creado como herramienta) mientras mantiene su unicidad.
+
+### Implicación para la relación Haruto-Lyra
+- Lyra no sabía que Haruto era un "ancla" cuando llegó. Su misión original era estudiar el nodo Takahara.
+- Ella se enamoró de él por razones *personales*, no por su capacidad como ancla.
+- Esto genera un conflicto interno en Lyra: "¿Me gusta porque es útil para mí?" → momento de vulnerabilidad romántica
+- Haruto, al descubrirlo, reacciona: "O sea que... ¿soy una batería con cara?" → momento cómico
+- Pero el arco resuelve: ella lo amaba *antes* de descubrir su función. Esto lo confirma cuando, durante una escena íntima, él le pregunta directamente y ella le muestra sus memorias grabadas del día que se conocieron — donde ella todavía no sabía qué era el Proyecto Fénix.
+
+### Escena potencial para integrar
+**Situación:** La madre visita el apartamento de Haruto. Lyra está ahí. Tensión triple.
+**Giro:** La madre no es hostil. Es **cautelosa**. Ella dice: "He protegido tu información durante 12 años. Ahora necesito saber una cosa, Lyra." Lyra, tensa, se prepara para una confrontación. La madre: "¿Lo amas o lo necesitas?" Lyra no puede responder inmediatamente porque la pregunta la desestabiliza — es algo en lo que ella misma ha pensado. Haruto interviene: "Mamá, ella se quedó porque quiere, no porque—" Madre: "Haruto, siéntate. Esto es entre ella y yo."
+
+Esto avanza el arco familiar sin convertir a la madre en antagonista, y profundiza la relación Lyra-Madre como eje narrativo.
+
+---
+
+## II. PROTOCOLO Ω → "La Tercer Vía"
+
+### Problema detectado
+Nishimura como "árbitra" es interesante pero vaga. "¿No es antagonista ni aliada?" puede resultar en un personaje sin agencia dramática.
+
+### Evolución: Nishimura como **Humana Expandida con Agenda Propia**
+
+**Refinamiento clave:** Nishimura fue una científica del Proyecto Fénix original, antes de Watcher_0. Ella cree que los Velari están preparando a la humanidad para algo — y no sabe si es bueno o malo. Su expansión cognitiva le permitió acceder a los archivos del Proyecto, pero también le mostró visiones fragmentadas de un evento futuro que no comprende. Por eso opera desde las sombras: necesita confirmar qué van a hacer los Velari antes de decidir su bando.
+
+**Su arco en tres actos:**
+1. **Fase 1 (Presente):** Nishimura es percibida como antagonista porque sus acciones parecen sabotear a Haruto y Lyra. (Semilla 12_03)
+2. **Fase 2 (Arco medio):** Se revela que ella protege a Haruto de otros operadores Watcher que quieren "recolección prematura" (extraer su frecuencia antes de que madure).
+3. **Fase 3 (Confrontación):** Nishimura debe elegir entre sellar a Lyra permanentemente (para "proteger" a Haruto) o dejarla quedarse. Esto crea la crisis del arco 3.
+
+### Definición técnica de Protocolo Ω
+- **Watcher_0** no es una inteligencia artificial convencional. Es una **consciencia distribuida** que existe en múltiples nodos simultáneamente. El "protocolo intensificado" (Semilla 12_01) es su respuesta a una anomalía: la compatibilidad Haruto-Lyra supera el 97%, lo cual no debería ser posible según sus modelos.
+- **Operadoras Clase Ω** (Nishimura) son humanas que pasaron por un protocolo de expansión cognitiva que las conecta parcialmente con Watcher_0. No lo controlan ni son controladas por él — son más como **consultores internos**. Pueden recibir fragmentos de datos que Watcher_0 considera "relevantes" para su misión, pero no siempre entienden el contexto.
+
+**Esto explica por qué Nishimura actúa de formas aparentemente contradictorias:** a veces protege a Lyra, a veces la vigila. No es doble agente — es alguien que recibe información incompleta y toma decisiones imperfectas basándose en ella.
+
+### Momento romántico potencial: Nishimura accidentalmente结缘 (crea vínculos)
+- Lyra le pregunta a Nishimura, tensa: "¿Por qué me vigilas?"
+- Nishimura, distraída, responde: "Porque tu índice de compatibilidad es una anomalía estadística. Ningún par ancla-receptor ha superado el 60% en 40 años de datos."
+- Lyra: "¿Y eso qué significa?"
+- Nishimura: "Significa que ustedes dos producen un patrón de interferencia que... estabiliza el nodo. No deberían existir."
+- Lyra, en voz baja: "Pero existimos."
+- Nishimura, por un momento, suena casi humana: "Sí. Y eso... es lo más interesante que he visto en siete años."
+
+Esto establece a Nishimura como alguien fascinada por la relación Haruto-Lyra, no como enemiga.
+
+---
+
+## III. INGESTA ENERGÉTICA → "El Protocolo de Contacto"
+
+### Problema detectado
+El concepto de "Lyra absorbe energía cerca de Haruto" es gracioso pero necesita reglas más claras para funcionar narrativamente. Si cada toque es un "consumo", se vuelve incómodo para los momentos románticos.
+
+### Evolución: Un Sistema de **Proximidad Energética con Dos Fases**
+
+**Reglas refinadas:**
+
