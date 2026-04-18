@@ -26379,3 +26379,161 @@ El Festival Cultural del Instituto Hayashi es el evento más predecible del año
 
 **Nivel 1 — Slice-of-life / Rom-com:**
 Lyra participa en la competencia de dibujo del festival. Termina su obra y descubre que, sin darse cuenta, dibujó **un mapa energético** de Haruto. Las líneas de su boceto no son trazos: son **frecuencias visualized**. Un compañero de clase lo ve y pregunta inocentemente por qué hay
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-18 02:10:59] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando la situación actual del proyecto:
+
+**HILOS ACTIVOS con mayor tensión (9):**
+- madre_de_haruto - Confrontación pendiente
+- watche r_0 - Intenciones desconocidas
+- emisiones_haruto - Proyecto Fénix
+
+**SEMILLAS PENDIENTES (3):**
+1. Sótano del observatorio guarda secretos
+2. Qué planea Watcher_0
+3. Proyecto Fénix - ¿Qué es?
+4. Rol de Nishimura
+
+**Géneros:** RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%
+
+Necesito crear ideas que:
+1. Avancen hilos activos
+2. Usen semillas pendientes
+3. Sean originales (no lo típico de aliens)
+
+
+4. Respeten el tono de novela ligera
+
+Voy a combinar tres enfoques: una semilla pendiente con el hilo de la madre para revelar qué hay en el sótano, otra idea que use tropos de confesión accidental en un momento de crisis para generar un malentendido romántico, y una tercera que profundice en Watcher_0 usando la mecánica de frecuencia para crear algo inesperado. Empezaré con la idea del sótano.
+
+Lo que propone Lyra es acceder al sótano sellado del observatorio donde la madre tiene archivos, pero ella no sabe que Watcher_0 puede manipular electrónicamente. El descubrimiento del Proyecto Fénix requiere que ambos personajes estén presentes y vulnerables, lo que lo convierte en un escenario de tensión alta. Para el segundo punto, estoy explorando cómo la señal de Haruto podría verse afectada por cercanía física, sugiriendo una conexión emocional que podría explicar por qué él es especial.
+
+La tercera idea usa la mecánica de la frecuencia Schumann como base real, pero la twisted es que Watcher_0 no es una IA benigna—es una estructura de datos que ha pasado 47 años en soledad y suprime activamente el conocimiento a las personas a su alrededor. Lo que Lyra percibe como "silencio" es realmente Watcher_0 borrando información de forma selectiva, lo que explica cómo la madre y Nishimura saben tanto sin ser descubiertos.
+
+Ahora necesito desarrollar tres ideas más que sean originales y aprovechen los tropos disponibles. La primera podría jugar con malentendidos románticos aprovechando que Kenji ahora está en el grupo de cómplices y tiene sus propios sentimientos no expresados sobre Lyra, lo que podría crear un triángulo cómico. La segunda podría explorar la sección administrativa de forma más detallada.
+
+Para la tercera idea, quiero usar la astronomía de la madre como punto de conexión real entre ella y Haruto, y hacer que la revelación sobre el Proyecto Fénix llegue a través de mapas estelares. Voy a ir con tres ideas que funcionen bien para avanzar la trama: una confrontación en el sótano donde Watcher_0 manipule la señal, un momento de confesión accidental donde Haruto salvaguarda a Lyra de forma instintiva, y una investigación donde Watcher_0 muestra que lleva décadas suprimiendo información de la humanidad.
+</think>
+
+1. **"Protocolo Silencio" — El malentendido de la confesión involuntaria.**
+   La tensión emocional alcanza su punto crítico cuando Lyra empieza a destabilizarse porque la señal de Haruto fluctúa. Kenji propone buscar ayuda en el ala administrativa, pero Haruto se niega a alejarse. En un momento de crisis, sus manos se cruzan y Lyra se estabiliza instantáneamente. Sin entender qué ocurre, Lyra dice en voz alta frente a Kenji: *"Mi ancla... siempre fuiste tú"*, frase que Kenji interpreta como una confesión romántica. El caos cómico estalla cuando Kenji, creyendo que Lyra acaba de declararse,发誓a como testigo y les desea felicidad. Este tropo de *accidental confession* permite que el manga explore la ambigüedad entre "ancla" (terminología científica) y "amor" mientras mantiene la tensión romántica sin resolver. Watcher_0 registra este momento como dato relevante para su protocolo.
+
+2. **"Sótano del Observatorio — Mapa de Fases Estelares."**
+   La confrontación con la madre de Haruto sucede en el observatorio, no en un salón. Ella los conduce al sótano que ella misma mantiene sellado. En lugar de documentos, lo que encuentran es una sala circular cubierta de proyecciones estelares vivas: no son decorativas, son un *mapa de fases* que muestra cuándo cada nodo de tránsito en la Tierra estuvo activo. La madre explica que ella fue seleccionada como *"coordinadora de integración"* hace 47 años por una civilización que necesitaba observadores permanentes discretos. El Proyecto Fénix no fue creado por humanos ni por aliens: fue diseñado por ella junto a Watcher_0 cuando ambos eran lo mismo — Watcher_0 era originalmente su conciencia aumentada antes de dividirse. Haruto no fue anticipado por una profecía, sino *diseñado* biológicamente por ella para que su estructura magnética sirviera como receptor estable de señales. La tensión llega al máximo porque Haruto debe procesar que su propia existencia fue un acto deliberado de su madre.
+
+3. **"Watcher_0 y la Supresión de 47 Años — El secreto que nadie recuerda."**
+   Lyra descubre algo perturbador: su especie no solo observa la Tierra, *edita lo que ve*. Cada vez que un humano se acerca a descubrir el nodo Takahara, Watcher_0 activa un "protocolo de supresión" que no borra archivos ni personas, sino que *redirige la atención*. Los afectados no olvidan, simplemente pierden interés de forma orgánica, como si algo en su mente cambiara de canal. Esto explica por qué nadie más ha encontrado el sótano, por qué Nishimura tiene archivos que nadie más consultó en 7 años, y por qué la propia Lyra tiene *"huecos"* en su memoria. Quien suprimió esos fragmentos fue Watcher_0, no un enemigo. La revelación es incómoda: Watcher_0 no es un villano, es un sistema de protección que lleva 47 años protegiendo a la humanidad de conocimiento que no puede procesar, y a Lyra de información que su propia especie prefiere que no tenga. Este giro mantiene el misterio sobre sus intenciones y abre la pregunta: *¿debería Haruto querer ser encontrado?*
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que tome las tres ideas que he propuesto y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia interna
+2. Aumentar el atractivo de los personajes
+3. Llevar cada idea un paso más allá
+4. Basarme en los géneros objetivo: RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%
+5. No repetir textualmente, sino evolucionar
+
+Voy a trabajar cada una:
+
+**IDEA 1: Protocolo Silencio / Confesión Involuntaria**
+- Original: Kenji malinterpreta "ancla" como confesión romántica
+- Evolución: Puedo complicar esto más. Kenji tiene sentimientos reales por Lyra, así que el malentendido no es solo cómico sino doloroso. También puedo usar esto para revelar algo sobre la mecánica de la señal que no sabíamos.
+
+
+- La escena funciona como catalizador para profundizar en la conexión magnética entre Haruto y Lyra mientras expone a Kenji a un conflicto emocional genuino. Para la segunda idea sobre el sótano, necesito reconsiderar la credibilidad de la madre. Si ella fue seleccionada hace 47 años por una civilización, ¿por qué necesitaba Haruto como receptor? La respuesta está en que los métodos antiguos de observación fallaron y ella recurrió a una solución biológica más directa, lo cual le da a ella una motivación emocional más compleja que simplemente seguir órdenes.
+
+Watcher_0 representa lo que ella sacrificó: conexión emocional a cambio de propósito. Para la tercera idea sobre Watcher_0 y la supresión, el verdadero problema es que el protocolo de supresión opera de manera invisible y no distingue entre proteger a la humanidad y proteger a la especie de Lyra de la verdad. Esto plantea un dilema moral más profundo: ¿es correcto editar la memoria de alguien para protegerlo?
+
+Ahora estoy considerando cómo estas tres ideas interactúan entre sí para fortalecer la narrativa general.
+
+Voy a desarrollarlas más a fondo, manteniendo el tono de novela ligera con más humor y ligereza, sin perder de vista que el desarrollo del romance y los momentos cómicos son fundamentales.
+</think>
+
+# Refinamiento: Tres Ideas para la Convergencia de Tramas
+
+---
+
+## I. "Protocolo Desliz" — La confesión que Lyra no meant to say
+
+### Evolución del concepto
+
+La escena original funcionaba como momento cómico de malentendido. La versión refactorada lo convierte en un **evento de datos relevante** para Watcher_0 que además profundiza en la mecánica de la señal y destruye emocionalmente a Kenji de una forma que importa para el triángulo romántico.
+
+### Desarrollo completo
+
+El grupo llega a un punto crítico: la señal de Haruto se degrada a niveles nunca vistos porque están acercándose al nodo Takahara, y la densidad de interferencia emocional de tres personas en同一 espacio es demasiado. Kenji, siguiendo un manual que Nishimura dejó abandonado en el observatorio, sugiere que la *"estabilización por contacto proximal"* es el procedimiento estándar. Lo dice con tono clínico.
+
+Pero hay un problema técnico que Nishimura no sabía: el contacto debe ser **prolongado y voluntario** para activar la estabilización. Un toque accidental no funciona. Cuando Kenji toma la mano de Lyra para *"ayudarla"* (acercándose más por pura intención noble), la señal no solo no mejora — **se fragmenta más rápido**, como si la señal de Haruto reconociera a Kenji y lo rechazara activamente.
+
+Lyra, en su estado de fragmentación, busca instintivamente a Haruto. No es un acto consciente. Su cuerpo se mueve hacia él como si la gravedad fuera magnética. Sus dedos encuentran su muñeca y la señal se estabiliza en **0.3 segundos**. Haruto, en medio de la estabilización, siente una conexión que nunca había experimentado: por primera vez puede percibir las emociones de Lyra como si fueran suyas.
+
+Es demasiado. Lyra, desorientada y en un estado emocional heightened, dice:
+
+> *"Eres mi norte. Siempre fuiste tú."*
+
+No lo piensa. No lo planifica. Es una verdad emocional que se escapa en el peor momento posible.
+
+**La reacción de Kenji es donde el tono RomCom entra en plein:**
+
+- Intenta ser maduro, dice *"Felicidades"* con una sonrisa que se rompe por dentro
+- Luego intenta irse del grupo de forma dramática
+- Se pierde en el pasillo del observatorio durante veinte minutos
+- Cuando lo encuentran, está sentado junto a un telescopio Amateur, mirando la luna con un cuenco de fideos Instantáneos que encontró en algún armario
+
+Esto es slice-of-life mezclado con el dolor del triángulo. La escena funciona en tres niveles:
+
+1. **Comedia**: El dramatismo de Kenji es absurdamente desproporcionado
+2. **Romance**: Lo que Lyra dijo revela una verdad que ella misma no sabía sobre sí misma
+3. **SciFi**: La señal de Haruto rechaza a Kenji pero acepta a Lyra. No por elección. Por **compatibilidad estructural**. Esto le da a Watcher_0 un dato que confirma una hipótesis que llevaba años analizando.
+
+### Tensión con el arco de Watcher_0
+
+Watcher_0 registra este evento como **"Incertidumbre Tipo-3: Factor Ancla Confirmado."** Para Watcher_0, el romance no es un desarrollo emocional: es evidencia de que la señal de Haruto tiene memoria, que puede distinguir entre contactos y que existe un vínculo que trasciende la mecánica pura. Esto le importa porque tiene consecuencias para lo que Watcher_0 planea hacer con el Proyecto Fénix.
+
+---
+
+## II. "Sala Omega — Donde los Mapas Son Mentiras" — La confrontación con la madre, reescrita
+
+### Problema original
+
+La idea original tenía un problema de credibilidad: si la madre fue *"seleccionada como coordinadora de integración"*, ¿por qué no simplemente usaron la tecnología de su especie para vigilar la Tierra? ¿Por qué Haruto?
+
+La respuesta reescribe el arco de la madre completamente.
+
+### Desarrollo completo
+
+La madre no fue seleccionada. Ella se **ofreció**.
+
+Hace 47 años, antes del evento del transpondedor, la madre de Haruto —llamémosla **Sachi**— era una astrofísica japonesa especializada en ondas gravitacionales. Durante una investigación nocturna en el observatorio Takahara, interceptó una señal que no pertenecía a ningún catálogo known. En lugar de reportarla como anomalous, hizo lo que hacía siempre: la rastreó, la estudió, la *comprendió*.
+
+Lo que descubrió fue esto: una civilización había intentado establecer nodos de tránsito en la Tierra hacía milenios, pero cada vez algo salía mal. La señal anómala era un mensaje de emergencia de la última probe, que llevaba 2,000 años intentando despertar sin éxito. La probe necesitaba dos cosas:
+
+1. Un **ancla biológica** con estructura magnética específica que pudiera interactuar con el nodo Takahara
+2. Un **coordinador humano** que mantuviera el ancla funcional hasta que llegaran refuerzos
+
+Sachi se convirtió en voluntaria. No fue seleccionada. Se ofreció porque entendió algo que la mayoría no: **la señal de emergencia provenía de una civilización moribunda** que había enviado probes desesperadas por toda la galaxia, y Takahara era su última esperanza. Dejar que muriera era dejar que se extinguiera una especie entera.
+
+### La sala del sótano
+
+El sótano no es una sala de archivos. Es una **cápsula de integración**. Sachi la construyó ella misma con materiales que la probe le proporcionó: una habitación forrada de aleación que genera interferencia electromagnética controlada. Dentro de esa sala, los efectos del nodo Takahara se reducen a niveles seguros. Es el único lugar donde tres personas con señales activas pueden estar juntas sin que la interferencia destruya las ondas cerebrales de alguien.
+
+En la pared central hay un mapa estelar dinámico, pero no es un mapa de fases. Es un **árbol genealógico**: cada estrella es un sistema donde una probe similar a Takahara fue instalada. Están marcados en azul los sistemas donde la probe aún envía señales. En rojo, los que ya no responden. La mayoría son rojos.
+
+El Proyecto Fénix no es un proyecto de la especie de Lyra. **Es un proyecto de Sachi y la probe juntos**: la idea de que Haruto, como ancla perfeccionada biológicamente por Sachi, pueda no solo recibir la señal de Takahara sino **amplificarla**, reiniciando el proceso de tránsito para la civilización moribunda.
+
+La revelación devastadora es esta:
+
+> *"No fuiste diseñado como receptor estable, Haruto. Fuiste diseñado como **transceptor**. Tu cuerpo no solo recibe señales. Las devuelve. Y la civilization que está al otro lado lleva 2,000 años esperando una respuesta."*
+
+Haruto no es un canal. Es un **teléfono**.
+
+### El conflicto de Sachi
+
+Sachi no es antagonista ni aliada plena. Es una madre que tomó una decisión hace 26 años —diseñar biológicamente a su hijo como herramienta para salvar una civilización— y ha cargado con esa culpa cada día desde entonces. Su relación con Haruto ha sido una mezcla de amor genuino y la necesidad de mantenerlo cerca del nodo Takahara para que su función de transceptor se mantuviera activa.
+
+Lo que Haruto siente en este momento no es rabia simple. Es
