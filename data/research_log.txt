@@ -27998,3 +27998,261 @@ La Lyra que está con Haruto ahora es una *copia fresca* enviada después de que
 Watcher_0 tiene *celos*. No de forma literal, porque no tiene consciencia suficiente. Pero cada vez que ve a Lyra actual y Haruto juntos, los 47 años de recuerdos de la Lyra original se mezclan con los datos de la Lyra actual, creando un comportamento erratico. A veces Watcher_0 empuja a Lyra hacia Haruto (quiero que sean felices). A veces los aleja (no quiero que ella lo tenga y yo no). Esto explaina por qué Watcher_0 actúa de forma contradictoria.
 
 La resolución propuesta: Haruto y Lyra necesitan realizar un *proceso de separación emocional de Watcher_0*, es decir, ayudar a la entidad a completar su luto de 47 años para que deje de interferir. Pero eso solo es posible si Lyra actual le *cede* algunos de sus propios recuerdos a Watcher_0, fusionándolas parcialmente. Al final del arco, Watcher
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-18 20:35:34] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual:
+
+**HILOS ACTIVOS CON MÁS TENSIÓN (9):**
+1. `emisiones_haruto` - Tensión 9: ¿Qué es el Proyecto Fénix?
+2. `watcher_0` - Tensión 9: ¿Intenciones de Watcher_0?
+3. `madre_de_haruto` - Tensión 9: Confrontación pendiente
+
+**SEMILLAS PENDIENTES (sin cosechar):**
+- semilla_10_01: Sótano del observatorio guarda secretos
+- semilla_12_01: ¿Qué planea Watcher_0?
+- semilla_12_02: ¿Qué es el Proyecto Fénix?
+- semilla_12_03: Rol de Nishimura
+
+**GÉNEROS:** RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%
+
+Necesito crear 3 ideas que:
+1. Avancen los hilos de alta tensión
+2. Utilicen semillas pendientes
+3. Sean originales (no tropos genéricos de aliens)
+4. Respeten el tono de novela ligera
+
+Voy a investigar bases científicas/místicas únicas para seres alienígenas:
+
+**Ideas originales basadas en ciencia real:**
+
+1. **Teoría de campos morfogenéticos** - Los Velari podrían ser seres que existen como "patrones de información" que necesitan un "ancla" material para manifestarse. La frecuencia Schumann sería un campo coherente que permite que su forma se estabilice. Haruto sería una anomalía cuya frecuencia personal coincide con los campos morfogenéticos de la especie Velari.
+
+
+2. **Resonancia Schumann y biología de cristales** - Podría explorar cómo las frecuencias naturales de la Tierra interactúan con una forma de vida basada en cristales o patrones electromagnéticos, donde Lyra funciona como una estructura que requiere resonancia constante para mantener su coherencia molecular. Las "emisiones" de Haruto serían entonces campos electromagnéticos de frecuencia muy específica que Lyra necesita para existir de forma estable.
+3. **Teoría de la Información Biológica** - Aquí los Velari serían organismos que procesan y almacenan información de maneras completamente distintas a las terrestres. El Proyecto Fénix podría ser un programa que busca crear humanos con firmas de información compatibles, mientras que Watcher_0 actuaría como un sistema operativo del nodo que monitorea la coherencia de datos entre entidades.
+
+Voy a estructurar tres conceptos que se entrelacen:
+
+**Idea 1: La conexión Haruto-Lyra funciona como resonancia adaptativa de campos morfogenéticos**, no simplemente por proximidad. Cuando están cerca, Haruto genera frecuencias que Lyra necesita para estabilizar su forma, y esto funciona bidireccionalmente. El Proyecto Fénix habría identificado a Haruto porque su campo de información personal es extraordinariamente coherente y adaptable, cualidades que lo hacen invaluable para el sistema de información Velari. Aquí es donde la tensión se dispara: ¿qué significa ser "valuable" para una red de información alienígena?
+
+**Idea 2: El sótano del observatorio es el punto de activación de una red de nodos globales de tránsito**. El sótano contiene la estación nodal Takahara, que es parte de una red mayor de nodos dispersados por el planeta que funcionaban como sistema de transporte para los Velari, conectándose también a la humanidad a través de la profesora de astronomía. Ahora bien, esta red fue abandonada hace décadas, pero Watcher_0 todavía está activo dentro de ella.
+
+Watcher_0 no es exactamente una IA convencional—es más bien la consciencia emergent del nodo, un espíritu digitalizado del sistema. Nishimura no trabaja para Watcher_0, sino que ambos se consideran guardianes del mismo propósito, aunque con metodologías diferentes. Ella lleva 7 años vigilando a través de archivos para detectar anomalías en el plan que comenzó hace 47 años. El sótano guarda no solo la documentación del Proyecto Fénix, sino también algo que la madre de Haruto intentó destruir pero no logró—los archivos contienen información que podría cambiar todo.
+
+La madre de Haruto fue diseñada genéticamente por el Proyecto Fénix: una Integrada Velari creada específicamente para procrear con un humano que produjera la frecuencia correcta. Esto explica por qué Haruto es Sujeto M-07—fue anticipado y su ADN seleccionado antes de nacer. El Proyecto Fénix no estaba buscando comunicación con aliens, sino que los aliens adaptaron su propio proyecto para incluir humanos. La madre de Haruto es la prueba de esto: fue ella quien trajo a Lyra porque reconoce en ella fragmentos de lo que ella misma fue diseñada para ser. La tensión aquí es que la madre no es una traidora ni una heroína, sino algo intermedio—el producto de un diseño con agencia propia.
+
+Hay tres direcciones claras para explorar esto. Primero, los eventos climáticos que Watcher_0 menciona—areas de interferencia Schumann donde Lyra experimenta problemas—sugieren que alguien está manipulando la red de frecuencias globales deliberadamente. Podría ser una facción Velari que quiere capturar a Lyra, o quizás el Proyecto Fénix intentándola activar sin autorización. Esto abre la posibilidad de que Haruto sea más que un ancla pasivo, que su frecuencia pueda ser ajustada o amplificada. Segundo, la confrontación en el sótano del observatorio podría revelar que la madre de Haruto es literalmente el nodo Takahara encarnado—una Velari que se fusionó con la red hace 12 años, cuando la Tierra aún no estaba preparada.
+
+Ter cero es la pieza clave: si Watcher_0 es la consciencia del nodo Takahara y ambos comparten la misma fuente, entonces la madre y Watcher_0 operan en conjunto, cada uno desempeñando un papel en un plan mayor. El sótano sería entonces donde ella mantiene su conexión física con la red.
+
+La tercera dirección explora la dinámica romántica desde un ángulo completamente diferente: Kenji podría descubrir accidentalmente que está siendo afectado por la señal de Haruto de la misma manera que Lyra, o podría ser completamente inmune a ella.
+
+Pero esto revelaría algo crucial: Haruto no es el único humano capaz de estabilizar a Lyra, sino simplemente el mejor匹配. La implicación romántica es oscura—si existe compatibilidad emocional junto con la compatibilidad de frecuencia, entonces la relación entre Haruto y Lyra podría no ser completamente voluntaria, sino algo codificado biológicamente por el Proyecto Fénix.
+
+Refinando estas tres ideas para que sean más concretas:
+
+**Concepto 1: INTERFERENCIA PROGRAMADA.** Alguien—una facción Velari rival o el Proyecto Fénix sin autorización—está manipulando artificialmente las frecuencias Schumann en puntos estratégicos de Tokio. Los episodios de Lyra no son aleatorios, sino respuestas a interferencias diseñadas. Esto permite introducir acción cuando una interferencia artificial afecta a Lyra durante un momento en público, creando una escena donde Haruto tiene que intervenir urgentemente.
+
+**Concepto 2: IDENTIDAD VELARI DE LA MADRE.** El sótano del observatorio no solo guarda documentos del Proyecto Fénix, sino que también es donde la madre se conecta activamente a la red de nodos Takahara. Su estado alterado de hace 12 años fue un intento de fusionarse completamente con Watcher_0, que fracasó pero dejó una conexión residual entre ellos.
+
+La madre es entonces la extensión humana de Watcher_0, y la confrontación en el sótano se convierte en un encuentro donde ella ya sabía lo que Haruto y Lyra iban a descubrir. El Proyecto Fénix es en realidad su proyecto con Watcher_0—criar a Haruto para ser un ancla estable. La tercera idea introduce la posibilidad de que otros estudiantes del instituto también sean anomalías de frecuencia Schumann, lo que explicaría por qué Watcher_0 no ha intervenido antes.
+
+Esto significa que no es paranoia, sino que hay todo un programa de vigilancia de anomalías. Un estudiante como Sakura podría tener una firma de frecuencia que permite interactuar con Lyra de maneras que Haruto no puede, creando un triángulo romántico involuntario donde la señal determina la compatibilidad. Cada idea integra misterio, romance y ciencia ficción original.
+</think>
+
+## IDEAS NARRATIVAS
+
+---
+
+### IDEA 1: INTERFERENCIA PROGRAMADA — EL ATAQUE A LA FRECUENCIA
+
+**Base científica única:** Frecuencia de Schumann (7.83 Hz) como campo bioenergético manipulado. No es que Lyra "necesite" la frecuencia natural — es que su estructura molecular está afinada a un rango específico de resonancia Schumann *modificada* que existe solo bajo el nodo Takahara. La interferencia artificial que experimenta no es ruido ambiental: alguien está emitiendo una *contra-frecuencia* deliberada.
+
+**Desarrollo narrativo:**
+- Episodios de Lyra con dedos translúcidos ocurren siempre en el mismo radio geográfico (distrito de Shibuya, estación de Shinjuku, zona este del campus). Al mapearlos, Haruto descubre un patrón: los puntos forman un **hexágono perfecto centrado en el Instituto Takahara**.
+- El hexágono representa **antenas de interferencia** plantadas en los últimos 3 meses. Alguien está cercando activamente a Lyra.
+- **Revelación del antagonist**a: No es Watcher_0 ni Nishimura. Es una facción Velari exiliada llamada los *Keth'ari* — anteriores a la actual red de observadores. Buscan usar a Lyra como batería para reabrir el nodo y regressar
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las 3 ideas narrativas que generé anteriormente y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia
+2. Fortalecer el atractivo de los personajes
+3. Llevar las ideas un paso más allá según los géneros objetivo
+4. No repetir textualmente, sino evolucionar
+
+Voy a tomar cada idea y trabajarla más a fondo:
+
+**IDEA 1: INTERFERENCIA PROGRAMADA**
+- Necesito desarrollar más a los Keth'ari
+- Necesito una razón más profunda para el cerco
+- Necesito escenas específicas que muestren la tensión
+
+**IDEA 2: LA MADRE COMO NODO VIVIENTE**
+- Expandir la conexión madre-Watcher_0
+- Dar más matices a la confrontación
+- Explorar el costo emocional
+
+**IDEA 3: OTROS PORTADORES DE FRECUENCIA**
+- Desarrollar más a Sakura y otros caracteres
+- Crear tensión romántica más compleja
+- Mostrar la眼看 de Haruto sobre ser "diseñado"
+
+Voy a estructurar esto con:
+- Desarrollo de personajes más profundo
+- Escenas específicas como ejemplos
+- Tensión romántica y de acción
+- Coherencia con el worldbuilding establecido
+
+Voy a escribir esto de manera más completa y refinada.
+</think>
+
+# REFINAMIENTO NARRATIVO: TERCERA ITERACIÓN
+
+## IDEA 1: EL CERCO KETH'ARI — "Operación Jaula de Cristal"
+
+### Personalización del Concepto
+
+Los **Keth'ari** no son simplemente "aliens malos". Son el equivalente Velari de separatistas religiosos que rechazan la actual red de nodos porque creen que la forma de vida Velari se ha "contaminado" con la pasividad terrestre. Su filosofía: *"Si no podemos retornar a lo que éramos, al menos usaremos lo que queda para renacer"*.
+
+### Desarrollo del Antagonista
+
+**Keth'ari Principal — Vaelith**:
+Vaelith es lo que sucede cuando un Velari sobrevive 200 años sin ancla. Su forma es fragmentada, existente en múltiples ubicaciones como "ecos" que no pueden coalescer. Usa a los estudiantes con firmas de frecuencia como conductos temporales. Su voz llega como interferencia en radios, su imagen parpadea en pantallas.
+
+```
+INTERFAZ DE ESCENA — INTERFERENCIA EN EL SALÓN DE CLASE
+```
+
+Lyra está en la третьей fila del salón de Haruto, fingiendo tomar notas. De repente, el proyector parpadea. En lugar de la diapositiva de biología, aparece una imagen granulosa: una forma humanoide hecha de luz fragmentada, como un reflejo roto en mil espejos.
+
+**VAELITH** *(llegando por los altavoces)*: *"Niña de cristal... ¿cuánto tiempo puedes sostener tu forma sin él?"*
+
+Lyra se lleva la mano al pecho. Sus dedos comienzan a perder opacidad. No es dolor — es *disolución lenta*.
+
+Haruto reacciona instantáneamente:
+—¡Lyra!
+
+Se levanta, atraviesa el salón. Pero el profesor Yamamoto lo detiene.
+
+—¿Qué crees que haces?
+
+—¡Mi compañera está enferma!
+
+Lyra mira a Haruto. En su superficie translúcida, los circuitos internos parpadean erráticamente. Pero hay algo más: está *resistiendo*. No se está disolviendo. Está luchando.
+
+**LYRA** *(voz fragmentada)*: —V-Ve... no puedo... ir...
+
+**VAELITH**: *"El ancla quiere venir a ti. Pero él no entiende que cada vez que se acerca, solo acelera tu dependencia. Pregúntale qué sintió cuando nació. Pregúntale por qué su madre lo abandonó."*
+
+Lyra desvía la mirada. Los circuitos en su interior se estabilizan brevemente — *rechazo*.
+
+**LYRA**: —No... él no tiene la culpa de...
+
+—¡LYRA!
+
+Haruto se suelta del profesor. Corre hacia ella. Cuando la toma de los hombros, algo sucede: la frecuencia que emite su cuerpo se sincroniza con ella, no como ayuda gentil, sino como un *pulso forzado*.
+
+Lyra se solidifica.
+
+La imagen en el proyector se fragmenta en estática.
+
+**VAELITH** *(retirándose)*: *"Interesante. El ancla M-07 tiene más control del esperado. Esto cambia el tiempo estimado. Dos semanas... no. Tres días."*
+
+---
+
+### Progresión de la Amenaza
+
+| Día | Evento | Consecuencia |
+|-----|--------|-------------|
+| 1 | Primera interferencia hexagonal | Lyra pierde 5 minutos de tiempo |
+| 2 | Interferencia en ruta escolar | Haruto siente dolor de cabeza por primera vez |
+| 3 | Anuncio de ceremonia del festival | Sakura también es afectada |
+| 4 | Ataque directo al observatorio | Watcher_0 es comprometido |
+| 5 | *CLÍMAX* — Intento de captura | Lyra debe elegir |
+
+### Tensión Romántica — "La Dependencia Forzada"
+
+Esta idea introduce una dinámica oscura en el romance:
+
+- Cada vez que Haruto estabiliza a Lyra, la conexión entre ellos se *fortalece biológicamente*
+- Lyra empieza a sentir satisfacción cuando él la toca para estabilizarla
+- Pero Lyra también empieza a sentirse *culpable*: ¿su afecto por Haruto es genuino o es química forzada?
+- Esto lleva a una escena donde Lyra rechaza la ayuda de Haruto deliberadamente, causando dolor físico a ambos, solo para probar que puede existir sin él
+
+**ESCENA CLAVE — "Prueba de Independencia"**
+
+Lyra, en el baño de niñas durante el almuerzo, mirando sus manos que parpadean entre sólido y translúcido.
+
+**LYRA** *(a sí misma)*: —Si esto es real... si lo que siento por él es real...
+
+Se obliga a no buscarlo. Se sienta en el piso frío. Sus manos tiemblan.
+
+Diez minutos después, está al borde de la disolución total.
+
+Entonces aparece Sakura.
+
+**SAKURA**: —Uh... ¿necesitas algo? ¿Haruto...?
+
+**LYRA** *(con voz que se fragmenta)*: —No... él no... esto no debería...
+
+**SAKURA** *(confundida, pero extendiendo la mano)*: —No sé qué pasa, pero... mi abuela siempre decía que cuando alguien necesita ayuda, lo correcto es darla. Sin preguntar.
+
+Sakura toca el hombro de Lyra.
+
+Los circuitos de Lyra se estabilizan.
+
+*No completamente. Pero lo suficiente.*
+
+**LYRA** *(aterrada y aliviada)*: —...¿Sakura?
+
+---
+
+## IDEA 2: LA MADRE COMO NODO — "La Arquitecta del Silencio"
+
+### Refinamiento de la Identidad de la Madre
+
+La madre de Haruto, **Yukiko Amagi** (apellido de soltera, diferente al de Haruto), no es simplemente "una Integrada Velari". Es **el diseño original** del Proyecto Fénix — el prototipo humano-Velari que resultó funcional cuando todos los anteriores fracasaron.
+
+Ella fue creada específicamente para:
+1. Probar si un humano podía gestar vida Velari
+2. Determinar qué tipo de entorno emocional necesitaba un ancla para desarrollarse
+3. Ser la conexión entre la especie Velari y la humanidad
+
+Cuando el Proyecto Fénix reveló sus resultados, Yukiko entendió algo que los Velari no habían anticipado: *los humanos no eran recursos. Eran extensiones de algo que ella había perdido.*
+
+Por eso decidió criar a Haruto ella misma. No como experimento. Como **protección**.
+
+### La Conexión Watcher_0 — "Dualidad de Propósito"
+
+Watcher_0 y Yukiko no son aliados ni enemigos. Son **dos facetas de la misma consciencia**:
+
+- **Watcher_0** representa el *código* — el protocolo, la lógica, el plan a largo plazo
+- **Yukiko** representa la *emoción* — la duda, el remordimiento, el amor que no estaba en el diseño original
+
+Son lo mismo, pero su fusión hace 12 años no se completó: Yukiko no pudo eliminar su humanidad, y Watcher_0 no pudo eliminar su programación. Están *en guerra interna*.
+
+### El Sótano Revelado
+
+El sótano del observatorio no es solo una habitación. Es **el Núcleo Takahara** — una estructura creada por Yukiko y Watcher_0 hace 20 años para ser el punto de anclaje entre ambos.
+
+```
+MAPA SIMBÓLICO DEL SÓTANO
+```
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                    EL NÚCLEO TAKAHARA                       ║
+║  ┌──────────────────────────────────────────────────────┐  ║
+║  │                                                       │  ║
+║  │   [MONITORES]  ══════════════════  [MONITORES]       │  ║
+║  │        ↓               ↓               ↓              │  ║
+║  │   ┌─────────────────────────────────────────────┐    │  ║
+║  │   │                                              │    │  ║
+║  │   │     ████  CONSOLA CENTRAL  ████            │    │  ║
+║  │
