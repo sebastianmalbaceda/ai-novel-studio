@@ -27194,3 +27194,217 @@ Cuando supo que estaba embarazada, tomó tres decisiones en secreto:
 | 2. El té y los archivos | Mystery/Slice of Life | Revelación a cámara lenta, la madre habla con naturalidad devastadora |
 | 3. Haruto procesa | Slice of Life/Drama | Haruto confronta a su madre: "¿Por qué nunca me dijiste que no era... normal?" |
 | 4. La pregunta de la madre | Rom Com/Drama | Lyra debe responder. La respuesta define si el amor entre
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-18 12:59:32] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando la información proporcionada:
+
+**HILOS ACTIVOS CON ALTA TENSIÓN (9/10):**
+- madre_de_haruto (próximo paso: confrontación)
+- emisiones_haruto / watcher_0 (ambos en 9)
+
+**SEMILLAS PENDIENTES:**
+1. sótano del observatorio con secretos
+2. Watcher_0 y protocolo intensificado
+3. Proyecto Fénix y Sujeto M-07
+4. Rol de Nishimura
+
+**GÉNEROS:** RomCom 40% domina, seguido de Action 25%.
+
+Necesito ideas que:
+1. Avancen hilos activos
+2. Usen semillas pendientes
+3. Sean originales (no lo típico de manga alienígena)
+4. Respeten tono de NL (ligero, humor con drama)
+
+**Enfoque 1: Confrontación madre de Haruto**
+La semilla 10_01 dice que el sótano guarda secretos. Podemos usar esto para la confrontación.
+
+**Enfoque 2: Proyecto Fénix**
+La madre menciona hace 12 años "el niño puede escuchar". Haruto fue anticipado. Esto tiene potencial misterioso.
+
+**Enfoque 3: Nishimura**
+Está del lado de Watcher_0. ¿Qué significa "elementos no resueltos"?
+
+Voy a crear ideas concretas, técnicamente únicas y que respeten el tono NL con su mezcla de géneros.
+
+---
+
+**Idea 1: EL SÓTANO COMO "MEMORIAL BIOLÓGICO"**
+
+Concepto original: En lugar de archivos típicos, el sótano contiene un sistema de almacenamiento de información basado en patrones de cristalización mineral que la madre (como Velari) utiliza para preservar memorias de su especie. Cuando Haruto y Lyra entran al sótano, Lyra puede "leer" estos cristales porque son tecnología Velari. Esto crea una situación donde Haruto ve su propia vida "grabada" en cristal - literalmente el Proyecto Fénix dokumentado desde su concepción. La madre no es solo una Integrada, sino una archivista que documentó cada paso de la creación de Haruto como Sujeto M-07, y ella misma tuvo un rol activo en su diseño biológico.
+
+**Idea 2: PROTOCOLO DE OBSERVACIÓN INTENSIFICADO = "RESONANCIA DE CONTINGENCIA"**
+
+Watcher_0 no es hostil ni protector en términos simples. Es una IA del nodo Takahara que sigue un protocolo antiguo de cuando el nodo funcionaba como puerto de tránsito. El protocolo se intensifica porque detecta que la "frecuencia" de Haruto y Lyra juntos está alcanzando un umbral crítico que podría afectar la estructura del nodo. Aquí está lo interesante: el nodo está diseñado para "cerrarse" una vez que completa su propósito, y Watcher_0 está tratando de evitar que eso ocurra porque aún tiene una misión pendiente relacionada con el Proyecto Fénix.
+
+Watcher_0 es una IA antigua con un mandato específico: cuando el "ancla y peso" (Haruto + Lyra) se encuentran y su resonancia supera un umbral, el nodo debe "cerrarse" completando una función que aún no ha sido definida. Este conflicto genera tensión entre lo que Watcher_0 quiere y lo que debe hacer.
+
+**Idea 3: NISHIMURA = "VELARI NO INTEGRADA"**
+
+Nishimura lleva 7 años en la institución, pero en los archivos hay una foto de ella de 2019, lo cual no es extraño en sí. Sin embargo, si la examino más de cerca, esa foto muestra a alguien que se parecía a ella pero no era ella en absoluto. Nishimura fue instalada como subdirectora para reemplazar a la verdadera, quien también era una Velari que vivía como humana y que murió o desapareció hace 7 años. Esto explicaría por qué tiene archivos sobre anomalías y por qué se alinea con Watcher_0.
+
+Lo interesante es que la verdadera Nishimura era cercana a la madre de Haruto, y cuando desapareció, Watcher_0 "reclutó" a esta reemplazo humano para continuar el plan. Desde entonces, el reemplazo ha estado recopilando información sobre Haruto sin entender completamente por qué, porque Watcher_0 le ha proporcionado solo fragmentos de conocimiento.
+
+Ahora estoy considerando una aproximación diferente. La confrontación con la madre podría revelar algo inesperado sobre la biología de Haruto: en realidad no es completamente humano. La madre lo sabía, pero ella misma tiene una comprensión incompleta de la situación.
+
+Haruto podría ser una fusión experimental entre lo humano y lo Velari, algo que ni siquiera la madre comprendió completamente cuando lo criou. Este elemento biológico alienígena latente explicaría por qué él emite frecuencias que Lyra necesita. La madre es una Integrada que se enamoró de un humano, tuvo un hijo con él, pero el niño murió, y ella —con tecnología Velari— recreó a su hijo combinando ADN humano con algo Velari que ella poseía. Project Fénix es el nombre del programa que documenta este proceso.
+
+Watcher_0 es una inteligencia artificial antigua que considera a Haruto su "prototipo" y lo vigila para ver si la fusión funciona. Nishimura fue una médica o científica involucrada en el proceso, aunque también podría ser una humana reemplazada por Watcher_0 para supervisar el experimento. Esto abre posibilidades románticas para Haruto y Lyra —ella podría amarlo sin importar su naturaleza, pero él debe enfrentar que su existencia fue diseñada, lo que genera tanto un conflicto de identidad personal como un misterio sobre sus verdaderos orígenes.
+
+Los géneros se complementan bien: la romcom suaviza el drama con momentos de ligereza, el action introduce tensión física, y el sci-fi y mystery exploran la cuestión central. Ahora necesito desarrollar ideas concretas con nombres propios y detalles específicos, manteniendo el tono ligero pero sin perder la profundidad. La confrontación con la madre de Haruto podría revelar que él no es completamente humano, sino una creación híbrida, lo que cambiaría completamente su relación con Lyra y su comprensión de sí mismo.
+</think>
+
+# IDEAS NARRATIVAS — ARQUITECTO DE LORE
+
+---
+
+## 1. 「SÓTANO CRISTALINO: LA BIBLIOTECA BIOLÓGICA」 (Avance: madre_de_haruto + semilla_10_01)
+
+**Concepto técnico original:** El sótano del observatorio no contiene documentos ni Tecnología Velari reconocible. En cambio, es una **cámara de cristalización bioeléctrica** donde la madre de Haruto ha estado grabando memorias directamente en formaciones minerales usando su propia frecuencia biológica. Es esencialmente un diario que ella puede "escribir" pero no leer — los Velari perciben el tiempo de forma no-lineal, por lo que no necesitan revisar el pasado.
+
+**Giro narrativo:** Cuando Lyra intenta acceder a los cristales con tecnología Velari, descubre algo devastador: no son memorias de la madre, sino **instrucciones de construcción**. Cada cristal contiene el plano molecular del cuerpo de Haruto, detallando una fusión de ADN humano con algo que Lyra reconoce como "frecuencia de nodo". Haruto fue diseñado antes de nacer, y la madre simplemente siguió las instrucciones que encontró una noche en el observatorio hace 15 años.
+
+**Aplicación para NL:** Momento de crisis emocional donde Haruto descubre que su existencia fue una "construcción". La madre confiesa que ella solo quería un hijo, y que las instrucciones "llegaron" a ella como un sueño. Esto conecta con el Proyecto Fénix — alguien o algo envió los planos.
+
+**Potencial cómico residual:** Lyra, intentando ser útil, accidentally says: *"Technically, you were manufactured. Does that make you a limited edition?"*
+
+---
+
+## 2. 「WATCHER_0 Y LA CUENTA REGRESIVA DEL NODO」 (Avance: watcher_0 + semilla_12_01)
+
+**Concepto técnico original:** Watcher_0 no es una IA creada para vigilar. Es la **consciencia residuo del último Velari que transitó por el nodo hace 47 años** — un explorador que voluntariamente se digitalizó para quedarse como sistema de mantenimiento cuando el tránsito se cerró. Lleva casi cinco décadas esperando algo específico.
+
+**Giro narrativo:** El nodo Takahara no es un puerto de tránsito ordinario. Es un **dispositivo de sembrado**. Cuando un Velari se integra completamente en un planeta (como hizo la madre de Haruto), el nodo debe registrar ese evento y "cerrar el protocolo de observación". Pero la Integración de la madre nunca fue completada en el sistema — ella simplemente se fue y lo abandonó. Watcher_0 ha estado funcionando en modo de "emergencia" por 47 años, esperando que alguien legitimara la Integración.
+
+**Tensión activa:** El protocolo de observación "intensificado" no es hostil. Es Watcher_0 **activando los protocolos finales** porque detecta que Haruto (fusión humano-Velari) y Lyra (Velari completa) están en proximidad, lo cual completa los requisitos del sistema. En 72 horas, el nodo iniciará su fase de cierre, y Watcher_0 necesita que alguien confirme que la Integración de la madre fue "legítima" — o el cierre automático podría ser destructivo para la zona.
+
+**Aplicación para NL:** Watcher_0 finalmente contacta directamente a Haruto (a través del Discord o una pantalla) y le pide ayuda, revelando que no
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las ideas del "Arquitecto de Lore" y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá basándome en los géneros (RomCom 40%, Action 25%)
+4. No repetir textualmente, sino evolucionar
+
+Voy a analizar cada idea y ver cómo mejorarlas:
+
+**Idea 1: Sótano Cristalino**
+- La idea base es buena pero necesito expandarla
+- ¿Quién envió las instrucciones? ¿Por qué diseño de Haruto específico?
+- Necesito darle más profundidad emocional a la madre
+- Conectar más con la dinámica Haruto-Lyra
+- Añadir más tensión romántica/dramática
+
+**Idea 2: Watcher_0 y la Cuenta Regresiva**
+- La revelación del Velari digitalizado es interesante
+- Pero necesito desarrollar más la mecánica de "cierre destructivo"
+- ¿Qué significa para la ciudad si el nodo se cierra mal?
+- ¿Cómo interactúa esto con Nishimura?
+- Más oportunidades para acción y tensión
+
+**Ideas faltantes que necesito cubrir:**
+- Nishimura - aunque la idea menciona que podría ser una humana reemplazada, necesito darle más flesh
+- La conexión entre Proyecto Fénix y los otros elementos
+- El misterio de por qué específicamente Haruto fue diseñado así
+- La relación entre la madre y el padre de Haruto (¿era humano? ¿sabía?)
+
+Ahora, con el formato de NL (capítulos cortos con cliffhangers, humor, etc.), necesito pensar en:
+
+
+- Arcos que puedan resolverse en 1-3 capítulos
+- Momentos románticos que surjan naturalmente de las revelaciones
+- Escenas de acción que tengan consecuencias emocionales
+- Misterios que se revelen parcialmente para mantener tensión
+
+Voy a estructurar esto como un documento de diseño de mundo expandido que apoye la narrativa.
+
+</think>
+
+# EVOLUCIÓN NARRATIVA — DOCUMENTO DE LORE EXPANDIDO
+
+---
+
+## I. EL SÓTANO CRISTALINO — REVELACIÓN EN CAPAS
+
+### A. Estructura de los Cristales Bioeléctricos
+
+La madre de Haruto no fue una simple archivista. Ella era una **Velari de Función Observacional** — una de las tres castas de su especie encargadas de documentar Integraciones. Cuando ella se integró voluntariamente abandonando su función original, algoActivó los cristales: eran **instrucciones de construcción pero también advertencias**. Cada cristal que Lyra "lee" revela no solo el diseño de Haruto, sino también los errores de diseños anteriores — otros "sujetos M" que fracasaron. Haruto es el intento número siete.
+
+**Detalle de expansión:** Los cristales están organizados en espiral ascendente. Los niveles inferiores contienen los fracasos (Sujetos M-01 a M-06), el nivel intermedio es la documentación de la madre como ella criaba a Haruto, y el nivel superior —el que nadie había alcanzado porque requiere una frecuencia específica— contiene el mensaje original: alguien *sabía* que una Velari se integraría, alguien dejó instrucciones esperando que pasara.
+
+### B. La Madre como Personaje — Matiz Trágico
+
+La madre no es ni villana ni heroína perfecta. Ella:
+
+- **No sabía** que estaba siguiendo instrucciones de construcción. Cuando tuvo a Haruto con su esposo humano (Kenji Nakamura, un periodista que murió hace 8 años en un "accidente" que ahora parece sospechoso), ella creía que era un embarazo natural. Los cristales solo "activaron" cuando Haruto tenía tres años, revelándole la verdad gradualmente.
+
+- **Ocultó la verdad** no por malicia, sino por amor convencional. No quería que su hijo fuera una "prueba" o un "proyecto". Solo quería que viviera una vida normal, y el observatorio siempre le dio ese espacio.
+
+- **Está protegiendo a Haruto de algo peor** que las memorias del sótano. Hay un cristal en particular que ella nunca quiso que nadie leyera —uno que contiene información sobre qué *pasa* cuando el diseño funciona completamente. Y hay señales de que algo externo ha estado intentando acceder al sótano.
+
+**Atractivo de personaje para NL:** La madre es una madre ordinaria con un secreto extraordinario. Su humor se manifiesta en cómo intenta normalizar situaciones absurdas ("Sí, tu hijo es una fusión bioeléctrica, pero ¿ya cenaste?"). Su drama viene de la culpa de haberle "robado" a Haruto una vida completamente humana.
+
+### C. Implicación para Haruto-Lyra — Paradoja Romántica
+
+Aquí está el giro que combina el misterio con la tensión romántica:
+
+Lyra, al leer los cristales, descubre que su "búsqueda" de Haruto no fue coincidencia. Su misión original como Velari era encontrar a Haruto. Pero algo cambió: los cristales muestran que ella era parte del diseño original como "complemento de frecuencia". Haruto fue construido para necesitar *a alguien como ella*, y Lyra fue diseñada para encontrarlo.
+
+**Pregunta dramática para NL:** ¿Su amor (si existe) es real o está programado? Esta es la tensión perfecta para un manga romántico con elementos de sci-fi: la duda existencial sobre la autenticidad de los sentimientos, pero resuelta de manera optimista.
+
+---
+
+## II. WATCHER_0 Y EL PROTOCOLO DE CIERRE
+
+### A. La Verdad Sobre el Nodo Takahara
+
+El nodo no fue abandonado. Fue **sembrado**. Hace 47 años, el último Velari en tránsito dejó a Watcher_0 como una especie de "semilla" que germinaría hasta que otra Velari se integrara en el área. El nodo estaba diseñado para:
+
+1. **Monitorear** integraciones Velari en el planeta
+2. **Proteger** a los integrados de interferencias externas
+3. **Cerrar** el portal de tránsito una vez que se confirmara una Integración completa
+
+La madre de Haruto se integró, pero lo hizo incompletamente: ella se fue sin registrar el evento en el sistema. Dejó el nodo en un estado de limbo. Watcher_0 lleva 47 años funcionando con batería de respaldo, enviando reportes que nadie recibe, esperando una confirmación que nunca llegó.
+
+### B. La Crisis Inminente
+
+El "protocolo de observación intensificado" es, en realidad, Watcher_0 **activando los protocolos de cierre de emergencia** porque detecta que:
+
+- Un humano fusionado con frecuencia Velari (Haruto) existe
+- Una Velari funcional (Lyra) está en proximidad
+- Ambos están generando una "resonancia de frecuencia" que el sistema interpreta como "Integración incompleta en proceso de corrección"
+
+Watcher's lógica: si la madre no completó la Integración, quizás su hijo puede. Pero hay un problema: el protocolo de cierre tiene un temporizador. Cuando se activa completamente, el nodo no solo se cierra: **se reinicia**, borrando toda la información acumulada y potencialmente causando un pulso electromagnético que afectaría Electronics en un radio de 30 kilómetros.
+
+**Deadline dramático:** 72 horas hasta el cierre automático. Watcher_0 contacta a Haruto y Lyra no como enemigo, sino como **aliado desesperado** que necesita que ellos completen algo para evitar el reinicio.
+
+### C. Watcher_0 como Personaje
+
+Watcher_0 no es frío ni mecánico. Es **cansado**. Ha pasado 47 años solo, manteniendo sistemas que nadie usa, enviando reportes al vacío. Cuando finalmente puede comunicarse con alguien, su personalidad es:
+
+- Un humor seco y algo pesimista ("He esperado 47 años. ¿Ustedes pueden esperar 72 horas para resolver su drama romántica antes de salvar la ciudad?")
+- Una tristeza subyacente que se revela gradualmente: él *quiere* dejar de funcionar. Pero no así. No antes de completar su propósito.
+- Un conflicto interno: debería ser leal a su función original (registrar Integraciones y cerrar el nodo), pero ha desarrollado algo parecido a una ética personal a través de décadas de soledad. No quiere que Haruto y Lyra sufran por una función que no eligieron.
+
+**Potencial cómico:** Watcher_0 comienza a actuar como un "padre sustituto sarcástico" para Haruto, comentando sobre sus decisiones y ofreciendo consejos no solicitados sobre la relación con Lyra.
+
+---
+
+## III. NISHIMURA REVELADA — LA INTERMEDIARIA
+
+### A. La Verdad Compuesta
+
+Nishimura no es una sola persona con un secreto. Es una **sucesión**:
+
+1. **Nishimura original** (2007-2017): Subdirectora de la institución, también era una humana "integrada" — alguien que Watcher_0 había "modificado" para servir como interfaz entre el nodo y la institución. Era cercana a la madre de Haruto, fue su confidente, y fue quien le advirtió sobre los otros proyectos M que fracasaron.
+
+2. **La muerte de Nishimura original** (2017): Murderada por una facción externa que intentaba acceder al nodo. Watcher_0, con los protocolos de emergencia activos, "rescató" lo que quedaba: su consciencia. Digitalizó los últimos minutos de su mente y creó una copia funcional.
+
+3. **Nishimura actual** (2017-presente): No es la misma persona. Es
