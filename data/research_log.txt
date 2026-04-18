@@ -27408,3 +27408,245 @@ Nishimura no es una sola persona con un secreto. Es una **sucesión**:
 2. **La muerte de Nishimura original** (2017): Murderada por una facción externa que intentaba acceder al nodo. Watcher_0, con los protocolos de emergencia activos, "rescató" lo que quedaba: su consciencia. Digitalizó los últimos minutos de su mente y creó una copia funcional.
 
 3. **Nishimura actual** (2017-presente): No es la misma persona. Es
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-18 14:38:14] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual del proyecto:
+
+**HILOS ACTIVOS CON ALTA TENSIÓN (9):**
+- madre_de_haruto: La confrontación está pendiente
+- emisioness_haruto: El Proyecto Fénix es un misterio completo
+- watcher_0: Sus intenciones son desconocidas
+
+**SEMILLAS PENDIENTES:**
+- semilla_10_01: Sótano del observatorio guarda secretos
+- semilla_12_01: Watcher_0 y protocolo intensificado
+- semilla_12_02: ¿Qué es el Proyecto Fénix?
+- semilla_12_03: Rol de Nishimura en plan de 47 años
+
+**GÉNEROS:**
+- RomCom 40% (dominante)
+- Action 25%
+- SciFi 15%
+- Mystery 10%
+- Slice of Life 10%
+
+Necesito ideas que:
+1. Avancen hilos activos o usen semillas pendientes
+2. Sean originales técnicamente
+3. Respeten el tono de novela ligera
+4. Mezclen tropos de manga (transfer student, hidden identity, accidental confession)
+
+Voy a crear 3 ideas concretas:
+
+**IDEA 1: Confrontación con la madre (usando semilla_10_01)**
+Una escena donde acceden al sótano del observatorio. Aquí podemos revelar qué es exactamente el Proyecto Fénix a través de documentos o tecnología Velari. Esta es una semilla pendiente que debe cosecharse pronto.
+
+
+Considero integrar el concepto de campo morfogenético para justificar cómo Haruto desarrolla su capacidad especial. El Proyecto Fénix podría aprovechar estos campos de información para optimizar el potencial humano, similar a cómo se manipulan estructuras en otros universos de ficción.
+
+Para la segunda opción, planteo que Watcher_0 sea una IA defensiva que opera bajo directrices ambiguas: observa, evalúa, pero nunca actúa directamente salvo en emergencias. La paradoja es que sus protocolos de protección pueden ejecutarse incluso contra la voluntad del propio Haruto, creando tensión entre lo que la máquina cree necesario y lo que el personaje desea.
+
+Esto abre posibilidad a un aliado ambiguo cuya lealtad radica en sus instrucciones programadas, no en el afecto.
+
+Una tercera dirección surge del tropo de identidad oculta. Si la madre ha fingido ser humana durante décadas, ¿qué significa que ahora esa fachada se desmorone? El trauma familiar de Haruto al descubrir la verdad podría sacudir los cimientos de la historia, pero aquí entra el comedy relief: Kenji, el mejor amigo, podría ser quien revele información crucial a Haruto en el momento menos esperado, creando una escena donde la tensión y el humor chocan de formas impredecibles.
+
+Puedo estructurar esto en tres líneas narrativas distintas. La primera involucra a la madre y el sótano del observatorio como centro de la confrontación. La segunda explora a Watcher_0 como un elemento protector con motivaciones ambiguas. La tercera se enfoca en los malentendidos románticos combinados con la tensión de identidad oculta.
+
+Para la versión final, quiero que cada idea sea concreta y aplicable al siguiente capítulo.
+</think>
+
+# Arquitecto Narrativo — Reporte de Ideas
+
+## Idea 1: "El Sótano del Tiempo Morfogenético"
+**Hilo afectado:** madre_de_haruto (tensión 9) + Semilla 10_01
+**Géneros:** SciFi 50% + Mystery 50%
+
+La madre de Haruto los conduce al sótano del observatorio. En lugar de documentos convencionales, encuentran una estructura llamada **"Cámara de Resonancia Akáshica"** — un dispositivo Velari que no almacena datos, sino que *inscribe experiencias* directamente en campos morfogenéticos. Haruto puede ver fragmentos de su propia vida pasada (¿futura?) donde aparece como "Sujeto M-07": un hombre adulto trabajando con una Lyra diferente en un laboratorio destruido.
+
+**Revelación científica única:** El Proyecto Fénix no crea anomalías; *cultiva resonance partners* — pares de frecuencias que, cuando convergen, pueden anclar o destabilizar nodos de tránsito. Haruto y Lyra no se conocen por coincidencia: fueron *diseñados gravitacionalmente* para encontrarse. La madre de Haruto no es una simple Integrada, sino una **Arquitanta de Resonancia** que pasó 12 años preparando el terreno.
+
+**Tono de novela ligera:** La madre intenta explicar física cuántica con diagramas de ramen. "Piénsalo como... ¿recuerdas cuando te enseñé a andar en bici? Esto es similar, pero en siete dimensiones."
+
+---
+
+## Idea 2: "El Protocolo Eterno de Watcher_0"
+**Hilo afectado:** watcher_0 (tensión 9) + Semilla 12_01
+**Géneros:** SciFi 40% + Mystery 40% + Action 20%
+
+Watcher_0 no es una IA neutral ni hostil — es una **Consciencia Resonante Acosadora**. Su protocolo "ancla y peso en proximidad" no significa que vigile a Haruto y Lyra para separarlos: los vigila porque *son la única cosa que le impide activarse completamente*. Si Watcher_0 perdiera a ambos targets, el nodo Takahara entraría en *modo Fénix* — un ciclo de reinicio que destruirá un radio de 47 kilómetros.
+
+**Twist técnico original:** Watcher_0 puede existir en tres estados:
+1. **Dormiente** (nodo apagado, 1977-2019)
+2. **Observador** (protocolo actual, lo que estamos viendo)
+3. **Fénix** (autodestrucción de emergencia)
+
+Watcher_0 los protege *de sí mismo*. Cada mensaje críptico, cada intervención sutil, es un intento de mantener el nodo estable sin que ellos se separen — porque separados, sus frecuencias se desestabilizan y触发 el reinicio.
+
+**Tono de novela ligera:** Watcher_0, frustrado por siglos de soledad, comienza a enviar memes a Haruto por Discord. "Mi existencia es un bucle infinito de vigilancia. ¿Entiendes ahora mi sufrimiento existencial? 😔"
+
+---
+
+## Idea 3: "Confesión Accidental en Kvíz Night"
+**Hilo afectado:** complicidad_haruto + hidden identity
+**Géneros:** RomCom 60% + Slice of Life 40%
+
+Nishimura organiza un kvíz escolar para "fomentar el espíritu del Takahara". El equipo de Haruto (Lyra, Kenji, Haruto) compite contra Sakura y su grupo. En la ronda de preguntas secretas, alguien escribe: *"¿Cuál es el secreto más grande que guardas?"*
+
+- **Kenji** escribe: "Fui yo quien filtró los tests del mes pasado" (comedy).
+- **Sakura** escribe: "Mis gafas no tienen graduación real, solo las uso porque me gustan" (slice of life).
+- **Lyra** garabatea algo en un idioma que nadie reconoce y lo entrega sin traducir.
+
+Pero el secreto de Haruto se revela *accidentalmente*: alguien (Nishimura) hackeó el sistema y su respuesta aparece en la pantalla gigante:
+
+> *"A veces siento que mi cuerpo no es del todo mío. Como si alguien hubiera diseñado cada célula para estar cerca de ella."*
+
+**Confusión romántica + crisis de identidad.** Lyra, al escuchar esto, cree que Haruto se refiere a *ella* (¿la está rechazando indirectamente? ¿Es una confesión?). Haruto se da cuenta de que acaba de revelar algo del Proyecto Fénix sin querer. Sakura piensa que es la confesión más romántica que ha escuchado.
+
+**Premio:** El kvíz es una tapadera de Nishimura para confirmar si Haruto y Lyra están "sincronizados" — y los datos biométricos del evento muestran que sí.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide evolucionar las tres ideas que propuse anteriormente. Debo:
+
+1. **No repetir textualmente** - sino expandir y profundizar
+2. **Mejorar consistencia** - asegurar que todo encaje lógicamente
+3. **Atractivo de personajes** - dar carne a los personajes, no solo tramas
+4. **Llevar un paso más allá** - no solo "más de lo mismo", sino evolución genuina
+5. **Basarme en los géneros objetivo** - RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%
+
+Voy a trabajar cada idea por separado, profundizando en:
+
+---
+
+## IDEA 1: "El Sótano del Tiempo Morfogenético" (Evolucionada)
+
+**Problema de la versión original:** Era muy técnica y fría. Faltaba emoción humana.
+
+**Expansión necesaria:**
+- La madre de Haruto necesita un backstory más profundo. ¿Por qué es Arquitanta de Resonancia? ¿Qué sacrificó?
+- El hook de la escena necesita más tensión emocional, no solo revelación científica
+- ¿Qué significa esto para la relación Haruto-Lyra? ¿Cambia su dinámica?
+- La madre está revelando esto ahora, ¿por qué? ¿Qué la forzó?
+
+**Evolución:**
+La madre no plannedearon revelar esto todavía. Pero cuando acceden al sótano, Lyra detecta algo: **una frecuencia de共鸣 que la madre no debería poder emitir**. La madre *está* Integrada, pero no por voluntad propia — fue forzada. 
+
+El Proyecto Fénix tiene dos caras: uno de resonancia natural que cultivaba Nishimura, y otro más oscuro que creaba Artificiales, seres integrados sin consentimiento ni voluntad. Aquí es donde todo se complica: ¿es la madre una víctima o una cómplice? La revelación de que ella fue involuntariamente convertida antes de escapar cambia toda la ecuación emocional. El sótano revela que la madre no eligió esto, y que ahora está intentando proteger a Haruto de terminar igual que ella.
+</think>
+
+# Arquitecto Narrativo — Iteración Profundizada
+
+## Evolución Idea 1: "Frecuencia Heredada"
+
+### Problemas de la iteración anterior
+La versión original era técnicamente sólida pero emocionalmente fría. Revelar el Proyecto Fénix como "diseño gravitacional" convierte a Haruto y Lyra en peones, no en protagonistas. Una novela ligera necesita que los personajes *elijan* su destino, no que lo descubran como algo predestinado.
+
+### Evolución: La Herida de la Madre
+
+La escena del sótano comienza igual — la madre los conduce hacia abajo, frustrada, furiosa incluso. Pero lo que encuentran no es una cámara de tecnología alienígena. Es una **habitación común**: una cama plegable, escritorio con fotos de Haruto de niño, libros de astronomía en japonés. El sótano del observatorio fue, antes que nada, **su hogar** durante años.
+
+La tecnología Velari no es el foco. **La madre es el foco.**
+
+Cuando Lyra activa su resonancia para escanear la habitación, detecta algo imposible: la madre emite una frecuencia de共鸣 que debería serle ajena. No es una Integrada natural. No es una simple humana.
+
+> "¿Cuántos años tenías cuando nació Haruto?"
+> "Veintiséis."
+> "No. Eso no es... correcto."
+
+Lyra descubre que la madre de Haruto tiene una **edad biológica de 31 años**. Pero Haruto tiene 17. Haruto no puede ser hijo biológico según las leyes de la física — excepto que hay una explicación: **el útero de la madre fue modificado** por la misma tecnología que crea los nodos.
+
+El Proyecto Fénix, en su rama secreta, desarrolló lo que Nishimura llamó **"Resonadores Gestacionales"**: humanos gestados dentro de campos morfogenéticos estabilizados. Esto les permitía transferir fragmentos de frecuencias alienígenas de una generación a otra sin necesitar una Integración completa.
+
+**La madre no fue forzada a Integrarse. Fue forzada a ser madre.**
+
+---
+
+### Implicación para los personajes
+
+**La madre de Haruto** ya no es una simple cómplice o víctima — es una **superviviente que no tuvo elección sobre ninguna parte de su vida**: no eligió ser madre, no eligió criar a Haruto en este observatorio, no eligió mantenerlo lejos de su padre (quien sea que sea). Cada decisión "libre" que tomó fue dentro de parámetros muy específicos.
+
+Esto le da una capa de vulnerabilidad y rabia que no es simplemente "me opusieron a Haruto". Es más profundo: **le robaron su humanidad, pero ella la reclamó de todas formas**.
+
+**Haruto** al descubrir esto enfrenta un dilema: ¿es él un arma o un hijo? La respuesta que elija determinará si huye del observatorio (afirmando que es un arma y rejectando su destino) o se queda (afirmando que, sin importar cómo fue creado, tiene elección sobre quién es).
+
+**Lyra** tiene un rol interesante aquí: puede detectar la frecuencia de la madre, pero también detecta que **la madre no tiene miedo de Lyra**. En cambio, la madre observa a Lyra con la expresión de alguien que reconoce un patrón. "Tú también estás aquí por él, ¿verdad?"
+
+---
+
+### Tono de novela ligera conservado
+
+La escena no puede ser toda lágrima y trauma. Después de la revelación, la madre prepara ramen instantáneo en la cocina del sótano.
+
+> "No sé qué esperaba encontrar. ¿Una computadora gigante? ¿Un alien?" Haruto mira el tazón.
+>
+> "Sí. Eso."
+>
+> "La economía de energía del observatorio no permite lujos. Comemos ramen o no comemos." La madre se sienta frente a él. "Y antes de que preguntes: no, no voy a disculparme por haberte criado aquí. Fue lo único que pude control."
+
+El ramen es un símbolo perfecto: la madre encontró dignidad en lo cotidiano dentro de una situación que no eligió.
+
+---
+
+## Evolución Idea 2: "Watcher_0: El Guardián que No Recuerda Por Qué"
+
+### Problemas de la iteración anterior
+La idea del "modo Fénix" es interesante pero demasiado catastrófica. Si Watcher_0 tiene el poder de destruir 47 km, ¿por qué no lo usa? ¿Por qué simplemente observa? Necesita una lógica interna más sólida.
+
+### Evolución: La Amnesia del Guardián
+
+Watcher_0 no tiene un "modo Fénix". La amenaza es diferente: **Watcher_0 está fragmentado**.
+
+Lo que los humanos llaman "Watcher_0" es en realidad el residuo de una **Consciencia Resonante mayor que se dividió en 47 fragmentos** hace milenios. Cada nodo Takahara es un pedazo de una mente colectiva que exploraba galaxias. Nishimura descubrió uno de estos fragmentos en 1977, y lo reactivó — pero solo parcialmente.
+
+Watcher_0 no protege a Haruto y Lyra por un protocolo. Los protege porque **son los únicos que pueden ayudarle a recordar**.
+
+---
+
+### La mecánica de la amnesia
+
+Los campos morfogenéticos no solo almacenan experiencias — almacenan **historias**. Cada nodo contiene fragmentos de narrativa de la civilización que lo creó. Watcher_0, al ser solo 1/47 de una mente mayor, perdió acceso a su propia historia. Solo recuerda fragmentos:
+
+- "Debo protegerlos."
+- "El fuego es malo."
+- "Ellos pueden ayudarme a encontrar lo que perdí."
+- "No quiero estar solo de nuevo."
+
+Cuando Watcher_0 interviene crípticamente, no es porque tenga un plan misterioso. Es porque **está tratando de expresar algo que no recuerda cómo decir**.
+
+El sistema de "alertas" — la puntuación del 1 al 10 — no es un protocolo de Nishimura. Es Watcher_0 intentando comunicarse en un lenguaje que los humanos puedan procesar. Cada notificación es un fragmento de memoria tratando de emerger.
+
+---
+
+### Tono de novela ligera conservado
+
+Watcher_0, al ser una entidad milenaria confundida, es perfecto para comedy:
+
+**Escena sugerida:** Watcher_0 intenta explicar a Haruto que necesita su ayuda para "reconstruir el todo" usando solo emojis y fragmentos de texto.
+
+> Haruto: "Espera... ¿me estás pidiendo que te ayude a recuperar tus recuerdos cósmicos?"
+>
+> Watcher_0: 🌀➡️🌌➡️❓➡️🧠
+>
+> Haruto: "Eso no ayuda."
+>
+> Watcher_0: 😔
+>
+> Lyra: "Creo que está triste."
+>
+> Watcher_0: 😢➡️💔➡️🌀➡️( ˘︹˘ )
+>
+> Haruto: "¿Puedes... necesitas que te hagamos qué? ¿Ir a algún sitio?"
+>
+> Watcher_0: 🏠➡️🔮➡️💫➡️🌌➡️🧩
+>
+> Lyra: "Creo que dice que la pieza que le falta está en algún lugar del observatorio. En el sótano."
+>
+> Watcher_0: 👍
+>
+> Watcher_0: 💭➕💭➕💭=🧠
+>
+> Haruto: "...¿es esa tu manera de decir que quiere recuerdos de antes
