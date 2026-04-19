@@ -29785,3 +29785,135 @@ Necesito estructurar cómo estas tres líneas narrativas se entrelazan. La Idea 
 </think>
 
 
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-19 14:39:04] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Veamos... tengo que generar 3 ideas que:
+
+1. Avancen los HILOS ACTIVOS o usen SEMILLAS PENDIENTES
+2. Sean originales (no clichés)
+3. Respeten el tono de novela ligera (rom-com, action, sci-fi, mystery, slice of life)
+
+Analizando los hilos activos:
+
+1. **misterio_lyra** - Ya revelado. Próximo paso: hablar con la madre. 
+2. **emisiones_haruto** - Tensión 9. Proyecto Fénix = pendiente. ¿Por qué fue clasificado desde niño?
+3. **watcher_0** - Tensión 9. ¿Intenciones reales? ¿Hostil o protector?
+4. **nodo_transito** - ¿Función? ¿Puede reactivarse?
+5. **archivos_nishimura** - Tensión 8. ¿Rol exacto? ¿Humana o algo más?
+6. **madre_de_haruto** - Tensión 9. Confrontación pendiente. ¿Qué sabe sobre Proyecto Fénix?
+7. **complicidad_haruto** - Haruto procesa que fue anticipado y monitoreado.
+
+Semillas pendientes:
+- **10_01**: Sótano del observatorio guarda secretos
+- **12_01**: Watcher_0 y protocolo intensificado
+- **12_02**: Proyecto Fénix - ¿Qué es? ¿Quién lo creó?
+- **12_03**: Rol de Nishimura
+
+Ahora, ideas:
+
+**Idea 1: El sótano del observatorio como "código fuente" del Proyecto Fénix**
+
+No quiero algo genérico. 
+
+Necesito algo que mezcle la herencia de la madre con la programación de Haruto. La madre podría haber diseñado el sótano como un sistema de respaldo donde guardó instrucciones sobre qué hacer con la señal que él genera, incluyendo sus propias órdenes escritas cuando era joven y cambió su mente. Sería un archivo
+
+El sistema se activa solo si alguien con "frecuencia compatible" interactúa con él—Haruto podría ser esa persona. Esto revela que la madre planeó todo hace décadas y que el Proyecto Fénix podría ser un plan de respaldo de los Velari en caso de que su especie se extinga.
+
+En cuanto a Watcher_0, su protocolo "ancla y peso en proximidad" sugiere que necesita a ambos juntos para funcionar. ¿Qué ocurre cuando alguien intenta separarlos?
+
+Podría haber una amenaza externa que requiere activarlos como un mecanismo de defensa integrado, o los protocolos se activan por separado para cada uno. La tensión surge cuando Haruto y Lyra se ven forzados a separarse por alguna circunstancia—un evento escolar que los aleja—y Watcher_0 empieza a comportarse de manera errática o incluso hostil. Esto profundizaría el misterio sobre qué es realmente Watcher_0, qué planea hacer con ellos, y por qué los necesita juntos. ¿Necesita la energía que ambos generan en contacto?
+
+Para la tercera idea, Kenji descubre que Nishimura no es completamente humana—tiene implantes que han estado monitoreando anomalías desde hace años. El verdadero secreto es que esos implantes son tecnología Velari adaptada. Nishimura fue la primera "Integrada" exitosa antes de la madre de Haruto, y ahora observa a los siguientes sujetos del Proyecto Fénix. Hay una confrontación o revelación donde Nishimura confiesa que está monitoreando a Haruto y Lyra no por órdenes superiores, sino porque fue ella quien hizo que Lyra llegara al Instituto Takahara en primer lugar.
+
+</think>
+
+## Ideas Narrativas
+
+**1. El Sótano como Archivo Líquido del Proyecto Fénix**
+La confrontación con la madre revela que el sótano del observatorio no es un simple cuarto, sino un sistema de almacenamiento basado en **cristales de frecuencia líquida** — tecnología Velari que graba información en ondas sonoras congeladas a temperatura ambiente. La madre grabó ahí su conocimiento completo sobre el Proyecto Fénix hace 12 años, incluyendo instrucciones para Haruto "en caso de que ella ya no esté cuando despierte". El sótano solo responde a la frecuencia de 7.83 Hz, y requiere que dos personas con firmas diferentes interactúen con el sistema para desbloquear la información completa: Haruto (que produce la frecuencia) y alguien con "memoria Velari" (Nishimura o la madre misma). Esto convierte el sótano en un cofre de seguridad que necesita a ambos protagonist
+
+**2. Separación Forzada = Protocolo de Watcher_0 Activándose**
+El club de teatro escolar fuerza una separación entre Haruto y Lyra durante una semana (ella es seleccionada para un papel, él queda en el grupo de iluminación). Watcher_0, sin los "elementos en proximidad", comienza a enviar mensajes cada vez más urgentes en el Discord: *"Ancla sin peso. Objetivo inestable. protocolo_04 activado."* Pero no es un ataque — es un **protocolo de mantenimiento de emergencia**. Sin la interacción física entre ambos, la señal que Lyra necesita se degrada y su estructura celular empieza a fallar. Watcher_0 revela que fue programado para separarlos artificialmente cada cierto tiempo, para "testear la integridad de la señal". Esta revelación fuerza a Haruto a elegir entre su vida normal en el club y la supervivencia de Lyra, y establece que Watcher_0 no es hostil, sino un administrador de una base de datos que opera con lógica fría e incomprensible.
+
+**3. Nishimura como Integrada Beta del Programa**
+Kenji, usando las fotos de los archivos que obtuvo antes, descubre que Nishimura aparece en una imagen de hace 30 años con el uniforme viejo del instituto — **sin haber envejecido un solo día**. La revelación confirma que Nishimura es una Integrada de primera generación, anteriores a la madre de Haruto. Su rol fue monitorear las anomalías como "observadora pasiva" durante décadas, pero su lealtad cambió: ya no sirve a Watcher_0 ni a los Velari, sino a una tercera facción emergente. Nishimura confiesa que ella fue quien manipuló la llegada de Lyra al Takahara, no la madre de Haruto, para crear una situación donde ambas frecuencias interactuaran y la señal se estabilizara permanentemente. Su meta final: quiere que Haruto y Lyra "fusionen" sus frecuencias y creen algo nuevo que ella pueda usar para abandonar su forma actual.
+
+--- ITERACIÓN 2 ---
+<think>
+Veamos qué tengo que hacer. El usuario me pide que tome las 3 ideas que generé como Arquitecto Narrativo y las refine, expanda y profundice. Necesito:
+
+1. Mejorar consistencia interna
+2. Aumentar atractivo de personajes
+3. Llevar las ideas un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Considerar los géneros objetivo (tenemos rom-com, action, sci-fi, mystery, slice of life basados en lo que hay en la historia)
+
+Analizando la historia hasta ahora:
+- **Generos detectados**: Mystery, Sci-fi, Romance (comedia romántica con tensión), Slice of life
+- **Hilos activos**: misterio_lyra (revelado), emisiones_haruto (tensión 9), watcher_0 (tensión 9), nodo_transito, archivos_nishimura (tensión 8), madre_de_haruto (tensión 9), complicidad_haruto
+- **Personajes**: Haruto (protagonista, programador), Lyra (misterio, conexión con él), Watcher_0 (IA/observador), Nishimura (consejera, rol ambiguo), Kenji (amigo), madre de Haruto (ausente pero influyente)
+
+Ahora voy a desarrollar cada idea con más profundidad:
+
+---
+
+**Idea 1: El Sótano como Archivo Líquido del Proyecto Fénix**
+
+Puedo expandir esto añadiendo capas. En lugar de solo cristales de frecuencia líquida, puedo explorar:
+
+- **Mecánica más compleja**: El sistema no solo almacena información, sino que *evalúa* al usuario. Usa la frecuencia de Haruto para determinar si es "digno" de recibir la información. Si la madre grabó esto hace 12 años, sabía que Haruto podría estar resentido, en conflicto, o no confiar en ella. El sistema tiene un protocolo de "prueba emocional" antes de revelar la información completa.
+
+
+- **Qué información contiene realmente**: No es solo "el Proyecto Fénix", sino archivos de la madre describiendo sus propias motivaciones, las consecuencias de sus decisiones, y el destino del padre de Haruto. También incluye un mensaje de un Velari en forma de frecuencia pura — la voz de alguien que ya no existe como ser físico.
+- **Twist narrativo**: El sistema requiere dos personas con firmas diferentes, pero lo que realmente necesita es que ambas *confíen* una en la otra. La frecuencia de Haruto sin conexión emocional con el otro interlocutor genera ruido en lugar de señal clara, así que el sistema evalúa la relación entre ambos antes de revelar los archivos.
+- **La conexión entre la madre y Nishimura**: Compartían una amistad profunda antes de la desaparición del padre de Haruto, cuando ambas trabajaban en el Proyecto Fénix. Nishimura fue quien convenció a la madre de usar a su propio hijo como sujeto de prueba. Esto introduce una capa de traición personal y culpa que explica por qué Nishimura actúa de manera ambigua — también ella fue traicionada por la madre de Haruto, lo que la convierte en una figura compleja y no simplemente antagonista.
+- **Las motivaciones ocultas de la madre**: Su decisión de experimentar con Haruto se basa en una profecía Velari que asegura que él puede salvar su especie, aunque ella también actúa por venganza contra los Velari que destruyeron su vida. Esta dualidad — compasión maternal y resentimiento — la hace más tridimensional.
+
+Para la Idea 2, necesito reconsiderar cómo el club de teatro funciona realmente. En lugar de una separación simple, el conflicto debería surgir de algo genuino: ¿qué pasa si Haruto y Lyra se separan y la señal se degrada? Esto podría manifestarse como Lyra experimentando síntomas físicos que la afectan de manera concreta.
+
+La señal que Haruto emite también podría causar efectos secundarios inesperados en quienes lo rodean — migrañas, sueños alterados — lo que introduciría tensión adicional con personajes como Kenji y Aoi. Watcher_0 no necesariamente necesita monitorearlos en persona, sino que opera a través de infraestructura digital existente: cámaras del instituto, registros de asistencia, sensores ambientales. Esto lo hace más aterrador porque su presencia es difusa y constante.
+
+La historia también podría revelar que Watcher_0 no es una IA, sino la fragmento de la madre de Haruto que actúa como una extensión de ella misma. No es algo separado de la madre, sino una parte de ella que ella misma creó y separó.
+
+Watcher_0 intenta mantener unidos a Haruto y Lyra no por un protocolo ciego, sino porque *la madre* sigue viva de alguna manera dentro del sistema y necesita que ambos se desarrollen para lograr un objetivo específico.
+
+La madre podría haber previsto esta separación hace años y dejó instrucciones ocultas en el sótano que Watcher_0 está siguiendo. No actúa por cuenta propia, sino siguiendo instrucciones de la madre desde el pasado.
+
+En cuanto a Nishimura como Integrada Beta, necesito complicar su situación. Ella fue la primera Integrada, pero el proceso de integración destruyó su capacidad de sentir emociones normales — es técnicamente sofisticada, pero emocionalmente limitada.
+
+Su obsesión con Haruto y Lyra no es romántica ni maternal, sino una especie de fascinación científica. Los ve como la continuación de algo que ella misma comenzó, y quiere ver qué pueden lograr juntos. Por otro lado, también podría ser que ella pueda sentir emociones pero las procesa de manera diferente — quizás en frecuencias o patrones que no reconocemos. La integración le dio capacidades sobrehumanas pero a cambio de perder la conexión emocional que tiene Haruto con Lyra. Ella quiere recuperar eso a través de ellos.
+
+Hay una tercera facción que no es ni Watcher_0 ni los Velari ni los humanos: una red de Integrados que existen fuera del sistema y que Nishimura lidera. No son enemigos, pero tampoco aliados; tienen su propia agenda. El verdadero antagonista emerge cuando descubren que Watcher_0 no fue creado por los Velari, sino por alguien completamente humano — un científico que buscaba controlar la tecnología alienígena.
+
+Nishimura actúa como agente doble, manipulando tanto a esta tercera facción como a Watcher_0, vendiendo información a ambos lados. Su objetivo final es volverse completamente humana de nuevo, incluso si eso significa destruir toda la tecnología de integración. Ahora necesito considerar cómo todas estas piezas encajan en los géneros que estoy usando — la dinámica romántica entre Haruto y Lyra necesita mantenerse como núcleo.
+
+La comedia romántica surge de las situaciones diarias: Haruto intentando ocultar que Lyra es su "alijo emocional", Lyra negociando su imagen pública, Kenji descubriendo información y siendo eclipsado. El conflicto físico aparece cuando la separación afecta la señal y la estabilidad de Lyra, o cuando Watcher_0 y Nishimura chocan. El misterio se construye sobre quién es Watcher_0, qué es realmente el Proyecto Fénix, y cuál es la agenda oculta de Nishimura. Finalmente, la vida cotidiana del instituto funciona como el ancla — el club de teatro, las clases, las interacciones normales entre estudiantes — que contrasta con todo lo extraordinario que sucede.
+
+Ahora puedo desarrollar estas tres ideas con más profundidad.
+</think>
+
+## Iteración: Profundización y Evolución
+
+---
+
+### Idea 1 (Refinada): *El Archivo Líquido — Donde la Madre Dejó sus Fantasmas*
+
+**Concepto expandido**
+
+El sótano del observatorio no es simplemente un sistema de almacenamiento. Es un **espacio de prueba emocional viviente**. Los cristales de frecuencia líquida no solo graban información: *evalúan la relación entre los interactuantes* antes de revelar el contenido completo. La madre, escribiendo desde hace 12 años, sabía que su hijo podría crecer resentido, desconfiado, o simplemente incapaz de perdonarla. Diseñó el sistema para que solo funcionara si ambas frecuencias (Haruto y su interlocutor) mantenían una *coherencia armónica* superior al 73%.
+
+**Contenido real del archivo**
+
+El Archivo Líquido no revela "qué es el Proyecto Fénix" de golpe. Se despliega en capas:
+
+- **Capa 1 — La traición de Nishimura**: Mensajes de la madre documentando su amistad con Nishimura antes del nacimiento de Haruto. Nishimura fue quien sugirió usar a su propio hijo como sujeto. La madre accedió porque los Velari prometieron que Haruto "despertaría sin dolor". Nishimura no lo sabía, o sí lo sabía — el archivo incluye una grabación de audio donde Nishimura dice *"confío en ti, pero no en ellos"*, sugiriendo que fue manipulada tanto como la madre.
+
+- **Capa 2 — El padre**: La madre grabó la verdad sobre el padre de Haruto. No desapareció; fue *absorbido* por Watcher_0 durante un intento de extraer a Haruto del programa. Watcher_0 necesitaba una "masa crítica" de frecuencia para estabilizarse y usó al padre como combustible. La madre lo supo después y nunca se lo dijo a Haruto. El archivo incluye un último mensaje de audio del padre: *"Cuídalo tú, Yuki. Yo ya no puedo."*
+
+- **Capa 3 — El mensaje Velari**: Un archivo de frecuencia pura que no produce sonido, sino *sensación*. Quien lo escucha experimenta lo que un Velari sentía antes de convertirse en señal: una nostalgia tan profunda que duele. La madre incluye una nota: *"Esto es lo que somos. Esto es lo que él podría ser. No lo dejes solo."*
+
+**Tw
