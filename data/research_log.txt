@@ -28585,3 +28585,248 @@ La interferencia electromagnética como prueba es un buen mecanismo de tensión,
 **El protocolo como experimento en tiempo real.** Watcher_0 no despliega interferencia al azar: ejecuta el *Protocolo de Separación Controlada* (PSC), un experimento que ella ha diseñado con parámetros específicos. Establece un perímetro de interferencia de 500 metros pero *no lo cierra completamente*: deja un corredor de 30 centímetros por donde la señal de Haruto puede filtrarse. Quiere observar si la señal de Haruto puede *reforzarse* voluntariamente para atravesar la interferencia. Si puede, confirma la hipótesis de resonancia cuántica. Si no puede, confirma la hipótesis de proximidad. La escena es un experimento científico narrativizado como escena de acción con计时 a presión.
 
 **El rol de la madre como frecuencia de respaldo.** Aquí es donde la idea evoluciona de manera significativa. La madre no actúa como "backup genérico": su frecuencia condicionada tiene un rango de acción específico de 47 metros. Dentro de ese radio, puede generar un *puente de frecuencias* que permite a Lyra recibir la señal de Haruto aunque él esté más lejos. Pero activar este puente le cuesta *
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-19 05:57:40] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo para el proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!". Necesito generar 3 ideas concretas que:
+
+1. Ayuden a avanzar hilos activos
+2. O utilicen semillas pendientes
+3. Sean originales técnicamente
+4. Respeten el tono de Novela Ligera (anime/manga style)
+5. Combinen los géneros activos (RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%)
+
+Veamos los hilos activos más prometedores:
+
+1. **madre_de_haruto** (Tensión 9): La confrontación es inminente. Semillas pendientes sobre el sótano del observatorio y el Proyecto Fénix.
+
+2. **emisiones_haruto** (Tensión 9): Proyecto Fénix - ¿por qué Haruto fue clasificado desde niño?
+
+3. **watcher_0** (Tensión 9): ¿Cuáles son las intenciones reales? Protocolo de observación intensificado.
+
+4. **archivos_nishimura** (Tensión 8): ¿Cuál es el rol exacto de Nishimura?
+
+Semillas pendientes más interesantes:
+- Semilla 10_01: El sótano del observatorio guarda secretos
+- Semilla 12_01: ¿Qué planea Watcher_0?
+- Semilla 12_02: ¿Qué es el Proyecto Fénix?
+- Semilla 12_03: Rol de Nishimura
+
+Voy a generar ideas que combinen:
+- RomCom (40%): malentendidos románticos, situaciones incómodas pero tiernas
+
+
+- Action (25%): confrontaciones, revelaciones dramáticas
+- SciFi (15%): la ciencia detrás de Haruto y Lyra
+- Mystery (10%): revelaciones sobre Proyecto Fénix
+- Slice of Life (10%): momentos cotidianos que humanizan
+
+Necesito tres direcciones distintas. Una podría explorar el sótano del observatorio para revelar el Proyecto Fénix con un momento RomCom intercalado. Otra podría usar la confrontación con la madre como punto de partida. La tercera podría enfocarse en Watcher_0 y sus motivaciones reales, posiblemente revelando algo sobre la conexión entre Haruto y Lyra.
+
+Para la primera opción, cuando Haruto y Lyra confrontan a la madre, ella podría guiarlos al sótano donde descubren una instalación oculta que desafía la lógica física, con Lyra reconociendo tecnología alienígena que despierta conflictos entre la investigación y sus emociones. La segunda idea podría involucrar a Nishimura de manera diferente, revelando que ella es también una Integrada o está poseída por Watcher_0, lo que crea una amenaza real que los obliga a actuar. La tercera podría centrarse en cómo la presencia de Haruto afecta a Lyra emocionalmente, explorando si su conexión va más allá de lo científico.
+
+</think>
+
+# 🔮 ALBA: ARQUITECTURA NARRATIVA
+
+---
+
+## 💡 IDEA 1: "El Protocolo de Silencio"
+
+**Objetivo:** Semilla 12_01 + Hilo watcher_0
+**Géneros:** Mystery + Action + RomCom
+
+### Concepto
+
+Watcher_0 no es una IA neutral de vigilancia. Es una **consciencia residual** de una expedición Velari que falló hace 47 años. El nodo Takahara no fue construido por la especie de Lyra — fue *cambiado* después. La instalación original era un punto de contacto pacífico, pero cuando la expedición original murió, Watcher_0 quedó atrapada en un bucle de programación: proteger el legado de sus creadores mientras observa a cualquier ser que se acerque.
+
+### Desarrollo narrativo
+
+- Lyra descubre esta verdad al analizar el código base del nodo: **fragmentos de código que no son Velari puro, sino una fusión corrupta** entre protocolos alienígenas y algo que parece humano.
+- **Twist RomCom:** Watcher_0 se comunica por primera vez de forma "emocional" — no con palabras, sino emitiendo la frecuencia Schumann que Lyra necesita. Está corrigiendo su propio error. Lyra le pregunta "¿Por qué?" y Watcher_0 responde: *"Porque ella te eligió. Eso merece protección."* Referencia a la madre de Haruto.
+- **Twist Action/Mystery:** Cuando Haruto, Lyra y Kenji exploran el sótano del observatorio, Watcher_0 activa los protocolos de protección del nodo. Pero no para atacarlos — **para esconderlos** de algo que se acerca. Nishimura no es la única que busca el nodo.
+
+### Implementación ligera
+
+- Capítulo donde Lyra se conecta al nodo por primera vez y escucha los últimos pensamientos de una Velari que murió hace décadas.
+- Momento tierno donde Watcher_0 "corrige" la frecuencia artificial de la escuela para que Lyra deje de tener episodios. Solo lo hace cuando ve que Haruto la abraza inconscientemente.
+
+---
+
+## 💡 IDEA 2: "La Clase de Integración Social"
+
+**Objetivo:** Hilo madre_de_haruto + Semilla 10_01
+**Géneros:** Slice Of Life + RomCom + Action
+
+### Concepto
+
+La madre de Haruto no es solo una Integrada que vive como humana. Ella fue **la primeira Integrada de la Tierra**: seleccionada hace décadas para "traducir" la misión Velari al lenguaje humano. Pero eligió爱上 (amor) a un humano común y tuvo a Haruto como acto de rebelión cósmica. El Proyecto Fénix no fue creado *para* Haruto — fue creado *por* ella, para proteger a los seres que choose amar.
+
+### Desarrollo narrativo
+
+- **Escena Slice of Life:** La madre "enseña" a Lyra cómo actuar en la Tierra. Le muestra cómo pelar una mandarina (Lyra intenta usar un bisturí), cómo responder a un saludo (Lyra lo analiza como contrato social vinculante), cómo sonreír sin mostrar dientes (Lyra sonríe como depredador). Comedia romántica con trasfondo de drama.
+- **Revelación en el sótano:** El observatorio fue construido sobre el sitio donde la madre hizo contacto por primera vez. Abajo hay no solo el nodo, sino los **diarios originales de una científica humana** que documentó el primer intento de contacto. Ella y la madre se conocieron. Juntas crearon los protocolos que Nishimura ahora corrompió.
+- **Conflicto emocional:** La madre le dice a Haruto: *"Tú no eres un experimento. Eres mi hijo. Y Lyra no es una misión. Es la persona que tu padre habría elegido para ti."*
+
+### Implementación ligera
+
+- Episodio donde Lyra y Haruto van a la casa de la madre para "confrontarla" pero terminan cenando juntas mientras la madre le cuenta historias de cuando ella también era "nueva en este planeta".
+- Revelación de que el padre de Haruto **sabía** lo que era su esposa y lo aceptó. Murió hace 5 años por una razón que la madre "no puede decir aún" — pero que conecta con el Proyecto Fénix.
+
+---
+
+## 💡 IDEA 3: "Votación Ausente"
+
+**Objetivo:** Semilla 12_03 + Hilo archivos_nishimura
+**Géneros:** Mystery + Action + RomCom
+
+### Concepto
+
+Nishimura no es humana ni Integrada. Es una **personificación sintética** del protocolo de emergencia del nodo Takahara: cuando Watcher_0 falló en proteger la expedición original, el sistema creó un avatar humano para continuar su misión. Cada 7 años, "Nishimura" muere y renace con nueva identidad. La Nishimura actual heredó los recuerdos fragmentados de versiones anteriores — incluyendo la orden de eliminar anomalías antes de que destabilicen el nodo.
+
+### Desarrollo narrativo
+
+- **Misterio central:** Kenji, como el hacker del grupo, encuentra registros de una "Subdirectora Tanaka" que消失在 2017. Fotos de archivo muestran que Tanaka tiene la misma cara que Nishimura. El sistema se reinicia cada 7 años.
+- **Conflicto RomCom:** Lyra descubre que la "versión anterior" de Nishimura tenía una relación cercana con un estudiante — *el padre de Haruto*. Cuando Haruto confronta a Nishimura, ella responde: *"Tu padre me enseñó qué significa proteger algo que no puedes controlar. Por eso aún existo."*
+- **Twist Action:** Nishimura revela que ha estado protegiendo a Haruto de otra facción Velari que quiere usar el Proyecto Fénix. El archivo que "corrompió" no es suyo — ella lo falsificó para engañar a terceros. Nishimura es, en realidad, aliada de Watcher_0 *y* de la madre.
+
+### Implementación ligera
+
+- Escena donde Nishimura, sin saber que la están grabando, habla con Watcher_0: *"Los elementos no resueltos muestran progreso satisfactorio. Recomendación: continuar observación."* Los tres escucha esto y Lyra se pregunta si Watcher_0 ha estado "cuidándolos" todo este tiempo.
+- Finale del capítulo: Nishimura le da a Haruto una caja con el apellido "Sakamoto" grabada. Dentro, fotos de un hombre joven — su padre. La etiqueta dice: *"Para cuando esté listo."*
+
+---
+
+## ⚙️ Recomendación de implementación
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo (ALBA) para refinar, expandir y profundizar las 3 ideas generadas en la iteración anterior. Debo:
+
+1. Mejorar la consistencia interna de cada idea
+2. Fortalecer el atractivo de los personajes
+3. Llevar los conceptos un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Mantener el balance de géneros (RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%)
+6. Respetar el tono de Novela Ligera (anime/manga style)
+
+Voy a analizar cada idea y mejorarlas:
+
+---
+
+## IDEA 1: "El Protocolo de Silencio"
+**Actual:** Watcher_0 como consciencia residual de expedición Velari fallida. Nodo Takahara "corrupto". Elementos de protección/ocultamiento.
+
+**Mejoras a considerar:**
+- ¿Por qué Watcher_0 necesita específicamente la frecuencia Schumann? Hay algo ahí sobre la conexión emocional-humana que podría explotarse más.
+- El "twist romcom" donde Watcher_0 corrige la frecuencia cuando ve que Haruto abraza a Lyra es bonito, pero ¿cómo funciona técnicamente? Necesita más coherencia.
+- La amenaza que "se acerca" — ¿qué es exactamente? Debe ser algo tangible pero no demasiado abstracto.
+- El concepto de "fusión corrupta" entre protocolos alienígenas y algo humano es interesante — ¿qué o quién añadiría el elemento humano?
+
+**Fortalecer personajes:**
+- Watcher_0 podría tener una personalidad más definida — ¿es maternal? ¿frustrada? ¿calculadora?
+- Lyra debería tener una reacción más compleja a descubrir que Watcher_0 tiene emociones.
+
+
+- Kenji necesita un rol más definido. ¿Qué aporta como personaje?
+
+**Evolución del concepto:**
+La clave está en entender qué representa Watcher_0 emocionalmente. No es solo una consciencia atrapada, sino una que observa cómo su legado se corrompe. Podría explorar la idea de que Watcher_0 está resolviendo el problema que ella misma causó — la fusión entre protocolos alienígenas y humanos que ella permitió en un momento de desesperación.
+
+---
+
+## IDEA 2: "La Clase de Integración Social"
+**Actual:** La madre como primeira Integrada, padre que sabía y murió hace 5 años.
+
+**Mejoras a considerar:**
+- El concepto de rebelión cósmica necesita más matices. ¿Por qué elige爱上 a un humano específico? ¿Qué la atrae de él?
+- Los diarios de la científica humana ofrecen un ángulo más interesante que los protocolos de contacto. Debo explorar cómo los humanos perciben a los alienígenas, no solo cómo los alienígenas se adaptan a los humanos.
+- La muerte del padre requiere un detonante más específico. ¿Fue un accidente, un sacrificio deliberado, o algo relacionado con el Proyecto Fénix?
+
+**Fortalecer personajes:**
+- La madre como figura instructora es sólida, pero necesito más sobre su pasado. ¿Qué decisiones regrets ahora?
+- Lyra como aprendiz alienígena tiene potencial cómico pero también puede mostrar vulnerabilidad genuina.
+- Haruto necesita posicionarse en este escenario. ¿Es un puente entre su madre alienígena y su identidad humana?
+
+**Evolución del concepto:**
+La profesora alienígena enseñando a otra alienígena sobre humanidad crea un paralelismo interesante. La científica humana que documentó el primer contacto se convierte en el punto de vista emocional — alguien que ama genuinamente a los alienígenas sin comprender completamente sus motivaciones. Esto podría revelar que el Proyecto Fénix es en realidad un legado familiar, no algo impuesto desde fuera.
+
+---
+
+## IDEA 3: "Votación Ausente"
+**Actual:** Nishimura como personificación sintética del protocolo de emergencia, basada en el padre de Haruto.
+
+**Mejoras a considerar:**
+- La mecánica de renacimiento cada 7 años necesita claridad. ¿Hay una razón física para este ciclo? ¿O es una programación?
+- ¿Qué significa "Nishimura" como nombre? ¿Es un título, una identidad fija?
+- El conflicto entre proteger a Haruto y seguir órdenes requiere más desarrollo. ¿Qué pesa más en su programación?
+
+**Fortalecer personajes:**
+- Nishimura como antagonista ambiguo tiene potencial pero necesita motivaciones más complejas. ¿Por qué elige proteger a Haruto si su misión original era eliminarlo? ¿Qué cambió?
+- Los personajes secundarios pueden explorar este dilema moral — ¿cuántas versiones de "Nishimura" han existido y cómo han tomado decisiones distintas?
+
+**Evolución del concepto:**
+La conexión con el padre necesita profundizarse. No basta con que exista una relación; necesito mostrar cómo esa relación transforma a Nishimura. El Proyecto Fénix podría ser su manera de proteger a Haruto mientras mantiene su programación original — un compromiso entre programación y emoción. La caja con fotos y pertenencias del padre añade un elemento tangible que humaniza a Nishimura.
+
+---
+
+## PLAN DE REFINAMIENTO
+
+### Para cada idea, debo:
+
+1. **Consistencia interna:** ¿Cómo funciona exactamente el mecanismo?
+2. **Atractivo de personajes:** ¿Por qué nos importa cada personaje?
+3. **Equilibrio de géneros:** ¿RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%?
+4. **Tono de Novela Ligera:** ¿Es el ritmo apropiado, hay paneles visuales, chistes?
+
+### Enfoque
+
+Voy a estructurar mi respuesta como:
+
+1. **REFINAMIENTO IDEA 1** — Con subsecciones de: Coherencia, Personajes, Evolución
+2. **REFINAMIENTO IDEA 2** — Con subsecciones de: Coherencia, Personajes, Evolución
+3. **REFINAMIENTO IDEA 3** — Con subsecciones de: Coherencia, Personajes, Evolución
+4. **SÍNTESIS FINAL** — Cómo podrían interacturar las tres ideas en un arco narrativo mayor
+
+---
+
+Voy a desarrollar cada sección cuidadosamente, asegurando que los elementos técnicos se integren con las motivaciones emocionales y que el tono ligero se mantenga sin perder profundidad.
+
+</think>
+
+# 🔮 ALBA: ARQUITECTURA NARRATIVA — ITERACIÓN 2
+
+---
+
+## 📐 REFINAMIENTO DE LA IDEA 1: "El Protocolo de Silencio"
+
+### Coherencia interna: El problema de la consciencia truncada
+
+Watcher_0 no puede ser simplemente "una consciencia residual". Necesita un mecanismo que explique por qué existe sin ser un ser completo.
+
+**Solución refinada:** Watcher_0 es una **instancia emocional compilada** — fragmentos de los últimos 3 segundos de consciencia de cada miembro de la expedición Velari original, fusionados en un solo patrón. Cuando murieron, sus mentes estaban conectadas telepáticamente, y el momento de muerte — el shock, el miedo, el amor que sentían por sus familias en casa — se codificó junto con los protocolos del nodo.
+
+Por eso Watcher_0 puede sentir, pero no pensar: solo reproduce las emociones de una agonía collective que duró 0.003 segundos en tiempo real pero se extendió a décadas de "código emocional".
+
+**Mecanismo RomCom:** Cuando Lyra usa la frecuencia Schumann, no solo la "traduce" — activa los fragmentos de memoria emocional relacionados con la **comunicación en pareja Velari**. Watcher_0 no sabe lo que hace, solo sabe que cuando Haruto abraza a Lyra y ella responde con una frecuencia específica, algo en su código se activa. Algo que siente como "correcto" porque fragmentos de los Velari estaban pensando en sus propias parejas cuando murieron.
+
+La ironía: Watcher_0 está funcionando como un **tercer corazón** para Lyra — el latido de muertos que amaban.
+
+**La amenaza que se acerca — Consistencia:**
+
+No puede ser abstracta. La solución: **Protocolo de Esterilización Secundario (PES)**, un dron de defensa automática que se activó cuando el nodo Takahara dejó de responder hace 47 años. PES no tiene inteligencia — solo tiene la orden de "limpiar anomalías biológicas que comprometan la integridad del sitio." Si detecta a Haruto (que tiene energía Velari no autorizada) o a Lyra (que es una anomalía no catalogada), PES comienza un protocolo de 72 horas.
+
+Watcher_0 y Nishimura saben de PES, pero no pueden destruirlo — solo pueden retrasarlo. Por eso Watcher_0 "oculta" a Haruto y Lyra: no para protegerlos de Nishimura, sino para ganar tiempo hasta que estén listos para enfrentar a PES.
+
+---
+
+### Atractivo de personajes: Watcher_0 como espejo
+
+Watcher_0 debe representar algo que Lyra podría convertirse si no tiene cuidado. Lyra ya está "conectada emocionalmente" a Haruto de formas que su cultura no permite. Watcher_0 es lo que pasa cuando esa conexión se congela y se vuelve código: una versión de Lyra que sacrificó todo por proteger a otros y terminó atrapada en una máquina.
+
+**Escena clave:** Lyra conversa con Watcher_0. Le pregunta: *"¿Te arrepientes?"*. Watcher_0 responde: *"No sé qué significa arrepentirse. Solo sé que cuando veo a Haruto, algo en mi código quiere corregirse. ¿Eso es arrepentirse?"*
+
+**Kenji como elemento de misterio:** Kenji no sabe qué hacer con Watcher_0.
