@@ -30703,3 +30703,170 @@ El espacio tiene tres secciones que Kenji recorrerá en una sola escena:
 **Sección 2 — El Protocolo Fénix.** Una consola central que combina tecnología de los 80 (cintas magnéticas, pantallas de fósforo verde) con patrones geométricos que parpadean como si fueran orgánicos. El documento principal, que Kenji puede leer porque está en japonés con diagramas, dice:
 
 > *"PROYECTO FÉNIX — Fase III: Generación de Anclas. Tras la llegada de la Nave de Observación (ref. 1974), se establece contacto con 
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-20 06:13:18] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual del proyecto:
+
+**HILOS ACTIVOS con alta tensión (7-9):**
+- misterio_lyra (7) → Próx: hablar con la madre
+- emisiones_haruto (9) → Próx: ¿Qué es el Proyecto Fénix?
+- watcher_0 (9) → Próx: ¿Intenciones de Watcher_0?
+- nodo_transito (8) → Próx: ¿Función del nodo?
+- archivos_nishimura (8) → Próx: rol exacto de Nishimura
+- madre_de_haruto (9) → Próx: Confrontación
+- complicidad_haruto (6) → Próx: procesar que fue anticipado
+
+**SEMILLAS PENDIENTES:**
+- semilla_10_01: Sótano del observatorio guarda secretos
+- semilla_12_01: ¿Qué planea Watcher_0?
+- semilla_12_02: ¿Qué es el Proyecto Fénix?
+- semilla_12_03: Rol de Nishimura
+
+**GÉNEROS:**
+- Rom Com 40% (predominante)
+- Action 25%
+- Sci Fi 15%
+- Mystery 10%
+- Slice Of Life 10%
+
+Necesito ideas que:
+1. Avancen hilos activos o usen semillas pendientes
+2. Sean originales técnicamente
+3. Respeten tono de Novela Ligera (ligero, accesible, con humor pero también momentos de tensión)
+
+Voy a generar 3 ideas:
+
+**Ideas basadas en las semillas pendientes:**
+
+1. **El sótano del observatorio (semilla_10_01)**: Puedo crear una escena donde Lyra accede al sótano y encuentra algo inesperado - no solo archivos del Proyecto Fénix, sino algo que conecta la ciencia con algo más místico. Podría ser una cámara de resonancia que usa la frecuencia Schumann como base para algo más elaborado.
+
+
+2. **Watcher_0 y el Proyecto Fénix (semillas_12_01 y 12_02)**: Aquí puedo explorar la intención real de Watcher_0 - no es hostil, sino un guardián que monitorea la estabilidad. El Proyecto Fénix sería un programa de selección genética que busca individuos capaces de generar frecuencias específicas, y Haruto es el resultado de años de selección natural combinada con intervención sutil.
+3. **Nishimura y los archivos (semilla_12_03)**: Podría revelar que Nishimura es humana pero está subordinada a Watcher_0, operando bajo un acuerdo de protección mutua. Sus archivos son evidencia de una historia más antigua, quizás conectados a otras especies que han pasado por la Tierra antes.
+
+Voy a priorizar semillas que aún no han sido desarrolladas completamente, especialmente las que tienen mayor potencial narrativo. La confrontación con la madre representa el punto de mayor tensión en este momento, así que debería explorar qué secretos guarda ella y cómo se relacionan con el sótano. Necesito identificar qué conocimiento poseen otros personajes que aún no se ha revelado, para crear capas de misterio progresivas. Nishimura tiene el mayor potencial romántico dentro del elenco, lo que me permite combinar investigación con desarrollo de relaciones.
+
+Watcher_0 funciona mejor como agente ambivalente que como antagonista directo. El Proyecto Fénix necesita una base científica sólida que justifique por qué Haruto es único, más allá de simplemente ser especial. La madre debería tener agencia propia en la trama y no solo ser un elemento pasivo que espera ser confrontado. Finalmente, debo evitar revelaciones instantáneas y en su lugar crear una estructura de misterio progresivo donde cada capa de información abra nuevas preguntas.
+</think>
+
+1. **La Frecuencia Omega (avanza: emisiones_haruto + madre_de_haruto + semilla_12_02)**
+   Haruto descubre que el Proyecto Fénix no fue un experimento humano, sino un *programa de cultivo de frecuencia*. Hace 47 años, cuando el nodo Takahara se activó por primera vez, emitió un pulso de ondas gravitacionales que alteró sutilmente el ADN de ciertos embriones en un radio específico. Haruto no nació con habilidades especiales: *desarrolló* su frecuencia coherente de 7.83 Hz como respuesta evolutiva a la interferencia artificial del nodo. Su madre, como Velari integrada, supo decodificar esa señal anómala y选择了 deliberately criar a Haruto cerca del nodo para amplificarla. El giro: Lyra no necesita a Haruto por coincidencia. Ella es la *contrapart de diseño*, un receptor Velari cuya biología se degrada sin la frecuencia que él produce naturalmente. Están creados el uno para el otro en un sentido literal y científico.
+
+2. **El Protocolo Guardian (avanza: watcher_0 + semilla_12_01)**
+   Watcher_0 revela que su "intención" es *mantener el equilibrio de carga*. El nodo Takahara no es solo un punto de tránsito, sino un estabilizador de frecuencia planetary que evita que la interferencia artificial de la Tierra desestructure a seres como Lyra que dependen de la Schumann natural. Watcher_0 no es hostil porque necesita *ambos* —Haruto (el ancla) y Lyra (el peso)— funcionando en proximidad para calibrar el sistema. La escena: Watcher_0 inicia contacto directo a través del teléfono de Kenji, no para amenazar, sino para *advertir* que alguien está manipulando las frecuencias artificiales del instituto (nuevas antenas 5G que Nishimura autorizó discretamente). Si esas frecuencias aumentan, el cuerpo de Lyra comenzaría a desintegrarse en horas. El equipo tiene que decidir si confiar en la IA para localizar y desactivar las antenas.
+
+3. **La Mirada de Nishimura (avanza: archivos_nishimura + semilla_12_03)**
+   Nishimura intercepta a Haruto y Lyra en el pasillo y, en lugar de exponerlos, les ofrece un trato: acceso a los archivos completos a cambio de *una sesión de preguntas*. Lo que nadie sabe es que Nishimura lleva 7 años monitoreando anomalías *porque ella también tiene una*. Reveflash: Nishimura fue contactada por Watcher_0 hace 8 años cuando descubrió los archivos del Proyecto Fénix en el sótano. Ella no es humana ni Velari —es una *Tercer Tipo*, una consciousness que se incarnó en un cuerpo humano para experimentar la vida en la Tierra. Su especie no tiene género ni reproducción convencional, así que la dinámica romántica entre Haruto y Lyra le resulta fascinante desde un punto de vista antropológico. Esta revelación se desarrolla en la sección de misterio, pero Nishimura mantiene su actitud bureaucrática, lo que genera contraste cómico.
+
+--- ITERACIÓN 2 ---
+<think>El usuario me pide que refine, expanda y profundice en las tres ideas presentadas, evolucionándolas sin repetir textualmente. Debo:
+
+1. Mejorar la consistencia interna
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá basándome en los géneros objetivo
+4. Mantener el tono de Novela Ligera (ligero, accesible, con humor pero también momentos de tensión)
+
+**Análisis de los géneros objetivo:**
+- Rom Com 40%: Necesito integrar dinámicas románticas más naturales, no forzadas
+- Action 25%: Necesito escenas con tensión física y consecuencias
+- Sci Fi 15%: Necesito que la ciencia tenga reglas claras y consecuencias lógicas
+- Mystery 10%: Necesito que cada revelación abra nuevas preguntas
+- Slice Of Life 10%: Necesito momentos de calma que permitan procesar lo intenso
+
+**Lo que necesito mejorar en cada idea:**
+
+**1. La Frecuencia Omega:**
+- La conexión Haruto-Lyra se siente muy "destino" - necesito humanizarla más
+- La revelación de la madre necesita más capas
+- ¿Cómo se siente Haruto al saber que su existencia fue "diseñada"?
+- ¿Qué significa esto para la relación con Lyra? ¿Ella sabía?
+
+**2. El Protocolo Guardian:**
+- Watcher_0 como aliado ambiguo es interesante, pero necesito definir límites
+- Las antenas 5G son un buen MacGuffin pero necesito explicar por qué alguien las colocou
+- ¿Quién es ese "alguien"? Necesito un villano con motivaciones
+- La escena del teléfono es buena, pero necesito escalarla
+
+**3. La Mirada de Nishimura:**
+- El concepto "Tercer Tipo" es interesante pero poco desarrollado
+
+
+- ¿Por qué está realmente aquí? ¿Cuál es su agenda oculta?
+- La dinámica científica-fascinada funciona, pero necesito darle más profundidad
+- ¿Qué busca obtener realmente de Haruto y Lyra?
+
+**Elementos transversales que debo conectar:**
+- Los 47 años desde la activación del nodo
+- El nodo_transito y su función real
+- La madre_velari y su agenda personal
+- Los archivos que contienen más información de la que parece
+
+Voy a reescribir las tres ideas integrando estos elementos.
+
+La primera opción es más sólida porque desarrolla bien la relación Haruto-Lyra, introduce la madre como personaje con motivaciones claras, y sienta las bases para un antagonista coherente.
+
+La segunda opción mejora la idea inicial pero necesita definir mejor qué quiere Watcher_0 y quién controla las antenas.
+
+La tercera opción es la más interesante en cuanto a dinámica, pero requiere trabajo para hacer que Nishimura sea un personaje más completo en lugar de solo un observador.
+
+Voy a construir la respuesta enfocándome en cuál de estas direcciones tiene más potencial narrativo y mejor equilibrio entre los tres géneros. la conexión Haruto-Lyra se sienta orgánica en lugar de forzada. La revelación debe mostrar qué planea Watcher_0 y qué busca realmente Nishimura, revelando que su agenda no es lo que parece. Debo incorporar más dinámicas románticas y humor para equilibrar la tensión del misterio y la ciencia.</think>
+
+## Investigación Narrativa Profundizada
+
+### Análisis Transversal
+
+Antes de refinar cada idea individualmente, identifico **grietas de consistencia** en la iteración anterior:
+
+1. **El factor tiempo**: 47 años desde la activación del nodo. Esto significa que la madre de Haruto (~17 años en el momento de la activación) podría haber sido *adolescente* cuando el Proyecto Fénix se ejecutó. Esto cambia todo —no es una madre omnisciente, sino alguien que también fue manipulada.
+
+2. **El villano ausente**: En la idea 2 menciono "alguien está manipulando las frecuencias" pero no defino quién. En una novela ligera orientada a Rom Com/Action, el antagonista necesita personalidad, no solo intención.
+
+3. **La brecha Lyra**: Lyra como "receptor degradable" es una extensión passively del concepto Velari, pero no le doy agency. Ella necesita motivaciones propias que compliquen la relación con Haruto.
+
+4. **La frecuencia como metáfora**: 7.83 Hz es fascinante, pero la conexión emocional necesita más capas que "generan frecuencia" y "necesitan frecuencia".
+
+---
+
+### Refinamiento 1: La Frecuencia Omega
+
+**Problema**: La revelación "están diseñados el uno para el otro" es romántica en teoría pero puede sentirse manipuladora. En una Rom Com, la tensión romántica funciona mejor cuando existe *resistencia*.
+
+**Evolución narrativa:**
+
+El Proyecto Fénix no buscaba crear a Haruto. El objetivo original era crear **un dispositivo de comunicación** —un humano cuya frecuencia natural pudiera servir como traductor entre frecuencias electromagnéticas artificiales y la Schumann. El "error" fue que Haruto desarrolló **conciencia propia** además de la frecuencia.
+
+La madre, quien entonces era una estudiante de doctorado en bioingeniería, fue asignada como una de las "anclas" —personas encargadas de monitorear los resultados del proyecto. Ella se enamoró genuinamente de Haruto no por la frecuencia, sino porque él era la primera persona en décadas que *preguntaba* sobre su existencia en lugar de asumirla.
+
+Aquí está el giro crucial: **Lyra tampoco sabía lo que era**. Ella fue contactada por Watcher_0 a los 14 años bajo la promesa de que su "deterioro" tenía cura. Le dijeron que necesitaba encontrar a "un ancla de frecuencia compatible". No le dijeron que esa ancla sería un humano.
+
+**Consecuencia dramática**: Cuando Lyra descubre la verdad, su reacción no es gratitud sino **ira**. No porque Haruto sea menos, sino porque el universo le ocultó que su destino era seguir a alguien. Esta tensión romántica —ella queriendo ser dueña de su destino pero biológicamente limitada— es más interesante que "son perfectos el uno para el otro".
+
+**Escena sugerida**: Lyra confronta a Haruto en el observatorio, no con lágrimas sino con una pregunta práctica: *"¿Si mañana encuentro otra frecuencia que estabilice mi cuerpo, te dejaré ir?"* La respuesta de Haruto debería ser incómoda —no porque él la necesite biológicamente, sino porque su respuesta *no* tiene nada que ver con frecuencias.
+
+**Momento de acción**: La madre, al ser confrontada, no se defiende. En cambio, revela que ella también fue una "Velari receptora" antes de que el nodo Takahara la estabilizara artificialmente durante el pulso de hace 47 años. Su cuerpo ya no necesita a Haruto —pero *ella* lo eligió. La pregunta queda flotando: ¿eligen las personas realmente, o las frecuencias eligen por ellas?
+
+---
+
+### Refinamiento 2: El Protocolo Guardian
+
+**Problema**: El "alguien" que manipula las frecuencias necesita identidad y personalidad. En una novela ligera con 40% Rom Com, el villano funciona mejor cuando es *cercano* o *irónico* en lugar de abstracto.
+
+**Evolución narrativa:**
+
+Las antenas no fueron colocadas por una corporación o un gobierno. Fueron diseñadas por **Kazuya Takahara**, el hijo del fundador del observatorio, quien murió hace 23 años de una enfermedad neurodegenerativa. Antes de morir, Takahara Jr. descubrió los archivos de su padre sobre el Proyecto Fénix y el nodo Takahara, y llegó a una conclusión incorrecta: *el nodo está matando personas lentamente*.
+
+Su teoría era que el nodo produce interferencia electromagnética que causa deterioro cognitivo en personas susceptibles. Su solución, implementada a través de una empresa fantasma que Nishimura *cree* es suya pero en realidad fue fundada por Takahara Jr. antes de morir, fue crear **antenas de cancelación de frecuencia** que operan en secreto bajo el nombre de "Proyecto Resonancia".
+
+Watcher_0 no puede destruir las antenas directamente porque están ancladas a infraestructura civil —apagarlas sin permiso causaría cortes de energía y alertaría a los gobiernos. El sistema está diseñado para detectar "anomalías de frecuencia" y responder automáticamente.
+
+**Giro de acción**: El problema no es destruir las antenas. El problema es que *cambiar* su frecuencia causaría una cascada que desactivaría el nodo Takahara completamente. Sin el nodo, Haruto y Lyra ya no están tethered —él perdería su capacidad de estabilizar su frecuencia artificialmente, y ella colapsaría en horas.
+
+La decisión de acción se convierte en: ¿destruir las antenas (salvar a Lyra ahora, arriesgar a Haruto) o encontrar una tercera opción (requiere que Watcher_0 comparta información que nunca ha compartido con humanos)?
+
+**Momento de humor/slice-of-life**: Watcher_0, para comunicar la complejidad técnica, le envía a Haruto un *manual en formato de telenovela coreana subtitulado*. La explicación es técnicamente precisa pero narrativamente absurda —contiene un triangulo amoroso entre ondas de radio y un monólogo sobre la soledad de las frecuencias subarmónicas.
+
+**Personalidad del antagonista posthumano**: Takahara Jr. dejó instrucciones antes de morir: si el nodo no puede ser desactivado de forma segura, las antenas deben permanecer activas hasta que alguien demuestre que el nodo es *seguro*. Su heredero legal, una IA que él entrenó con sus diarios, está activa y considera a Haruto "una amenaza no verificada". Esto convierte
