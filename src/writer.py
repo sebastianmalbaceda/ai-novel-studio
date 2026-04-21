@@ -388,9 +388,9 @@ def run_writing_agent():
 
     system_prompt = (
         f"Eres un autor profesional de novelas ligeras japonesas traducidas al español, especializado en {genre_specialties}. "
-        "ESCRIBE ÚNICAMENTE EN ESPAÑOL. ESTÁ TERMINANTEMENTE PROHIBIDO usar caracteres o palabras en cualquier otro idioma: "
-        "ni inglés, ni chino, ni japonés (kanji/kana), ni ruso, ni coreano, ni árabe, ni portugués, ni francés. "
-        "Si el modelo intenta insertar caracteres no latinos, el capítulo será RECHAZADO automáticamente. "
+        "ESCRIBE ÚNICAMENTE EN ESPAÑOL. ESTÁ TERMINANTEMENTE PROHIBIDO usar caracteres o palabras en cualquier otro idioma. "
+        "PROHIBIDO: кириллица (cirílico), 中文/漢字 (chino/japonés), اللعربية (árabe), Ελληνικά (griego), any other non-Latin alphabet. "
+        "Si detectas cualquier caracter que no sea del español (áéíóúüñü¿¡ a-zA-Z0-9 .,;:¿?!¡\"'-), NO LO USES. "
         "REGLAS DE CONTINUIDAD OBLIGATORIAS: "
         "1. SOLO usa personajes, lugares y objetos que estén documentados en los archivos de memoria proporcionados. "
         "2. PROHIBIDO inventar: implantes corporales, dispositivos internos, poderes ocultos, tarjetas de acceso especiales, "
@@ -413,7 +413,7 @@ def run_writing_agent():
         "REGLAS DE EXTENSIÓN OBLIGATORIAS: "
         "9. El capítulo debe tener ENTRE 1200 Y 1800 PALABRAS. No menos de 1200. Si escribes menos, el capítulo será rechazado. "
         "10. Desarrolla cada escena con descripción, diálogo y reacción. Cada capítulo debe tener al menos 3-4 escenas bien desarrolladas. "
-        "11. El capítulo debe tener un cierre completo con resolución de la escena principal, nunca terminar a mitad de frase o escena."
+        "11. El capítulo debe terminar con un PUNTO FINAL completo (.) y resuelta la escena principal, nunca con coma, guion, puntos suspensivos (...), o frase incompleta."
     )
 
     mega_prompt = f"""
@@ -490,7 +490,14 @@ def run_writing_agent():
             if validation_failed:
                 if attempt < max_attempts:
                     print(f"  Reintentando ({attempt + 1}/{max_attempts})...")
-                    mega_prompt += f"\n\nIMPORTANTE: El intento anterior fue rechazado por {failure_reason}. Reescribe el capítulo asegurándote de: (1) usar SOLO caracteres latinos del español, (2) terminar con un cierre completo de escena, no a mitad de frase, (3) el capítulo debe tener entre 1200 y 1800 palabras."
+                    retry_instruction = "\n\nIMPORTANTE: El capítulo fue RECHAZADO por {}. Reescribe completamente el capítulo asegurándote de:\n"
+                    if "caracteres" in failure_reason.lower():
+                        retry_instruction += "(1) NO usar NINGÚN caracter que no sea del alfabeto latino español (sin кириллица, sin 中文, без русского, pas de français, no English, 无日语)\n"
+                    if "cierre" in failure_reason.lower() or "incompleto" in failure_reason.lower():
+                        retry_instruction += "(2) Terminar con un cierre completo de escena, con punto final, nunca con coma, guion o puntos suspensivos\n"
+                    if "palabras" in failure_reason.lower() or "rango" in failure_reason.lower():
+                        retry_instruction += "(3) El capítulo debe tener ENTRE 1200 y 1800 palabras, ni más ni menos\n"
+                    mega_prompt += retry_instruction.format(failure_reason)
                     continue
                 else:
                     print(
