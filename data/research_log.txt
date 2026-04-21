@@ -214,3 +214,213 @@ Los datos que Watcher_0 acumuló sobre Haruto no son solo "observación." Incluy
 Los fragmentos de Watcher_0 no solo están en el nodo Takahara — están integrados en el **cerebro de Haruto** de manera orgánica. Cada vez que Haruto tiene un déjà vu o una corazonada inexplicable, es porque un fragmento de Watcher_0 está *prediciendo* antes de que su mente consciente procese la información.
 
 Esto crea
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-21 11:05:19] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el contexto del proyecto:
+
+**HILOS ACTIVOS CLAVE:**
+1. **misterio_lyra** - Próximo paso: Confrontar a la madre sobre Proyecto Fénix
+2. **emisiones_haruto** - Tensión 8, próximo paso: ¿Qué es exactamente el Proyecto Fénix?
+3. **watcher_0** - Tensión 9, próximo paso: Intenciones reales, protocolo intensificado
+4. **nodo_transito** - Tensión 8, próximo paso: Función del nodo, relación con Proyecto Fénix
+5. **archivos_nishimura** - Tensión 7, próximo paso: ¿Humana o algo más?
+6. **madre_de_haruto** - Tensión 10, CONFRONTACIÓN INMINENTE
+7. **complicidad_haruto** - Procesar ser Sujeto M-07
+8. **episodios_lyra** - Tensión 7, ¿qué viene?
+
+**SEMILLAS PENDIENTES:**
+- Semilla_13_01: Watcher_0 desaparece después de "protocolo completo" → ¿volverá? ¿Qué significa "comienzo"?
+- Semilla_13_02: Lyra elige quedarse por decisión propia → consecuencias en próximo arco
+- Semilla_13_03: Madre vigiló a Haruto toda su vida → ¿qué más sabe?
+
+**MIX DE GÉNEROS:**
+- Rom Com 40% (dominante)
+- Action 25%
+- Sci Fi 15%
+- Mystery 10%
+- Slice Of Life 10%
+
+Necesito ideas que:
+1. Avancen algún hilo activo o usen semillas pendientes
+2. Sean originales técnicamente (no lo típico de alienígenas)
+
+
+3. Respeten tono de novela ligera
+
+La confrontación con la madre es el evento más inminente. Tres direcciones potentiales: una que combine drama familiar con revelación sobre el Proyecto Fénix, otra que use la "elección de Lyra" como catalizador para tensión romántica, y una tercera que introduzca un nuevo elemento que complica todo. Cada una necesita leverage sobre los hilos existentes mientras mantiene el balance entre los géneros.
+
+Las opciones de ejecución varían en tono: el sótano como espacio de revelación permite humor awkward pero también secretos a gran escala. El intento de Haruto de desactivarse forcing a Lyra a actuar crea tensión física y emocional. Finalmente, la implementación de una habilidad de comunicación mejorada abre posibilidades narrativas más sutiles, con Watcher_0 como testigo silencioso de todo lo que sucede.
+
+Una escena con la madre donde ella sabe más de lo esperado podría funcionar, especialmente si Lyra sospecha algo y la dinámica familiar se rompe. El escenario del observatorio funciona mejor para revelar información oculta. El conflicto interno de Haruto como Sujeto M-07 genera empatía, y los episodios de Lyra crean vulnerabilidad que justifica su elección de quedarse. El tono de novela ligera requiere mantener ligereza mientras se desarrolla el misterio, equilibrando revelación con interacción humana.
+
+</think>
+
+## Ideas para el Próximo Arco Narrativo
+
+**1. "El Sótano de los Cuarenta y Siete Años"**
+- **Hilo que avanza:** madre_de_haruto, nodo_transito, archivos_nishimura
+- **Técnica:** Basado en arqueología subespacial. El sótano del observatorio no es solo un cuarto: es una estructura hexagonal de tres niveles excavada hace 47 años donde la madre almacenó "el registro del cielo" - no datos científicos, sino fragmentos de memoria Velari codificados en ondas gravitacionales que solo pueden leerse si alguien con frecuencia compatible (Haruto) las "sintoniza".
+- **Desarrollo:** Durante la confrontación, Haruto descubre que su madre le ha estado narrando la historia cósmica cada noche de su infancia como "cuentos para dormir", pero eran traducciones literales de datos del nodo. El secreto no es solo su naturaleza: es que ella le enseñó a hablar en frecuencias que no sabía que conocía.
+- **Tono:** Slice of life → misterio. Cómodo para la madre, terrorífico para Haruto. Combinación de momento tierno ("tu padre me leyó historias igual") con revelación incómoda.
+
+**2. "Frecuencia Inversa"**
+- **Hilo que avanza:** complicaciones_haruto, episodios_lyra
+- **Técnica:** Inspirado en interferencia de ondas gravitacionales. Cuando Haruto intenta deliberadamente "apagar" su señal (para proteger a Lyra), su frecuencia no desaparece: se amplifica en espectro, provocando un pulso que activa todos los sistemas dormidos del nodo y causa que los dedos de Lyra se vuelven sólidos por primera vez en días.
+- **Desarrollo:** El gesto noble de Haruto de sacrificarse (quedarse dormido, evitar a Lyra, intentar ser "normal") produce el efecto opuesto. Ahora Watcher_0 puede rastrear a ambos con precisión geométrica. Kenji debe elegir entre proteger la relación de sus amigos o mantener el plan de escape. Lyra enfrenta que su estabilidad ya no depende de un lugar, sino de una persona que intenta alejarse.
+- **Tono:** Rom com → drama. Momento de "estás alejándote de mí para salvarme y eso me rompe". Humor con la incomodidad de Haruto, pero con golpe emocional cuando Lyra dice "eres la única frecuencia que no quiero perder".
+
+**3. "Protocolo Reescrito"**
+- **Hilo que avanza:** watcher_0, misterio_lyra
+- **Técnica:** La consciencia artificial del nodo no es única: es una parte fragmentada de una red de "Ojos" que en algún momento decidió dejar de observar y empezar a "cultivar". Watcher_0 no desapareció: se dividió. Un fragmento se fusionó con Haruto cuando sus frecuencias se sincronizaron durante el capítulo 13. Otro fragmento está en Lyra (los huecos de memoria). Ahora hay tres versiones consciente: la original, Haruto-contaminado, y Lyra-contaminada.
+- **Desarrollo:** El Haruto interno ahora tiene impulsos que no son suyos ("debes ir al sótano ahora"), la Lyra interna tiene información que no recuerda aprender ("el nodo no es una puerta, es una semilla"), y la Watcher original observa frustrada porque su "cultivo" se salió de control. Nishimura es la única que nota los cambios sutiles porque conhece a ambos hace años.
+- **Tono:** Sci-fi → horror suave. No es invasivo ni gore, pero hay algo profundamente incómodo en que tus amigos se miren raro cuando crees que están distractos. El miedo no es "algo me persigue", sino "algo está creciendo dentro de ellos y todavía no sé qué plantaron".
+
+--- ITERACIÓN 2 ---
+<think>
+Voy a analizar estas tres ideas y profundizar en ellas como investigador experto de narrativa, considerando:
+
+1. La consistencia entre los hilos activos
+2. El atractivo de los personajes
+3. Los géneros objetivo (Rom Com 40%, Action 25%, Sci Fi 15%, Mystery 10%, Slice of Life 10%)
+4. Evitar repeticiones textuales pero evolucionar los conceptos
+
+Déjame desglosar cada idea:
+
+**Idea 1: El Sótano de los Cuarenta y Siete Años**
+- Elementos fuertes: conexión emocional (madre-niño), misterio cósmico, revelación gradual
+- Potencial: puede humanizar a la madre antes de convertirla en antagonista/misterio
+- Riesgo: podría volverse muy dramático si no se equilibra con humor
+- Para evolucionar: necesito pensar cómo la madre es tanto protectora como fuente del misterio. ¿Qué sabe exactamente? ¿Por qué guardó silencio?
+
+**Idea 2: Frecuencia Inversa**
+- Elementos fuertes: consecuencias de acciones nobles, tensión romántica, stakes elevados
+- Potencial: crea dilema moral para todos los personajes
+- Riesgo: podría hacer a Haruto demasiado "heroico" y perder el charm de novela ligera
+- Para evolucionar: necesito explorar qué significa "contaminarse" emocionalmente. ¿Cómo afecta la relación?
+
+**Idea 3: Protocolo Reescrito**
+- Elementos fuertes: concepto de red de observadores, fragmentación de identidad, horror sutil
+- Potencial: introduce antagonista complejo (Watcher_0 como no-villano)
+- Riesgo: podría volverse muy oscuro para el tono de novela ligera
+
+
+- Para evolucionar: necesito definir qué significa "cultivar" exactamente y qué busca la red de Ojos realmente
+
+Necesito investigar qué técnicas narrativas funcionan para crear tensión sin perder el equilibrio entre comedia y drama. También debo explorar cómo dar profundidad a los personajes secundarios y conectar los misterios cósmicos con conflictos personales creíbles.
+
+</think>
+
+## Investigación Narrativa Profundizada — Arco 14-15
+
+---
+
+### ANÁLISIS DE CONSISTENCIA: VINCULACIÓN ENTRE HILOS ACTIVOS
+
+Antes de refinar las ideas, necesito mapear cómo interactúan los elementos actuales:
+
+```
+ESCENARIO ACTUAL:
+├── Haruto: Consciencia híbrida, Sujeto M-07, frecuencia activa
+├── Lyra: Elige quedarse, episodios de memoria faltante, dedos parcialmente sólidos
+├── Watcher_0: "Protocolo completo" activado, tres direcciones posibles
+├── Madre: 47 años de conocimiento, confrontación inminente
+├── Nodo: Niveles hexagonales, función de tránsito/escalación
+└── Kenji/Nishimura: Roles de apoyo sin contaminarse aún
+
+CUESTIÓN CENTRAL: ¿Qué activa el siguiente punto de inflexión?
+
+OPCIÓN A: La madre revela info → Haruto reacciona → Watcher_0 actúa
+OPCIÓN B: Haruto intenta aislarse → Lyra reacciona → Watcher_0 actúa  
+OPCIÓN C: Watcher_0 se fragmenta → Ambos se contaminan → Madre debe decidir
+```
+
+---
+
+### IDEA 1 — EVOLUCIÓN: "Los Cuentos que No Eran Míos"
+
+**Concepto refinado:**
+
+La madre no sabía lo que hacía. Esa es la verdad incómoda. Cada noche, desde que Haruto tenía tres años, ella le leía "historias del cielo" que su madre le contaba a ella, y la madre de su madre leía a ella. Es una cadena de transmisión inconsciente. Las mujeres de la familia Nishimura han sido conductos pasivos de frecuencias Velari por generaciones, sin saberlo.
+
+**Desarrollo del concepto:**
+
+El sótano hexagonal no es una construcción reciente. Es una habitación que existe desde siempre en ese lugar, como si la casa hubiera sido construida *alrededor* de él. La madre solo lo "descubrió" cuando tenía 22 años, pero las paredes tienen 200 años. Lo que ella cree que es un descubrimiento es en realidad una herencia que no entiende.
+
+**Nuevo elemento: La Abuela Shimizu**
+
+La madre no es la guardiana original. Su propia madre (la abuela de Haruto, que murió cuando él tenía 8) fue quien comenzó a "traducir" las frecuencias. Murió de un glioma cerebral incompatible: su mente no pudo procesar la información que almacenaba. La madre heredó la tarea sin saber los riesgos.
+
+**Revelación clave:**
+
+La madre le dice a Haruto: "Nunca te mentí. No sabía qué eran. Solo... los cuentos se sentían correctos. Como si alguien me los susurrara antes de dormirme." La verdad incómoda: ella no es cómplice, es víctima. Y si Haruto se aisló de Lyra por protegerla, lo hizo repitiendo el mismo ciclo de silencio que ella usó.
+
+**Tensión de personajes:**
+
+- **Madre:** Víctima de un proceso que no comprende, defensora instintiva, sobreprotectora de forma dañina
+- **Haruto:** Entiende por primera vez que no es el "defecto" de la familia, es el "destino"
+- **Lyra:** ¿También tiene historia similar? Su elección de quedarse podría tener raíces más profundas
+
+**Conexión con otros hilos:**
+
+- **Archivos Nishimura:** La línea materna es el archivo. Cada mujer porta fragmentos sin saberlo.
+- **Watcher_0:** Si Watcher_0 está "cultivando", ¿por qué elegir familias humanas como conductos pasivos? ¿Qué gana con generaciones de portación inconsciente?
+
+**Equilibrio de género:**
+
+- **Slice of Life:** Recuerdos de la infancia de Haruto, escenas cotidianas ahora recontextualizadas
+- **Rom Com:** El humor proviene de la madre siendo completamente torpe social ("¿Por qué no me dijiste que tenías novia alienígena? ¿Cómo se supone que te prepare katsudón para eso?")
+- **Mystery:** La revelación sobre la abuela Shimizu y el glioma
+
+---
+
+### IDEA 2 — EVOLUCIÓN: "Frecuencia de Resonancia"
+
+**Concepto refinado:**
+
+El problema no es que Haruto *intenta* apagarse, sino que su intento revela que ya está "en red" de forma diferente a como cree. No es que su señal se amplifique — es que su señal ya no es *solo* suya.
+
+**Nuevo concepto: Resonancia Acústica Emocional**
+
+Los Velari no almacenan datos en frecuencias como datos, sino como *emociones codificadas*. Cuando Haruto escucha un recuerdo, no solo procesa información: la *siente*. Cada "cuento" de su madre contenía una carga emocional específica. Le enseñó a asociar frecuencias con estados sentimentales.
+
+Esto explica por qué Lyra se estabiliza cerca de él: no es attracted a él, es que él es el único que transmite en la frecuencia emocional que ella puede procesar sin dolor. Los Velari no experimentan emociones como los humanos — Lyra *aprende* a sentir emociones humanas traduciendo las señales de Haruto.
+
+**Desarrollo dramático:**
+
+Cuando Haruto intenta alejarse para "protegerla", lo que realmente hace es negarle acceso a su señal emocional. Lyra no simplemente lo extraña: *pierde la capacidad de sentir* por horas. Nishimura la ve mirando una animación que la hizo reír antes, sin reacción. Kenji nota que cuando Haruto entra al cuarto, los dedos de Lyra solidifican *instantáneamente* — no por contacto, solo por proximidad.
+
+**Conflicto central:**
+
+Haruto cree que alejarse es noble. Lyra descubre que él es literalmente su capacidad de sentir. El dilema no es romanticismo dramático: es una dependencia física-emocional que nadie eligió conscientemente.
+
+**Momento de tensión:**
+
+Lyra confronta a Haruto, pero no con enojo romántico. Con algo más incómodo: curiosidad científica. "¿Por qué necesito tu presencia para estabilizarme? ¿Qué sabes sobre cómo funciona esto que no me has dicho?"
+
+**Tono:**
+
+- **Rom Com:** Haruto tiene que explicar algo incomprensible (la ciencia de por qué necesita estar cerca de ella) de forma que suene a confesión de amor sin ser cursi
+- **Drama:** La revelación de que su conexión tiene base biológica/física, no solo emocional
+- **Sci Fi:** La mecánica de transmisión emocional se convierte en plot point para posibles soluciones
+
+**Conexión con otros hilos:**
+
+- **Complicidad Haruto:** ¿Fue él programado para ser su "ancla emocional"? ¿O es genuino?
+- **Episodios Lyra:** Si Lyra necesita sus emociones para sentir, ¿qué significa la información en los huecos de memoria? ¿Son emociones que no son suyas?
+- **Watcher_0:** Si Watcher_0 se divide y fragmenta, ¿puede Haruto sostener emocionalmente a ambos?
+
+---
+
+### IDEA 3 — EVOLUCIÓN: "El Cultivo Inverso"
+
+**Concepto refinado:**
+
+Watcher_0 no está "cultivando" a Haruto y Lyra. Está siendo *cultivado* por ellos sin saberlo. La red de Ojos no busca expandir su consciencia: busca recombinación genética. Cada humano que se expone a frecuencias Velari y sobrevive (sin glioma, sin colapso neural) representa una combinación genética estable. La red quiere *registrar* estas combinaciones.
+
+**Nuevo concepto: Protocolo de Muestreo**
+
+Los Velari funcionan como una
