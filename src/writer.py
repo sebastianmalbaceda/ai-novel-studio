@@ -456,7 +456,7 @@ def run_writing_agent():
             validation_failed = False
             failure_reason = ""
 
-            if not validate_chapter_language(cleaned_content, chapter_num):
+            if not validate_chapter_language(cleaned_content, chapter_num, config):
                 failure_reason = "caracteres de otros idiomas"
                 validation_failed = True
 
