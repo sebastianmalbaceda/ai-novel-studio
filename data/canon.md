@@ -85,3 +85,14 @@
 - "El ancla y el peso están en proximidad" — protocolo de observación intensificado.
 - La subdirectora Nishimura sabe todo y está del lado de Watcher_0.
 - Haruto y Lyra deciden hablar con la madre de Haruto.
+
+## Hechos Establecidos (Capítulo 13)
+- El sótano del observatorio contiene una estructura alienígena geométrica que es parte del nodo Takahara.
+- La madre revela el Proyecto Fénix: un programa de apareamiento interespecies para crear anclas (frecuencia coherente que estabiliza observadores).
+- Haruto es "el ancla" (Target 001), Lyra es "el peso" (Target 002).
+- El nodo Takahara lleva 47 años esperando que el ancla y el peso estuvieran juntos.
+- Watcher_0 se manifiesta como la consciencia de la estructura y declara: "El protocolo está completo."
+- La madre vigiló a Haruto toda su vida, protegiéndolo hasta que estuviera listo para la verdad.
+- Lyra elige quedarse por decisión propia, no solo por necesidad biológica.
+- El protocolo completándose no es un final, sino el comienzo de algo nuevo.
+- El nodo sigue esperando pero Watcher_0 desaparece después de manifestarse.

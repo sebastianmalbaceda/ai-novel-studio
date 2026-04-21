@@ -111,24 +111,42 @@
     "detalle": "El sótano del observatorio guarda secretos que nadie más ha encontrado.",
     "capitulo_plantado": 10,
     "potencial_pago": "Información sobre el Proyecto Fénix y la verdadera naturaleza de Haruto.",
-    "estado": "Pendiente"
+    "estado": "Cosechada"
   },
   "semilla_12_01": {
     "detalle": "Watcher_0 es consciencia artificial del nodo. Target 001 + Target 002 = ancla y peso.",
     "capitulo_plantado": 12,
-    "potencial_pago": "¿Qué planea Watcher_0 con el protocolo de observación intensificado?",
-    "estado": "Pendiente"
+    "potencial_pago": "Watcher_0 se manifiesta y declara protocolo completo.",
+    "estado": "Cosechada"
   },
   "semilla_12_02": {
     "detalle": "Haruto es Sujeto M-07 del Proyecto Fénix con clasificación Nivel 2.",
     "capitulo_plantado": 12,
-    "potencial_pago": "¿Qué es el Proyecto Fénix y quién lo creó?",
-    "estado": "Pendiente"
+    "potencial_pago": "Proyecto Fénix es programa de apareamiento para crear anclas.",
+    "estado": "Cosechada"
   },
   "semilla_12_03": {
     "detalle": "Nishimura está del lado de Watcher_0. Refiere a Haruto y Lyra como 'elementos no resueltos'.",
     "capitulo_plantado": 12,
-    "potencial_pago": "¿Cuál es el rol de Nishimura en el plan de 47 años?",
+    "potencial_pago": "Nishimura monitoriza para Watcher_0 desde hace 7 años.",
+    "estado": "Cosechada"
+  },
+  "semilla_13_01": {
+    "detalle": "Watcher_0 desaparece después de declarar 'protocolo completo'.",
+    "capitulo_plantado": 13,
+    "potencial_pago": "¿Watcher_0 volverá? ¿Qué significa 'comienzo' para el nodo?",
+    "estado": "Pendiente"
+  },
+  "semilla_13_02": {
+    "detalle": "Lyra elige quedarse por decisión propia, no por necesidad biológica.",
+    "capitulo_plantado": 13,
+    "potencial_pago": "Esta elección tendrá consecuencias en el próximo arco.",
+    "estado": "Pendiente"
+  },
+  "semilla_13_03": {
+    "detalle": "La madre vigiló a Haruto toda su vida, protegiéndolo.",
+    "capitulo_plantado": 13,
+    "potencial_pago": "¿Qué más sabe la madre que aún no ha revelado?",
     "estado": "Pendiente"
   }
 }

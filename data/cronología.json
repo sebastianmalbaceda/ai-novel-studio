@@ -82,5 +82,12 @@
     "eventos_clave": ["Watcher_0: consciencia artificial del nodo", "Foto Haruto 12 años: Sujeto M-07", "Foto Lyra 2019: Contacto Velari", "Nodo activo 47 años", "Nishimura del lado de Watcher_0"],
     "revelaciones": ["Proyecto Fénix clasifica a Haruto", "Target 001 (Haruto) + Target 002 (Lyra) = ancla y peso", "Protocolo de observación intensificado"],
     "estado_ambiente": "Conspiración / Urgencia / Decisión de confrontar"
+  },
+  "capitulo_13": {
+    "dia": 13,
+    "resumen": "Descenso al sótano del observatorio. Revelación del Proyecto Fénix: Haruto es el ancla, Lyra el peso. Watcher_0 se manifiesta y declara el protocolo completo.",
+    "eventos_clave": ["Estructura alienígena en el sótano", "Madre revela verdad del Proyecto Fénix", "Watcher_0 se manifiesta y desaparece", "Lyra elige quedarse por decisión propia"],
+    "revelaciones": ["Haruto diseña emisiones que estabilizan a Lyra", "Madre vigiló a Haruto toda su vida", "Protocolo completo = comienzo de algo nuevo"],
+    "estado_ambiente": "Revelación / Tensión / Nuevo comienzo"
   }
 }

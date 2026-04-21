@@ -74,3 +74,9 @@ Haruto le cuenta todo a Kenji: origen de Lyra, frecuencias, vigilancia de 34 dí
 ### Capítulo 12 — "El Peso de las Respuestas Sin Dar"
 
 Nishimura tiene archivos que Watcher_0知道她 está del lado de la IA del nodo. Haruto recibe fotos: él a los 12 años con marca "Sujeto M-07", Lyra en 2019, ilustración técnica de Watcher_0 como consciencia artificial del nodo. Watcher_0 monitorea a Haruto como Target 001 y a Lyra como Target 002. "El ancla y el peso están en proximidad" — protocolo de observación intensificado. Haruto y Lyra deciden confrontar a la madre. La pregunta persiste: ¿cuál es el plan de Watcher_0 con 47 años de monitoreo? ¿Qué es exactamente el Proyecto Fénix? ¿Y por qué Nishimura se refiere a ellos como "elementos no resueltos en una ecuación de 47 años"? El capítulo termina con Haruto y Lyra descendiendo hacia el sótano del observatorio para descubrir la verdad sobre la madre y Sujeto M-07.
+
+---
+
+### Capítulo 13 — "El Sótano de los Cuarenta y Siete Años"
+
+Haruto, Lyra y Kenji descienden al sótano del observatorio para confrontar a la madre. Descubren que el Proyecto Fénix es un programa de apareamiento interespecies diseñado para crear anclas — seres con frecuencia coherente que estabilizan a los observadores. Haruto es el ancla (Target 001), Lyra es el peso (Target 002). El nodo Takahara lleva 47 años esperando que estuvieran juntos. Watcher_0 se manifiesta como la consciencia de la estructura y declara que "el protocolo está completo". La madre revela que vigiló a Haruto toda su vida, protegiéndolo hasta que estuviera listo. Lyra elige quedarse no por obligación biológica sino por decisión propia. El capítulo termina con una nueva era comenzada: Watcher_0 desaparece pero el nodo sigue esperando, y la madre advierte que esto no es un final sino un comienzo.
