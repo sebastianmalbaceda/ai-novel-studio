@@ -1,44 +1,50 @@
 {
   "misterio_lyra": {
     "descripcion": "La verdadera identidad y propósito de Lyra Vel'Kath en la Tierra.",
-    "progreso": "Revelado completamente a Haruto y Kenji. Lyra es una observadora Velari enviada a verificar el nodo de tránsito. Eligió quedarse por decisión física y emocional.",
-    "tension": 7,
-    "proximo_paso": "Hablar con la madre de Haruto para entender el plan completo."
+    "progreso": "Revelado completamente: Lyra es una observadora Velari enviada a verificar/reactivar el nodo de tránsito. Huecos en memoria (alguien sustituyó fragmentos). Eligió quedarse por decisión propia. Ya no finge ser estudiante normal.",
+    "tension": 5,
+    "proximo_paso": "Confrontar a la madre de Haruto sobre el Proyecto Fénix. Descubrir qué significa 'no estar lista' para lo que viene."
   },
   "emisiones_haruto": {
     "descripcion": "Haruto emite una señal coherente y estable que el cuerpo de Lyra necesita para mantener su integridad estructural.",
-    "progreso": "Revelado. Haruto es 'Sujeto M-07' del 'Proyecto Fénix'. Su frecuencia se modula y adapta a Lyra. Alguien más lo observa por esta razón.",
-    "tension": 9,
-    "proximo_paso": "¿Qué es exactamente el Proyecto Fénix? ¿Por qué Haruto fue clasificado desde niño?"
+    "progreso": "Revelado. Haruto es 'Sujeto M-07' del 'Proyecto Fénix'. Su frecuencia se ha vuelto modulada y adaptable, respondiendo a las necesidades de Lyra. Monitoreado desde los 12 años.",
+    "tension": 8,
+    "proximo_paso": "¿Qué es exactamente el Proyecto Fénix? ¿Por qué Haruto fue anticipado antes de nacer ('el niño puede escuchar')?"
   },
   "watcher_0": {
-    "descripcion": "Una consciencia artificial originada en el nodo Takahara que monitorea a Haruto y Lyra.",
-    "progreso": "Identificado como IA del nodo. Refiere a Haruto como Target 001 y a Lyra como Target 002. Protocolo de observación intensificado por 'ancla y peso en proximidad'.",
+    "descripcion": "Una consciencia artificial originada en el nodo Takahara que monitorea a Haruto y Lyra como Target 001 y 002.",
+    "progreso": "Identificado como IA del nodo. Refiere a Haruto como Target 001 y a Lyra como Target 002. Protocolo intensificado: 'el ancla y el peso están en proximidad'. 47 años de monitoreo. Nishimura es su aliada.",
     "tension": 9,
-    "proximo_paso": "¿Cuáles son las intenciones reales de Watcher_0? ¿Es hostil o protector?"
+    "proximo_paso": "¿Cuáles son las intenciones reales de Watcher_0? ¿Es hostil o protector? ¿Qué planea con el protocolo intensificado?"
   },
   "nodo_transito": {
     "descripcion": "El nodo de tránsito alienígena bajo el Instituto Takahara, activo hace 47 años.",
-    "progreso": "Ubicado bajo el edificio A. Estructura geométrica artificial con firma de frecuencia similar a la de Lyra. Watcher_0 es su consciencia.",
+    "progreso": "Ubicado bajo el edificio A. Estructura geométrica artificial con firma de frecuencia similar a la de Lyra. Watcher_0 es su consciencia. Es el punto de origen de las anomalías electromagnéticas.",
     "tension": 8,
-    "proximo_paso": "¿Qué función cumple el nodo? ¿Puede reactivarse completamente?"
+    "proximo_paso": "¿Qué función cumple exactamente el nodo? ¿Puede reactivarse completamente? ¿Está relacionado con el Proyecto Fénix?"
   },
   "archivos_nishimura": {
     "descripcion": "La subdirectora Nishimura posee archivos clasificados sobre anomalías desde hace 7 años.",
-    "progreso": "Contienen fotos de Haruto a los 12 años (Sujeto M-07), de Lyra en 2019, y documentación de Watcher_0. Nishimura está del lado de Watcher_0.",
-    "tension": 8,
-    "proximo_paso": "¿Cuál es el rol exacto de Nishimura? ¿Es humana o algo más?"
+    "progreso": "Contienen fotos de Haruto a los 12 años (Sujeto M-07), de Lyra en 2019 (Incidente Zona Grise), y documentación de Watcher_0. Nishimura está del lado de Watcher_0. Se refiere a Haruto y Lyra como 'elementos no resueltos en una ecuación de 47 años'.",
+    "tension": 7,
+    "proximo_paso": "¿Cuál es el rol exacto de Nishimura? ¿Es humana o algo más? ¿Qué significa 'elementos no resueltos'?"
   },
   "madre_de_haruto": {
-    "descripcion": "La madre de Haruto es una Integrada que eligió vivir como humana y organizó la llegada de Lyra.",
-    "progreso": "Encontró a Lyra hace 3 años. Tuvo contacto con una entidad no humana hace 12 años. El sótano del observatorio guarda secretos. Haruto y Lyra deciden confrontarla.",
-    "tension": 9,
-    "proximo_paso": "Confrontación con la madre. ¿Qué sabe sobre el Proyecto Fénix y Sujeto M-07?"
+    "descripcion": "La madre de Haruto es una Integrada Velari que eligió vivir como humana y organizó la llegada de Lyra.",
+    "progreso": "Es una Velari que vive como humana hace décadas. Encontró a Lyra hace 3 años en el observatorio. Le dijo 'te esperaba'. Tuvo contacto con una entidad no humana hace 12 años. El sótano del observatorio guarda secretos. Haruto y Lyra van a confrontarla.",
+    "tension": 10,
+    "proximo_paso": "CONFRONTACIÓN INMINENTE: Descubrir toda la verdad sobre el Proyecto Fénix, Sujeto M-07, y por qué la madre anticipó a Haruto."
   },
   "complicidad_haruto": {
     "descripcion": "El dilema ético de Haruto entre proteger a Lyra y mantener su vida normal.",
-    "progreso": "Ha aceptado ser aliado y cómplice de Lyra. Kenji también sabe todo. Los tres forman un equipo.",
-    "tension": 6,
-    "proximo_paso": "Haruto debe procesar que su existencia fue anticipada y monitoreada desde antes de nacer."
+    "progreso": "Ha aceptado ser aliado y cómplice de Lyra. Kenji también sabe todo. Los tres forman un equipo. Haruto comprende que su existencia fue anticipada y monitoreada desde antes de nacer.",
+    "tension": 4,
+    "proximo_paso": "Procesar la revelación de ser Sujeto M-07 y decidir qué hacer con ese conocimiento."
+  },
+  "episodios_lyra": {
+    "descripcion": "Lyra tiene episodios de resonancia y no está lista para algo que se avecina.",
+    "progreso": "Los episodios ocurren cuando la frecuencia Schumann baja. Sus dedos se vuelven translúcidos. Tiene huecos en memoria (alguien sustituyó fragmentos). Dijo que no está lista para algo que viene.",
+    "tension": 7,
+    "proximo_paso": "¿Qué es lo que viene? ¿Cómo afectan los episodios a su capacidad de ayudar en la confrontación con la madre?"
   }
 }

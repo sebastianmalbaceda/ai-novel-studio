@@ -266,6 +266,22 @@ def validate_chapter_completeness(content, chapter_num):
     return True
 
 
+def validate_chapter_length(content, min_words=1200, max_words=1800):
+    """Verifica que el capítulo tenga entre min_words y max_words palabras."""
+    words = content.split()
+    word_count = len(words)
+
+    if word_count < min_words:
+        print(f"VALIDACIÓN FALLIDA: El capítulo tiene {word_count} palabras, mínimo requerido: {min_words}.")
+        return False
+    if word_count > max_words:
+        print(f"VALIDACIÓN FALLIDA: El capítulo tiene {word_count} palabras, máximo permitido: {max_words}.")
+        return False
+
+    print(f"  Longitud validada: {word_count} palabras (rango: {min_words}-{max_words})")
+    return True
+
+
 def truncate(text, max_chars):
     """Truncate text to max_chars, keeping the beginning."""
     if len(text) <= max_chars:
@@ -393,8 +409,11 @@ def run_writing_agent():
         "b) El título debe capturar el momento más significativo o evocador del capítulo, no resumirlo. "
         "c) Evita títulos que empiecen con 'El Peso de', 'Límites de', 'La Frecuencia de' repetidamente. "
         "d) Buenos referentes de esta serie: 'La Chica del Cielo', 'Canibalismo Mediático', 'Cuarenta y Siete Suscriptores', 'Zona Muerta', 'Café a las 6 AM'. "
-        "e) Sé creativo pero ancla el título en algo concreto del capítulo."
-        "6. El capítulo debe tener un cierre completo, nunca terminar a mitad de frase."
+        "e) Sé creativo pero ancla el título en algo concreto del capítulo. "
+        "REGLAS DE EXTENSIÓN OBLIGATORIAS: "
+        "9. El capítulo debe tener ENTRE 1200 Y 1800 PALABRAS. No menos de 1200. Si escribes menos, el capítulo será rechazado. "
+        "10. Desarrolla cada escena con descripción, diálogo y reacción. Cada capítulo debe tener al menos 3-4 escenas bien desarrolladas. "
+        "11. El capítulo debe tener un cierre completo con resolución de la escena principal, nunca terminar a mitad de frase o escena."
     )
 
     mega_prompt = f"""
@@ -464,10 +483,14 @@ def run_writing_agent():
                 failure_reason = "cierre incompleto o capítulo demasiado corto"
                 validation_failed = True
 
+            if not validate_chapter_length(cleaned_content):
+                failure_reason = "capítulo fuera del rango de palabras (1200-1800)"
+                validation_failed = True
+
             if validation_failed:
                 if attempt < max_attempts:
                     print(f"  Reintentando ({attempt + 1}/{max_attempts})...")
-                    mega_prompt += f"\n\nIMPORTANTE: El intento anterior fue rechazado por {failure_reason}. Reescribe el capítulo asegurándote de: (1) usar SOLO caracteres latinos del español, (2) terminar con un cierre completo de escena, no a mitad de frase."
+                    mega_prompt += f"\n\nIMPORTANTE: El intento anterior fue rechazado por {failure_reason}. Reescribe el capítulo asegurándote de: (1) usar SOLO caracteres latinos del español, (2) terminar con un cierre completo de escena, no a mitad de frase, (3) el capítulo debe tener entre 1200 y 1800 palabras."
                     continue
                 else:
                     print(
