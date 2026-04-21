@@ -91,3 +91,9 @@ La transmisión de Watcher_0 culmina exitosamente, lo que marca el fin de la fas
 El narrador descubre a su madre esperándolo en el laboratorio de astronomía al amanecer, donde ella revela que ha conocido la verdad desde hace diecisiete años, exactamente desde su nacimiento. Sus manos tiemblan y muestra signos de haber cargado ese secreto demasiado tiempo, pero su expresión indica resolución y algo parecido al alivio de dejar de mentir. La madre confiesa que durante su época universitaria perteneció a un programa de investigación de señales anómalas para el gobierno japonés, donde detectaron frecuencias inexplicables que se repetían cada exactamente cuarenta y siete días, conectando directamente con la edad de Watcher_0 y la estructura oculta bajo el edificio A. La tensión entre madre e hijo se transforma: donde antes había secretos, ahora se abre la posibilidad de una verdad compartida, aunque el narrador debe decidir si está listo para escucharla. El capítulo queda abierto con la madre iniciando su relato sobre lo que realmente encontraron, dejando múltiples hilos suspendidos sobre el Proyecto Fénix y el alcance real de la conspiración alienígena que involucra a su propia familia.
 
 ---
+
+### Capítulo 16
+
+Caminando por el pasillo vacío del edificio A, Haruto sigue a Lyra hacia el nodo, ella busca respuestas mientras él duda. Watcher_0 ha guardado silencio tras enviar el mensaje sobre la convergencia iniciada. Lyra revela que fue elegida antes de nacer, al igual que Haruto, y que él puede escuchar frecuencias. El protagonista recuerda que su madre le dijo siendo niño "el niño puede escuchar", pero nunca volvió a mencionarlo. Lyra confiesa que ignoró su propia elección durante veintitrés años hasta ser asignada al instituto. Los hilos abiertos incluyen qué es exactamente el nodo, qué ocurrió durante los treinta y cuatro días que Lyra no recuerda, el propósito real de la convergencia y la identidad oculta de Watcher_0.
+
+---
