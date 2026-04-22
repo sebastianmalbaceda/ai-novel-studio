@@ -97,3 +97,9 @@ El narrador descubre a su madre esperándolo en el laboratorio de astronomía al
 Caminando por el pasillo vacío del edificio A, Haruto sigue a Lyra hacia el nodo, ella busca respuestas mientras él duda. Watcher_0 ha guardado silencio tras enviar el mensaje sobre la convergencia iniciada. Lyra revela que fue elegida antes de nacer, al igual que Haruto, y que él puede escuchar frecuencias. El protagonista recuerda que su madre le dijo siendo niño "el niño puede escuchar", pero nunca volvió a mencionarlo. Lyra confiesa que ignoró su propia elección durante veintitrés años hasta ser asignada al instituto. Los hilos abiertos incluyen qué es exactamente el nodo, qué ocurrió durante los treinta y cuatro días que Lyra no recuerda, el propósito real de la convergencia y la identidad oculta de Watcher_0.
 
 ---
+
+### Capítulo 17
+
+Desperté después de dormir casi doce horas, agotado tras los eventos del Proyecto Fénix. Al bajar a la cocina encontré a mi madre, algo insólito en domingo, concentrada en unos documentos. Su tono grave al decir "necesito hablar contigo" activó todas mis alarmas. Sin preámbulos me reveló que conoce el Proyecto Fénix y que Lyra, al interferir con el sistema de monitoreo, detectó la señal que emite mi cuerpo, alerting a la Zona Gris sobre el responsable. La revelación más impactante fue que ella ha vigilado mi actividad durante años, probablemente desde siempre, y que sabe exactamente qué soy. Confronté su秘密 con voz temblorosa, descubriendo que mi identidad ha sido monitoreada familiarmente durante toda mi vida. El capítulo deja abiertos varios hilos: qué sabe exactamente mi madre sobre mi naturaleza, qué harán las autoridades ante la detección de la señal, y cómo afectará esta revelación la relación entre Lyra y el protagonista ahora que su paradero ha sido comprometido.
+
+---
