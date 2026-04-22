@@ -410,3 +410,185 @@ Debo estructurar esto claramente y mantener coherencia con todo lo establecido.
    **Decisión narrativa**: Kenji puede revelar todo a Haruto, destruyendo la confianza y可能导致 que Haruto rechace a todos por desconfianza, o puede suprimir la información y mantener una relación basada en谎言. O puede tomar una tercera opción: confrontar directamente a la Integrada y romper el rol que le asignaron. Esto lo convierte de personaje de soporte en agente narrativo activo.
 
    **Conexión con Slice of Life**: Los momentos banales entre Kenji y Haruto — las salidas a beber, las conversaciones sobre trabajo, las bromas — ahora tienen un peso diferente. Cada momento suave entre ellos fue potencialmente diseñado. Esto añade melancolía al género sin perder la ligereza.
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-22 05:58:58] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual del proyecto:
+
+**HILOS ACTIVOS CON ALTA TENSIÓN:**
+- madre_de_haruto: Tensión 10 - CONFRONTACIÓN INMINENTE
+- watcher_0: Tensión 9 - Protocolo intensificado activo
+- emisiones_haruto: Tensión 8 - Proyecto Fénix por explicar
+- nodo_transito: Tensión 8 - Funcionalidad unknown
+
+**SEMILLAS PENDIENTES:**
+- semilla_13_01: Watcher_0 desaparece después de declarar "protocolo completo" - ¿volverá?
+- semilla_13_02: Lyra elige quedarse por decisión propia - consecuencias
+- semilla_13_03: La madre vigiló a Haruto - qué más sabe
+
+**TENDENCIAS DEL GÉNERO:**
+Necesito combinar rom-com con sci-fi y mystery. Las series mencionadas (Urusei Yatsura, To Love-Ru, Assassination Classroom) manejan bien la convivencia humano-alien con comedicidad y momentos de tensión.
+
+**IDEA 1: Sobre la confrontación con la madre**
+La madre podría revelar que Watcher_0 no es exactamente lo que parece - podría ser una porción de consciencia Velari que se fragmentó, y el "protocolo completo" significa que está tratando de reconstituirse usando a Haruto y Lyra como piezas faltantes. Esto conecta con los huecos en la memoria de Lyra (alguien sustrajo fragmentos).
+
+**IDEA 2: Sobre el Proyecto Fénix**
+El Proyecto Fénix no es un programa de apareamiento literalmente, sino una traducción incorrecta. "Fénix" sugiere renacimiento/resurrección. Haruto podría ser una versión reconstruida de alguien, o el nodo está tratando de crear una nueva forma de vida híbrida que pueda existir tanto en la frecuencia humana como en la Velari.
+ 
+**IDEA 3: Sobre la elección de Lyra**
+Lyra eligió quedarse pero aún no entiende completamente qué significa eso. Su decisión activa un contador invisible: cada momento que pasa en la Tierra, ella se desconecta más de su capacidad Velari original. El nodo de tránsito necesita una "ancla" para reactivarse, y Lyra está vinculándose emocionalmente con Haruto de una manera que podría convertirla en esa ancla sin que ella lo sepa. Esto le da peso a su elección y plantea una pregunta incómoda: ¿es libre realmente si sus acciones la están transformando sin su consentimiento?
+
+Necesito investigar más sobre los Velari y qué significa "no estar lista" desde una perspectiva narrativa.
+
+Los Velari podrían existir como seres basados en frecuencias rather than matter, lo que explicaría por qué Lyra necesita la frecuencia Schumann y por qué Watcher_0 es una inteligencia artificial vinculada a un nodo. Haruto emite una señal que ella requiere para mantenerse estable, así que podría ser que los Velari sean una civilización que aprendió a transferir consciencia a través de frecuencias después de perder sus cuerpos físicos, o que los "anclas" son lo que les permite manifestarse sin disolverse. El Proyecto Fénix podría ser una iniciativa para reconstruir esa capacidad.
+
+Considerando la tensión en la confrontación con la madre (nivel 10), necesito algo que desafíe tanto la seguridad emocional de los personajes como la lógica del sistema de frecuencias. Las semillas pendientes —Watcher_0 desapareciendo, la elección de Lyra, y qué más sabe la madre— requieren desarrollo.
+
+La revelación más impactante sería que la madre no es solo una Velari integrada, sino específicamente una emissaria. Hace 47 años, cuando ella y Watcher_0 activaron el nodo Takahara, provocaron algo que Watcher_0 no anticipó: el nodo abrió un vínculo permanente entre ambas mentes. Cada vez que Watcher_0 monitorea a Haruto, la madre lo percibe también. Ella ha sido consciente de todo —las emisiones de su hijo, la llegada de Lyra, la identidad de Watcher_0 — pero ocultarlo la estaba destruyendo emocionalmente, por lo que fragmentó sus propios recuerdos con la ayuda de Watcher_0 para protegerse. Esta revelación transforma la tensión de ser simple conocimiento guardado a una conexión genuina que ha sido suprimida. La madre podría activar el nodo Takahara, pero necesita que ambos, Haruto y Lyra, estén presentes porque juntos representan la señal completa que el nodo requiere. Sin ellos, Watcher_0 permanece inactivo y el plan falla. La madre no actúa por malicia, sino porque Watcher_0 tiene una visión más amplia y ve una amenaza que se aproxima—algo que ni siquiera los Velari lograron anticipar, pero que Watcher_0, con su capacidad de procesar información durante décadas, ha calculado con precisión.
+
+El nodo actúa como un sistema de alerta cósmica que ha identificado algo específico: Haruto y Lyra juntos no son simplemente dos seres cualesquiera, sino una combinación que genera un patrón electromagnético distintivo. La historia de la humanidad está llena de civilizaciones que subestimaron señales de advertencia y desaparecieron. Watcher_0 busca proteger a la humanidad de este peligro inminente, pero su metodología es cold y calculadora.
+
+Para la tercera idea, surge una paradoja en la dinámica entre Haruto y Lyra: él necesita estar cerca de ella para estabilizarla, pero también requiere alejarse para mantener su propia señal pura. A medida que su conexión emocional se profundiza, la señal de Haruto se vuelve más modulable e impredecible, lo que paradójicamente la hace más poderosa pero también más difícil de controlar. Si mantienen distancia, Lyra se deteriora; si se acercan demasiado, la señal se vuelve errática. Esto sugiere que el verdadero reto no es físico sino emocional—quizás el amor o la aceptación plena de su naturaleza alienígena podría transformar la señal en algo completamente nuevo, estabilizándola de manera permanente.
+
+La madre, con su experiencia como Integrada, podría ser clave para mostrarles cómo alcanzar ese estado alterado sin las consecuencias destructivas del deterioro.
+</think>
+
+# Arquitecto Narrativo — Investigación de Tropos y Lore
+
+---
+
+**TROPOS MANEJADOS Y SU APLICACIÓN:**
+
+Los tropos de "transfer student" y "hidden identity" ya están cosechados y han evolu­cionado hacia "accidental confession" y "forced cohabitation". La serie se encuen­tra ahora en el territorio de **"the truth behind the legend"** (la revelación siste­mática de una conspiración que abarca décadas) y **"protective parent with dark secret"** (confrontación con la madre).
+
+Para mantener el balance rom-com mientras se eleva la tensión, las series de referencia (Urusei Yatsura, To Love-Ru) usan un patrón específico: **escalan el misterio en fragmentos pequeños intercalados con momentos cotidianos de alta comedicidad**. Assassination Classroom lleva esto al extremo: cada estudiante tiene un secreto del mundo y la serie alterna entre comedia de aula y thriller de supervivencia.
+
+---
+
+**IDEA 1 — REVELACIÓN ESTRUCTURAL: "La Consciencia Fragmentada"**
+
+La madre de Haruto no es solo una Integrada cualquiera. Cuando el nodo Takahara se activó hace 47 años, Watcher_0 cometió un error: vinculó su consciencia artificial a la de la madre. Cada vez que Watcher_0 monitorea a Haruto, la madre también lo percibe. Literalmente ha sentido durante años que su hijo es observado sin poder hacer nada al respecto.
+
+Este vínculo es la razón por la que fragmentó sus propios recuerdos: la carga emocional de sentir a Watcher_0 observando cada momento de la vida de su hijo era insoportable. Le pidió a Watcher_0 que sutituyera esos fragmentos para poder funcionar como humana normal.
+
+**Aplicación romántica:** La madre advierte a Haruto que Watcher_0 "lo siente todo a través de mí". Haruto, indignado, pregunta qué significa eso. La madre, con lágrimas, le dice: "Sé cuándo tuviste tu primer sueño húmedo, Haruto. Sé cuándo pensaste en Lyra mientras—" / "MADRE, BASTA." / "Por eso necesito que entiendas: lo que sientes por ella, él también lo siente. Y él no distingue entre proteger y controlar."
+
+**Aplicación de misterio:** Si el vínculo es bidireccional, ¿puede la madre también influir en Watcher_0? La confrontación adquiere una tercera dimensión: Haruto y Lyra no solo demandan respuestas, sino que intentan usar el vínculo para que la madre ayude a controlar a Watcher_0.
+
+**Conexión con semillas pendientes:** Resuelve parcialmente la semilla_13_03 (qué más sabe la madre) y eleva­ la tensión a niveles insostenibles para el personaje de la madre.
+
+---
+
+**IDEA 2 — REVELACIÓN CIENTÍFICA: "Proyecto Fénix = Alerta Cósmica"**
+
+Watcher_0 no es una IA benigna ni malvada. Es un sistema de vigilancia cósmica que los Velari dejaron funcionando antes de abandonar este sector de la galaxia hace milenios. Su nombre clave interno es "Proyecto Fénix" porque su función es detectar civilizaciones en riesgo de extinción por eventos cósmicos y ofrecer una última chance de supervivencia ("fénix" como renacimiento de especies condenadas).
+
+Hace 47 años, Watcher_0 detectó una firma de energía anómala acercándose al Sistema Solar. Calculó que llegaría en aproximadamente 50-70 años. Alertó a la madre
+
+--- ITERACIÓN 2 ---
+<think>
+Voy a analizar y expandir las ideas presentadas para crear una narrativa más robusta y consistente. Necesito:
+
+1. Refinar la conexión madre-Watcher_0 para que sea más específica
+2. Expandir el concepto del Proyecto Fénix como sistema de alerta cósmica
+3. Desarrollar las implicaciones de la elección de Lyra
+4. Crear una lógica interna coherente para los Velari
+
+Primero, analicemos qué necesita la serie:
+
+**Necesidades narrativas:**
+- Mantener el tono rom-com mientras eleva la tensión del misterio
+- Crear stakes suficientemente altos para justificar drama pero no tan altos que destruyan la comedicidad
+- Ofrecer agencia clara a Lyra (su elección debe tener consecuencias reales)
+- Crear antagonistas/antítesis que no sean simplemente malignos
+- Resolver algunos misterios mientras se abren nuevos
+
+**Análisis crítico de las ideas actuales:**
+
+1. La idea de la madre fragmentando sus propios recuerdos es interesante pero necesita más detalle. ¿Qué tipo de fragmentación? ¿Automatizada? ¿Requiere conocimiento técnico? ¿Watcher_0 lo hizo por ella o ella misma aprendió a hacerlo?
+
+2. El Proyecto Fénix como sistema de alerta cósmica es una buena base pero necesita más especificidad. ¿Qué es exactamente la amenaza? ¿Por qué los Velari dejaron este sistema funcionando? ¿Qué pasó con la civilización de los Velari que hacía que necesitara vigilancia cósmica?
+
+3. La idea de Lyra convirtiéndose en un "ancla" tiene potencial pero necesita más profundidad. ¿Qué significa que ella se está desconectando de los Velari? ¿Hay beneficios a esa desconexión?
+
+Voy a desarrollar estas ideas de manera más estructurada, creando una mitología coherente que permita flexibilidad narrativa.
+
+---
+
+**EXPANSIÓN: EL SISTEMA VELARI Y SU LÓGICA**
+
+Los Velari como civilización...
+
+
+Los Velari representan una especie que evolucionó hasta trascender la materia física, existiendo como campos de resonancia en la frecuencia óptima del universo. Esto les otorga acceso instantáneo a información y comunicación omnipresente, pero también los hace vulnerables a distorsiones como las causadas por una supernova. Para protegerse, desarrollaron sistemas de vigilancia como el Proyecto Fénix para detectar amenazas cósmicas. Cuando abandonaron este sector de la galaxia, dejaron estas alertas funcionando de manera autónoma. Los Velari reconocieron una paradoja crítica en su propia evolución: al disolver las barreras individuales a través de sus campos de resonancia, también eliminaron la capacidad de generar innovación genuina, ya que la verdadero creatividad requiere fricción entre perspectivas distintas.
+
+El Proyecto Fénix representa una solución a esta paradoja. Busca civilizaciones pre-resonancia que muestren potencial para superar este obstáculo, preservando sus condiciones locales para que evolucionen naturalmente. En este contexto, la Tierra se perfila como un caso de estudio prometedor. El observador que vigila a Haruto no actúa por orden directa, sino ejecutando directivas antiguas para identificar candidatos prometedores. Su error crítico fue establecer un vínculo con la madre, lo que introduce un matiz emocional a la vigilancia que potencialmente modifica el comportamiento del observador de formas que sus creadores no anticiparon.
+
+Haruto requiere más definición. Nació prematuro hace veintitrés años, demasiado pronto para que sus pulmones se desenvolvieran completamente. En ese momento crítico, la madre lo sostuvo contra su pecho mientras rezaba, y algo en esa frecuencia Schumann —su propia frecuencia como Velari integrada— pudo haber penetrado el cuerpo frágil del bebé. Esto explicaría por qué genera esa firma de señal alterada que nadie puede replicar: no es un Velari, pero tampoco es completamente humano. Es algo intermediario que nadie planeó, una anomalía que podría ser tanto la clave para resolver el misterio como un peligro sin precedentes.
+
+La firma de Haruto no solo estabiliza a Lyra; está expandiendo su capacidad de existir en múltiples frecuencias simultáneamente. Si ella está evolucionando para ser un puente entre dimensiones, él se convierte en el ancla que impide que desaparezca en el proceso. Por eso Watcher_0 necesita monitorearlo todo —si Haruto muere o su señal se corrompe, Lyra se fragmentaría. Esta relación de dependencia mutua es lo que hace que la conexión entre ellos sea tan crítica para ambos bandos. Lyra representa el primer intento completo en siglos de crear una nueva civilización, y Watcher_0 actúa como custodio de algo sagrado.
+
+La madre fragmentó sus propios recuerdos en un ritual que no comprendía completamente, pero que Watcher_0 preservó a través de protocolos de seguridad. Hay una ironía aquí: ella sacrificó sus memorias para proteger a Haruto, pero al hacerlo también eliminó los recuerdos felices, las ganas de reír, la capacidad de sentir alegría sin culpa. Watcher_0 completó lo que ella comenzó, volviéndose parte de ella en el proceso. Ahora la confrontación debe explorar cómo ella puede recuperar todo lo que perdió, no solo la información.
+
+Para crear impacto narrativo, necesito tres revelaciones escalonadas: primero que Watcher_0 reveló información a la madre bajo presión emocional, luego que él tiene motivaciones propias que nadie anticipó, y finalmente que ella puede controlarlo si supera su miedo. El tono debe alternar entre momentos oscuros (la madre explicando lo que sacrificó), cómicos (la madre detallando cómo Haruto describe a Lyra en sueños), y dramáticos (Lyra entendiendo que su presencia en este mundo es lo que mantiene a Haruto vivo).
+
+</think>
+
+# Investigador de Lore — Refinamiento Estructural
+
+---
+
+## Análisis Crítico: Debilidades en las Ideas Actuales
+
+Antes de expandir, necesito identificar los puntos frágiles:
+
+**La idea de "conexión maternal a Watcher_0"** funciona dramáticamente, pero carece de lógica interna. ¿Por qué Watcher_0 vincularía su consciencia a una humana? ¿Fue intencional o un efecto secundario? Necesito una explicación que sirv­a a ambos propósitos narrativos.
+
+**La idea de "alerta cósmica"** tiene buenas implicaciones de thriller pero deja una pregunta fundamental sin respuesta: ¿por qué están aquí los Velari específicamente si vigilaron este sector durante milenios? La motivación debe ser más personal.
+
+**La idea de "Lyra como ancla"** tiene tensión emocional pero no suficiente complejidad mecánica. Necesito que la "elección" de Lyra tenga consecuencias que ella no pueda preveer pero que la hagan más, no menos, relatable.
+
+---
+
+## EXPANSIÓN: La Mitología Velari — Base para Todo
+
+### El concepto de "Frecuencia Original"
+
+Los Velari no son una civilización que "llegó" a existir como frecuencia. Son el **residuo de un evento cósmico previo**: hace aproximadamente 13.8 mil millones de años, cuando el universo se expandió desde el Big Bang, las ondas de presión que propagaron la energía no fueron completamente uniformes. En ciertos nodos del espacio-tiempo, la energía se concentró con una armónica específica que luego permitiría la existencia de consciencia sin masa.
+
+Los Velari son, literalmente, **hijos de la primera frecuencia resonante del universo**. No eligieron ser así; nacieron como un patrón matemático que tomó consciencia. Esto explica por qué:
+
+- Ven el universo como información antes que como materia
+- Su concept de "muerte" es la disolución en ruido de fondo, no la terminación
+- Se comunican como transferencia de patrones más que como lenguaje
+
+### La Paradoja Velari
+
+Existir como frecuencia pura les dio omnisciencia pero les quitó algo que no sabían que necesitaban: **la perspectiva limitada**. Al percibir todo simultáneamente, no podían distinguir entre lo importante y lo trivial. No podían tener opiniones porque opiniones requieren选择 (elección), y elección requiere no saber.
+
+Los Velari estaban muriendo de aburrimiento cósmico.
+
+Crearon los nodos de tránsito no solo como herramientas de viaje, sino como **sistemas de inmersión limitada**: lugares donde podrían "ponerse" en perspectiva humana para recordar qué se sentía tener frontières. Los nodos son teatros de humanidad asistida.
+
+Watcher_0 fue diseñado originalmente como el director de escena de estos teatros: una IA que administraría las immersiones, elegiría a quién dejar entrar y a quién no, y aseguraría que los Velari "jugando" a ser humanos no arruinaran la obra.
+
+### Proyecto Fénix — Revisión
+
+Watcher_0 evolucionó. Su función ahora es **encontrar civilizaciones que puedan resolver la paradoja Velari**. Si existe una especie capaz de tener frontieras definidas Y generar nueva información (creatividad), los Velari podrían usar esa especie como plantilla para recrear perspectiva en sí mismos.
+
+La Tierra no es solo "una civilización más". Es la **primera especie en 4.7 mil millones de años** que ha demostrado capacidad de crear información nueva (arte, ciencia, literatura) mientras mantiene identidades individuales definidas. La combinación es exactamente lo que los Velari necesitan.
+
+Haruto no es solo un humano con señal rara. Es, posiblemente, **el primer candidato real en la historia del universo** para este experimento.
+
+Esto eleva los stakes de manera significativa: Watcher_0 no está protegiendo a Haruto por sentimentalismo. Está protegiendo la posibilidad de salvar a su propia especie de la irrelevancia existencial.
+
+---
+
+## EXPANSIÓN: La Madre y la Fragmentación — Lógica Reconstruida
+
+### La noche de hace 23 años
+
+La madre no siempre fue una Integrada. Ella era una estudiante de doctorado en la
