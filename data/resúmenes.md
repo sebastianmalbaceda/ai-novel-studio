@@ -103,3 +103,9 @@ Caminando por el pasillo vacío del edificio A, Haruto sigue a Lyra hacia el nod
 Desperté después de dormir casi doce horas, agotado tras los eventos del Proyecto Fénix. Al bajar a la cocina encontré a mi madre, algo insólito en domingo, concentrada en unos documentos. Su tono grave al decir "necesito hablar contigo" activó todas mis alarmas. Sin preámbulos me reveló que conoce el Proyecto Fénix y que Lyra, al interferir con el sistema de monitoreo, detectó la señal que emite mi cuerpo, alerting a la Zona Gris sobre el responsable. La revelación más impactante fue que ella ha vigilado mi actividad durante años, probablemente desde siempre, y que sabe exactamente qué soy. Confronté su秘密 con voz temblorosa, descubriendo que mi identidad ha sido monitoreada familiarmente durante toda mi vida. El capítulo deja abiertos varios hilos: qué sabe exactamente mi madre sobre mi naturaleza, qué harán las autoridades ante la detección de la señal, y cómo afectará esta revelación la relación entre Lyra y el protagonista ahora que su paradero ha sido comprometido.
 
 ---
+
+### Capítulo 18
+
+En el第十八章, Haruto 和 Lyra 乘电梯前往 B 层级地下室的秘密档案库，寻找「凤凰计划」的资料。到达后，Lyra 使用她的 Velari 技术打开生锈的键盘入口。进入满是灰尘的档案室，Haruto 在墙上发现母亲的照片——田崎子博士，年轻时笑容灿烂，下方标注她自 1979 年起参与该计划，而当时她正值 Haruto 现在的年纪。Lyra 在角落找到一台旧终端机并开始操作，屏幕闪烁后显示出一份标注「五级机密」的文档。这份文件暗示了 Haruto 母亲与凤凰计划及他自身命运之间的深层关联，同时也让 Haruto 意识到 Lyra 对人类旧技术的熟悉程度远超她所承认的。
+
+---
