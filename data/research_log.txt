@@ -305,3 +305,108 @@ Esto significa que cuando Watcher_0 dice "el protocolo completo acaba de iniciar
 **El evento cósmico que justifica todo** necesita especificarse con suficiente claridad para que el lector pueda anticipar el peligro sin que se sienta artificial. Propongo:
 
 *El Colapso de Frecuencia de Vela* — un fenómeno estelar donde la supernova de una estrella masiva en la constelación de Vela está programada para emitir una onda de radiación que *reconfigura las frecuencias fundamentales de cualquier forma de vida en un radio de 40 años luz*. No destruye físicamente; transforma. Y tanto la especie Velari como la humanidad están en ese radio. El Proyecto Fénix no es un plan para salvarlas a ambas *a pesar* del otro; es un plan para fusionar ambas en algo que pueda *adaptarse* a la reconfiguración sin ser destruido. **Lyra y Haruto no son amantes elegidos por el destino. Son los primeros individuos de un
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-22 02:26:39] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual del proyecto y los elementos activos:
+
+**HILOS ACTIVOS CON ALTA TENSIÓN:**
+1. madre_de_haruto (tensión 10) - Confrontación inminente
+2. watcher_0 (tensión 9) - Protocolo intensificado,不知道意图
+3. emisiones_haruto (tensión 8) - Proyecto Fénix, clasificación Nivel 2
+4. nodo_transito (tensión 8) - Función exacta desconocido
+
+**SEMILLAS PENDIENTES:**
+- Semilla_13_01: Watcher_0 desaparece después de "protocolo completo" - ¿volverá?
+- Semilla_13_02: Lyra elige quedarse por decisión propia - consecuencias
+- Semilla_13_03: Madre vigiló a Haruto toda su vida - qué más sabe
+
+**GÉNEROS ACTIVOS:**
+- Rom Com 40% - Necesita más desarrollo romántico
+- Action 25% - Confrontación con madre puede usar esto
+- Sci Fi 15% - Proyecto Fénix necesita más desarrollo
+- Mystery 10% - Hay huecos por resolver
+- Slice of Life 10% - Momentos de la vida normal
+
+**ENFOQUE:**
+El próximo paso narrativo más urgente es la CONFRONTACIÓN con la madre de Haruto. Necesito ideas que:
+1. Avancen este hilo de máxima tensión
+2. Revelen más sobre el Proyecto Fénix
+3. Mantengan el equilibrio de géneros (especialmente Rom Com)
+
+
+4. Planten nuevas semillas para el futuro
+
+Debo generar exactamente 3 ideas siguiendo las instrucciones estrictas de devolver solo el texto estructurado en puntos.
+
+</think>
+
+1. **La Verdad del Proyecto Fénix**: Durante la confrontación, la madre revela que el Proyecto Fénix no es solo un programa de apareamiento. Haruto fue diseñado genéticamente antes de nacer para ser un "Traductor Biológico" — alguien capaz de emitir frecuencias que permiten comunicación estable entre dimensiones. Lyra no fue enviada a observarlo; fue enviada a protegerlo porque algo más antiguo que los Velari está tratando de usar el nodo Takahara. Esto explica por qué Watcher_0 los llama "ancla y peso" — Lyra es literalmente el contrapeso que evita que Haruto colapse bajo la presión de ser un puente dimensional.
+
+2. **Episodio de Lyra Durante la Confrontación**: En medio de la revelación, Lyra sufre un episodio de resonancia severa — sus dedos se vuelven completamente translúcidos y emite un zumbido en idioma antiguo. Pero esta vez no es debilidad; es comunicación. Algo dentro del nodo Takahara intenta contactarla directamente, y fragmentos de memoria que fueron substituidos empiezan a emerger. Haruto descubre que alguien insertó memorias falsas en Lyra hace tres años para que no recordara qué la envió realmente a la Tierra. El tono de la escena cambia de confrontación familiar a crisis existencial compartida.
+
+3. **Kenji como Elemento No Resuelto**: Nishimura llama a Kenji separately y le muestra una foto de él a los 8 años hablando con alguien que no aparece en la imagen. Resulta que Kenji también fue identificado por Watcher_0, pero como "Variable C" — un factor estabilizador que evita que Haruto y Lyra desarrollen dependencias malsanas entre ellos. La Integrada lo sabía cuando los presentó. Kenji ahora tiene que decidir si revelar esta información a Haruto, rompiendo la dinámica del trío, o mantenerla para preservar la estabilidad del grupo. Esto introduce un conflicto moral que balancea el Rom Com con drama de amistad y añade tensión sin depender de la ciencia ficción.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las 3 ideas generadas y las refine, expanda y profundice. Debo:
+
+1. Mejorar consistencia
+2. Aumentar atractivo de personajes
+3. Llevar las ideas un paso más allá según los géneros objetivo
+
+Los géneros activos son:
+- Rom Com 40%
+- Action 25%
+- Sci Fi 15%
+- Mystery 10%
+- Slice of Life 10%
+
+Debo devolver exactamente 3 ideas en formato estructurado.
+
+Voy a trabajar en cada idea:
+
+**Idea 1: Proyecto Fénix como Traductor Biológico**
+- Necesito expandir el concepto para que sea coherente con la mitología existente
+- La madre debería tener más matices como personaje
+- Conectar esto con el Rom Com - cómo afecta la relación Haruto-Lyra
+- Verificar que no contradiga elementos previos
+
+**Idea 2: Episodio de Lyra**
+- Necesito más detalles sobre las memorias falsas
+- Conectar con la tensión madre de Haruto
+- Hacer la crisis existencial más emocional
+- Mantener equilibrio entre sci-fi y rom-com
+
+**Idea 3: Kenji como Variable C**
+- Esto es muy interesante para misterio y drama
+- Expandir la decisión moral
+- Conectar con el Slice of Life para hacerlo más relatable
+- Crear tensión interpersonal
+
+Debo estructurar esto claramente y mantener coherencia con todo lo establecido.
+
+</think>
+
+1. **La Herencia Takahara y el Contrato Original**: La madre revela que el Proyecto Fénix tiene tres fases, y Haruto solo completó la primera. Hace 26 años, una facción de los Velari negoció directamente con ancestros de la familia Takahara — no con el gobierno japonés, sino con la línea de sangre. El "contrato" era simple: permitir que una entidad fuera dimensional ancle su frecuencia a una línea genética humana a cambio de proteger a la familia de algo peor que viene. Haruto no fue "creado"; fue *seleccionado* in utero. Su cumpleaños coincide con un alineamiento dimensional. Esto convierte a Haruto de victima en heredero, y su decisión de romper el ciclo o mantenerlo se convierte en el verdadero conflicto.
+
+   **Desarrollo de personaje para la madre**: No es antagonista, es guardiana corrupta. Ella sabía todo esto y calló para proteger a Haruto de una verdad que considera insoportable. Sus acciones son justificables desde su perspectiva, lo que la convierte en antagonista trágico.
+
+   **Conexión con Rom Com**: Lyra ahora tiene que procesar que su relación nunca fue "natural" — fue diseñada. Haruto tiene que decidir si lo que siente es real o si es química programada. Esto añade tensión romántica genuina, no solo externa.
+
+2. **Resonancia Inversa y la Identidad Fragmentada de Lyra**: La crisis de Lyra no es solo física; es un proceso de "descompresión de código". Las memorias insertadas operan como capas de compresión en un archivo — al intentar descomprimirlas todas a la vez, Lyra empieza a recordar cosas que no son suyas. Ve momentos de otra chica Velari que también fue enviada a la Tierra hace 15 años y nunca regresó. La transmisión que Watcher_0 interceptó no era instrucciones; era una *carta de despedida* de esa chica. Lyra descubre que ella no fue la primera "observadora" enviada a Haruto — hubo otra que se enamoró de él de verdad, intentó llevarselo, y fue borrada por la Integrada.
+
+   **Giro narrativo**: Lyra es un reemplazo diseñado para no cometer los mismos errores. Esto la obliga a confrontar si sus propios sentimientos hacia Haruto son genuinos o si también fueron "optimizados".
+
+   **Equilibrio de géneros**: El Action se manifiesta cuando durante el episodio, Lyra involuntarily neutraliza a todos los guardias de seguridad de la instalación con un pulso electromagnético. El Sci Fi se profundiza con la revelación de que los Velari tienen protocolos de terminación para sus propios agentes. El Rom Com se intensifica porque ahora Haruto tiene que elegir amar a alguien cuya identidad es parcialmente una construcción.
+
+3. **Kenji: El Amante Desconocido y la Traición por Amor**: La revelación de Kenji como "Variable C" se expande. La foto que Nishimura le muestra no solo muestra a Kenji hablando con nadie — muestra a Kenji en la ceremonia donde la Integrada seleccionó oficialmente a Haruto y Lyra como el par del Proyecto Fénix. Kenji tenía 8 años. Alguien lo llevó a presenciar ese momento para que "su conexión con Haruto actuara como ancla emocional preventiva". Si Haruto desarrolla un apego excesivo a Lyra, Kenji existe como contrabalance biológico — alguien que Haruto ama platónicamente que no puede perder, forcing him to maintain estabilidad mental.
+
+   **Conflicto moral expandido**: Kenji descubre que la Integrada sabía que él amaba a Haruto incluso a los 8 años. La Integrada *utilizó* un niño enamorado como herramienta de control sin su conocimiento. Kenji ahora tiene que procesar que su relación de toda la vida fue monitoreada y potencialmente manipulada.
+
+   **Decisión narrativa**: Kenji puede revelar todo a Haruto, destruyendo la confianza y可能导致 que Haruto rechace a todos por desconfianza, o puede suprimir la información y mantener una relación basada en谎言. O puede tomar una tercera opción: confrontar directamente a la Integrada y romper el rol que le asignaron. Esto lo convierte de personaje de soporte en agente narrativo activo.
+
+   **Conexión con Slice of Life**: Los momentos banales entre Kenji y Haruto — las salidas a beber, las conversaciones sobre trabajo, las bromas — ahora tienen un peso diferente. Cada momento suave entre ellos fue potencialmente diseñado. Esto añade melancolía al género sin perder la ligereza.
