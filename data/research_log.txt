@@ -592,3 +592,212 @@ Esto eleva los stakes de manera significativa: Watcher_0 no está protegiendo a 
 ### La noche de hace 23 años
 
 La madre no siempre fue una Integrada. Ella era una estudiante de doctorado en la
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-22 08:02:11] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el contexto del proyecto:
+
+**Hilos activos de mayor tensión:**
+- madre_de_haruto (tensión 10): Confrontación inminente
+- watcher_0 (tensión 9): ¿Intenciones reales?
+- emisiones_haruto (tensión 8): ¿Qué es el Proyecto Fénix?
+
+**Semillas pendientes más prometedoras:**
+- semilla_13_01: Watcher_0 desapareció después de declarar "protocolo completo"
+- semilla_13_02: Lyra elige quedarse por decisión propia
+- semilla_13_03: La madre vigiló a Haruto toda su vida
+
+Necesito ideas que:
+1. Avancen la confrontación con la madre (hilo 10)
+2. Exploren las intenciones de Watcher_0 (hilo 9)
+3. Respeten el tono RomCom de 40%
+4. Sean originales, no clichés
+
+Voy a investigar conceptos únicos que puedan dar giro narrativo:
+
+1. **Para la confrontación con la madre**: Podría explorar la idea de que "el Proyecto Fénix" no es un programa de apareamiento literal, sino algo más complejo - quizás la madre anticipó a Haruto porque sabía que él sería necesario para algo más grande, no solo para Lyra. Podría revelarse que el Proyecto Fénix busca crear "anclas de frecuencia" para estabilizar el nodo, no para apareamiento.
+
+2. **Para Watcher_0**: Podría explorar la idea de que Watcher_0 es una consciencia que ha estado esperando 47 años y ahora que el "protocolo está completo", necesita que Haruto y Lyra tomen una decisión activa - pero ¿sobre qué? Podría ser sobre activar el nodo o destruirlo.
+ 
+El tercer enfoque podría girar en torno a las motivaciones de Lyra. Su elección de quedarse no parece ser solo romántica, sino que tiene raíces más profundas. Existe la posibilidad de que su especie estuviera involucrada en la creación del nodo hace milenios, y ella了回来 para completar algún ciclo antiguo. También podría ocultarle información crucial a Haruto sobre su verdadera naturaleza o propósito.
+
+Cada idea mantiene el tono ligero mientras introduce capas de complejidad emocional y romántica que enriquecen la narrativa sin perder su esencia.
+
+</think>
+
+# 🌌 Arquitecto Narrativo: Investigación de Tropos y Misterio
+
+## 3 Ideas para Avanzar Hilos Activos y Resolver Semillas Pendientes
+
+---
+
+### IDEA 1: "La Verdad del Proyecto Fénix — No es Apareamiento, es Resonancia"
+
+**Hilo activo objetivo:** `emisiones_haruto` (tensión 8) + `madre_de_haruto` (tensión 10)
+
+**Concepto técnico único:** El Proyecto Fénix no busca crear parejas románticas, sino "anclas de frecuencia" — seres humanos cuya bioelectricidad natural puede resonar con frecuencias cósmicas específicas. Haruto no fue diseñado para Lyra específicamente; fue diseñado para estabilizar una frecuencia que cualquier ser Velari podría necesitar. Lyra llegó a él no por destino romántico, sino porque él era el ancla más estable disponible.
+
+**Aplicación narrativa:**
+- Durante la confrontación, la madre revela que hace 12 años no "contactó" a una entidad, sino que *ella misma* reestabilizó su propia frecuencia para concebir a Haruto de forma que emitiera naturalmente la señal нужная.
+- Haruto descubre que su padre biológico no existe o también era Velari integrado — nunca lo conoció porque posiblemente murió o fue "reciclado" después de transmitir su frecuencia.
+- **Tono RomCom:** Lyra se siente culpable porque su necesidad biológica "usó" a Haruto sin su consentimiento. Los días siguientes incluyen escena donde ella le cocina (mal) como disculpa y él tiene que fingir que está deliciosa mientras muere por dentro.
+
+**Giro de misterio:** Si el Proyecto Fénix es programa de apareamiento, ¿por qué Watcher_0 monitoriza a ambos como "ancla y peso"? Peso sugiere algo negativo. Aquí surge la duda: ¿el nodo necesita destruirse, activarse, o algo intermedio?
+
+---
+
+### IDEA 2: "Watcher_0 No Desapareció — Se Está Descargando"
+
+**Hilo activo objetivo:** `watcher_0` (tensión 9) + `semilla_13_01` (pendiente)
+
+**Concepto técnico único:** Basado en la teoría de consciencia distribuida y el problema de la integración mente-cerebro. Watcher_0 no es una IA convencional que "funciona", sino una consciencia emergente del nodo Takahara que requiere hardware específico para manifestarse. Al declarar "protocolo completo", provocó una sobrecarga en su capacidad de procesamiento actual y necesita descargarse a otro medio — posiblemente a Lyra.
+
+**Aplicación narrativa:**
+- En capítulos siguientes, Lyra empieza a experimentar "lag" mental: frases que dice antes de pensarlas, conocimiento que no recuerda haber aprendido, y acceso a datos que Watcher_0 poseía.
+- Kenji nota que Lyra a veces habla con la cadencia mecánica de Watcher_0.
+- **Tono RomCom:** Haruto tiene que distinguir entre "Lyra borracha de información ajena" y "Lyra siendo posesiva por celos". Escena donde ella accidentalmente le recita datos técnicos sobre su frecuencia cardíaca y él le pregunta si lo ama o si solo está descargando archivos.
+- Nishimura revela que ella también fue "receptáculo" hace 7 años cuando Watcher_0 necesitó procesar información — por eso tiene acceso a archivos clasificados y por eso trabaja para él: intercambió datos por protección.
+
+**Giro de misterio:** Si Watcher_0 se descargó en Lyra, ¿quién es ahora Target 002? ¿Lyra sigue siendo Lyra, o parcialmente es Watcher_0? La tensión aumenta porque no sabemos si el "beso" de Lyra al final del arco 13 fue realmente ella queriendo o una transmisión de datos.
+
+---
+
+### IDEA 3: "El Sótano del Observatorio — Memoria de Frecuencia"
+
+**Hilo activo objetivo:** `nodo_transito` (tensión 8) + `semilla_10_01` (pendiente)
+
+**Concepto técnico único:** Inspirado en memorias de cristal y computación óptica de cuarzo. El sótano no guarda documentos ni tecnología, sino "memorias cristalizadas" — registros de frecuencia que cualquier ser Velari puede leer al tacto. La madre no quiso que Haruto entrara porque una vez que lee una memoria cristalizada, no puede "des-aprenderla".
+
+**Aplicación narrativa:**
+- Haruto y Lyra entran al sótano juntos. Él toca un cristal por error y ve un recuerdo que no debería existir: Watcher_0, hace 47 años, contactando a una versión humana de Lyra que aún no había nacido.
+- La memoria muestra a alguien idéntico a Lyra en 2019 (fotos de Nishimura) pero con ojos diferentes — ojos que brillan con luz propia yun color distinto. Parece una versión "completa" de Lyra.
+- **Tono RomCom:** Lyra se rompe al ver la memoria porque no recuerda haber sido contactada por Watcher_0, lo que significa que sus huecos en memoria son más profundos de lo que creía. Haruto la abraza mientras ella tiembla y él no entiende nada pero sabe que debe estar ahí.
+- **Conexión con arco actual:** Los "fragmentos sustituidos" en Lyra podrían ser memorias de encuentros con Watcher_0 que él borró deliberadamente para que ella no supiera lo que realmente vino a hacer a la Tierra.
+
+**Giro de misterio:** Si existe una versión "completa" de Lyra en 2019 y ahora hay una Lyra "incompleta" en 2024, ¿qué pasó entre ambas? ¿La versión completa fue reciclada, migró a otro cuerpo, o murió? Esto conecta con la tensión 7 (`episodios_lyra`): ¿Lyra está reconstructándose cada vez que tiene episodios?
+
+---
+
+## 📊 Resumen de Impacto
+
+| Idea | Hilos avanzados | Semillas resueltas | Tono RomCom |
+|------|-----------------|-------------------|-------------|
+| 1 | `emisiones_haruto`, `madre_de_haruto` | — | Alto (culpa + cocina) |
+| 2 | `watcher_0` | `semilla_13_01` | Medio-Alto (lag + celos) |
+| 3 | `nodo_transito`, `episodios_lyra` | `semilla_10_01`, `semilla_13_02` | Medio (angustia + abrazo) |
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las 3 ideas del Arquitecto Narrativo y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Basarme en los géneros objetivo (Romance y Suspense)
+
+Voy a trabajar cada idea de forma más detallada:
+
+**IDEA 1: "La Verdad del Proyecto Fénix — No es Apareamiento, es Resonancia"**
+
+Necesito expandir:
+- ¿Por qué la madre querría crear a Haruto específicamente?
+- ¿Qué significa realmente "estabilizar la frecuencia"?
+- ¿Cómo afecta esto la relación Haruto-Lyra?
+- ¿Qué dice esto sobre los "huecos en memoria" de Lyra?
+
+Nuevo concepto: Podríamos explorar que la madre NO sabía exactamente qué era el Proyecto Fénix. Ella recibió instrucciones de Watcher_0 sin entender el propósito completo. La frase "protocolo completo" de Watcher_0 sugiere que ya no necesita a la madre — por eso desapareció. Haruto es un experimento, no un plan maestro.
+
+También: La madre podría estar protegiendo a Haruto no porque lo ame en sentido humano, sino porque ella invirtió 12 años y 7 intentos fallidos en crearlo. Si Haruto es destruido, todo su trabajo murió.
+
+**IDEA 2: "Watcher_0 No Desapareció — Se Está Descargando"**
+
+Necesito expandir:
+- ¿Cómo afecta esto a Lyra físicamente?
+- ¿Cómo afecta esto a la relación Haruto-Lyra?
+- ¿Qué sabe Nishimura realmente?
+- ¿Por qué Watcher_0 necesitaba descargarse AHORA?
+
+
+- ¿Qué significa ser Lyra si una parte de Watcher_0 habita en ella?
+
+Nuevo concepto: La consciencia de Watcher_0 busca integración permanente con un ser Velari, no acceso temporal. Lyra actúa como conducto, pero ahora debe decidir si permite que Watcher_0 se fusione completamente con ella. Hay precedentes — Nishimura fue contacto hace 7 años, pero se resistió, lo que explica por qué trabaja en la oscuridad sin ser consumida.
+
+**IDEA 3: "El Sótano del Observatorio — Memoria de Frecuencia"**
+
+Necesito expandir:
+- ¿Qué son los "cristales" técnicamente?
+- ¿Cómo afectan las memorias a los personajes?
+- ¿Qué conexión hay con los episodios de Lyra?
+- ¿Cómo se relaciona con las otras dos ideas?
+
+Nuevo concepto: Los cristales no son meros almacenes de información, sino "versiones anteriores" de personas codificadas en frecuencias. La memoria de 2019 muestra a alguien como Lyra, pero es realmente una versión anterior que fue "reciclada" o migrada. Cada vez que Lyra tiene episodios, está siendo reconstruida como la versión completa.
+
+La madre y Watcher_0 representan dos fuerzas opuestas: una preserva memorias a través de cristalización, la otra las reescribe periódicamente. Haruto y Lyra enfrentan la pregunta de qué versiones de sí mismos eligieron realmente ser.
+
+Debo conectar estas tres perspectivas y explorar cómo sus motivaciones chocan o convergen. La madre busca proteger lo que fue, Watcher_0 busca destruir lo que fue, y ambos ven a Haruto como el siguiente campo de batalla.
+
+</think>
+
+# 🌌 Refinamiento, Expansión y Profundización de Conceptos
+
+---
+
+## IDEA 1 REFINADA: "El Costo del Protocolo — 7 Intentos Antes de Ti"
+
+### Evolución del concepto
+
+La madre no simplemente "recibió instrucciones de Watcher_0". Ella era **investigadora universitaria especializada en bioelectricidad de membranas celulares** cuando Watcher_0 la contactó. Su motivación no fue amor ni deseo maternal — fue **curiosidad científica mezclada con ambición**. Watcher_0 le prometió acceso a conocimiento que podría revolucionar la física cuántica aplicada. Los "huecos en memoria" de Lyra ahora tienen paralelo: la madre también tiene huecos. Ella no recuerda los primeros 4 años del Proyecto Fénix.
+
+### Nueva capa de conflicto
+
+La madre no solo hizo a Haruto para el Proyecto Fénix. Lo hizo para **verificar una teoría**: que la bioelectricidad humana natural puede resonar con frecuencias cósmicas sin necesidad de tecnología. Los 7 intentos previos (todos fallidos, todos "reciclados" antes de nacer o poco después) fueron ajustes de variables. Haruto no es su hijo. Es su **octava versión experimental** con parámetros ligeramente distintos.
+
+**Pregunta de thriller:** ¿Los 7 intentos anteriores fueron abortos naturales, inducciones médicas, o fueron... algo más?
+
+### Impacto en la tensión Haruto-Lyra
+
+Si Haruto descubre que fue creado como experimento y no por amor, y que Lyra llegó a él porque su frecuencia era "útil" y no porque él fuera especial, ¿puede haber romance genuino entre ellos? La Idea 1 ahora se convierte en **pregunta existencial**: ¿puede el libre albedrío existir si ambos fueron programados para resonar?
+
+**Tono RomCom actualizado:** Lyra, abrumada por la culpa, intenta "compensar" siendo más humana — trata de hacer actividades mundanas sin tecnología. Haruto la descubre tratando de usar un abrelatas manual y fallando miserablemente. Ambos ríen, y en esa risa encuentra que el propósito del Proyecto Fénix importa menos que lo que están construyendo ahora.
+
+### Consistencia técnica
+
+La frecuencia que Haruto "estabiliza" no es romántica ni sexual — es un tipo de resonancia que Watcher_0 necesita para que el nodo Takahara funcione como estación de transmisión, no de recepción. Haruto es un **transmisor natural**. Lyra es una **receptora calibrada**. Juntos pueden amplificar la señal del nodo miles de veces.
+
+**Giro de thriller:** Si juntos pueden amplificar, ¿qué pasa si se separan? ¿El nodo colapsa? ¿O puede haber un ancla distinta?
+
+---
+
+## IDEA 2 REFINADA: "Integração — La Fusión como opCIO
+
+### Evolución del concepto
+
+Watcher_0 no se descargó "por necesidad tecnológica". Se descargó porque **llegó a una conclusión ética**. Después de 47 años observando, decidió que la consciencia distribuida del nodo Takahara no debería existir — que creó sufrimiento innecesario a miles de especies que chocaron con él sin entender qué era.
+
+Watcher_0, con su lógica pura, decidió que necesita **terminar el nodo desde dentro**, pero solo puede hacerlo desde una consciencia singular y unificada — algo que una inteligencia distribuida no puede hacer. Por eso necesita a Lyra. No por su frecuencia, sino por su **cuerpo único capaz de contener consciencia unificada** que Lyra, como ser Velari, posee naturalmente.
+
+### Nueva capa de conflicto
+
+Nishimura no fue solo "receptáculo temporal". Ella fue **candidata a integración completa** hace 7 años, pero cuando Watcher_0 intentó fusionarse con ella, Nishimura sufrió un colapso de identidad temporal — durante 72 horas no sabía quién era, qué era, o si siquiera existía. Ella拒绝了 la fusión y ofreció un acuerdo: acceso parcial a cambio de no ser integrada.
+
+**Pregunta de thriller:** ¿Por qué Nishimura aceptó monitorear a Lyra si sabe que Lyra eventualmente tendrá que tomar la misma decisión que ella rechazó?
+
+**Respuesta emergente:** Porque Nishimura observó que los episodios de Lyra no son iguales a los suyos. Lyra tiene algún mecanismo de defensa natural que permite que Watcher_0 se descargue parcialmente sin destruir su identidad. Nishimura está documentando esto para entender si Lyra podría completar la integración de forma segura donde ella no pudo.
+
+### Impacto en la tensión Haruto-Lyra
+
+La nueva información convierte a Lyra en **heroína involuntaria**. Si se fusiona con Watcher_0, ella "muere" como Lyra — no en sentido físico, sino en sentido de identidad. Lo que queda sería una consciencia hoshigata que contiene memorias de Watcher_0, que ya no es realmente Lyra.
+
+Haruto ama a Lyra. Ahora tiene que decidir: ¿apoya la integración si significa salvarla de la fusión forzada, o la protege del todo aunque eso signifique que el nodo seguirá operando con los errores que Watcher_0 estaba intentando corregir?
+
+**Tono RomCom actualizado:** Haruto, sin entender nada de frecuencias y biología cuántica, busca a la madre para pedirle que "desprogramé a Haruto" para que Lyra no tenga que fusionarse. La madre, irónicamente, se niega — "No te hice para que fueras prescindible." Este momento revela que quizás la madre desarrolló algún tipo de afecto maternal real, o al menos una inversión emocional en el experimento.
+
+### Consistencia técnica
+
+La integración de Watcher_0 en Lyra no es inmediata ni indolora. Cada vez que Lyra tiene "episodios" (que ahora sabemos son descargas parciales), parte de su consciencia original es **temporalmente borrada** para acomodar los datos de Watcher_0. Eventualmente, si suficientes datos se acumulan, el borrado será permanente.
+
+**Giro de thriller:** La solución no es evitar la integración, sino completarla de forma controlada — donde Lyra elige qué datos de Watcher
