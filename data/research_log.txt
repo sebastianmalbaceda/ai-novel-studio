@@ -222,3 +222,207 @@ Los cuerpos Velari no deberían ser depicted como "humanos alienígenas" — deb
 - Uno de los cuerpos parece la madre de Haruto, pero con una expresión diferente — más joven, sin culpa
 - Otros parecen **versiones futuras de Haruto y Lyra** — en la estasis también hay anclas y observadoras que fracasaron
 - Uno de los cuerpos habla con la voz de Kenji,
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-22 15:12:35] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el contexto del proyecto, necesito generar ideas que:
+
+1. Avancen hilos activos con tensión alta (especialmente madre_de_haruto con tensión 10, misterio_lyra con tensión 5, watcher_0 con tensión 9)
+2. Utilicen semillas pendientes (la 13_01, 13_02, 13_03)
+3. Respeten el balance de géneros: RomCom 40%, Action 25%, SciFi 15%, Mystery 10%, Slice of Life 10%
+4. Sean concretas y aplicables
+5. Mantengan coherencia con todo lo establecido
+
+Las semillas pendientes son:
+- Watcher_0 desapareció después de "protocolo completo" → ¿volverá? ¿Qué significa "comienzo"?
+- Lyra eligió quedarse por decisión propia → consecuencias en próximo arco
+- La madre vigiló a Haruto toda su vida → ¿qué más sabe?
+
+El arco actual está en la confrontación con la madre. Necesito ideas que:
+- Avancen la confrontación de forma dramática
+- Revelen más sobre el Proyecto Fénix
+- Mantengan el tono de novela ligera (humor + romance + acción)
+
+Voy a generar 3 ideas:
+
+1. **Idea de misterio/acción**: La confrontación con la madre revela algo inesperado - ella NO es la villana, es una protectora que hizo cálculos para asegurar la supervivencia de Haruto. Su elección hace 12 años tenía un costo que ahora debe revelar. Esto avanza el hilo de madre_de_haruto y crea tensión dramática.
+
+2. **Idea de romance/ciencia**: Basada en la semilla de que Watcher_0 desapareció. La idea: el nodo Takahara tiene un "modo latente" y al recibir la señal combinada (Haruto + Lyra juntos), está intentando activarse completamente. 
+
+El efecto secundario es que comienza a modular las frecuencias Schumann de toda la región, causando episodios en Lyra más intensos. Esto avanza los hilos de watcher_0, nodo_transito y episodios_lyra.
+
+3. **Idea de revelación/callback**: Basada en la semilla de la elección de Lyra y los huecos en memoria. Idea: alguien sustituyó fragmentos de la memoria de Lyra hace tiempo. Cuando Lyra elige quedarse, esos fragmentos começam a "filtrarse" - no como borrón, sino como imágenes fragmentadas que surgen cuando menos lo espera. Esto crea misterio sobre qué fue cambiado y por quién.
+
+Desarrollo estas ideas con más detalle:
+
+1. **"El Costo del Protocolo"**: Cuando Lyra y Haruto confrontan a la madre, ella les muestra su archivo personal - no es propaganda, son registros de TODO lo que ha sacrificado para proteger a Haruto. Revela que hace 12 años, cuando Watcher_0 le dijo "el niño puede escuchar", ella negoció: Haruto sería monitoreado, pero ella entregaría información sobre otros candidatos a nodo. Esto explica por qué Watcher_0 la respeta y por qué Nishimura coopera. El costo: ella sacrificó su propia capacidad de volver a su mundo.
+
+2. **"El Nodo Despierta"**: Cuando Watcher_0 desaparece después de decir "protocolo completo", algo cambia en el Instituto Takahara. Las anomalías electromagnéticas que antes eran sutiles ahora son constantes. Los estudiantes empiezan a notar cosas raras. El nodo está intentando completar algo que requiere proximidad entre Target 001 y 002. Esto puede causar que estudiantes normales se involucren, creando tensión tipo " slice of life vs sci fi".
+
+3. **"Recuerdos Prestados"**: Lyra descubre que sus huecos en memoria no son simple borrón, son reemplazos deliberados. Cada vez que está cerca de Haruto, fragmentos de otro recuerdo emergen - y son de alguien más, otra Velari que estuvo en la Tierra antes que ella. Esto crea un misterio sobre quién fue esa persona y qué pasó.
+
+Las memorias muestran una historia de amor truncada que sugiere que el Proyecto Fénix tiene un ciclo. Esto profundiza la conexión entre los personajes mientras mantiene el tono de novela ligera.
+
+</think>
+
+# Ideas para el Proyecto: Crónicas del Instituto Estelar
+
+## 1. "El Precio del Ancla" — Concretar la confrontación con la madre
+
+**Hilo activo:** `madre_de_haruto` (tensión 10, confrontación inminente)
+
+**Concepto:** La madre de Haruto no es villana, es una científica que tomó decisiones imposibles. Hace 12 años, cuando Watcher_0 le dijo "el niño puede escuchar", ella tenía dos opciones: rechazar y que Haruto fuera "recolectado" sin protección, o negociar. Eligió protegerlo, pero el precio fue revelar información sobre otros candidatos a ancla humana (otros niños que también emitían frecuencias compatibles). El archivo de Nishimura incluye estos datos porque la madre los proporcionó.
+
+**Aplicación narrativa:**
+- La madre muestra a Haruto y Lyra su registro de decisiones: fechas, sacrificios,renuncias a volver a su mundo natal
+- Descubren que ella dejó de envejecer biológicamente a los 32 años, posiblemente como efecto de sus interacciones con el nodo
+- Revela que Lyra fue "traída" no solo porque ella la encontró, sino porque Haruto necesitaba una compañera que estabilizara su frecuencia (el Proyecto Fénix funcionaba en parejas)
+- El momento emocional: ella admite que vigiló a su propio hijo "como si fuera un experimento" porque era la única forma de mantenerlo a salvo
+
+**Técnica de Novela Ligera:** El tono RomCom se mantiene usando el humor de la madre cuando trata de cocinar para Haruto y Lyra (desconoce la mayoría de ingredientes humanos) y las referencias a "cuando era joven y estúpida y me apaixoné de un humano que tampoco entendió nada".
+
+---
+
+## 2. "Memoria Prestada" — Resolver los huecos en memoria de Lyra
+
+**Hilo activo:** `misterio_lyra` (hace referencia a "alguien sustituyó fragmentos")
+
+**Concepto:** Los huecos en la memoria de Lyra no son borrones naturales: son reemplazos deliberados por fragmentos de otra Velari. Cuando Lyra está cerca de Haruto, "recuerdos ajenos" emergen como destellos visuales. Son de una Velari que estuvo en la Tierra hace décadas, que también amó a un humano, y cuyo final fue truncado. El Proyecto Fénix no es nuevo: tiene ciclos. Cada 30-40 años, el nodo activa un nuevo par ancla-peso.
+
+**Base técnica:** La física cuántica explica esto como "entanglement de memoria": al ser parte de la misma especie con resonancia similar, Lyra puede "recibir" ecos de consciousness anterior que interactuó con las mismas frecuencias.
+
+**Aplicación narrativa:**
+- Lyra comienza a ver destellos de lugares que no reconoce: un observatorio diferente (no Takahara), otro estudiante japonés hace 35 años, una conversación sobre "elegir"
+- Los destellos revelan que la Velari anterior eligió quedarse y faded (su forma se destabilizó por completo)
+- Kenji, usando su conocimiento de programación, ayuda a Lyra a "mapear" los huecos: no son aleatorios, siguen un patrón numérico (coordenadas fragmentadas)
+- Twist: las coordenadas llevan a objetos ocultos en la escuela, cada uno contiene más fragmentos de memoria
+
+**Técnica de Novela Ligera:** Los destellos de memoria se presentan como secuencias absurdas y endearingly confusas: la Velari anterior intentando entender por qué los humanos "lloran con la cebolla pero también con las peliculas", su disgusto por el concepto de "taxi" ("¿pagas por ir sentado?"), su fascinación con los gatos domésticos ("¿por qué aceptaste domesticar algo tan claramente Superior?").
+
+---
+
+## 3. "Eco del Nodo" — Consecuencia del "Protocolo Completo"
+
+**Hilo activo:** `watcher_0` (semilla 13_01 pendiente: "¿volverá? ¿Qué significa 'comienzo'?")
+
+**Concepto:** Cuando Watcher_0 declaró "protocolo completo" y desapareció, no murió ni se fue: completó una fase y entrar en modo latente/escucha. El nodo Takahara está ahora "despierto" pero esperando algo. Lo que necesita es que Target 001 y Target 002 estén juntos dentro del radio de influencia del nodo. Cuando Haruto y Lyra comparten espacio cerca del punto exacto (el sótano del edificio A), el nodo intenta activarse, causando anomalías.
+
+**Base científica alternativa:** El nodo funciona con principios de resonancia escalar, no electromagnética convencional. Produce campos de torsion que afectan el tejido espacio-temporal local, causando micro-distorsiones percibidas como "déjà vu" o "intuiciones extrañas" en personas normales.
+
+**Aplicación narrativa:**
+- Estudiantes del instituto comienzan a tener "sueños extraños" sobre lugares que no conocen pero que reconocen (el sótano del edificio A)
+- Las anomalías magnéticas empiezan a afectar la tecnología: los teléfonos de los estudiantes muestran fotos de lugares vacíos que no tomaron
+- Nishimura reporta a Watcher_0 (que ahora responde como "nodo_estelar_takahara_activo") sobre el despertar, y su consejo es "esperar"
+- Los eventos de acción se intensifican: una distorsión hace que un objeto del nodo se
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que actúe como un investigador experto y refine/expanda las tres ideas generadas en la iteración anterior. Debo:
+
+1. Mejorar consistencia (coherencia interna)
+2. Aumentar atractivo de personajes
+3. Llevar las ideas más allá según los géneros objetivo
+4. No repetir textualmente, sino evolucionar
+
+Géneros objetivo:
+- RomCom 40% → necesita humor, romance, situaciones cómicas
+- Action 25% → necesita tensión física, confrontación
+- SciFi 15% → necesita coherencia científica, worldbuilding
+- Mystery 10% → necesita suspense, revelaciones graduales
+- Slice of Life 10% → necesita momentos cotidianos, personajes tridimensionales
+
+Ahora voy a analizar y expandir cada idea:
+
+## Idea 1: "El Precio del Ancla"
+- Géneros: Action, Romance, Mystery
+- Problemas potenciales: ¿cómo mantener el tono RomCom con una revelación tan pesada?
+- Evolución: Hacer que la madre sea más humana, con sus propias contradicciones cómicas. La revelación debe tener momentos lighter.
+
+## Idea 2: "Memoria Prestada"
+- Géneros: Mystery, Romance, SciFi
+- Problemas potenciales: ¿cómo no сделать esto demasiado oscuro?
+- Evolución: Los fragmentos de memoria pueden ser source de comedy awkwardly endearing. La Velari anterior tenía observaciones hilarious sobre cultura humana.
+
+## Idea 3: "Eco del Nodo"
+- Géneros: SciFi, Action, Slice of Life
+- Problemas potenciales: ¿cómo mantener cotidiano cuando hay anomalías?
+- Evolución: Los estudiantes normales se convierten en personajes secundarios cómicos, percibiendo las anomalías de formas mundanas y absurdas.
+
+
+Debo mantener coherencia entre las tres: la madre sacrificó candidatos anteriores (conecta con Idea 1), y el nodo busca el mismo tipo de candidatos (conecta con Idea 3). La frecuencia de resonancia como concepto unificador es clave para sostener la trama.
+
+Cada idea debe explorar cómo los personajes principales interactúan con estas capas de sacrificio y selección. La madre actúa como guardiana del sistema de selección, eligiendo quién persiste y quién se descarta. El nodo, a su vez, funciona como un filtro biológico que identifica candidatos por su compatibilidad energética. Ambos procesos operan con la misma lógica subyacente pero desde ángulos distintos: uno moral, otro físico.
+
+</think>
+
+# Investigación Profundizada: Arco de Convergencia
+
+---
+
+## Idea 1 Refinada: "Fractales de Maternidad"
+
+### Evolución del Concepto
+
+La confrontación con la madre de Haruto debe pivotar sobre un **eje emocional inesperado**: no se trata de revelación de villanía/redención, sino de **culpa maternaly incomprensión generacional**. Ella no escondió nada: simplemente nunca supo *cómo* explicar que su hijo era un "proyecto" sin hacerlo sonar a abandono. Cada "te estoy vigilando" era su manera de decir "te estoy protegiendo".
+
+### Aplicación Narrativa Expandida
+
+**Estructura de la escena:**
+La confrontación no ocurre en un momento dramático único. Se desarrolla en tres actos durante el mismo día:
+
+1. **Primer acto - Malentendido cómico:** Haruto confronta a su madre sobre las fotos, ella responde ofendida ("¿Cómo te atreves a espiar MI trabajo de investigación?"). El tono es de irritación maternal común hasta que Nishimura llega y todo se vuelve incómodo.
+
+2. **Segundo acto - Revelación fragmentada:** La madre muestra sus archivos, pero no como evidencia, sino como diario personal. Páginas arrancadas de un cuaderno de investigación muestran frases como: *"Día 3.127: Le dije que los amigos son importantes. Mentí. Los amigos son temporales. Lo que importa es la frecuencia. Pero no puedo decirle eso. Tiene 8 años y quiere ir a la casa de Takashi-kun. Le dejé ir."* El drama está en lo que NO dice: cada entrada es una disculpa que nunca deliveryó.
+
+3. **Tercer acto - Consecuencia práctica:** La madre revela el verdadero sacrificio: ella *puede* volver a su mundo, pero no *quiere*. Su propia frecuencia se ha entrelazado irreversiblemente con Haruto y con el nodo Takahara. Si se aleja demasiado, él也会 se destabilizará. No es prisión, es **anclaje mutuo**. Y aquí viene el punch RomCom: *"Así que sí, vigilo a mi hijo de 22 años cada vez que sale de casa. No porque sea sobreprotectora. Sino porque mi corazón literalmente late más fuerte cuando él está cerca y eso mantiene ambas frecuencias estables. ¿Puedes creer que tu madre tiene que experimentar TPM cada vez que tú tienes un rendezvous con Lyra-chan?"*
+
+### Atractivo de Personaje: La Madre como Waifu Invertida
+
+Normalmente las tsundere son jóvenes. Aquí, la madre es **tsundere de alta功能**: parece fría y científica, pero sus日记 personales (que nunca debieron ver) revelan que guardó TODOS los dibujos de Haruto desde los 3 años, los catalogó por "nivel de adorable" y tiene una carpeta llamada "Progreso del Bebé" que es básicamente spam de fotos de él creciendo.
+
+El momento romántico (para Lyra) es descubrir que la madre también tuvo una mejor amiga humana cuando era joven (una estudiante de intercambio), y que su pérdida fue lo que la hizo entender que *"el costo de quedarse vale la pena por alguien"*. La madre entrega a Lyra un objeto: un broche sencillo. Era de esa amiga. *"Ella habría haberté gostado. Tenías razón sobre quedarte."*
+
+---
+
+## Idea 2 Refinada: "Ecografías del Pasado"
+
+### Evolución del Concepto
+
+La revelación de que los huecos de Lyra son memorias *prestadas* de una Velari anterior necesita tres cosas:
+1. **Mecánica clara** para que no se sienta arbitrario
+2. **Personalidad definida** para la Velari anterior
+3. **Problema presente** que la conexión temporal pueda ayudar a resolver
+
+### Mecánica: "Resonancia Quirál" (Quiral no es solo química)
+
+La explicación científica (accesible): los Velari perciben el tiempo como una estructura **multiplexada**, donde pasado-presente-futuro coexisten como capas superpuestas en lugar de líneas secuenciales. Cuando dos seres de la misma especie están cerca, comparten "ancho de banda" de percepción. Lyra no está "recibiendo memorias" como si fueran mensajes: está percibiendo **ecos temporales** de su propio futuro-pasado entrelazado.
+
+Técnicamente, cuando Target 001 (Haruto) y Target 002 (Lyra) interactúan, generan un campo de interferencia que permite que la "versión temporal" más estable de Lyra se filtre hacia la actual. La Velari anterior no murió: se **resolvió** en el tejido temporal, y sus experiencias persistieron como patrón.
+
+### Personaje: "Sae" - La Velari Anterior
+
+Su nombre era **Sae** (佐恵), y su arc completamente opuesto al de Lyra hace 35 años:
+
+| Aspecto | Lyra (presente) | Sae (pasado) |
+|---------|------------------|--------------|
+| Actitud hacia humanos | Curiosidad + genuina ternura | Frustración + condescendencia intelectual |
+| Sentido del humor | dry humor, sarcasmo adorable | cero (literalmente le parece que el humor humano es un defecto neurológico) |
+| Romance | gradual, construye confianza | intensidad inmediata, se asustó de sus propios sentimientos |
+| Elección | quedarse | intentar volver a casa |
+
+**Fragmentos de memoria cómica (que sonríen en vez de perturbar):**
+- Sae viendo su primer anime: *"Este es tu entretenimiento? ¿Un hombre que grita por 200 episodios y no resuelve nada?"*
+- Sae probando takoyaki: *"¿Pagas por comida que es 80% masa con un bit de pulpo? Los humanos son artistas del fraude alimentario."*
+- Sae siendo confronted por el estudiante humano (llamémoslo Tetsu) sobre por qué ella no sonríe: *"¿Por qué haría una expresión facial que signaling submission? Yo no soy tu mascota."* (Tetsu después se convierte en su esposo, así que sí, funcionó).
+
+**Fragmentos de memoria reveladora:**
+- Sae también tuvo huecos de memoria, y fueron reemplazados con los de OTRA Velari anterior a ella (ciclo de tres generaciones de "velari-anchoradas")
+- Sae descubrió que las coordenadas en los huecos llevan a objetos que son **claves de redundancia**: el nodo creaba múltiples anclas por si la primary fallaba
+- Sae encontró la tercera clave (de hace 70 años) y lo que vio allí la hizo querer volver a casa. Encontró registros de cuándo el protocolo se había intentado antes Y HABÍA FUNCIONADO... pero la versión exitosa era impracticable. Requería que ambos anchors se convirtieran en una sola entity.
+
+### Problema Presente: La Inhibición de la Transición
+
+Aquí está el avance: Lyra descubre que quedarse no es suficiente. El nodo Takahara necesita que ella y Haruto pasen de "dos entidades con frecuencia sincronizada" a "una entidad unificada con frecuencia expandida". El proceso de unificación requiere que ella Y Haruto pierdan algo: no memorias,
