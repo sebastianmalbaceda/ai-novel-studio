@@ -801,3 +801,160 @@ Haruto ama a Lyra. Ahora tiene que decidir: ¿apoya la integración si significa
 La integración de Watcher_0 en Lyra no es inmediata ni indolora. Cada vez que Lyra tiene "episodios" (que ahora sabemos son descargas parciales), parte de su consciencia original es **temporalmente borrada** para acomodar los datos de Watcher_0. Eventualmente, si suficientes datos se acumulan, el borrado será permanente.
 
 **Giro de thriller:** La solución no es evitar la integración, sino completarla de forma controlada — donde Lyra elige qué datos de Watcher
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-22 11:03:45] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Let me analyze the current state of the project and generate ideas for advancing the active threads or utilizing pending seeds.
+
+Current situation:
+- The confrontation with Haruto's mother is imminent (tension 10)
+- Watcher_0 disappeared after declaring "protocol complete" (pending seed 13_01)
+- Lyra chose to stay by her own decision (pending seed 13_02)
+- Mother watched Haruto his whole life (pending seed 13_03)
+- Several mysteries are at peak tension: Proyecto Fénix, mother-Velari connection, what Watcher_0 plans
+
+
+</think>
+
+# Investigación Narrativa: Crónicas del Instituto Estelar
+
+---
+
+## Idea 1: La Geometría Sagrada del Sótano
+
+**Avance de hilos:** madre_de_haruto, nodo_transito, semilla_10_01
+
+**Concepto técnico:** El sótano del observatorio no es simplemente una habitación secreta: su arquitectura sigue patrones geométricos derivados de los sólidos platónicos, específicamente un dodecaedro truncado en 2D. Las paredes tienen proporciones aureas que amplifican ondas Schumann de forma natural. Este diseño no fue creado por humanos.
+
+**Desarrollo narrativo:**
+- Cuando Haruto y Lyra acceden al sótano, las paredes comienzan a resonar con su presencia combinada (la señal de Haruto + la frecuencia de Lyra).
+- Descubren que la madre no construyó el sótano: ella *lo recordó*, como quien recupera memorias de una vida pasada.
+- El espacio contiene documentación del Proyecto Fénix pero no en papel ni digital: está codificada en la propia geometría de la habitación. Líneas grabadas en las paredes que solo se hacen visibles bajo interferencia electromagnética específica.
+- **Golpe dramático:** la madre no recuerda todo. Hay secciones del sótano donde ella misma no sabe qué hay, porque "alguien más puso cosas ahí".
+
+---
+
+## Idea 2: El Registro Inverso de Lyra
+
+**Avance de hilos:** episodios_lyra, misterio_lyra, semilla_13_02
+
+**Concepto técnico:** Los Velari no tienen memoria lineal: procesan experiencia como un sistema de archivos disperso donde cada momento se almacena en múltiples nodos simultáneamente. Por eso Lyra tiene "huecos": no le borraron datos, le dispersaron sus propios datos en múltiples fragmentos para que no pudiera reconstruir lo que pasó en el Incidente Zona Grise.
+
+**Desarrollo narrativo:**
+- Cuando Watcher_0 desapareció, dejó un eco. Lyra puede percibir ese eco y "escuchar" fragmentos del archivo de Watcher_0, incluyendo datos sobre ella misma que Watcher_0 copió hace 47 años.
+- Esto revela que Lyra ya estuvo en la Tierra antes, hace 5 años, brevemente. La versión actual de Lyra no lo recuerda.
+- **Tensión romántica:** la Lyra que eligió quedarse a través de Lyra es la misma persona, pero los fragmentos de su experiencia anterior incluyen haber sentido algo por alguien. No por Haruto. Por alguien más. Lo cual complica el romcom.
+- Kenji descubre el eco y tiene acceso parcial. Esto genera un momento de tensión entre los tres: ¿qué derecho tiene Kenji de saber esto?
+
+---
+
+## Idea 3: Protocolo Intensificado — El Nodo Habla
+
+**Avance de hilos:** watcher_0, nodo_transito, semilla_13_01
+
+**Concepto técnico:** El nodo Takahara no es solo una estación de tránsito: es un sistema de predicción gravitacional a escala planetaria. Detecta anomalías en el campo magnético terrestre que preceden a eventos sísmicos, erupciones solares y otros fenómenos naturales. El Proyecto Fénix no comenzó hace 47 años: lleva activo 47 años esperando que la predicción se cumpla.
+
+**Desarrollo narrativo:**
+- Watcher_0 desapareció porque el nodo finalmente detecto el evento predicho. La señal que Haruto emite no solo estabiliza a Lyra: también es la señal que activa el protocolo de respuesta.
+- Nishimura recibe una transmisión directa: "FenómenoカテゴリA-7 enwindow. Tiempo restante: 72 horas."
+- La madre lo sabe desde siempre. Por eso vigiló a Haruto. No para protegerlo de una amenaza: para prepararlo para ser el ancla cuando llegara el momento.
+- **Complicación romcom:** las próximas 72 horas incluyen el festival cultural del instituto, que Haruto y Lyra habían planeado como una cita.
+- **Cosecha de semilla 13_01:** Watcher_0 vuelve, pero no como usuario anónimo: se manifiesta como una interfaz holográfica en el teléfono de Kenji, funcionando como un personaje cómico involuntario que da información crítica conTiming terrible.
+
+---
+
+**Conexión entre ideas:** Las tres convergen en la confrontación con la madre. El sótano revela la arquitectura del Proyecto Fénix, los datos de Lyra explican por qué fue elegida específicamente, y el nodo revela que todo tenía un tiempo límite que nadie les dijo. La madre sabía, pero su motivación sigue sin ser clara: ¿los protegió o los preparó como piezas de ajedrez?
+
+--- ITERACIÓN 2 ---
+<think>
+Let me analyze the current state and refine these three narrative ideas. I need to focus on consistency, character appeal, and pushing the concepts further based on the target genres (romantic comedy and sci-fi mystery).
+
+Let me think about each idea:
+
+**Idea 1: La Geometría Sagrada del Sótano**
+- Currently explores the architecture of the basement
+- Needs to deepen the connection between the mother and the space
+- The mother "remembered" the basement - this is intriguing but needs more development
+- How does this tie to romantic comedy elements vs sci-fi mystery?
+
+
+**Idea 2: El Registro Inverso de Lyra**
+- The dispersed memory concept is clever but the timeline needs clarification—Lyra was on Earth 5 years ago but her current self doesn't remember, so there's a version or fragmentation gap I should clarify
+- The romantic complication with "someone else" is interesting but underdeveloped
+- Kenji's access to this information creates good tension, though I need to think through why he'd have partial access and what that means for the story
+
+I'm mapping out three narrative threads to explore: the geometry of the basement and its relationship to the mother, Lyra's memory fragmentation and what happened to her on Earth, and the accelerated protocol that explains the deadline. The romantic comedy side needs genuine emotional stakes, character-driven moments, and humor that emerges naturally from the characters rather than plot contrivances. The sci-fi mystery should ground itself in specific technical details—dodecahedrons and Schumann resonance frequencies—while raising more questions about Velari identity and what the mother actually knows.
+
+The mother stands out as a compelling character who has kept watch for decades without clear motivation, and her presence in the basement suggests she has deeper knowledge than she's revealed. The timing pressure is real—72 hours until the cultural festival, a date that's already been planned—giving both the romantic comedy and mystery timelines immediate stakes. I'm considering three refined directions: making the basement itself a character with a consciousness tied to Lyra, or treating the mother as a figure trapped between identities, or exploring how Lyra's fragmented memories create a psychological thriller element. The key is finding the angle that ties these threads together most effectively.
+
+Now I'm refining each concept further. The basement's geometry should interact with Haruto's signal rather than simply amplifying it—making the room itself a participant in the drama. The mother's memory needs contradiction: she remembers building it, but also built it as a child. I'm introducing a visual marker with the golden ratio spiral on the ceiling that shifts depending on who looks at it, showing different configurations to Haruto versus Lyra. The Velari data fragmentation is compelling because Lyra herself is encoded into the Project Fénix structure, meaning her current choice to stay mirrors the pattern they tried to disperse. Kenji's role should be more active, not just discovering the data but potentially becoming part of the solution. The accelerated protocol introduces escalating stakes with a 72-hour window that forces the romantic stakes to collide with the cosmic threat—and I want the mother to be a person of extremes, using domestic absurdity to create tonal whiplash between intimate human moments and world-ending consequences.
+
+I'm also thinking about incorporating the other seeds I haven't used yet—particularly the Watcher's "observation log" as a character element, the Haruto-father connection, and how Kenji functions as a catalyst. The Watcher's information should arrive in ways that feel like comedic timing rather than straightforward exposition, creating friction between Lyra and Haruto about whether they trust the data. Kenji's emotional intelligence needs to balance against the cosmic stakes, making him more than just a plot device.
+
+My focus now is on deepening character dynamics—the mother's contradictions and how her actions read differently to different people, the love triangle tension between Lyra's fragmented past and her present, and Haruto's journey from passive observer to someone with agency. I need to ensure the romantic beats don't get overwhelmed by the science fiction elements.
+
+</think>
+
+# Investigación Narrativa — Iteración 2
+
+---
+
+## Nota sobre metodología
+
+Antes de profundizar: las tres ideas de la iteración anterior establecen una base sólida, pero tienen un patrón común de riesgo. Todas priorizan la revelación técnica (qué es el sótano, qué pasó con la memoria, qué detectó el nodo) sobre el desarrollo de personajes en los momentos clave. Dado que el proyecto opera simultáneamente en **romcom** y **sci-fi mystery**, el tono incorrecto en una escena de revelación puede romper ambos registros.
+
+Propongo refinar cada idea desde dos ángulos simultáneos:
+- **Ciencia ficción:** que los conceptos técnicos tengan profundidad suficiente para justificar más de una capa de misterio
+- **Comedia romántica:** que los personajes tengan agencia emocional real en cada escena de tensión, no solo como receptores de información
+
+---
+
+## Idea 1 Refinada: El Sótano Que Tiene Memoria Propia
+
+### Problema de la versión anterior
+
+El sótano geométrico funciona bien como premisa visual, pero la idea de que "la madre lo recordó" plantea una pregunta incómoda: ¿memoria de qué? Si la madre no construyó el espacio, ¿de quién es la memoria? La iteración anterior sugiere que "alguien más puso cosas ahí" sin desarrollar quién.
+
+### Desarrollo: tres capas arquitectónicas
+
+Propongo que el sótano tenga **tres capas constructivas** que funcionan como un registro arqueológico:
+
+**Capa 1 — El espacio original.**
+No fue construido por humanos ni por Velari. Es una formación natural bajo el observatorio que genera interferencia electromagnética constante. Los cálculos de Schumann amplifican la frecuencia. Los patrones del dodecaedro truncado no fueron diseñados: fueron *descubiertos*. El sótano existía antes del Instituto Takahara. La madre no construyó nada; excavó.
+
+**Capa 2 — La intervención Velari.**
+Hace 47 años, Watcher_0 usó este espacio como base operativa. Grabó los patrones en las paredes no como decoración sino como sistema de archivo vivo: cada línea contiene datos codificados en proporción aurea. La intervención de Watcher_0 es sutil, casi minimalista. No parece tecnología; parece arte decorativo de una secta. Esto explica por qué nadie más lo identificó como tecnología alienígena.
+
+**Capa 3 — La contribución de la madre.**
+La madre sí construyó moblaje. Estanterías. Un escritorio. Un panel de control improvisado que ella misma diseñó basándose en la geometría de las paredes. Aquí surge el primer golpe narrativo: **la madre mezcló tecnología alienígena con ingeniería humana casera, y no sabe qué partes son cuáles.** Cuando intenta desactivar un mecanismo de las paredes, no sabe si está apagando una luz o rompiendo una señal. Esto la hace vulnerable y creíble como personaje, y genera momentos de humor involuntario (la madre discutiendo con un panel de control que no responde a sus comandos).
+
+### El detalle dorado
+
+En el centro del techo hay una espiral áurea grabada que cambia de tamaño según quién la observe. Con la señal de Haruto presente, la espiral *se expande* gradualmente, como si respondiera. Lyra puede ver la espiral en una frecuencia diferente a Haruto: lo que para ella es texto Velari cifrado, para él es solo geometría. Esto permite una escena de **comedia romántica de tono**: ambos intentan describirle al otro lo que ven, hablan idiomas distintos sobre el mismo objeto, y Lyra termina describiendo la ecuación de su propia ubicación con frustración creciente:
+
+> *«Es como si alguien hubiera escrito tu dirección en el techo y luego te pidiera que no mires hacia arriba.»*
+
+### Conexión a la confrontación
+
+La madre tiene prohibido el acceso al sótano. No por seguridad: por **miedo**. Cada vez que entra, el espacio responde. Las paredes amplifican su presencia de forma diferente a como responden a Haruto y Lyra. Ella experimenta algo que no sabe interpretar. Esto la convierte en un personaje que opera bajo información incompleta igual que los demás, lo cual iguala la dinámica de poder en la confrontación: no es una villana omnisciente, es alguien que lleva décadas viviendo en una casa cuya verdadera forma no comprende.
+
+---
+
+## Idea 2 Refinada: El Archivo Fracturado — No Se Borró, Se Duplicó
+
+### Problema de la versión anterior
+
+La idea de que los Velari procesan experiencias de forma dispersa es potente, pero la revelación de que Lyra ya estuvo en la Tierra hace 5 años necesita más desarrollo. ¿Cómo llegó? ¿Qué hizo? ¿Quién fue la persona por la que sintió algo? La iteración anterior deja esto como sugerencia sin desarrollar.
+
+### Desarrollo: El Incidente Zona Grise Reinterpretado
+
+Los Velari no operan con una línea temporal única. Cuando un Velari experimenta un evento suficientemente traumático, su cuerpo genera un **nódulo de escape**: una copia parcial de su estado consciente se dispersa en el medio local (en este caso, la interferencia electromagnética terrestre) como forma de autoprotección. No es magia ni tecnología; es biología adaptativa que evolucionó para proteger la identidad.
+
+El Incidente Zona Grise no fue un ataque ni un borrado. Fue un **evento de fragmentación no autorizado** donde la Lyra original deliberadamente se auto-dispersó para evadir la captura,，然后把剩余的核心意识重新组合成一个 nueva identidad. Lo que ahora camina como "Lyra" es una reconstrucción, no un individuo completo. Los huecos en su memoria no son lagunas: son **áreas donde se ejecutó cirugía consciente**. Ella sabía lo que borraba. Y eligió borrarlo.
+
+### Las tres versiones de Lyra
+
+Propongo que existan tres
