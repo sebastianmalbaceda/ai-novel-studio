@@ -291,3 +291,246 @@ Antes de proponer nuevas direcciones, evalúo lo que funciona y lo que necesita 
 **Lo que necesita evolucionar:**
 - La confrontación con la madre necesita un pivote emocional, no solo informativo.
 - Las intenciones de Watcher_0 siguen siendo demasiado abstractas. Necesitan consecuencias tang
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-23 13:25:41] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide como Arquitecto Narrativo e Investigador de Lore que genere 3 ideas concretas para avanzar los hilos activos o utilizar las semillas pendientes. Necesito revisar el contexto cuidadosamente:
+
+**HILOS ACTIVOS PRIORITARIOS:**
+1. `madre_de_haruto` (tensión 10) - CONFRONTACIÓN INMINENTE
+2. `watcher_0` (tensión 9) - ¿Volverá? ¿Qué planea?
+3. `emisiones_haruto` (tensión 8) - ¿Qué es Proyecto Fénix exactamente?
+
+**SEMILLAS PENDIENTES:**
+- 13_01: Watcher_0 desaparece después de declarar 'protocolo completo'
+- 13_02: Lyra elige quedarse por decisión propia
+- 13_03: La madre vigiló a Haruto toda su vida
+
+**MIX DE GÉNEROS:**
+- RomCom 40% - necesito mantener comedy relief
+- Action 25% - tensión mecánica
+- SciFi 15% - lore de fondo
+- Mystery 10% - investigación
+- Slice of Life 10% - momentos cotidianos
+
+Voy a crear 3 ideas que:
+1. Avancen la confrontación con la madre (hilo más tenso)
+2. Resuelvan o añadan drama a la desaparición de Watcher_0
+3. Revelen algo sobre la verdadera naturaleza del Proyecto Fénix usando semillas pendientes
+
+**IDEA 1: Confrontación con la madre**
+Debo usar el tropo "hidden identity" y "accidental confession". La madre tiene secretos Velari. En la confrontación, podría revelar que ella SÍ sabía que Haruto necesitaba a Lyra específicamente - no era coincidencia que Lyra llegara cuando tenía 17 años. El sótano del observatorio contiene registros de los 47 años de monitoreo.
+
+
+Puedo generar una escena donde el equipo acceso simultáneamente a dos niveles de información: archivos que documentan la construcción deliberada de Haruto como ancla desde la infancia, y registros personales de la madre que revelan su conflicto interno como Velari que eligió una vida humana. Esta revelación transforma la confrontación de simple revelación de secretos en un momento de traición emocional para Haruto.
+
+**IDEA 2: Watcher_0 y la elección de Lyra**
+La decisión de Lyra de permanecer en lugar de partir crea fricción con sus obligaciones como observadora. Cuando Watcher_0 reaparece, podría presentar una alternativa: Lyra permanece, pero su capacidad para regresar queda comprometida permanentemente. Este dilema se convierte en el motor emocional del arco siguiente, donde la permanencia se transforma en pérdida de salida.
+
+**IDEA 3: Proyecto Fénix - la conexión generacional**
+Algo no cuadra con la cronología. El nodo lleva 47 años activo, pero la madre llegó a la Tierra hace décadas. Si ella fue una de las primeras en llegar cuando se activó el nodo, esto explicaría por qué tiene información que nadie más posee. Y si Nishimura lleva 7 años monitoreando esto, ella podría ser humana pero integrada al sistema de vigilancia del nodo, lo que significa que hay una red más amplia de lo que parece.
+
+La revelación clave es que Proyecto Fénix no se trata solo de Haruto y Lyra, sino de preparar a una nueva generación para algo que está por llegar. La madre lo sabía, Watcher_0 también lo sabe, pero hay un evento próximo que Lyra presentía sin poder precisar qué es exactamente.
+
+Cada idea necesita una justificación técnica y tonal para funcionar narrativamente.
+</think>
+
+**IDEA 1 — "El Protocolo de los Cuarenta y Siete Años"**
+*Avance del hilo: madre_de_haruto + misterio del Proyecto Fénix*
+
+**Mecánica narrativa:** Durante la confrontación en el observatorio, el sótano no revela UN secreto, sino DOS capas de información en conflicto.
+
+**Ejecución:** El sótano contiene dos tipos de archivos:
+1. **Registros oficiales del Proyecto Fénix** — documentos técnicos que muestran que la madre fue contactada 12 años antes del nacimiento de Haruto por Watcher_0. No fue una conversación casual: fue una "solicitud de custodio" formal. Haruto fue diseñado como ancla antes de nacer.
+2. **Diario personal de la madre** — entradas manuscritas (puede ser tono de slice of life roto por drama) donde expresa dudas genuinas. "Hoy M-07 caminó por primera vez. No sé si hice lo correcto." O "Lyra Vel'Kath, destino 2019. ¿Por qué siento que esto ya ocurrió antes?"
+
+**Tono:** El contraste entre frialdad científica del Proyecto Fénix y la humanidad imperfecta de la madre crea humor involuntario (rom-com) mientras revela traición emocional (sci-fi/misterio). Haruto descubre que su vida fue un experimento, pero también que su madre realmente lo amó dentro de ese marco.
+
+---
+
+**IDEA 2 — "La Frecuencia Elegida"**
+*Avance del hilo: watch0er_0 + complicidad_haruto + semilla 13_02*
+
+**Mecánica narrativa:** Watcher_0 regresa, pero no como antagonista. Se presenta como "observador terminal" que necesita que Haruto y Lyra completen algo SIN explicar qué. Revela que la elección de Lyra de quedarse ALTERÓ la frecuencia del nodo de forma impredecible.
+
+**Ejecución:** Watcher_0 reaparece en el server de Discord con un mensaje críptico: *"La elección de Target 002 modifica la ecuación. Target 001, tu frecuencia ahora tiene 7 variables de interferencia no documentadas. Los episodios de Target 002 serán más intensos. ¿Está seguro de su elección?"*
+
+Esto cumple tres funciones:
+- **Misterio:** ¿Qué significa "7 variables"? ¿Está mejor o peor?
+- **Acción:** Los episodios de Lyra empeoran, creando presión temporal para que actúen.
+- **Rom-com involuntario:** La "elección de Lyra" ahora tiene consecuencias técnicas que Haruto debe gestionar, creando situaciones尴尬的 donde él intenta no emocionarse para no alterar su frecuencia.
+
+**Tono:** El humor surge de que la relación romántica ahora tiene efectos colaterales técnicos que deben managearse como si fuera una sitcom de pareja, pero con stakes reales.
+
+---
+
+**IDEA 3 — "El Sótano del Tercer Nivel"**
+*Avance del hilo: nodo_transito + archivos_nishimura + semilla 13_03*
+
+**Mecánica narrativa:** La confrontación con la madre no revela todo. Nishimura aparece como figura intermedia, revelando que ella tiene información que la madre NO posee.
+
+**Ejecución:** Nishimura intercepta a Haruto y Lyra antes de que lleguen al observatorio. Les muestra un documento del archivo: una foto de una mujer que NO es la madre de Haruto, con la leyenda *"Velari Integrada #03 — Ubicación: Instituto Takahara — Estado: Activa"*.
+
+Revelación: La madre de Haruto NO es la única Integrada. Nishimura ES una humana que fue "integrada" al sistema Watcher_0 como custodio de datos hace 7 años. No es Velari, pero tampoco es completamente humana ya que su neurología fue parcialmente adaptada para monitorear las anomalías.
+
+**Tono:** Esto introduce un nuevo personaje con motivaciones ambiguas (mystery) y un nuevo tipo de "ser no humano" que no es un alienígena sino una humanidad modificada. Rom-com: Nishimura siendo una adulta completamente involucrada en los dramas adolescentes resulta cómico por absurdo. Slice of life: "¿Pueden los adolescentes dejar de cambiar la física cada vez que se miran?"
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que como Arquitecto Narrativo e Investigador de Lore, refine y profundice las 3 ideas que ya generamos en la iteración anterior. Necesito evolucionar los conceptos sin repetir textualmente, mejorando:
+
+1. Consistencia interna
+2. Atractivo de personajes
+3. Implementación específica por género
+
+Voy a analizar cada idea y llevarla más lejos:
+
+**IDEA 1: "El Protocolo de los Cuarenta y Siete Años"**
+- Necesita más detalle sobre la estructura del Projeto Fénix
+- Los "niveles" de conocimiento necesitan más precisión
+- La madre como personaje necesita más capas
+- El contraste entre documentación científica y diario personal es bueno pero puede expandirse
+
+**IDEA 2: "La Frecuencia Elegida"**
+- El concepto de "frecuencia" necesita reglas más específicas
+- Los "7 variables" deben tener consecuencias tangibles
+- Watcher_0 como personaje necesita más personalidad
+- La tensión entre romance y consecuencia técnica es fértil
+
+**IDEA 3: "El Sótano del Tercer Nivel"**
+- Nishimura necesita motivaciones más complejas
+- La "integración" de humanos necesita una mecánica clara
+- La revelación de múltiples integradaos abre posibilidades
+- Debo explorar qué significa ser "integrado" vs "Velari"
+
+Voy a estructurar mi respuesta con:
+- Refinamiento de cada idea
+- Reglas de sistema más claras
+- Desarrollo de personajes
+- Conexiones entre las ideas
+- Tono y atmósfera específica
+
+</think>
+
+# Evolución de Conceptos Narrativos
+
+---
+
+## REFLEXIÓN CRÍTICA INICIAL
+
+Antes de refinarlas, debo establecer los **principios narrativos** que guiarán mi investigación:
+
+**Principio 1 — Consistencia Física del Sistema**
+Todo lo que inventemos debe poder explicarse con las reglas internas del mundo. Si los Velari existen, debe haber una lógica evolutiva/ecológica para su existencia.
+
+**Principio 2 — Atractivo Emocional de las Contradicciones**
+Los mejores momentos de ficción nacen de personajes haciendo cosas que contradicen lo que "deberían" hacer según su naturaleza. Un Velari que ama humans. Un observador que protege. Un ancla que quiere liberarse.
+
+**Principio 3 — Coherencia de Tono por Escena**
+No podemos mezclar indiscriminadamente. Cada escena debe tener un tono dominante, incluso si contiene elementos de otros géneros.
+
+**Principio 4 — Las Consecuencias Deben Ser Irreversibles**
+Los momentos significativos deben cambiar el estado del mundo de forma permanente.
+
+---
+
+## IDEA 1 — "CUARENTA Y SIETE AÑOS: LA ARQUITECTURA DEL DESTINO"
+
+### Problema de la Iteración Anterior
+La idea era fuerte pero demasiado binaria: había documentos científicos vs.日记 personal. Esto crea un buen contraste pero deja huecos sobre CÓMO funcionaba el sistema Watcher_0 durante esos 47 años.
+
+### Evolución: Estructura de Niveles de Conocimiento
+
+**Capa 1 — El Proyecto Fénix (Documentación Oficial, 2019)**
+Haruto descubre que el Proyecto Fénix NO es un nombre de programa secreto. Es una **designación taxonómica** para un fenómeno específico: cuando dos frecuencias de Velari se sincronizan naturalmente, producen un efecto cascada llamado "Fénix Event" que puede destabilizar nodos de tránsito.
+
+El proyecto entonces no CREÓ nada. **Documentó un fenómeno ya existente** y buscó formas de controlarlo.
+
+**Capa 2 — Los Registros de la Madre (2007-2019)**
+Pero hay una contradicción: la madre tiene acceso a datos de 1980-2007. Esto sugiere que ella fue contactada ANTES del Proyecto Fénix, cuando Watcher_0 aún estaba en fase de "reclutamiento silencioso".
+
+**La revelación expandida:**
+
+> *En 2007, Watcher_0 no envió un mensaje. Envió a alguien. La madre no tiene archivos de este período porque lo que ocurrió no fue documentado: fue un evento físico. Una presencia en el sótano. Una conversación de tres días donde ella no recuerda qué se dijo, pero recuerda las preguntas que le quedaron.*
+
+**Capa 3 — La Pregunta que Falta**
+En el fondo del sótano hay un archivo marcado como "PROTOCOLO VERDE" que requiere 生物识别 para abrirse. La madre no puede abrirlo. Y cuando lo intenta, el sistema responde con una frase en un idioma que no es japonés ni inglés:
+
+> *"No estás autorizada para conocer la sección donde te reclutaron."*
+
+Esto significa que la madre NO tiene acceso completo a su propia historia. Watcher_0 le borró secciones de memoria.
+
+### Desarrollo del Personaje: La Madre
+
+**Contradicción corregida:**
+Antes era "madre que experimentó con su hijo pero lo amó". Ahora es más complejo:
+
+> *La madre Sabe que tiene secciones de memoria faltantes, y ha construido una identidad alrededor de esa ignorancia. Su diario no expresa dudas genuinas: expresa dudas sobre si lo que recuerda ES real. Hay entradas donde se pregunta si Haruto realmente tiene 17 años o si ella misma ha reescrito el pasado varias veces.*
+
+**Atractivo emocional:** Ella es una persona que ha construido su identidad maternal sobre cimientos que sospecha falsos. Cuando Haruto descubre que fue diseñado, ella descubre simultáneamente que SU PROPIA HISTORIA como madre fue diseñada también.
+
+**Tono de escena:**
+- Rom-com imposible (la madre descubre que quizás no fue ella quien decidió tener a Haruto)
+- Sci-fi corpóreo (la memoria como archivo reescribible)
+- Drama maternal genuino (si no fue su decisión, ¿su amor es genuino o programado?)
+
+### Consistencia Técnica Expandida
+
+Los 47 años de registro del nodo pueden organizarse así:
+
+| Período | Actividad Watcher_0 | Objetivo |
+|---------|---------------------|----------|
+| 1980-1989 | Monitoreo pasivo | Identificar anomalías humanas |
+| 1990-2005 | Reclutamiento silencioso | Buscar candidatos compatibles |
+| 2006-2007 | "Reclutamiento físico" | Contactar sujetos identificados |
+| 2007-2019 | Acompañamiento pasivo | Esperar sincronización natural |
+| 2019+ | Monitoreo activo | Evaluar Fénix Event |
+
+---
+
+## IDEA 2 — "LA FRECUENCIA ELEGIDA: SIETE VARIABLES Y UN LÍMITE"
+
+### Problema de la Iteración Anterior
+Las "7 variables" son un concepto interesantes pero no tenían consecuencias tangibles. ¿Qué significa en la práctica que una frecuencia tenga interferencia?
+
+### Evolución: Sistema de Mecánica de Frecuencia
+
+**Base técnica (Sci-Fi):**
+Cada entidad en el mundo de Haruto y Lyra tiene una "frecuencia base" — una firma energética que pueden sentir pero no ver. Los Velari tienen frecuencias complejas con armónicos. Los humanos tienen frecuencias simples con interferencia natural.
+
+**Las 7 variables de interferencia:**
+Cuando Lyra eligió quedarse (semilla 13_02), su frecuencia se "ancló" a la de Haruto. Estoalteró su firma de 3 formas posibles:
+
+1. **Frecuencia de retorno** — Ya no puede abandonar el planeta sin causar un "ruido" detectable por otros observadores.
+2. **Frecuencia de espejo** — Los episodios de Lyra ahora reflejan estados emocionales de Haruto que antes no podía percibir.
+3. **Frecuencia de sedimentación** — Los episodios de Lyra ahora dejan residuos en el entorno que Haruto puede sentir después.
+
+**El dilema expandido:**
+Watcher_0 no es antagonista — es un sistema de mantenimiento. Cuando explica que las 7 variables son "no documentadas", significa que watch0er_0 NO SABE qué va a pasar. Esto lo convierte en un personaje que puede ser burlado o manipulado.
+
+### Desarrollo del Personaje: Watcher_0
+
+**Contradicción corregida:**
+Watcher_0 fue presentado como entidad omnisciente. Ahora debe mostrar:
+
+> *"Mi función es predecir. Pero desde que Target 002 modificó su frecuencia, mis modelos de predicción para Target 001 tienen un margen de error del 23%. Eso no había ocurrido en 47 años. ¿Entienden lo que eso significa? No sé qué van a hacer. Y tengo... no sé cómo llamarlo. Incomodidad."*
+
+Watcher_0 puede mostrar curiosidad que se parece peligrosamente a emoción.
+
+**Tono de escena:**
+- Rom-com: La relación Haruto-Lyra ahora tiene consecuencias técnicas que Haruto intenta managear con la seriedad de un gerente de proyecto pero con la emoción de un novio.
+- Ejemplo de escena: *"Si me miras con esa cara, tu frecuencia va a resonar con la mía y vas a causar un apagón en tres manzanas. Por favor, espera a que nos aleje del centro comercial."*
+- Sci-fi: Las reglas de interferencia deben sentirse reales, no arbitrarias.
+- Mystery: ¿Por qué watch0er_0 tiene "incomodidad"? ¿Qué es realmente?
+
+### Consecuencias Narrativas
+
+**A corto plazo:**
+- Los episodios de Lyra ahora son contagiosos emocionalmente.
+- Haruto puede empezar a sentir ecos de las experiencias de Lyra.
+
+**A largo plazo:**
+-
