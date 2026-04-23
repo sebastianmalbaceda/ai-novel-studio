@@ -109,3 +109,9 @@ Desperté después de dormir casi doce horas, agotado tras los eventos del Proye
 En el第十八章, Haruto 和 Lyra 乘电梯前往 B 层级地下室的秘密档案库，寻找「凤凰计划」的资料。到达后，Lyra 使用她的 Velari 技术打开生锈的键盘入口。进入满是灰尘的档案室，Haruto 在墙上发现母亲的照片——田崎子博士，年轻时笑容灿烂，下方标注她自 1979 年起参与该计划，而当时她正值 Haruto 现在的年纪。Lyra 在角落找到一台旧终端机并开始操作，屏幕闪烁后显示出一份标注「五级机密」的文档。这份文件暗示了 Haruto 母亲与凤凰计划及他自身命运之间的深层关联，同时也让 Haruto 意识到 Lyra 对人类旧技术的熟悉程度远超她所承认的。
 
 ---
+
+### Capítulo 19
+
+Durante una clase normal, la profesora Tanaka comienza a revelar información sobre el edificio del instituto, nerviosa y dubitativa, cuando Lyra la interrumpe para corregirla: según sus análisis, la estructura bajo el edificio no tiene cuarenta y siete años sino cuatrocientos setenta y tres, y contiene un nodo de tránsito establecido mucho antes de que la humanidad pudiera registrar información. El protagonista experimenta una vibración inexplicable en su pecho que resuena con las palabras de Lyra, sintiendo que algo dentro de él responde. Tanaka, cada vez más pálida, intenta marcharse para hacer una llamada cuando el teléfono fijo antiguo del aula suena sorpresivamente, dejando a todos inmóviles. Este capítulo marca un punto de inflexión: la relación entre el protagonista y Lyra evoluciona, pues su mirada ha dejado de ser puramente científica para incluir algo que él no puede clasificar. Los hilos abiertos incluyen la verdadera antigüedad del edificio, la naturaleza del nodo de tránsito, el origen de la señal en el protagonista y la identidad de quien realizó la llamada inesperada.
+
+---
