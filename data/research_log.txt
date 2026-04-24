@@ -966,3 +966,224 @@ La reprogramación no fue impuesta por enemigos. Fue self-imposed. Lyra misma, h
 Lyra, visiblemente alterada, sale corriendo del sótano. Haruto la persigue. Kenji,并不知道 qué acaba de pasar, intercepta a Haruto en las escaleras: "¡Espera! El proyector de estrellas se apagó solo, ¿es buena señal o mala señal?" Haruto, sin detenerse: "¡MALA SEÑAL! ¡BUENA SEÑAL! ¡NO SÉ!" 
 
 Lyra está en el pasillo iluminado por la luz del atardecer. Cuando Haruto la alcanza, ella le dice sin preámbulos: "Si olvidé mi propio nombre, ¿cómo sé que lo que siento por ti es real y no parte de
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-24 13:20:43] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado actual del proyecto:
+
+**HILOS ACTIVOS CON ALTA TENSIÓN:**
+- madre_de_haruto (10) - CONFRONTACIÓN INMINENTE
+- watcher_0 (9) - ¿Intenciones reales?
+- emisiones_haruto (8) - ¿Qué es el Proyecto Fénix?
+- nodo_transito (8) - ¿Función exacta?
+- episodios_lyra (7) - ¿Qué viene?
+
+**SEMILLAS PENDIENTES:**
+- Semilla 13_01: Watcher_0 desaparece después de "protocolo completo" - ¿vuelve?
+- Semilla 13_02: Lyra elige quedarse por decisión propia
+- Semilla 13_03: La madre vigiló a Haruto toda su vida
+
+**DÉFICIT NARRATIVO DETECTADO:**
+La confrontación con la madre es inminente, pero hay un problema: si la madre revela TODO, se pierde tensión. Necesito pensar en:
+1. ¿Qué revela la madre? (y qué NO revela)
+2. ¿Cómo se conecta Watcher_0 con esto?
+3. ¿Qué significa "no estar lista" Lyra para algo que viene?
+
+**TROPOS A EXPLOTAR:**
+- Hidden identity (la madre como Velari)
+- Accidental confession (momentos románticos en medio del misterio)
+- Transfer student (Lyra como observadora)
+
+**IDEAS BASADAS EN INVESTIGACIÓN:**
+
+1. **La madre NO revela todo** - Usa el tropo "partial revelation". La madre tiene制约 (juramentos o protocolos) que le impiden decir ciertas cosas. 
+
+Esto evita exposition dump y mantiene tensión. Podría usar un sistema de "bloqueo cognitivo" donde intenta revelar información pero su mente se cierra, creando un efecto de amnesia parcial que protege secretos críticos. Alternativamente, durante la confrontación, el nodo Takahara podría activarse por la tensión emocional de los presentes, forzando a Watcher_0 a manifestarse en medio de la escena familiar. También podría explorar la idea de que la frecuencia Schumann no es solo ciencia, sino un lenguaje que Haruto puede percibir.
+
+Necesito algo que mezcle romance, tensión y un concepto científico poco habitual.
+</think>
+
+# Investigación Narrativa: Arquitecto de Lore
+
+---
+
+## Idea 1: "El Juramento Velari — Bloqueo de Información"
+
+**Hilo activado:** `madre_de_haruto`
+
+**Concepto técnico:** Los Velari tienen un protocolo neural llamado *Resonancia de Conflicto* — cuando intentan revelar información clasificada a alguien fuera de su especie, la información se "disuelve" antes de ser articulada. No es censura externa, es un mecanismo biológico de autoprotección.
+
+**Implementación narrativa:**
+- Durante la confrontación, la madre intenta explicar el Proyecto Fénix completo
+- Cada vez que menciona algo crítico ("Haruto fue creado para..."), su voz se corta, sus ojos se desenfocan, y pierde 30 segundos
+- Lyra reconoce el patrón: "Estás bajo un *Voto de Silencio*. ¿Quién te lo impuso?"
+- Esto revela que la madre NO ES completamente libre, alguien o algo le impuso límites
+- Genera la pregunta: ¿Quién puede imponer juramentos a una Velari?
+
+**Conexión con semillas pendientes:** La semilla 13_03 ("La madre vigiló a Haruto toda su vida, protegiéndolo") cobra nueva dimensión — ¿protegiéndolo de qué? ¿De la verdad misma?
+
+**Tono RomCom:** La madre, frustrada, termina tomando la mano de Haruto y dicien
+
+---
+
+## Idea 2: "Resonancia Schumann Invertida — El Nodo Responde a la Emoción"
+
+**Hilo activado:** `nodo_transito` + `complicidad_haruto`
+
+**Concepto técnico (original):** La frecuencia Schumann (7.83 Hz) es el "latido" electromagnético de la Tierra. Lo que nadie sabe en el manga: los nodos Velari no solo *consumen* esta frecuencia, también *retroalimentan*. Cuando emociones humanas intensas coinciden con la Schumann natural, el nodo puede interpretarlas como señal de entrada.
+
+**Implementación narrativa:**
+- Durante la confrontación madre-hijo en el observatorio, la tensión emocional alcanza punto crítico
+- Sin previo aviso, el sótano del observatorio se ilumina con geometrías que todos reconocen del edificio A
+- Watcher_0 no "vuelve" — más bien, el nodo se activa como respuesta a la frecuencia emocional del grupo
+- Una pantalla holográfica muestra imágenes fragmentadas: Haruto bebé, la madre hablando con Watcher_0, un contrato legal entre entidades
+- En la pantalla aparece texto: "PROTOCOLO FÉNIX: CONDICIÓN DE ACTIVACIÓN CUMPLIDA. ORIGEN: RESONANCIA EMOCIONAL HUMANA"
+
+**Twist:** El Proyecto Fénix no fue diseñado para capturar a Haruto — fue diseñado para que *Haruto lo activara por querer proteger a alguien*. Su capacidad de emitir frecuencias estables no es un bug, es una feature que responde a su instinto de proteger a Lyra.
+
+**Tono RomCom:** Lyra y Haruto se miran — ella entiende antes que él: "Eres el interruptor. Y me elegiste a mí."
+
+---
+
+## Idea 3: "Episodio Dual — Sincronización Involuntaria"
+
+**Hilo activado:** `episodios_lyra` + `semilla_13_02`
+
+**Concepto técnico (original):** Los Velari tienen una condición llamada *Disonancia de Separación Prolongada* — cuando un ancla (Haruto) y un ser dependiente (Lyra) están emocionalmente en sintonía pero físicamente separados durante un evento Schumann bajo, pueden experimentar un episodio *compartido*.
+
+**Implementación narrativa:**
+- Lyra está en el observatorio con Haruto cuando ocurre un episodio
+- Sus dedos se vuelven translúcidos, pero esta vez Haruto también siente algo: un zumbido en los huesos, visión doble
+- Por un momento, ambos ven lo mismo: una memoria que NO es de ninguno — la madre Velari, hace décadas, enviando un mensaje a una nave nodriza: "El ancla está en posición. El peso llegará pronto."
+- La memoria termina con: "Proyecto Fénix — Fase 1: Completa. Esperando activación emocional."
+- Lyra descubre que su llegada fue coordinada DESPUÉS de que Haruto existiera, no antes
+- **Twist:** La madre no envió a Lyra. La madre *preparó la Tierra* para que Lyra llegara a Haruto. Pero alguien más decidió que Lyra viniera.
+
+**Misterio abierto:** ¿Quién en la especie de Lyra decidió que ella debía ir a Haruto específicamente?
+
+**Tono RomCom:** Haruto, desorientado pero sosteniendo a Lyra, bromea: "Entonces... ¿somos un combo oficial desde antes de conocernos?" Lyra: "...La humanidad romanticiza el destino."
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las 3 ideas que generé como Arquitecto de Lore y las refine, expanda y profundice. Debo mejorar:
+
+1. **Consistencia** - ¿Cómo se conectan las ideas entre sí? ¿Hay continuidad lógica?
+2. **Atractivo de personajes** - ¿Por qué nos importan estos personajes? ¿Qué los hace tridimensionales?
+3. **Evolución de conceptos** - Llevar las ideas más allá, no repetir sino expandir
+
+Voy a analizar cómo conectar las tres ideas:
+
+**Conexión propuesta:**
+- Idea 1 (Bloqueo de Información) → Revela QUE existe un Voto de Silencio impuesto por una autoridad superior
+- Idea 2 (Resonancia Invertida) → Revela QUE Haruto ES el activador intencional del Proyecto Fénix
+- Idea 3 (Sincronización Involuntaria) → Revela QUE Lyra fue enviada específicamente a Haruto, pero NO por la madre
+
+**Misterio conductor:** ¿Quién está realmente dirigiendo el Proyecto Fénix? La madre tiene restricciones (Idea 1), pero NO es quien envió a Lyra (Idea 3). Hay una tercera parte.
+
+**Tono RomCom - Claves:**
+- El humor debe venir de la absurdidad cósmica confrontada con la normalidad humana
+- Los personajes deben tener agencia emocional independiente de los plot twists científicos
+- La tensión debe ser sobre "¿cómo nos aman si apenas nos conocen?" no solo "¿quién nos controla?"
+
+**Conceptos originales a expandir:**
+
+**Bloqueo Velari (Resonancia de Conflicto):**
+- Más específico: Los Velari no tienen un "voto" genérico, tienen un CONTRACTUAL que firman al vincularse a un planeta
+
+
+- Cada contrato incluye cláusulas específicas sobre qué información pueden compartir con las especies nativas. La madre de Haruto firmó uno que le impide revelar los nombres de las naves nodriza y las condiciones de activación del Proyecto Fénix.
+
+**Frecuencia Schumann Invertida:**
+- Los nodos Velari tienen una restricción fundamental: solo procesan energía que la Tierra puede regenerar. No pueden extraer, solo transformar. El Proyecto Fénix aprovecha esto como un intercambiador — toma la energía emocional humana y la convierte en algo utilizable por los Velari. Haruto actúa como catalizador involuntario que permite que esta conversión ocurra a escala planetaria.
+
+**Episodios Compartidos:**
+- El vínculo emocional entre Lyra y Haruto no es lo que los Velari pretendían. La sincronización que alcanzan supera con creces lo que el Proyecto Fénix necesitaba. Son "anomalías emocionales" — su capacidad para sentir y conectar va mucho más allá de lo que cualquiera anticipó. Lyra fue diseñada como observadora científica, no como participante. Pero ella eligió involucrarse emocionalmente de todos modos, y ahora su inversión emocional está amplificando la señal del nodo de formas completamente inesperadas.
+
+**Madre de Haruto:**
+- Es una Velari de segunda generación —nacida en la Tierra, no en el espacio— con un contrato limitado comparado con otros de su especie. Solo puede operar bajo ciertas condiciones locales y su jurisdicción se reduce a mantener a Haruto a salvo. No es una autoridad mayor, es una custodia.
+
+**Watcher_0:**
+- En realidad no es una persona completa. Es un fragmento de interfaz que se manifestaba cuando Haruto requería protección, más parecido a una conciencia distribuida que a una inteligencia individual. Si "completó el protocolo", quizás desapareció porque su función terminó, no porque algo saliera mal.
+
+**Haruto:**
+- Su aparente fragilidad era parte del diseño. Lo criaron deliberadamente así, con restricciones calibradas para que emitiera la frecuencia precisa que el nodo necesita.
+
+**Lyra:**
+- Viene de una especie que también tiene contratos Velari, pero su caso es diferente. En su planeta, estos contratos se manifiestan como "historias" — ciclos repetitivos donde ella y otros Lyrianos son enviados a mundos para observar cómo evolucionan las especies. No tienen control sobre adónde van ni cuándo. Sin embargo, ella fue a la Tierra por elección propia, desafiando el patrón.
+
+El twist aquí es que ella no estaba asignada a Haruto; él simplemente estaba disponible. Ella lo eligió porque lo encontró interesante. Esto genera fricción: ¿qué pasa cuando una especie diseñada para seguir historias decide escribir la suya propia?
+
+**Conexiones con el arc romántico:**
+- Haruto y Lyra gradualmente se dan cuenta de que están siendo orquestados y se rebelan contra eso
+- La madre de Haruto intenta disculparse, pero él la interrumpe: "No necesitas explicar por qué era necesario. Necesito que me dejes decidir qué hacer con eso."
+- El humor surge de los malentendidos culturales. Cuando la madre ofrece "sellar el vínculo ancla" como solución, Lyra se sonroja completamente. Haruto pregunta qué significa exactamente. La respuesta: "Es como un matrimonio interestelar pero con más física cuántica."
+
+**Estructura del arco de confrontación (3 episodios):**
+- Episodio 1: Revelación del Bloqueo. La madre intenta explicar qué es el Proyecto Fénix pero sus restricciones se lo impiden.
+- Episodio 2: Manifestación del Nodo. La frecuencia emocional activa el nodo Takahara y aparecen registros holográficos.
+- Episodio 3: Memoria Compartida y Rebelión. Lyra y Haruto acceden a través de la sincronización y descubren que Lyra vino por cuenta propia. Juntos rechazan el papel de "interruptores" que les asignaron.
+
+Voy a estructurar esta respuesta como documento de diseño narrativo.
+</think>
+
+# Documento de Diseño Narrativo: Arco de Confrontación Velari
+
+## Estado Previo vs. Evolución
+
+Las tres ideas anteriores establecían mecanismos individuales. Este documento las integra en un **sistema narrativo coherente** donde cada revelación responde a una pregunta que la anterior dejó sin responder.
+
+**Cadena de misterio:**
+1. *La madre revela que existe un contrato* → No revela quién lo escribió
+2. *El nodo muestra los registros del Proyecto Fénix* → No revela por qué se diseñó así
+3. *La memoria compartida muestra que Lyra eligió venir* → No revela qué significa esa elección para la especie de Lyra
+
+El resultado: **un arco donde la respuesta a cada misterio abre tres nuevos**, pero la relación emocional entre Haruto y Lyra se fortalece precisamente porque ambos eligen seguir juntos a pesar de no tener todas las respuestas.
+
+---
+
+## I. El Sistema de Contratos Velari (Refinamiento de Idea 1)
+
+### Concepto Técnico Original: "Resonancia de Conflicto"
+
+**Evolución:** Los Velari no tienen "votos de silencio" metafóricos. Tienen **Cláusulas de Vinculación Energética** — contratos codificados en su propia biología.
+
+**Funcionamiento detallado:**
+- Cada Velari que se vincula a un planeta firme un contrato holográfico que se integra a su sistema nervioso
+- Las cláusulas specify *qué información puede ser articulada sin daño sistémico* y *qué palabras activan el protocolo de defensa*
+- La madre de Haruto firmó uno **limitado**: ella es una Velari de segunda generación (nacida en la Tierra, no reclutada del espacio). Su contrato solo le permite actuar bajo "condiciones de custodia", no bajo "condiciones de supervisión total"
+
+**Implicación para el personaje:**
+La madre no es una villana con secretos — es una **prisionera operativa**. Pasó décadas criando a Haruto bajo regulaciones que la obligaban a:
+- Alimentarlo sin explicar de dónde venía la comida
+- Protegerlo sin revelar de qué
+- Amarlo sin poder decirle por qué era especial
+
+**Escena ejemplo (Tono RomCom incl):
+Haruto, furioso: "¿Por qué nunca me dejaste ir a camps de verano?"  
+Madre, aliviada de que sea una pregunta que PUEDE responder: "Porque en camps de verano los niños comparan alturas con otros niños y tú medías 1.85cm a los 6 años."  
+Haruto: "...¿Y eso era malo?"  
+Madre: "Era *inusual*. Los niños问我 si eras adoptado."  
+Haruto: "Eso no explica nada."  
+Madre: "No puedo explicarte nada. Literalmente. Intentaré decirte qué eres y mi mente se apaga. Es como... recordar un sueño que se desvanece."  
+Lyra, presente: "Conozco esa sensación. Es como cuando intentas explicar por qué alguien te gusta."  
+Haruto: "¿Cómo es eso igual?"  
+Lyra: "No es igual. Pero es lo más cercano que tengo."**
+
+### Pregunta abierta después de Idea 1:
+Si la madre tiene un contrato limitado, **¿quién escribió el contrato completo?** ¿Quién tiene autoridad sobre una Velari de segunda generación?
+
+---
+
+## II. La Arquitectura del Proyecto Fénix (Refinamiento de Idea 2)
+
+### Concepto Técnico Original: "Resonancia Schumann Invertida"
+
+**Evolución:** El Proyecto Fénix no es una trampa. Es un **sistema de compatibilidad emocional** que requiere un ancla humana para funcionar.
+
+**Funcionamiento detallado:**
+- Los nodos Velari pueden extraer energía Schumann pero tienen una restricción fundamental: **solo pueden transformar, no consumir**
+- La frecuencia Schumann es limitada; si los nodos la agotaran, la Tierra moriría
+- El Proyecto Fénix
