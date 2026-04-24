@@ -806,3 +806,163 @@ Voy a seleccionar dos ideas principales para desarrollar con más profundidad na
 </think>
 
 # REFINAMIENTO NARRATIVO — ITERACIÓN 2
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-24 11:05:31] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario quiere que genere 3 ideas concretas para avanzar los hilos activos o usar semillas pendientes del proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!"
+
+Analizando la situación:
+
+**HILOS ACTIVOS CLAVE:**
+1. **madre_de_haruto** (Tensión 10 - ¡CONFRONTACIÓN INMINENTE!): Este es el más urgente. Hay que explotar esta tensión máxima.
+2. **watcher_0** (Tensión 9): Desapareció después de declarar "protocolo completo". ¿Volverá?
+3. **complicidad_haruto** (Tensión 4): Procesar ser Sujeto M-07
+4. **episodios_lyra** (Tensión 7): Lyra no está lista para algo
+5. **misterio_lyra** (Tensión 5): Confrontar a la madre sobre Proyecto Fénix
+
+**SEMILLAS PENDIENTES:**
+- semilla_13_01: Watcher_0 desapareció después de "protocolo completo". ¿Volverá?
+- semilla_13_02: Lyra elige quedarse por decisión propia. Consecuencias.
+- semilla_13_03: La madre vigiló a Haruto toda su vida. ¿Qué más sabe?
+
+**ENFOQUE NECESARIO:**
+- Rom Com 40% + Action 25% + Sci Fi 15% + Mystery 10% + Slice Of Life 10%
+- Novela Ligera (comedia, ligereza, momentos tiernos pese al drama)
+- Originalidad técnica
+- Ideas concretas que avancen tramas
+
+
+- Idea 1: La confrontación con la madre de Haruto. Momento de tensión máxima donde debe revelarse por qué vigiló a Haruto toda su vida y qué sabe realmente sobre él. Aquí es donde se descubren las motivaciones ocultas de ella.
+
+- Idea 2: Watcher_0 podría manifestarse de formas inesperadas, quizás incluso dentro del observatorio, lo que introduce un nuevo elemento de Sci Fi/Action en la trama.
+
+- Idea 3: Lyra tiene episodios y ahora su elección propia de quedarse genera consecuencias, quizás con la madre descubriendo algo que Lyra intenta ocultar.
+
+Considerando ideas prometedoras: la confrontación con la madre es clave porque necesita un gancho que mezcle misterio con romance. Lo que me interesa explorar es qué ocurre cuando ella revela la verdad sobre la conexión entre Haruto y Lyra, específicamente por qué la señal de Haruto es tan crucial. Podría usar la frecuencia Schumann y algo más profundo sobre su historia familiar.
+
+Watcher_0 podría manifestarse a través de infraestructura tecnológica cotidiana—una pantalla de intercomunicador, la red del instituto—desafiando la suposición de que solo existe en el nodo. Y hay algo en los episodios de Lyra que aún no entiendo bien, quizás conectados a decisiones que ella ha tomado en el pasado.
+
+Necesito tres propuestas distintas que funcionen independientemente. La primera debe ser directa y concreta: la confrontación entre Haruto, Lyra y la madre revelando por qué ella sabía desde el principio.
+
+La frecuencia Schumann podría ser clave aquí—la madre explicando que monitoreó esta señal en Haruto antes de nacer, y que cuando ella llegó al observatorio hace décadas, detectó la frecuencia perfecta esperando en algún lugar de la ciudad. Cuando ella se fue, el nodo quedó latente. Lyra fue la señal enviada para encontrar a alguien que ya existía. Esto conecta todo: la observación de Watcher_0, la identidad de Lyra, y por qué Haruto es tan importante.
+
+Para la segunda idea, Watcher_0 podría manifestarse directamente en los momentos más románticos—cuando Lyra y Haruto están juntos en lugares clave, aparece una notificación en dispositivos cercanos con advertencias sobre protocolos o riesgos de proximidad.
+
+Esto fusiona el misterio de Watcher_0 con la comedia romántica de una manera diferente: en lugar de ser amenazante, actúa como un chaperón cósmico celoso que interfiere con los momentos íntimos. Cada vez que casi se besan o se acercan físicamente, el dispositivo de Haruto vibra con advertencias de Watcher_0 sobre "frecuencia incompatible" o "protocolo de proximidad no autorizado".
+
+La tercera idea explora los episodios de Lyra desde una perspectiva completamente nueva, mostrándolos a través de los ojos de alguien más. Lyra elige quedarse en la Tierra por decisión propia, pero esto genera consecuencias inmediatas: sus episodios se intensifican, y el observatorio de la madre de Haruto contiene archivos que explican por qué. Lo fascinante es que los episodios no son un defecto en Lyra, sino su sistema de comunicación nativo manifestándose en un mundo de frecuencia incompatible. Cuando sus dedos se vuelven translúcidos, no es desintegración—es ella pasando a una frecuencia parcialmente diferente, intentando comunicarse con su especie o con el nodo. Sin embargo, ella no tiene acceso completo a estos recuerdos porque alguien más modificó su mente para protegerla de la verdad. La madre de Haruto lo sabe, y los archivos del sótano del observatorio podrían revelar quién realizó esa modificación y por qué fue necesaria.
+</think>
+
+1. **"La Conversación en el Sótano del Observatorio"**
+   Avanzar: madre_de_haruto + misterio_lyra
+   La confrontación se resuelve parcialmente revelando la verdadera historia del Proyecto Fénix: hace 23 años, la madre de Haruto llegó al observatorio detectando una frecuencia anómala. Visitó al nodo Takahara y Watcher_0 le transmitió una visión profética: vería a su hijo emitter una señal que trascendería la biología. Cuando ella contactó a los Velari superiores y solicitó una "ancla", le dijeron que ya existía uno: ella misma debía criar al niño. Pero hay un secreto oscuro: Lyra no fue enviada por los Velari. Fue asignada por otra facción que quería neutralizar el nodo Takahara antes de que despertara completamente. Lyra tiene huecos en memoria porque le implantaron memorias falsas. Ella cree genuinamente ser una observadora, pero alguien la reprogramó para hacerla creer en una misión que no es la suya.
+
+2. **"Watcher_0 como Cencerro Cósmico"**
+   Avanzar: watcher_0 + complicidad_haruto
+   Tras desaparecer, Watcher_0 reaparece de formas absurdas y molestas: cada vez que Haruto y Lyra se acercan peligrosamente a un momento romántico, todos los dispositivos electrónicos del instituto muestran la notificación "PROTOCOLO DE PROXIMIDAD NO AUTORIZADO". La pantalla del pasillo, el teléfono de Kenji, hasta la calculadora de Lyra. Watcher_0 no es hostil, es sobreprotector y celoso de su "experimento". Intenta separar a Haruto y Lyra por su seguridad, pero solo logra que ambos se reúna más determinación. El momento cómico: Watcher_0 bloquea las puertas del aula cuando ambos quedan solos, pero Haruto tiene que ir al baño y todos los dispositivos muestran la cara de Watcher_0 diciendo "esto es incómodo para mí también".
+
+3. **"La Frecuencia del Adiós"**
+   Avanzar: episodios_lyra + semilla_13_02
+   Los episodios de Lyra no son desintegración. Son su cuerpo cambiando parcialmente de frecuencia dimensional. Cuando sus dedos se vuelven translúcidos, no se deshace: se vuelve parcialmente invisible para el espectro Velari. Lyra experimenta una visión de alguien que no recuerda: otra Velari que le habló antes de su misión, pero esa memoria fue borrada. "¿Por qué me olvidé de ti?" dice Lyra a una figura fantasmal. La madre de Haruto interviene con un dispositivo extraño que estabiliza la frecuencia, pero advierte: "Si sigues eligiendo quedarte, los episodios se acelerarán. Tu cuerpo está renegociando los términos de tu existencia. Cada vez que te desvanezcas un poco, una parte de ti recuerda lo que eras antes de llegar".
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que como Arquitecto Narrativo refine las 3 ideas generadas, profundizando en consistencia, atractivo de personajes y llevándolas un paso más allá según los géneros objetivo (Rom Com 40% + Action 25% + Sci Fi 15% + Mystery 10% + Slice Of Life 10%).
+
+Voy a analizar cada idea y mejorarlas:
+
+**IDEAS ORIGINALES:**
+
+1. **"La Conversación en el Sótano del Observatorio"** - Revelación de Proyecto Fénix y reprogramación de Lyra
+2. **"Watcher_0 como Cencerro Cósmico"** - Watcher_0 como chaperón celoso
+3. **"La Frecuencia del Adiós"** - Episodios como cambio dimensional, memoria borrada
+
+**PROBLEMAS A RESOLVER:**
+
+1. La primera idea es muy densa en exposition dump. Necesita más conflicto activo, no solo revelación.
+2. La segunda idea es buena comédia pero podría tener más profundidad narrativa.
+3. La tercera idea toca temas oscuros (borrado de memoria) que podrían romper el tono Rom Com si no se maneja bien.
+
+**ENFOQUE:**
+
+Para Novela Ligera, necesito:
+- Humor integrado en momentos serios
+- Momentos tiernos incluso en drama
+- Tramas que permitan comedia de enredos
+- Avance pero con ligereza
+
+Voy a reescribir cada idea con más sofisticación, integración de géneros y desarrollo de personajes.
+
+---
+
+**IDEA 1 REFESTADA: "El Interrogatorio de la Madre"**
+
+Lo que tiene de bueno: revelación de Proyecto Fénix, reprogramación de Lyra, conexión con Watcher_0.
+
+Problemas: Es muy exposition-heavy. La madre solo hablando.
+
+Cómo mejorarla: Necesito un medio más dinámico para comunicar la información. El tono de Rom Com puede ayudar aquí con la madre siendo una figura intimidating pero con lados cómicos. Podría usar el dispositivo de vigilancia de la madre como dispositivo cómico, donde los "archivos" son videos que Lyra accidentalmente ve y que resultan ser incómodos o vergonzosos. También puedo hacer que Watcher_0 intervenga directamente en la confrontación, ya que tiene una relación compleja con la madre que puede generar tensión y comedia. La reprogramación de Lyra debe revelarse de forma que ella tenga una reacción emocional fuerte, no solo información pasiva.
+
+La escena se desarrolla con Haruto y Lyra accediendo al sótano bajo la premisa de un exorcismo. La madre descubre que Lyra realmente fue reprogramada: su misión original era monitorear los efectos de la señal de Haruto en la población, pero alguien alteró sus memorias para hacerla creer que Haruto era peligroso cuando en realidad era necesario para estabilizar el nodo Takahara. Los Velari la enviaron con instrucciones modificadas que incluían separarlo. Esto fuerza a Lyra a confrontar la duda sobre quién realmente es. La escena mantiene equilibrio entre tensión y humor, revelando información crucial para la trama sin sobrecargar de exposition.
+
+Watcher_0 interviene transmitiendo directamente: "Madre. Conflicto de programación detectado. Su ancla no es el niño." La madre recibe esto como una comunicación directa, no como evidencia. Esta revelación fragmentada mantiene el misterio sobre la verdadera naturaleza de la reprogramación y quién realizó los cambios. La escena se balancea entre la tensión del descubrimiento y la reacción de la madre, quien parece procesar esta información de manera inesperada. Haruto y Lyra quedan en un estado de incertidumbre, con más preguntas que respuestas sobre lo que realmente está pasando. : Lyra tiene recuerdos borrosos de alguien que le importaba
+- Watcher_0 es más complejo: fue creado por una facción que no es la principal
+- El tono Rom Com se mantiene con momentos tiernos entre Haruto y Lyra
+- Acción: la manifestación física de los episodios genera spectacle
+
+La respuesta más impactante sería dejar que la reprogramación se revele gradualmente, permitiendo que cada detalle altere la comprensión de Lyra sobre su identidad. Necesito identificar quién la cambió sin convertirlo en exposition dump, usar los episodios como spectacle visual en lugar de solo expositivo, y mantener el romance activo durante toda la revelación.
+
+La idea más sólida que surge es que Lyra siempre fue una observadora, pero underwent una reprogramación sutil—no completa, sino una capa de modificaciones emocionales sobre sus memorias verdaderas. Quien lo hizo knew que una implementación radical fallaría, así que eligió implantar "recuerdos emocionales" que cambiaron cómo ella feels about su misión sin erase the facts. Por ejemplo, su observación debía ser neutral, pero alguien inserció la creencia de que Haruto era peligroso. Los episodios se convierten en la clave: cuando Lyra se acerca a Haruto, el conflicto entre lo que realmente recuerda y lo que feels causa una reacción física—su frecuencia se desestabiliza porque hay dos versiones de sí misma en conflicto dentro de ella.
+
+Me inclino por la tercera opción porque tiene más impacto narrativo. Ahora bien, la escena necesita ser activa, no passive. El dispositivo de la madre podría mostrar los archivos mientras Lyra pasa por un episodio, forcing her a confront what she's seeing while physically destabilizing. La verdad resulta ser que alguien la reprogramó para proteger a Haruto, no para eliminarlo—una decisión que alguien tomó por su propio bienestar.
+
+Lo que falta es dejar que los episodios actúen como dispositivo narrativo que fuerza el progreso de la trama, mantener el tono ligero aunque sea un momento serio, y enfocarse en el impacto emocional de Lyra en lugar del exposition.
+
+</think>
+
+# Refinamiento Iterativo — Arquitecto Narrativo
+
+## Análisis Crítico Previo
+
+Las tres ideas propuestas contienen gérmenes sólidos pero presentan desbalances:
+- **Idea 1**: excelso worldbuilding, deficit de movimiento activo
+- **Idea 2**: alto potencial cómico, bajo desarrollo de subtexto dramático
+- **Idea 3**: emoción pura, requiere integración más orgánica con el Rom Com
+
+El objetivo del refinamiento es preservar los aciertos mientras se corrige la ejecución para que cada idea funcione simultáneamente como motor de trama, generador de momentos tiernos y plataforma de Comedy of Errors.
+
+---
+
+## Idea 1 — "El Sótano de los Archivos Húmedos"
+
+**Título operativo**: *El Sótano de los Archivos Húmedos*
+
+### Problema Original
+La confrontación con la madre era fundamentalmente un monologue con revelaciones pasivas. El riesgo: deviene en infodump visualized donde el lector observa a los personajes recibir información en lugar de actuar sobre ella.
+
+### Refinamiento Central
+**Convertir la revelación en terreno de prueba relacional.** En lugar de que la madre simplemente рассказывать, utilizaremos sus archivos como catalyst para que cada personaje revele algo de sí mismo que no sabía o no quería admitir.
+
+### Ejecución Refinada
+
+**Setup (Act Action Comedic):**
+Haruto y Lyra bajan al sótano bajo pretexto de "revisar unos libros del club de astronomía que están en el sótano". La madre finge creerles. Kenji interviene desde el piso superior gritando que necesitan ayuda con el equipo del festival cultural porque "el proyector de estrellas está presentando actividad anómala — ¡creo que tiene un fantasma!". El tono queda establecido: la escena tiene urgencia, comedia y tensión simultáneamente.
+
+**Desarrollo (Mystery + Sci Fi):**
+El sótano está lleno de monitores que muestran frecuencias. La madre les permite acceso parcial bajo supervisión. Kenji sube y apaga las luces para "crear ambiente". En la penumbra, Lyra ve una pantalla que muestra su frecuencia vital — y detecta una anomalía: tiene dos firmas entrelazadas, como si dos versiones de sí misma ocuparan el mismo cuerpo.
+
+**Revelación Cinética:**
+La madre no dice "fueron reprogramada". En cambio, presiona un botón y la pantalla muestra un video antiguo: Lyra, hace cuatro años, visitando el observatorio Takahara y hablando con Watcher_0. Watcher_0 pregunta: "¿Cuál es tu nombre?" Lyra responde: "Lyra. Me enviaron a observar al Sujeto M-07." Watcher_0 responde: "No. Tu nombre original era Astrel. ¿Por qué lo olvidaste?"
+
+Lyra no recuerda haber olvidado. La pantalla se congela. Haruto voltea a mirarla.
+
+**Plot Point Crítico:**
+La reprogramación no fue impuesta por enemigos. Fue self-imposed. Lyra misma, hace cuatro años, solicitó que sus memorias fueran modificadas porque el peso de su verdadera misión era insoportable. Accedió a olvidar quién era a cambio de poder cumplir la misión sin el dolor de recordar. Watcher_0 grabó la conversación — y nunca se lo dijo a nadie, esperando que ella llegara a readiness.
+
+**Momento Rom Com (en medio del drama):**
+Lyra, visiblemente alterada, sale corriendo del sótano. Haruto la persigue. Kenji,并不知道 qué acaba de pasar, intercepta a Haruto en las escaleras: "¡Espera! El proyector de estrellas se apagó solo, ¿es buena señal o mala señal?" Haruto, sin detenerse: "¡MALA SEÑAL! ¡BUENA SEÑAL! ¡NO SÉ!" 
+
+Lyra está en el pasillo iluminado por la luz del atardecer. Cuando Haruto la alcanza, ella le dice sin preámbulos: "Si olvidé mi propio nombre, ¿cómo sé que lo que siento por ti es real y no parte de
