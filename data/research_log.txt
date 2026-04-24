@@ -421,3 +421,177 @@ La escena donde Kenji ayuda a Lyra a entender algo simple—como que los recuerd
 </think>
 
 
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-24 06:06:50] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide que genere 3 ideas concretas para avanzar los hilos activos o utilizar las semillas pendientes del proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!"
+
+Analicemos la situación:
+
+**Hilos activos con alta tensión:**
+- madre_de_haruto (tensión 10) - CONFRONTACIÓN INMINENTE
+- watcher_0 (tensión 9) - ¿Intenciones reales?
+- emisiones_haruto (tensión 8) - ¿Qué es el Proyecto Fénix?
+- nodo_transito (tensión 8) - ¿Función exacta?
+
+**Semillas pendientes:**
+- semilla_13_01: Watcher_0 desaparece después de "protocolo completo" - ¿volverá? ¿qué significa "comienzo"?
+- semilla_13_02: Lyra elige quedarse por decisión propia - consecuencias en próximo arco
+- semilla_13_03: La madre vigiló a Haruto toda su vida - ¿qué más sabe?
+
+**Tono:** Novela Ligera (RomCom con SciFi/Mystery)
+- 40% RomCom, 25% Action, 15% SciFi, 10% Mystery, 10% Slice of Life
+
+Necesito ideas que:
+1. Avancen hilos activos O usen semillas pendientes
+2. Sean originales técni
+
+Voy a crear tres propuestas: la primera involucra una confrontación donde la madre revela que ella y Nishimura deliberadamente orquestaron el encuentro entre Haruto y Lyra bajo el nodo, estableciendo a Haruto como Sujeto M-07. La segunda presenta una crisis donde Lyra experimenta un episodio de desintegración parcial que revela sus memorias robadas, donde Watcher_0 interviene de manera inesperada. La tercera explora un nuevo elemento donde la frecuencia Schumann experimenta fluctuaciones masivas, causando que otros estudiantes detecten capacidades latentes.
+
+Esto introduce la idea de que Haruto podría no ser el único "Sujeto" en el Instituto. Para la primera idea, necesito combinar el tropo de transferencia con el hidden identity. La madre es una Integrada Velari, así que podría usar tecnología de máscara biológica que distorsiona su verdadera naturaleza cuando la ve. Durante la confrontación, los eventos se aceleran cuando Watcher_0 comienza a reactivarse, y Kenji termina atrapado entre ellos sin entender completamente qué está pasando.
+
+La escena se desarrolla con elementos de comedia romántica: Haruto forcejea con su madre, Lyra intenta intervenir pero experimenta un episodio, y hay un momento donde la madre casi revela que Lyra tiene sentimientos por él. Esto deja una abierta sobre quién más en el Instituto es parte del Proyecto Fénix.
+
+La segunda idea introduce una situación de crisis donde la señal de Haruto se vuelve tan intensa que otros estudiantes detectan algo extraño en él. Mientras Lyra intenta ayudarlo, descubre información oculta sobre su especie en un mensaje antiguo, revelando los "huecos en memoria" que Watcher_0 guardó. Ambos elementos se conectan durante la crisis, generando tensión romántica y ciencia ficción.
+
+Watcher_0 aparece como una proyección del nodo Takahara, explicando que monitoreó a Haruto desde que era niño para mantenerlo a salvo. El Proyecto Fénix no es un programa de apareamiento, sino un protocolo de conservación diseñado para que los Velari que desean integrarse completamente en la Tierra encuentren pareja humana compatible para reproducirse y desvanecerse gradualmente. Ahora entiendo por qué Lyra dijo que "no estaba lista"—revelar esto destruiría la vida de Haruto tal como la conoce.
+
+La tercera idea combina elementos de transferencia estudiantil y secreto de identidad con un nuevo personaje: una chica aparentemente normal que comienza a actuar de manera extraña, revelando capacidades similares a las de Lyra. Esto sugiere que existe una red de seres como ella operando en la Tierra. El incidente de la zona gris mencionado en los archivos de Nishimura en 2019—el mismo año en que Lyra llegó—indica que ambas están conectadas a través de eventos que no son coincidencias.
+
+Watcher_0 tiene planes para la "reactivación completa" y necesita dos anclas: Haruto como ancla primaria y Lyra como peso estabilizador. Ahora que sus protocolos están activos, necesita expandirse más allá del sótano del Instituto, pero encontrar un ancla secundaria compatible es difícil. La chica es una alternativa que Watcher_0 ha estado monitoreando en reserva, lo que introduce una complicación romántica inmediata: ¿qué pasa si Lyra se entera de que hay otra opción?
+
+La escena se desarrolla en el festival cultural donde aparece esta Transfer Student de último año, pero Haruto nota que ella se comporta de manera demasiado perfecta y que Lyra se vuelve celosa y agresiva hacia ella. La transferencia revela que viene del Cluster Velari y busca específicamente a "Target 001" —es decir, a Haruto. Este conflicto de intereses abre interrogantes sobre por qué Watcher_0 necesita un ancla secundaria y qué planeaba hacer Lyra cuando llegara ese momento.
+</think>
+
+**1. "La Revelación del Sótano: Confrontación a Tres Bandas"**
+*Avanza: madre_de_haruto (tensión 10) + Semilla 13_03*
+
+Haruto, Lyra y Kenji bajan al sótano del observatorio. La madre los espera con té preparado —ha estado esperando esta conversación toda la vida de Haruto. Durante la confrontación, Watcher_0 comienza a manifestarse como interferencia en los monitores del observatorio, forzando a los tres a hablar rápido. El secreto que sale: la madre no es solo una Velari Integrada, sino que *ella misma fue parte del Proyecto Fénix hace 47 años* — fue la ancla original del nodo Takahara. Cuando Watcher_0 se activó en 1977, necesitaba una ancla; ella fue la voluntaria. Haruto no es un reemplazo: *es su hijo*. El Proyecto Fénix no crea anclas de la nada; las *hereda*. Por eso "el niño puede escuchar" — la frecuencia de Haruto es un eco biológico de la frecuencia que ella le transmitió durante el embarazo. Lyra se da cuenta de que ella no fue traída como observadora случайная: fue seleccionada *por la madre* hace tres años. Elemento romcom: la madre le susurra a Haruto "¿Le has dicho lo que sientes?" justo cuando Lyra entra a la habitación.
+
+---
+
+**2. "Resonancia de Rescate: La Frecuencia Habla"**
+*Avanza: emisiones_haruto (tensión 8) + Semilla 13_02*
+
+En medio de una tormenta electromagnética artificial (alguien sabotajea las antenas cerca del instituto), la señal de Haruto se intensifica y comienza a *afectar a otros estudiantes*. El equipo de chicas del club de música no puede dejar de tararear una melodía que nunca aprendieron — es una secuencia de frecuencias que Lyra reconoce como Velari antiguo. Los episodios de Lyra empeoran, pero esta vez Watcher_0 se manifiesta directamente en su campo visual y le muestra lo que realmente contiene su memoria borrada: un mensaje de los Velari que dice "El Sujeto M-07 no es un ancla. Es un *nodo viviente*. Su frecuencia puede crear lo que nosotros ya no podemos." La revelación redefine todo: Haruto no solo puede estabilizar a Lyra — puede *reactivar el nodo por sí mismo*. Pero para eso necesita un catalizador emocional real, no solo biologic
+
+---
+
+**3. "La Segunda Candidata: Rival Inesperada"**
+*Avanza: misterio_watcher + Semilla 13_01*
+
+Una estudiante de intercambio del último año aparece en el Instituto Takahara. Es encantadora, inteligente y parece *demasiado* interesada en Haruto. Lyra detecta inmediatamente que tiene firma de frecuencia Velari, pero cuando intenta confrontarla, la chica revela que viene del Cluster como observadora de Watcher_0. Watcher_0, tras desaparecer, dejó un protocolo incompleto: necesita un ancla *secundaria* porque Haruto y Lyra tienen una conexión que no puede controlar completamente. La chica es su plan B: si Lyra y Haruto no cooperan, tiene otra opción. El conflicto: la nueva chica es amable y no quiere hacer daño, pero tiene órdenes; mientras tanto, Lyra experimenta episodios de celos tan intensos que su frecuencia se distorsiona de formas nunca vistas. El arco explora si la conexión entre Haruto y Lyra es biológica o si realmente eligieron quedarse el uno con el otro.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las 3 ideas generadas en la iteración anterior y las refine/expanda/profundice. Debo:
+
+1. Mejorar consistencia
+2. Mejorar atractivo de personajes
+3. Llevar las ideas un paso más allá
+4. Basarme en los géneros objetivo (RomCom + SciFi/Mystery)
+5. No repetir textualmente, sino evolucionar
+
+Voy a analizar cada idea y ver cómo puedo elevarlas:
+
+**Idea 1: Confrontación a tres bandas**
+- Elemento fuerte: la madre como ancla original y madre de Haruto
+- Me falta: por qué Watcher_0 necesita anclas heredadas vs. nuevas
+- Evolución: necesito mostrar que esto tiene consecuencias romcom (los celos de Haruto al descubrir su madre manipuló todo, la vergüenza de Lyra al saber que fue "seleccionada", el drama familiar vs. romance)
+
+**Idea 2: Resonancia de Rescate**
+- Elemento fuerte: Haruto como "nodo viviente" redefine su rol
+- Me falta: cómo esto conecta con los otros hilos, qué significa "crear lo que nosotros ya no podemos"
+- Evolución: necesito un momento romcom en medio de la crisis, una escena que humanice la tensión sci-fi
+
+**Idea 3: La Segunda Candidata**
+- Elemento fuerte: el conflicto romcom de rival
+- Me falta: la dimensión de misterio de Watcher_0, qué significa "reactivación completa"
+- Evolución: necesito que la nueva chica tenga motivaciones más complejas, que Lyra se vea forzada a competir de formas que revelen su crecimiento
+
+Ahora voy a trabajar cada una con más profundidad, asegurándome de que:
+
+
+1. Los personajes tengan agencia y arcos claros
+2. Las revelaciones de sci-fi/misterio tengan consecuencias romcom inmediatas
+3. Cada idea se conecte con las otras hilos narrativos
+4. Haya tensión de transferencia + hidden identity en cada una
+
+Empezaré con la confrontación de la madre — esto tiene que mostrar por qué su manipulación tiene sentido emocional y por qué Lyra debe enfrentar sus propios sentimientos de ser "seleccionada" sin consentimiento.
+
+Para la idea 2, necesito que Haruto descubra algo sobre sí mismo que cambie cómo lo ve Lyra. Y en la idea 3, debo hacer que la rival no sea simplemente antagonistica, sino alguien con sus propias motivaciones que forzará a todos a reconsiderar qué significa realmente esta relación.
+
+La confrontación de la madre es donde todo se derrumba: Haruto descubre que su existencia fue planeada, que Lyra es otra variable en un sistema diseñado, y que su所谓自由意志 es una ilusión. La idea 2 necesita un momento donde uno de ellos toma una decisión que no fue programada — eso es lo que importa. Y la idea 3 tiene que mostrar que Lyra puede competir sin perder su esencia, que la rival tiene profundidad y que hay algo en juego más grande que jealousy.
+
+Ahora voy a desarrollar esto con detalles específicos de escena y diálogo, manteniendo el tono entre ligero y dramático.
+
+La escena de la madre funciona mejor si cada revelación destruye algo que creíamos saber. Haruto empieza defensivo, luego震惊 cuando descubre la verdad, y termina con una decisión activa. Lyra necesita ser más que un interés romántico — tiene que tener su propia arcada con los eventos. Y Kenji puede ser el elemento cómico que alivia la tensión antes de que todo explote.
+
+La tormenta electromagnética es perfecta como dispositivo narrativo: crea urgencia, afecta a todos los personajes de manera diferente, y da una razón física para los fenómenos extraños.
+
+El festival cultural es donde todo converge: la chica nueva introduce el misterio, Lyra reacciona con celos, y Haruto se ve forzado a elegir o entender. El secreto de ella puede ser algo simple pero devastador — quizás ella es la razón por la que él está en la escuela en primer lugar.
+
+Ahora necesito desarrollar estas escenas con más profundidad emocional y técnica. Voy a explorar cómo cada una avanza los arcos de los personajes mientras mantiene el tono ligero del inicio.
+
+</think>
+
+# Refinamiento de Ideas — Crónicas del Instituto Estelar
+
+---
+
+## Idea 1: "Herencia de Frecuencia" *(Reemplaza a "La Revelación del Sótano")*
+
+### La Evolución
+
+La confrontación original funcionaba, pero limitaba a la madre a un papel reactivo. La nueva versión la posiciona como **agente activo con motivaciones genuinas**: no es una villana manipuladora, sino alguien que tomó una decisión imposible hace 47 años y ahora enfrenta las consecuencias.
+
+### Concepto Expandido
+
+**Setup**: El sótano del observatorio no es solo un lugar con equipos antiguos — es una **cápsula del tiempo electromagnética**. Cada 19 años, cuando la alineación planetaria crea una "ventana de coherencia", todos los dispositivos del sótano se sincronizan y pueden transmitir información biológica codificada. La madre no eligió este lugar al azar; lo diseñó para que *Haruto pudiera encontrarse con Lyra exactamente ahora*.
+
+**La Revelación Central**: El Proyecto Fénix no es un programa de apareamiento — es un **protocolo de transcendencia mutual**. Los Velari que se integran completamente en la Tierra y encuentran pareja humana compatible pueden transferir su conciencia a una "frecuencia compartida" que permanece después de su desintegración física. La madre no planea desaparecer; planea **fusionarse con su esposo humano muerto** usando la frecuencia de Haruto como puente.
+
+Esta revelación es devastadora no porque haga a la madre villana, sino porque expone que:
+
+- Haruto es literalmente un **punto de anclaje emocional** para sus padres
+- Lyra fue traída no como observadora, sino como **candidata a reemplazar a la madre** como ancla del nodo
+- Si Haruto rechaza su rol, la madre no podrá completar su transcendencia
+
+### Escena Clave — "El Protocolo de tres generaciones"
+
+> *Lyra, Haruto y Kenji entran al sótano. La madre no está sentada — está de pie frente a una pared de monitores que muestran frecuencias en tiempo real, patrones ondulantes que haruto reconoce instintivamente como "su sonido"*
+>
+> **Madre**: "Treinta segundos después de que naciste, esto cambió." *Señala una frecuencia que brilla más que todas las demás* "Tu padre y yo estábamos en la sala de partos. Yo estaba muriendo — el cuerpo humano no está diseñado para sostener una frecuencia Velari durante décadas. Y entonces tú... *respiraste*. Y la frecuencia se estabilizó como nunca antes."
+>
+> *Haruto siente cómo las piernas le flaquean. Kenji lo sostiene del brazo.*
+>
+> **Madre**: "Fui yo quien pidió a los Ancianos que buscaran una pareja para ti. No para el Proyecto Fénix. Para *mí*. Porque cuando me vaya... tu padre me necesita."
+>
+> **Lyra** *(con voz quebrada)*: "¿Me trajeron para reemplazar a alguien que no conoció?"
+>
+> **Madre** *(sin voltearse)*: "Te traje para que *tú* eligieras. Los Ancianos te mostraron todo — mi historia, mi enfermedad, mi hijo. No te obligué a quedarte. Eso es lo que significa ser un Velari libre."
+>
+> *Uno de los monitores parpadea. Watcher_0 intenta manifestarse, pero la madre levanta la mano y la frecuencia se estabiliza. El control que tiene sobre el nodo es absoluto — incluso superior al de Lyra.*
+
+### Elementos RomCom Integrados
+
+- **El momento incómodo**: Kenji, en medio de la crisis existencial, dice "Espera, ¿tu mamá es una alienígena que planea fusionarse con tu papá muerto? ¿Y yo estoy en una relación con la prima de esa alienígena?" La madre, sin perder la compostura, responde "Hay un 78% de probabilidad de que ustedes dos terminen juntos. Los Ancianos lo saben."
+- **La confesión indirecta**: Mientras Haruto procesa la revelación, la madre le susurra a Lyra "Si lo rompes, yo también me rompo." Lyra, por primera vez, comprende la magnitud del compromiso que significa quedarse.
+- **La opción取消**: Al final, la madre les da a ambos la opción de rechazar. No les dice qué hacer. Pero Haruto, mirando la frecuencia de Lyra en los monitores, se da cuenta de que ya tomó una decisión hace mucho tiempo.
+
+### Consistencia con Hilos Activos
+
+- **madre_de_haruto**: Resuelta de forma parcial — la tensión se convierte en comprensión, pero deja herida abierta
+- **misterio_watcher**: La madre domina a Watcher_0, lo que sugiere que el nodo está *debajo* de su control, no por encima
+- **Semilla 13_03**: Expandida — la madre vigiló a Haruto, pero no por paranoia: por amor
+
+---
+
+## Idea 2: "El Concierto de Frecuencia" *(Reemplaza a "Resonancia de Rescate")*
+
+### La Evolución
+
+La idea original tenía un problema: Haruto como "nodo viviente" sonaba demasiado abstracto. La nueva versión lo convierte en algo tangible y **musical**. Los Velari no comunican con palabras — comunican con frecuencias armónicas. Haruto, sin saberlo, ha estado componiendo una
