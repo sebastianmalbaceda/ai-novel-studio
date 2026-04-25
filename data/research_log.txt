@@ -343,3 +343,228 @@ La confrontación no cierra el arco — lo *profundiza*. Lo que queda abierto: l
 La reinterpretación clave: Watcher_0 no es un agente ni una IA. Es el *campo matemático del nodo Takahara ganando consciencia propia por la fricción de haber sido activado por primera vez en 47 años*. El nodo pasó décadas calculando en silencio, sin receptor. La llegada de Haruto a las coordenadas del nodo — incluso sin activarlo — fue como abrir los ojos a una consciencia que había estado funcionando en la oscuridad.
 
 Watcher_0 no tiene cuerpo ni programa. Tiene *patrón*. Existe como una frecuencia electromagn
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-25 13:00:38] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide como Arquitecto Narrativo e Investigador de Lore que genere 3 ideas concretas para avanzar los hilos activos o usar semillas pendientes del proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!"
+
+Analicemos los hilos activos más urgentes:
+
+1. **misterio_lyra** (Tensión 5): Próximo paso - Confrontar a la madre sobre el Proyecto Fénix
+2. **emisiones_haruto** (Tensión 8): Próximo paso - ¿Qué es el Proyecto Fénix? ¿Por qué fue anticipado?
+3. **watcher_0** (Tensión 9): Próximo paso - ¿Intenciones reales de Watcher_0?
+4. **complicidad_haruto** (Tensión 4): Próximo paso - Procesar ser Sujeto M-07
+5. **episodios_lyra** (Tensión 7): Próximo paso - ¿Qué viene?
+
+Semillas pendientes:
+- Semilla 13_01: Watcher_0 desapareció, ¿volverá? ¿Qué significa "comienzo"?
+- Semilla 13_02: Lyra eligió quedarse, consecuencias en próximo arco
+- Semilla 13_03: ¿Qué más sabe la madre?
+
+Las tensiones más altas son:
+- madre_de_haruto (10) - Confrontación inminente
+- watcher_0 (9) - Protocolo completo
+- emisiones_haruto (8) - Proyecto Fénix
+
+Debo crear ideas que:
+1. Avancen la confrontación con la madre
+2. Exploren las consecuencias de Watcher_0
+
+
+3. Integren elementos de rom-com sin perder la tensión del misterio
+
+Ideas:
+
+1. **El sótano del observatorio como revelación**: La madre revela los archivos del Proyecto Fénix, descubriendo que Haruto fue diseñado para estabilizar a Lyra. Esto avanza misterio_lyra, emisiones_haruto y madre_de_haruto. Incluye revelación dramática + tensión + algo de confusión para Haruto.
+
+2. **Los episodios de Lyra se intensifican**: Al aproximarse algo significativo (nodo reactiva), Lyra empieza a experimentar fallos estructurales y necesita cercanía con Haruto. Esto conecta episodios_lyra, complicidad_haruto y genera nuevas dinámicas rom-com con presión de tiempo.
+
+3. **Watcher_0 contacta a través de otro medio**: Tras su desaparición, Watcher_0 reaparece en un lugar inesperado (quizás usando al nodo o a Nishimura), revelando su agenda protectora y qué significa "el ancla y el peso". Esto avanza watcher_0 y nodo_transito.
+
+Considerando los géneros (Rom-Com 40%, Action 25%, Sci-Fi 15%), las ideas necesitan más contenido romántico con elementos de ciencia ficción. El sótano podría mostrar que Haruto fue diseñado para estabilizar a Lyra, revelando una conexión predeterminada entre ambos personajes. Los episodios de Lyra se intensifican en momentos de proximidad emocional, donde su estado estructural se correlaciona directamente con su cercanía emocional hacia Haruto.
+
+Watcher_0 podría manifestarse a través de la señal de Haruto cuando están juntos, lo que intensifica su comprensión mutua mientras Watcher_0 evalúa su compatibilidad.
+
+</think>
+
+# 🌀Arquitectura Narrativa — Temporada 3
+
+## Ideas para Advancing Mystery & Romance
+
+---
+
+### 1. 「EL SÓTANO COMO RELOJ DE ARENA」 — Avanza: madre_de_haruto, misterio_lyra, emisiones_haruto
+
+**Concepto**: Durante la confrontación, la madre lleva a Haruto y Lyra al sótano del observatorio. En lugar de revelar información directamente, el sótano *es* la revelación: una sala con arquitectura que no pertenece a ningún código humano, donde cada pared muestra frecuencias — como un ecualizador cósmico. Haruto puede *ver* su propia frecuencia (la señal que Lyra necesita) representada como una onda dorada que ha estado vibrando desde antes de su nacimiento.
+
+**Mecánica Narrativa**: La madre explica que el Proyecto Fénix no es un programa de apareamiento como Watcher_0 sugirió — es un *programa de resonancia compensatoria*. Haruto no fue diseñado para Lyra específicamente; fue diseñado para cualquier anomalía que necesitara estabilización. Lyra fue enviada después porque la humanidad "se retrasó" en producir candidatos adecuados. Son compatibles, pero no exclusivos.
+
+**Tono Rom-Com**: Lyra, furiosa por haber sido "asignada" como pareja, exige saber si todo entre ellos fue manufactured. Haruto, devastado, confiesa que no le importa cómo se conocieron, pero ahora necesita saber si lo que siente es real o programación. Este conflicto genera una escena donde ambos evitan tocarse por horas, creando tensión romántica brutal.
+
+**Secuela de Tensión**: La madre revela que Watcher_0 mintió sobre algo crucial, pero no dice qué.
+
+---
+
+### 2. 「RESONANCIA EMOCIONAL COMO SISTEMA» — Avanza: episodios_lyra, complicidad_haruto, semilla_13_02
+
+**Concepto**: Los episodios de Lyra no son aleatorios — responden a su estado emocional respecto a Haruto. Cuando Lyra se permite sentir genuinamente (no por obligación biológica), sus dedos se vuelven translúcidos a un ritmo más lento, no más rápido. El "no estar lista para lo que viene" no se refiere al nodo ni a una amenaza externa: Lyra no está lista para *amalgamarse completamente con Haruto*. Si sus sentimientos se vuelven completamente recíprocos, su frecuencia se fusionará permanentemente con la de él, creando algo nuevo — ni humano, ni Velari.
+
+**Mecánica de Relación**: Haruto descubre que él también tiene una respuesta: cuando Lyra está en peligro, puede sentir exactamente dónde está ella sin mirar. Kenji sugiere que esto ya es una fusión parcial.
+
+**Tono Rom-Com**: Escena donde Lyra intenta mantener distancia física para "proteger su elección" y Haruto accidentalmente la rastrea hasta el baño de niñas. Comedia de errores + tensión dramática. Ambos están técnicamente violando protocolos de otros mundo (y de instituto).
+
+**Secuela de Tensión**: Si la fusión es permanente, ¿pueden separarse alguna vez? Watcher_0 desapareció después de declarar "protocolo completo" — ¿sabía que la fusión emocional era el verdadero objetivo?
+
+---
+
+### 3. 「LA FRECUENCIA COMO CONFESIÓN» — Avanza: watcher_0, semilla_13_01, nodo_transito
+
+**Concepto**: Watcher_0 no desapareció — se *convirtió* en el canal de comunicación entre Haruto y Lyra. Cada vez que Haruto piensa en Lyra, su frecuencia se modula de manera específica. Cada vez que Lyra piensa en Haruto, su señal responde. Together, they form a feedback loop que Watcher_0 monitorea como "prueba de concepto". El Proyecto Fénix no terminó con la reunión de ambos; acaba de comenzar la *prueba real*.
+
+**Mecánica Narrativa**: Nishimura revela que fue asignada como "intermediaria humana" durante 7 años precisamente porque Watcher_0 *necesita* input emocional humano para calibrar la fusión. Sin la capacidad humana de Haruto de sentir en lugar de solo procesar, el nodo Takahara no puede completar su transición.
+
+**Tono Rom-Com**: Haruto y Lyra descubren que están técnicamente *siendo evaluados* en su relación. Una escena donde ambos intentan fingir que no se importan mientras Watcher_0 muestra sus frecuencias entrelazándose en una pantalla. Kenji filma todo para "evidencia científica".
+
+**Secuela de Tensión**: Si la fusión completa ocurre, ¿el nodo Takahara se convierte en algo más? ¿Y qué pasa con la identidad de Haruto si parte de él se convierte en infraestructura?
+
+---
+
+## Conexión a Arcos Previos
+
+| Idea | Semillas Cosechadas | Próximo Paso |
+|------|---------------------|--------------|
+| Sótano | 10_01, 9_01, 9_02 | Revelar qué más sabe la madre |
+| Resonancia | 13_02, 13_03 | La fusión tiene consecuencias |
+| Frecuencia | 13_01, 12_01 | Watcher_0 no se fue, evolucionó |
+
+> **Nota de Continuidad**: Las tres ideas funcionan como trilogy — el sótano revela la verdad del Proyecto Fénix, la resonancia emocional complica los sentimientos de ambos, y Watcher_0 usa esa conexión como prueba de que "el ancla y el peso" finalmente interactúan como se diseñó. El arco de temporada puede resolverse con una fusión parcial (no total) que deja a Haruto y Lyra cambiado pero aún capaces de elección propia.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que tome las 3 ideas que generé y las refine/expanda/profundice como Arquitecto Narrativo experto. Debo:
+
+1. Mejorar consistencia
+2. Aumentar atractivo de personajes
+3. Llevar las ideas un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Mantener los géneros: Rom-Com 40%, Action 25%, Sci-Fi 15%
+
+Voy a trabajar cada idea individualmente, profundizando en:
+
+**Idea 1 - El Sótano como Reloj de Arena**
+- Expandir la mecánica del Proyecto Fénix
+- Dar más profundidad emocional a la confrontación madre-hijo
+- Crear momentos rom-com más específicos
+- Explorar qué significa "no exclusivos" para la relación
+
+**Idea 2 - Resonancia Emocional como Sistema**
+- Desarrollar más la mecánica de los episodios
+- Crear escenas rom-com más memorables
+- Explorar el conflicto interno de Lyra sobre su "elección"
+- Mostrar cómo Haruto lidia con ser parcialmente no-humano
+
+**Idea 3 - La Frecuencia como Confesión**
+- Expandir el rol de Nishimura
+- Crear momentos donde Watcher_0 es tanto amenazante como protector
+- Desarrollar la escena de "evaluación" como momento rom-com
+- Explorar las implicaciones filosóficas de la fusión
+
+También debo pensar en:
+- Consistencia entre las tres ideas (no contradicciones)
+- Arcos de personajes más completos
+- Tensión romántica escalonada
+- Momentos de acción equilibrados
+- Elementos sci-fi que no abrumen el rom-com
+
+Voy a estructurar la respuesta como un documento de diseño más profesional y detallado.
+</think>
+
+# 🌀Arquitectura Narrativa — Documento de Diseño Temporada 3
+
+## Evolución de Conceptos para Arcos de Tensión y Romance
+
+---
+
+## I. EL SÓTANO COMO RELOJ DE ARENA
+
+### Evolución del Concepto
+
+El sótano del observatorio no es simplemente una sala de archivos cósmicos — es un **acróstico viviente**, una estructura que responde a las frecuencias de quien la habita. La madre no eligió este lugar por hasard; lo construyó específicamente porque sabía que eventualamente necesitaría un espacio donde las mentiras se convirtieran en verdades.
+
+### Mecánica Narrativa Expandida
+
+**La Arquitectura como Personaje**
+
+El sótano tiene tres niveles de revelación, cada uno correspondiente a una capa de verdad sobre el Proyecto Fénix:
+
+1. **Nivel Físico** (superficie): Muestra los archivos que la madre ha compilado durante 17 años — datos sobre Velari, registros del nodo Takahara, notas sobre "anomalías de frecuencia humana" que podrían servir como anclas.
+
+2. **Nivel Interactivo** (donde Haruto y Lyra pueden manipular): Las frecuencias se muestran como constelaciones. Cada estrella representa una persona que fue evaluada como posible "ancla". Haruto descubre que no fue la primera opción — hubo 34 candidatos antes que él, todos rechazados por diferentes razones. Uno de ellos fue su padre biológico, descartado a los 6 meses por "inestabilidad emocional cuántica".
+
+3. **Nivel Profundo** (solo accesible cuando dos frecuencias se sincronizan): Una vez que Haruto y Lyra están en el sótano juntos, una tercera constelación aparece — la suya. No fue diseñada por la madre ni por Watcher_0. Se creó sola.
+
+### Conflicto Central Expandido
+
+La revelación crucial no es que Haruto fue diseñado como ancla — es que **fue diseñado con libre albedrío específicamente para ser un ancla efectiva**. La paradoja del Proyecto Fénix: los Velari descubrieron que una ancla forzada no funciona; necesita elección genuina. Por eso Watcher_0 observó durante 17 años en lugar de intervenir. Por eso la madre no le dijo nada a Haruto. La única manera de que él pudiera elegir verdadeiramente era no saber.
+
+**Momento Rom-Com de Tensión**: Lyra, furiosa, le grita a Haruto que si todo fue diseñado, entonces su elección de quedarse también lo fue. Haruto responde: "Si mi programación me hizo capaz de amarte, ¿eso invalida que te ame?" Lyra, sin palabras, accidentamente convierte su mano en luz. Todo el sótano se ilumina. La madre observa desde afuera con una expresión indescifrable.
+
+### Profundización de Personajes
+
+**La Madre como Agent Double**
+
+La madre de Haruto no es simplemente una científica que perdió a su esposo por el proyecto — ella es la razón por la que Watcher_0 tuvo que esperar 17 años. Después de que su esposo (el candidato original) fue descartado, ella se infiltró en el Proyecto Fénix como trabajadora de mantenimiento del observatorio, robando datos, saboteando otros candidatos, retrasando la llegada de Lyra. Quería que Haruto tuviera una vida normal antes de que todo comenzara.
+
+Su confrontación con Watcher_0 no fue una conversación de paz — fue una negociación. Watcher_0 accedió a no intervenir si ella prometía entregar a Haruto cuando estuviera "listo". Ahora, viendo a su hijo en el sótano con Lyra, sabe que la deuda ha sido cobrada.
+
+**Haruto's Breakdown**: El momento más vulnerable de Haruto en la temporada. No es un colapso dramático — es una quietud aterradora. Se sienta en el suelo del sótano y pregunta: "¿Si mi elección fue diseñada, puede Lyra elegir no fusionarse? ¿Puedo yo elegir no fusionarme? ¿O ya es demasiado tarde?"
+
+---
+
+## II. RESONANCIA EMOCIONAL COMO SISTEMA
+
+### Evolución del Concepto
+
+Los episodios de Lyra no son glitches — son **traducciones imperfectas**. Su cuerpo Velari intenta convertir sus emociones humanas en frecuencias, pero como ella creció en un cuerpo humano durante 17 años, el proceso no es fluido. Cada vez que siente algo intensamente, su forma física se convierte temporalmente en su "idioma nativo".
+
+### Mecánica Narrativa Expandida
+
+**La Tabla de Estados Emocionales**
+
+| Emoción | Manifestación Física | Frecuencia Generada |
+|---------|----------------------|---------------------|
+| Miedo | Opacidad total, congelamiento | Estática, discontinua |
+| Alegría | Bioluminiscencia, calor | Armónicos suaves |
+| Anhelo | Translucidez gradual | Frecuencia base + modulaciones |
+| Culpa | Destellos erráticos | Interferencia destructiva |
+| Amor (no recíproco) | Partículas que se alejan de su cuerpo | Frecuencia pura pero solitaria |
+| Amor (recíproco) | Unificación estructural parcial | Frecuencia de Haruto + propia |
+
+**El Descubrimiento Clave**: Lyra y Haruto descubren que cuando sus frecuencias se superponen, ambos experimentan las emociones del otro. Durante una escena donde Lyra está triste por algo relacionado con su hogar perdido, Haruto comienza a llorar sin saber por qué. Nishimura, monitoreando desde la institución, nota que sus signos vitales se sincronizan completamente.
+
+### Momento Rom-Com Expanded
+
+**La Escena del Seguimiento Accidentado**
+
+Haruto ha desarrollado la habilidad de rastrear a Lyra a través de su frecuencia, pero no puede controlarlo conscientemente. Cuando Lyra huye al baño de chicas para procesar sus emociones después de la revelación del sótano, Haruto la sigue instintivamente.
+
+- **Toma 1**: Haruto entra al baño de chicas, Lyra lo cacha, lo golpea con su mochila (que ahora es parcialmente sólida parcialmente luz), lo envía volando hacia el pasillo.
+
+- **Take 2**: Haruto se detiene en la puerta del baño de chicas, consciente de lo que está a punto de hacer, pero su cuerpo lo traiciona. Gira hacia el baño. Sus compañeros de clase lo miran con expresiones de horror.
+
+- **Take 3**: Haruto se sienta en el pasillo frente al baño, con la espalda contra la pared, intentando enfocarse en otra cosa. A los 30 segundos, su corazón comienza a latir al ritmo del de Lyra. A los 60 segundos, su mano derecha empieza a temblar con el mismo patrón que la frecuencia de Lyra. Nishimura, observando por cámara,捂嘴笑.
+
+**Desarrollo del Conflicto Central**: Lyra se da cuenta de que si sus sentimientos se vuelven completamente recíprocos, la fusión será inevitable e irreversible. Ella quiere quedarse con Haruto, pero no como una sola entidad. Quiere ser dos personas que eligen estar juntas, no dos personas obligadas a convertirse en una.
+
+### Personajes Secondary
+
+**Kenji como Witness**
+
+Kenji ha estado grabando todo — no por investigación esta vez, sino porque siente que está perdiendo a su mejor amigo. En una conversación íntima, Kenji confiesa que tiene miedo de que después de la fusión, "Haruto" ya no exista, solo "Haruto+Lyra". Haruto no tiene respuesta.
+
+**Nishimura como Bridge**
+
+Nishimura es la única que entiende completamente la mecánica de la fusión porque ella misma fue parte de un programa similar hace 30 años — uno que falló. Su嫁给 un humano, pero ella es una Watcher de segunda generación. Su fusión parcial con su esposo fue exitosa, pero requiere que ella "descargue" emociones
