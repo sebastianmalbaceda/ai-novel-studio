@@ -568,3 +568,211 @@ Kenji ha estado grabando todo — no por investigación esta vez, sino porque si
 **Nishimura como Bridge**
 
 Nishimura es la única que entiende completamente la mecánica de la fusión porque ella misma fue parte de un programa similar hace 30 años — uno que falló. Su嫁给 un humano, pero ella es una Watcher de segunda generación. Su fusión parcial con su esposo fue exitosa, pero requiere que ella "descargue" emociones
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-25 14:40:12] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado del proyecto:
+
+**HILOS ACTIVOS PRIORITARIOS:**
+1. madre_de_haruto - Tensión 10, confrontación inminente
+2. watcher_0 - Tensión 9, protocolo completo declarado, desapareció
+3. emisiones_haruto - Tensión 8, misterio sobre Proyecto Fénix
+4. nodo_transito - Tensión 8, relación con Proyecto Fénix
+
+**SEMILLAS PENDIENTES:**
+- Semilla 13_01: Watcher_0 desapareció después de "protocolo completo". ¿Volverá?
+- Semilla 13_02: Lyra eligió quedarse, consecuencias futuras
+- Semilla 13_03: La madre vigiló a Haruto, ¿qué más sabe?
+
+**ENFOQUE:**
+Necesito ideas que:
+- Avancen la confrontación con la madre (hilo más crítico)
+- Exploren las consecuencias de "protocolo completo" de Watcher_0
+- Mantengan el balance rom-com/acción/sci-fi
+- Sean originales, no clichés de manga/alienígena
+
+**TROPOS A EXPLORAR:**
+- Transfer student (Lyra)
+- Hidden identity (la madre, Nishimura)
+- Accidental confession (esto podría aplicarse a algo romántico)
+- Convivencia humano-alienígena (Urusei Yatsura style)
+
+Voy a crear 3 ideas que se enfoquen en:
+
+1. **Confrontación madre-Haruto-Lyra**: Revelación del Proyecto Fénix desde perspectiva emocional - la madre revela que Haruto fue diseñado para ser un ancla, pero ella lo amó como hijo y eso cambió todo.
+
+
+2. **Consecuencias del protocolo completo**: Watcher_0 no ha muerto, sino que se ha fusionado con el nodo Takahara para reactivarlo completamente. Los eventos del instituto se aceleran de manera impredecible.
+3. **Complicación romántica por la revelación**: Haruto descubre que su función como ancla biológica significa que Lyra tiene una conexión genética con él, pero esto se complica cuando ella confiesa accidentalmente que permaneció por amor, no por necesidad.
+
+</think>
+
+**IDEAS NARRATIVAS — CONFRONTACIÓN Y CONSECUENCIAS**
+
+---
+
+**IDEA 1: "El origen del ancla" — Revelación en el observatorio**
+
+La confrontación con la madre toma un giro inesperado cuando Lyra y Haruto acceden al sótano del observatorio. La madre no huye ni se defiende: simplemente abre una caja que ha guardado durante 12 años.
+
+Dentro hay un diario de investigación de hace 47 años, escrito en símbolos Velari, y una fotografía de una mujer joven que es idéntica a Lyra pero con la edad de la madre actual.
+
+*Detalle técnico único:* La madre revela que fue parte de una misión Velari para establecer un ancla humana de referencia — alguien cuya frecuencia fuera tan estable que pudiera servir como modelo para futuras Integradas. Pero cuando ella se integró físicamente como humana y tuvo a Haruto naturalmente, ocurrió algo inesperado: el ancla no se "creó" artificialmente, sino que nació orgánicamente. Haruto no fue diseñado para Lyra. Lyra fue diseñada para Haruto.
+
+Esto explica por qué Watcher_0 los llamó "Target 001 y 002" — ambos fueron parte del mismo diseño original, pero de lados opuestos: ella como peso, él como ancla.
+
+*Aplicación Tropo:* La madre es una "hidden identity" de doble capa: no solo alienígena, sino también científica creadora de ambos personajes. Haruto se enfrenta a que su existencia fue anticipada no por Watcher_0, sino por su propia madre cuando ella aún era Velari.
+
+---
+
+**IDEA 2: "Protocolo de convergencia" — Reactivación del nodo Takahara**
+
+Watcher_0 no ha "desaparecido" después de declarar el protocolo completo. El usuario anónimo del Discord está activo una última vez, enviando un mensaje críptico: "La frecuencia converge. Estadio 3 aktiviert."
+
+El nodo Takahara comienza a reactivarse. Pero no de la forma que esperaban: no hay invasores ni ejército. En cambio, el edificio A del instituto empieza a cambiar sutilmente — las puertas se alinean geométricamente de forma antinatural, los pasillos seem to follow a pattern that wasn't there before, y los estudiantes que cruzan ciertos puntos del pasillo quedan brevemente paralizados por exactamente 3 segundos antes de continuar, sin recordar nada.
+
+*Detalle técnico único:* El nodo está creando un "buffer de convergencia" — un área donde la realidad se estabiliza gradualmente para recibir algo que viene. El problema: solo funciona mientras Haruto y Lyra estén juntos en el instituto. Si se separan, el proceso se interrumpe y algo mucho peor intentará forzarse.
+
+*Aplicación Tropo:* El concepto de "stay close to your partner" de romances de instituto se convierte en literal: Haruto y Lyra literalmente no pueden alejarse mucho sin riesgo de que la convergencia falle. Esto genera situaciones cómicas (Lyra siguiendo a Haruto al baño) y dramáticas (si uno necesita huir en un arco de acción).
+
+---
+
+**IDEA 3: "La confesión no intencionada" — Complicación romántica**
+
+Lyra, presionada por la situación, intenta explicar por qué realmente eligió quedarse después de que la necesidad biológica se resolvió. Intenta usar la lógica Velari: "Mi análisis indica que el bienestar estructural de [Haruto] es un factor que supera mis parámetros de optimización individual."
+
+Haruto, confundido, pregunta: "¿Lyra... estás intentando decirme que...?"
+
+Kenji, que ha estado callado todo este tiempo, pierde la paciencia: "Dile que la amas en lenguaje normal, Lyra. Los humanos no descodificamos binario."
+
+Lyra se queda en blanco literal. Es la primera vez que usa la palabra "amor" porque su idioma Velari no tiene equivalente directo — tiene 47 palabras diferentes para tipos de conexión, pero ninguna que Signifique exactamente lo mismo.
+
+*Detalle técnico único:* Aquí es donde la ciencia de frecuencias entra de forma romántica: Lyra confiesa que cuando Haruto se acerca, su frecuencia personal se "sincroniza" con la de él, y este estado de sincronía le produce una sensación que solo ocurre con Haruto. No tiene nombre en su idioma, pero en términos humanos significa exactamente eso.
+
+*Aplicación Tropo:* El clásicotropo "accidental confession" mezclado con "language barrier" da un giro tierno y cómico. Este momento divide la audiencia entre los que celebran y los que gritan "¡MAMELUCA!" (si esto fuera anime). También establece que la conexión Haruto-Lyra trasciende la biología — ambos eligieron quedarse, pero ahora queda claro que Lyra eligió quedarse por Haruto, no por la señal.
+
+---
+
+**NOTA DE IMPLEMENTACIÓN:** Las tres ideas funcionan como una secuencia natural: la primera revela el origen de ambos personajes y establece stakes personales, la segunda crea presión externa que los obliga a permanecer juntos, y la tercera satisface el arco romántico mientras planta semillas para el arco futuro (si la convergencia falla sin Lyra, ¿qué pasa?).
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que refine, expanda y profundice en las tres ideas narrativas que proporcioné anteriormente. Debo:
+
+1. Mejorar la consistencia
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas más allá
+4. Basarme en los géneros objetivo (rom-com/acción/sci-fi)
+5. No repetir textualmente, sino evolucionar
+
+Analizo las tres ideas:
+
+**IDEA 1: "El origen del ancla"**
+- La madre como científica Velari que creó a ambos
+- Haruto como ancla biológica natural
+- Lyra diseñada para Haruto
+- Target 001 y 002
+
+Necesito profundizar:
+- ¿Por qué la madre eligió STAY como humana si era Velari?
+- ¿Qué代价 pagó por esta elección?
+- ¿Cómo influye esto en la dinámica madre-hijo ahora que se revela la verdad?
+- ¿Qué significa esto para la confrontación?
+
+**IDEA 2: "Protocolo de convergencia"**
+- Nodo Takahara reactivándose
+- Estudiantes con parálisis de 3 segundos
+- Buffer de convergencia
+- Haruto y Lyra forzados a estar juntos
+
+Necesito profundizar:
+- ¿Qué viene realmente? ¿Cuál es el objetivo final de la convergencia?
+- ¿Quién/qué está esperando del otro lado?
+- ¿Qué pasa si se separan? ¿Cuál es el "peor escenario"?
+- ¿Cómo afecta esto a los personajes secundarios?
+
+**IDEA 3: "La confesión no intencionada"**
+- Lyra usando lenguaje técnico para expresar amor
+- Kenji como catalizador cómico
+- Sincronización de frecuencias como metáfora romántica
+
+
+- Conflicto entre elección y biología en la conexión de Lyra
+
+Debo desarrollar las motivaciones de Lyra: ¿realmente eligió a Haruto o fue condicionada por su diseño? Esto añade ambigüedad moral y profundiza su arco hacia la autoconciencia. También necesito explorar qué sacrificios implican estas revelaciones para la madre, Haruto y Lyra, y qué significa que la sincronización sea una característica biológica que Lyra apenas comienza a comprender sobre sí misma.
+
+Considero añadir dimensiones de género: la madre representa un papel de figura materna complex que trasciende las categorías simples, Lyra se mueve entre lo alienígena y lo humano con sus propias contradicciones, y Haruto enfrenta su papel como ancla biológica. También planteo preguntas narrativas que podrían explorarse en episodios futuros: ¿la madre sacrificó algo de sí misma para quedarse?, ¿Watcher_0 podría ser una versión alternativa de la propia madre?, ¿existen otros "Target" más allá del 001 y 002? Estas posibilidades ofrecen ganchos para desarrollar la mitología sin cerrarla completamente.
+
+Conecto los elementos técnicos de manera que funcionen juntos. La frecuencia de Haruto es biológicamente estable y puede actuar como ancla, lo que permite que Lyra se sincronice con ella y modifique su propia estructura. El nodo Takahara amplifica esta resonancia, y cuando Watcher_0 completó su protocolo, aceleró la convergencia. Sin Haruto y Lyra juntos, el sistema falla. Planteo también un villano que usa frecuencias como herramienta narrativa para mantener la coherencia del mundo.
+
+Considero dos direcciones para este antagonista: uno cósmico que requiere ambos elementos (ancla y peso) para manifestarse, o uno humano que busca apropiarse de la frecuencia de Haruto. Esta segunda opción es más interesante porque permite explorar el concepto de frecuencias desde un ángulo completamente nuevo.
+
+</think>
+
+**REFINAMIENTO NARRATIVO — ITERACIÓN 2**
+
+---
+
+## REFINAMIENTO 1: "EL ORIGEN DEL ANCLA" — PROFUNDIZACIÓN DEL ARCO MATERNO
+
+### El problema con la revelación simple
+
+La idea original funciona como *plot twist*, pero carece de **consecuencia emocional sostenida**. Si la madre simplemente abre una caja y explica que diseñó a ambos, el momento pierde impacto. Lo que necesitamos es que **la revelación destruya la imagen que Haruto tenía de su madre**, forcing him to reconfront todo su infancia a través de esta nueva lente.
+
+### Evolución: La madre como científica *arrepentida*
+
+La madre no es solo una científica Velari. Es **Nishimura Yuki**, una lingüista xenolingüista que fue reclutada hace 47 años cuando su investigación sobre patrones de comunicación no-humanos llamó la atención de una facción Velari que buscaba establecer anclas biológicas discretas en la Tierra.
+
+Lo que ella **no sabía** era que el proyecto original tenía dos fases:
+
+- **Fase 1:** Establecer un ancla biológica humana (Haruto) que pudiera servir como punto de referencia estable para futuras Integradas.
+- **Fase 2:** Crear una Integrated específicamente diseñada para resonar con esa frecuencia ancla, para que cuando ambas频率 convergieran, se pudiera activar un "protocolo de extracción" que transportaría tanto al ancla como a la Integrated a un punto de convergencia cósmico donde su energía combinada alimentaría... algo. La madre nunca supo qué.
+
+Cuando Yuki descubrió esto, ya estaba embarazada naturalmente de Haruto. Ella *elige* no abortar. Elige quedarse. Yuki *sabotea su propia misión* alinker al ancla que ella misma ayudó a crear, ensuring que la Fase 2 nunca pudiera completarse sin su cooperación — porque una madre earth-born no puede extraer a su propio hijo.
+
+**Esto es el verdadero *mago blanco* de la madre:** no fue una víctima del sistema. Tomó una decisión activa, y esa decisión es lo que ha atormentado a Watcher_0 durante 47 años.
+
+### Nuevo detalle técnico: La sincronización es reversible
+
+Ahora que Lyra y Haruto están sincronizándose naturalmente, existe el riesgo de que Watcher_0 o cualquier entidad interesada pueda **desacoplar** su frecuencia para usarlos por separado. La madre tiene un dispositivo que ella misma diseñó: un **"inhibidor de sincronía"** que mantiene sus frecuencias divergentes, lo que explica por qué Lyra nunca pudo acercarse completamente a Haruto cuando era niña.
+
+La confrontación ahora tiene un momento de clímax: **Haruto debe decidir si quiere mantener el inhibidor desactivado (y crecer más cerca de Lyra, pero también ser más vulnerable a la extracción) o reactivarlo.**
+
+Esto transforma la relación Haruto-Lyra de "naturalmente destinados" a "elección activa con consecuencias", que es mucho más satisfactorio narrativamente.
+
+---
+
+## REFINAMIENTO 2: "PROTOCOLO DE CONVERGENCIA" — EL VILLA NO ES WATCHER_0
+
+### El problema con la idea original
+
+Hacer que Watcher_0 sea el antagonista principal es **demasiado simple**. Ya establecimos que Watcher_0 es un agente leal a su protocolo. Lo interesante es que Watcher_0 técnicamente *no es el villano* — es una función.
+
+El verdadero antagonista debe ser **algo que quiere usar la convergencia para sus propios propósitos**.
+
+### Evolución: El Consejo de Frecuencia Resonante
+
+Existe una facción dentro de la sociedad Velari que no quiere la convergencia natural — quieren **forzarla**. Su argumento: si los humanos e Integradas van a convergir eventualmente de forma natural, ¿por qué esperar? ¿Por qué no acelerar el proceso y controlar quién se convierte y cuándo?
+
+El Consejo de Frecuencia Resonante (CFR) ha enviado a un agente infiltrado en la Tierra. Este agente ha estado manipulando eventos durante años: **es alguien que Haruto y Lyra conocen**.
+
+**Oportunidad narrativa para arco de secundario:** Una figura de autoridad en la vida de Haruto — el director del instituto, un profesor influyente, o incluso **Kenji** bajo una identidad falsa — es en realidad un agente del CFR. Su objetivo no es destruirlos, sino separarlos gradualmente para que cuando llegue el momento de la convergencia forzada, ambos estén en posiciones donde el CFR pueda controlarlos.
+
+El estudiante invisible que Lyra detectó en la primera emisión no es Watcher_0. Es el agente del CFR, que ha estado monitoreando a Haruto **desde antes de que Lyra llegara**.
+
+### Nuevo detalle técnico: Los 3 segundos de parálisis
+
+La parálisis de 3 segundos no es aleatoria. Cada vez que un humano pasa por un "punto de convergencia" sin estar sincronizado con una Integrated, queda brevemente conectado a la **red de resonancia residual** que dejó la misión Velari de hace 47 años.
+
+Durante esos 3 segundos, el humano no recuerda nada, pero su frecuencia personal queda **etiquetada**. El CFR está mapeando todas las frecuencias humanas dentro de un radio de 500 metros del instituto. Cuando tengan suficientes datos, podrán predecir exactamente cuándo y dónde ocurrirá la próxima convergencia natural, y interceptarla.
+
+**Esto convierte la escuela en un campo de batalla silencioso:** cada pasillo es un punto de vigilancia, cada puerta una potencial zona de captura. Haruto y Lyra no solo tienen que estar juntos — tienen que estar juntos **sin ser detectados**.
+
+### Implicación romántica
+
+Esta dinámica obliga a Haruto y Lyra a desarrollar formas **no-verbales** de comunicación y colaboración. No pueden simplemente caminar juntos por el pasillo — eso los hace obvios. Tienen que aprender a sincronizar sus movimientos, a anticipar dónde estará el otro, a cubrirse mutuamente.
+
+Esto satisface el tropo "stay
