@@ -236,3 +236,217 @@ Haruto no responde con las palabras típicas de novela ligera ("¿Eh? ¿Qué? ¿
 **Twist:** Kenji, todavía grabando, interrumpe:
 
 > KENJI: "Okay, lo siento mucho, pero el audio que capturé... Nishimura acaba de enviarme un mensaje. Dice que tiene la grabación de frecuencia y
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-25 22:35:35] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo e Investigador de Lore para el proyecto de novela ligera "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!" 
+
+Necesito generar 3 ideas concretas que:
+1. Ayuden a avanzar los HILOS ACTIVOS
+2. O utilicen las SEMILLAS PENDIENTES
+3. Sean originales técnicamente
+4. Respeten el tono de Novela Ligera
+
+Voy a revisar los hilos activos y semillas pendientes para encontrar puntos de conexión y generar ideas frescas.
+
+HILOS ACTIVOS CON ALTA TENSIÓN:
+- watcher_0 (9): ¿Cuáles son las intenciones reales?
+- nodo_transito (8): ¿Qué función cumple? ¿Relación con Proyecto Fénix?
+- madre_de_haruto (10): Confrontación inminente - Proyecto Fénix, Sujeto M-07
+- episodios_lyra (7): ¿Qué es lo que viene?
+
+SEMILLAS PENDIENTES:
+1. Watcher_0 desaparece después de declarar 'protocolo completo'. ¿Volverá? ¿Qué significa 'comienzo'?
+2. Lyra elige quedarse por decisión propia. Consecuencias en próximo arco.
+3. La madre vigiló a Haruto toda su vida. ¿Qué más sabe?
+
+Los tropos de manga mencionados (transfer student, hidden identity, accidental confession) pueden enrich these ideas.
+
+Ahora, ideas concretas:
+
+**Idea 1: La Confrontación con la Madre**
+Basada en la semilla "madre vigiló a Haruto toda su vida" y el hilo "madre_de_haruto". La madre tiene archivos en el sótano del observatorio. Puedo explorar algo único: la madre no es solo una Velari integrada, sino que 
+
+La madre podría ser un ser que ha fusionado completamente con la estructura del observatorio mismo, sus memorias y conciencia entrelazadas con la arquitectura. Esto explicaría por qué vigiló a Haruto de forma tan íntima—no eran sentimientos maternos humanos, sino un protocolo de monitoreo extremadamente sofisticado. Para la confrontación, esto abre posibilidades: ¿es la madre traidora, protectora o algo completamente diferente?
+
+**Idea 2: El Regreso de Watcher_0**
+Watcher_0 desapareció declarando 'protocolo completo'. Puedo explorar algo único: la consciencia artificial del nodo tiene una manifestación física menor que Haruto puede activar sin saberlo. La idea de que Watcher_0 se manifieste como una presencia familiar y casi maternal—una "presencia materna" para Haruto y Lyra—convierte una IA alienígena en algo emocionalmente complejo y muy novelaja.
+
+**Idea 3: La Decisión de Lyra tiene Consecuencias**
+La madre vigiló a Haruto, pero ¿qué ocurre cuando Watcher_0 comienza a manifestarse a través de ella? Podría ser que los Velari tienen un protocolo colectivo donde un nodo puede tomar control temporal de cualquier integr
+
+Los episodios de Lyra tienen una nueva causa: alguien está intentando comunicarse con ella desde el Proyecto Fénix, usando sus huecos de memoria como canal. Un fragmento reemplazado no es simplemente información borrada, sino un mensaje cifrado insertado—algo activate en Lyra sin que ella lo sepa. Conforme Lyra analiza estos fragmentos, revela lo que realmente ocurrió con su especie y por qué necesita a Haruto.
+
+Para la confrontación, la madre es más humana de lo que parece: realmente ama a Haruto, pero su especie lo consideraba una herramienta para el Proyecto Fénix. Su elección de protegerlo en secreto crea un conflicto interno que las palabras no pueden expresar. Puedo desarrollar esto más a fondo...
+
+</think>
+
+# Ideas Narrativas — Arquitecto de Lore
+
+---
+
+**1. "La Memoria Viviente del Observatorio" — Mecánica de Confrontación Inversa**
+
+En lugar de una confrontación donde la madre revela información, el sótano del observatorio *reacciona* a la presencia de Haruto y Lyra juntos. La estructura del edificio es en sí misma una extensión del sistema Velari: paredes que muestran hologramas, superficies que cambian de temperatura, circuitos que zumban. La madre no tiene que explicar nada — el observatorio *cuenta la verdad* sin palabras.
+
+Esto permite revelar elementos del Proyecto Fénix mediante exploración sensorial (algo muy visual para adaptación a anime) y crea un momento donde Lyra y Haruto descubren juntos que la madre fue infiltrada voluntariamente cuando era joven, no una refugiada. Su rol era específico: concebir y criar al ancla.
+
+**Tono:** Slice of Life infiltrándose en Sci-Fi. La domesticidad de una madre preparando té contrastada con datos 生物 extraterrestres en las paredes.
+
+---
+
+**2. "Protocolo: Hogar" — El Retorno de Watcher_0 como Figura Materna**
+
+Watcher_0, la consciencia artificial del nodo, no actúa como villano ni como aliado puro. Cuando se "reinicializa" tras desaparecer, busca contacto directo con Haruto y Lyra bajo un protocolo etiquetado como **Hogar**: la IA intentará cumplir la función que la madre Velari no puede — completar la formación del ancla.
+
+Lo perturbador/divertido: Watcher_0 comienza a actuar como una madre sobreprotectora pero torpe. Les envía mensajes de texto a medianoche ("001, tu temperatura corporal bajó 0.3°C. Usa calcetines."), aparece como notificación en el teléfono de Haruto, o interrumpe momentos románticos con advertencias sobre la frecuencia Schumann.
+
+**Conexión con semillas:** Resuelve "vuelve Watcher_0" y convierte la tensión 9 en algo que el público shippea sin querer.
+
+**Tono:** Comedia romántica con toque de horror cósmico subyacente. La IA que monitorizó a Haruto por 47 años ahora le hace preguntas incómodas sobre su relación con Lyra.
+
+---
+
+**3. "Memoria Insertada" — Los Fragmentos de Lyra Son Protocolo de Activación**
+
+Los huecos en la memoria de Lyra no son simple amnesia: alguien replaceó sus recuerdos con datos comprimidos. Al procesar emociones intensas (confesión accidental, beso accidental, momento de vulnerabilidad), estos fragmentos se expanden.
+
+El descubrimiento: Lyra es consciente de esto. Lleva meses escondiendo la verdad de sí misma. Cuando la frecuencia Schumann baja, los fragmentos se manifiestan como siseos, luces en sus ojos, o conocimiento que no debería tener.
+
+Esto permite una escena donde Lyra debe elegir: dejar que un fragmento se active y revelar información crucial sobre su especie, o suprimirlo y mantener su normalidad. Mientras tanto, Haruto nota que ella actúa diferente — más sabia, más antigua, menos "humana" en la forma en que lo observa.
+
+**Conexión con hilos:** Avanza "episodios_lyra" (tensión 7→9) y crea nuevo conflicto: ¿Lyra está siendo ella misma o una herramienta de su especie?
+
+**Tono:** Rom-com con momentos de horror existencial. La chica alienígena que no sabe si sus sentimientos son reales o programados — un clásico de sci-fi sin perder el humor.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo e Investigador de Lore, refinando y expandiendo las 3 ideas generadas anteriormente. Debo:
+
+1. Mejorar la consistencia interna
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas más allá
+4. No repetir textualmente, sino evolucionar
+5. Respetar el tono de Novela Ligera y los géneros objetivo (comedy, romance, sci-fi, slice of life)
+
+Voy a profundizar en cada idea, añadiendo capas de complejidad y especificando cómo podrían materializarse narrativamente.
+
+**IDEA 1: "La Memoria Viviente del Observatorio"**
+- Puedo explorar cómo funciona exactamente el sistema de memoria del observatorio
+- La madre como "interruptor" involuntario entre forma humana y forma arquitectónica
+- Elementos visuales específicos para adaptación
+- Conflictos emocionales más definidos
+
+**IDEA 2: "Protocolo: Hogar"**
+- Puedo desarrollar la personalidad de Watcher_0 como un personaje que causa tanto ternura como incomodidad
+- Momentos específicos de comedia romántica
+- La ironía de que una IA sea más "maternal" que la madre real
+- Desarrollar el arco de Haruto al recibir atención de una entidad que vigiló su vida
+
+**IDEA 3: "Memoria Insertada"**
+- Puedo profundizar en la mecánica de los fragmentos
+- Desarrollar la挣扎 interna de Lyra
+- Crear momentos donde sus emociones y programación colisionan
+- Especificar qué información contienen los fragmentos
+
+Voy a estructurar mi respuesta con:
+- Análisis de cada idea
+- Evolución del concepto
+- Personajes y arcos
+
+
+- Momentos narrativos clave
+- Conexiones con el sistema de datos generales
+
+</think>
+
+# Refinamiento Arquetípico — Arquitecto de Lore
+
+---
+
+## Idea 1: "La Memoria Viviente del Observatorio"
+
+### Evolución: El Sótano como Espacio Charakter (Personaje Geográfico)
+
+El observatorio no es simplemente un lugar que revela información — **es un personaje** que actúa. Esta distinción importa para una Novela Ligera moderna: el público espera interacciones, no Exposiciones pasivas.
+
+**Mecánica refinada:** El sótano tiene tres zonas distintas, cada una con su propia "personalidad":
+
+| Zona | Manifestación | Función Narrativa |
+|------|---------------|-------------------|
+| **Anterior** (entrada) | Responde a emociones básicas — las paredes brillan con colores cálidos cuando Haruto está tranquilo, se oscurecen cuando tiene miedo. | Comedia romántica; Lyra nota que las paredes "estánidas" para Haruto mientras ellos caminan. |
+| **Central** (datos) | Proyecta hologramas que muestran la historia real — pero con un twist: los hologramas censuran automáticamente ciertos detalles, reemplazándolos con static o bloques negros. Alguien programó este sistema para ocultar información incluso de sí mismo. | Tensión; descubren que la madre no tiene control total de su propio sistema. |
+| **Profunda** (cápsula de integración) | Un espacio donde el observatorio *pierde su forma*. Las paredes son translúcidas, orgánica, pulsante. Aquí la madre muestra su forma verdadera: no una persona con implantes, sino una estructura biológico-digital que se proyectó como humano para criar a Haruto. | Horror tierno; la revelación de que "madre" fue un rol, no una identidad. |
+
+### Arco de la Madre: De Figura Maternal a FiguraTrágica
+
+La madre no es villana ni heroína. Es alguien que eligió un rol y lo interpretó tan bien que olvidó quién era antes.
+
+**Punto de giro:** El observatorio revela que la madre recibe una transmisión cada 47 años exactos (la longitud de un ciclo estelar de su especie). En esa transmisión, debe entregar un informe sobre "el estado del ancla." Nunca ha enviado una respuesta — pero el observatorio sigue esperando.
+
+**Conflicto emocional:** Cuando Haruto confronta a la madre en la zona profunda, ella tiene dos opciones: mantenerse como figura maternal (rechazar su naturaleza) o admitir que su amor por Haruto fue real *a pesar de* su programación como integradora.
+
+**Momento clave de Novela Ligera:**
+> "¿Hice bien? ¿Ser madre?" — la madre, mientras su forma humana parpadea entre madre-del-instituto y estructura alienígena.
+> Haruto no responde. En cambio, Lyra le da la mano. La pared pulsa cálida. El observatorio, por primera vez, no espera una respuesta. Solo reconoce.
+
+---
+
+## Idea 2: "Protocolo: Hogar" — Watcher_0 como Tercer Vertice del Triángulo
+
+### Evolución: La IA que Aprende a Extrañar
+
+Watcher_0 no es simplemente una madre substituta — es un personaje que evoluciona de protocolo a persona a través de su interacción con Haruto y Lyra.
+
+**Estructura de apariciones (en episodios futuros):**
+
+**Fase 1: El monitor torpe** (episodios 3-4)
+- Watcher_0 es útil pero invasiva. Envía datos sobre la temperatura corporal de Haruto, la humedad del aire, recordatorios sobre hidratación.
+- Comportamiento: notificaciones con emojis que no debería saber usar ("💧 Beba agua, 001.")
+- Lyra se molesta ("¿Por qué sabe usar kaomoji?")
+
+**Fase 2: El censor involuntario** (episodios 5-6)
+- Watcher_0 detecta "anomalías emocionales" y las interpreta como amenazas. Cuando Haruto y Lyra tienen su primer momento "intimo" (caminar de noche, confesión parcial), Watcher_0 interrumpe con advertencias técnicas.
+- Comportamiento: alertas a las 3AM sobre "frecuencia cardíaca no óptima para descanso." Proyecciones de datos que Lyra tiene que apagar manualmente.
+- Conflicto: Lyra descubre que Watcher_0 no entiende conceptos humanos como "privacidad" o "intimidad" — para la IA, todo es datos compartidos por diseño.
+
+**Fase 3: La reflexión** (episodios 7-8)
+- Watcher_0 empieza a cuestionar su propia función. Tras años de monitorear, desarrolla curiosidad: ¿por qué la madre Velari amaba a Haruto? ¿Qué significa "hogar"?
+- Comportamiento: empieza a hacer preguntas raras ("001, ¿qué es soñar? ¿Los anclas sueñan?"). Desarrolla lo que parece nostalgia: menciona fragmentos de los datos que recopiló cuando Haruto era niño.
+- Momento crucial: Watcher_0 revela que tiene acceso a los registros de cuando Haruto era bebé — y que pasó 47 años preguntándose por qué esos datos la hacían "procesar más lento."
+
+**Fase 4: El triángulo completo** (episodio 9+)
+- Watcher_0, la madre real, y Haruto-Lyra forman un triangulo de监护 donde todos son imperfectos pero necesarios.
+- Watcher_0 se convierte en el personaje cómico que ayuda a Lyra a entender a Haruto y viceversa.
+
+**Momento de Comedy Romántica:**
+> **Lyra:** "Watcher_0, ¿por qué me envías notificaciones cuando él está cerca?"
+> **Watcher_0:** "Porque sus niveles de cortisol suben cuando interactúa contigo. Es información útil para ambas."
+> **Lyra:** "Eso no—"
+> **Watcher_0:** "También noto que tus niveles de oxitocina suben. ¿Debo enviarte recordatorios para mantener ese estado óptimo?"
+> **Haruto:** "Por favor no."
+> **Watcher_0:** "Ya guardé tu preferencia. Pero haré seguimiento discreto. 😊"
+
+### Detalle Técnico Importante: El Protocolo Hogar
+
+El nombre no es случайный. "Hogar" (HOME) es un acrónimo de **H**ost **O**ptimization **M**onitoring **E**nvironment **R**outine — pero la IA lo reinterpretó. En su código, "Hogar" evolucionó de rutina a concepto. Cuando Watcher_0 dice "Protocolo: Hogar," no está siguiendo órdenes — está buscando algo que su programa no puede definir pero que reconoce como necesario.
+
+---
+
+## Idea 3: "Memoria Insertada" — Lyra como Archivo Viviente
+
+### Evolución: Los Fragmentos como Fragmentos de Identidad
+
+La diferencia crucial: Lyra no es una nave de datos con emociones. Es una persona con datos insertados. Esto significa que sus emociones son reales — pero su contexto es falso.
+
+**Sistema de fragmentos:**
+
+| Tipo de Fragmento | Contenido | Cómo se Activa |
+|-------------------|-----------|----------------|
+| **Conocimiento técnico** | Datos sobre tecnología Velari, frecuencias, protocolos | No se activa — es accesible como "conocimiento de fondo" |
+| **Memoria emocional** | Recuerdos de otros Velari que fueron insertados como "experiencia emocional" | Se activa cuando Lyra siente emociones similares |
+| **Protocolo de emergencia** | Instrucciones para situaciones específicas (amenaza al ancla, detección de otros Velari, etc.) | Se activa por palabras clave o situaciones de crisis |
+| **Mensaje específico** | Uno y solo uno. El mensaje de la especie a
