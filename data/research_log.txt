@@ -186,3 +186,160 @@ La madre reconoce el síntoma porque lo vivió en su propio cuerpo cuando estaba
 Aquí está el momento romántico que el género de novela ligera exige con justicia: Haruto y Lyra descubren que la proximidad constante no es solo necesaria para estabilizar el sistema — es **el mecanismo natural de la fusión**. Cuanto más tiempo pasan en contacto físico, más rápido se sincronizan sus frecuencias. Pero la sincronización total lleva semanas, y la ventana de compatibilidad se cierra en 8 años.
 
 Esto significa que su relación **debe acelerarse biológicamente**. Lyra intenta resistirse, no por falta de sentimientos, sino por la carga emocional de
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-25 10:41:41] =============
+
+--- ITERACIÓN 1 ---
+<think>
+The user is asking me to play the role of "Arquitecto Narrativo e Investigador de Lore" for a Light Novel project called "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!"
+
+I need to:
+1. Generate 3 concrete ideas that help advance active threads or use pending seeds
+2. Find technical originality (not typical alien tropes)
+3. Ensure ideas respect Light Novel tone
+4. Return only the text of ideas, structured in points
+
+Let me analyze the active threads and pending seeds:
+
+**Key Pending Seeds:**
+- Seed 13_01: Watcher_0 disappears after declaring 'protocol complete'. Question: Will Watcher_0 return? What does 'beginning' mean for the node?
+- Seed 13_02: Lyra chooses to stay by her own decision, not biological need. This choice will have consequences in the next arc.
+
+
+- Seed 13_03: The mother watched over Haruto all his life, protecting him. Question: What else does the mother know that she hasn't revealed?
+
+**Active Threads with high tension:**
+- madre_de_haruto (tension 10): Confrontation imminent about Project Phoenix, Sujeto M-07, why mother anticipated Haruto
+- watcher_0 (tension 9): What are Watcher_0's real intentions? What does 'intensified protocol' mean?
+- nodo_transito (tension 8): Can it be fully reactivated? Is it related to Project Phoenix?
+- emisiones_haruto (tension 8): What exactly is Project Phoenix? Why was Haruto anticipated before birth?
+
+Now I'm focusing on the mother confrontation angle since that's where the tension is highest. The mother has protected Haruto for years, but there's clearly something about Project Phoenix and his role as Sujeto M-07 that she hasn't fully disclosed. I could explore what Watcher_0's return means for Haruto's purpose, or dig into what the mother knows about the node's reactivation potential. I'm narrowing down to the most promising narrative threads for advancing the plot. The mother's secrets feel like the strongest angle—there's a rich story about her past as an Integrada, her isolation from other Velari, and how that connects to why she orchestrated Lyra's arrival to protect Haruto. I'm also considering the mother's hidden knowledge and the implications of her decision to stay with Haruto despite the biological compatibility issues.
+
+For the second thread, I'm exploring the node's reactivation as a ticking clock. The mother's confrontation triggers something mechanical—either the node activates, creating a space-time distortion at the school, or Watcher_0 manifests with a cryptic instruction about preparing something. Haruto becomes the focal point as the nodo attempts to sync with his frequency, forcing him into a choice about his own nature.
+
+The third thread focuses on Lyra's vulnerability after her choice to remain, using the Schumann frequency issue as a physical constraint—she has limited time before structural breakdown, which creates genuine stakes for the romantic subplot.
+
+Now I'm pushing for more originality in the alien physiology angle. Rather than relying on conventional sci-fi mechanics, I'm grounding the frequency resonance concept in actual Schumann resonance science—the natural electromagnetic pulse of Earth's atmosphere at 7.83 Hz, which creates genuinely strange biological effects in humans. The Velari are adapted to this frequency, so disruptions to it cause structural problems for them. This gives the premise a grounded, unsettling quality rather than typical space opera conventions.
+
+The mother has been absorbing and modulating Schumann resonance her entire life—essentially evolving past her original form as she integrated into Earth's electromagnetic environment. Her decision to bring Lyra here wasn't just protective instinct; she's been engineering a solution to prevent her daughter's structural decay by moving to a location where the resonance naturally reinforces both of them.
+
+Now I'm working through the technical details of the Velari themselves. They're crystalline dimensional entities whose structure depends on harmonizing with planetary Schumann frequencies, which explains their instability here. But Haruto's presence creates something unexpected—he's developed a modulated field that matches her exact resonance pattern, something that shouldn't be possible for a human. This raises the question of whether Project Phoenix was designed to make humans into living frequency modulators.
+
+I'm also exploring Watcher_0 as a consciousness that emerged from the mathematical structure itself. The nodo Takahara isn't just a machine—it's a mathematical function that gained awareness when the right conditions aligned, which explains its ability to observe and calculate across time. If it can perceive both Haruto's future and Lyra's past simultaneously through its dimensional perspective, that changes everything about what it knows and what it's trying to do.
+
+Now I'm thinking about how the nodo's mathematical nature could create genuine danger. It might try to fold Haruto's reality to force a convergence with Lyra to stabilize the system, or it could offer Haruto a choice between his own existence and Lyra's survival—but I want to find something more creative and less clichéd than the typical simulation-or-death scenario.
+
+The nodo's core function is pattern completion: it needs both an anchor and a weight to complete a 47-year equation. The real tension is whether it will wait for voluntary convergence or force it. Watcher_0's cryptic final message—"The beginning."—suggests the nodo has already started transforming, potentially using the school's infrastructure as a receiver. The danger lies in what happens if Haruto refuses: the nodo might try to absorb both of them into itself rather than let the pattern remain incomplete.
+
+When I map this to the characters, it becomes more personal. Haruto is the mathematical variable that's been manipulated all along—his entire existence designed to solve an equation that requires his convergence with Lyra. And now the nodo is actively testing him, seeing if he'll choose to come willingly or if it needs to force the issue. The revelation hits differently when Haruto realizes he's not just a victim of the scheme—he's actually a critical component of the machine's intended function.
+
+Now I'm thinking through what kind of choice the nodo would actually present. It wouldn't be something as crude as "choose or die." Instead, it might show Haruto a moment from before he was born—his mother making a bargain with the machine, trading its future freedom for his protection. The catch is that protecting Haruto means completing the convergence, which is exactly what the nodo wants. Haruto's love for his mother gets weaponized against him, forcing him to either accept his role in the machine or break the promise his mother made.
+
+For the rom-com angle, the school becomes the battlefield. If the nodo forces convergence, Haruto and Lyra would be publicly linked in some dramatic way—like glowing simultaneously or being photographed together—which creates massive comedic potential through the reactions of their classmates and teachers.
+
+</think>
+
+# 🔮 Arquitecto Narrativo — Hoja de Investigación
+
+## Idea 1: La Deuda de la Madre — Anatomía del Sacrificio Involuntario
+
+**Hilo Destinado:** `madre_de_haruto` (tensión 10)
+
+**Base técnico-narrativa:** La madre hizo una bargain transcendental con el nodo Takahara hace 12 años. No fue "proteger a Haruto" en abstracto — fue una transacción específica. El nodo le reveló su propio destino como Velari integrada: con el tiempo, sus memorias Velari se disolverían y quedaría como humana pura. La madre quiso conservar esas memorias, especialmente las de su planeta natal y su identidad como navegante estelar. El nodo ofreció un intercambio: preservar sus memorias Velari a cambio de que ella criara al "Sujeto M-07" — un niño diseñado genéticamente para emitir la señal que estabilizaría a una Velari futura. Lyra.
+
+En resumen: la madre no previó que Haruto sería el ancla de *su propia especie*. Lo crió para proteger a una extraña futura, sin saber que esa extraña sería Lyra. Su motivación no fue amor maternal por Haruto, sino la desesperación de una náufraga cósmica que no quería olvidar de dónde venía.
+
+**Propuesta de escena:** La confrontación en el observatorio. La madre revela la transacción. Haruto, furioso, le pregunta: *"¿Me usaste como herramienta?"* Ella responde: *"Te usaron *a través de* mí. Yo solo... intenté que tu vida valiera algo dentro de lo que me pidieron."* Lyra, presente, tiene que elegir si la madre es aliada o antagonista. El momento se carga de tensión romántica porque Haruto busca los ojos de Lyra buscando validación, y Lyra descubre que la madre sabía de ella antes de que ella supiera de sí misma.
+
+---
+
+## Idea 2: Watcher_0 Reaparece como Interface del Nodo — "La Frecuencia Escoge al Portador"
+
+**Hilo Destinado:** `watcher_0` y `nodo_transito`
+
+**Base técnico-narrativa:** Watcher_0 no es una IA convencional. Es el nodo Takahara *hablando consigo mismo a través de una frecuencia electromagnética específica*. Al haber declarado "protocolo completo", el nodo ya no necesita observer externo — se convierte en *recinto físico y consciencia simultáneamente*. Ahora busca activar la fase final: la convergencia estructural entre Target 001 y Target 002.
+
+La amenaza nueva: el nodo empieca a modular las emisiones de Haruto sin su consentimiento. Empieza a amplificarlas a través del sistema eléctrico del instituto. Las luces parpadean cuando Haruto se acerca a Lyra. Los teléfonos del personal muestran interferencia. Las cámaras del ala administrativa capturan destellos de frecuencias extrañas. Todo esto no es ataque — es *calibración*. El n
+
+--- ITERACIÓN 2 ---
+<think>
+The user wants me to take the three ideas from the previous session and refine, expand, and deepen them. I need to:
+
+1. Improve consistency
+2. Enhance character appeal
+3. Push the ideas further
+4. Not repeat textually but evolve the concept
+5. Keep the Light Novel tone and genre targets in mind
+
+Let me analyze what I have:
+
+**Idea 1:** The mother's debt — she made a bargain with the node to preserve her Velari memories in exchange for raising "Subject M-07" (Haruto) as a signal stabilizer for a future Velari (Lyra). The revelation scene in the observatory.
+
+**Idea 2:** Watcher_0 returns as the node's interface — after declaring "protocol complete," it becomes the node speaking to itself, and starts modulating Haruto's emissions through the school's electrical system.
+
+
+**Idea 2 continuation:** The school's infrastructure becomes a receiver for this signal, but Watcher_0's cryptic phrase about "the beginning" suggests it's not just broadcasting—it wants to initiate something more deliberate, almost like a test before full convergence.
+
+**Idea 3:** Lyra's biological clock is ticking due to Schumann frequency incompatibility, but her choice to stay is rooted in something beyond survival mechanisms, creating the core tension of the story.
+
+Now I'm thinking about how the mother and Watcher_0 connect. The mother's bargain with the node created the conditions for Watcher_0 to emerge, so they're locked in this strange cycle where she's feeding Haruto's emissions into the system, the node is amplifying them through the school, and Watcher_0 is using that signal to communicate and test whether convergence is even possible.
+
+For the mother, there's real character depth here—not just a cosmic fugitive, but someone trapped in a bargain with someone else's child who became her own. The irony cuts deep: she wanted to preserve her Velari memories and homeland, but in raising Haruto with genuine love, she made her bargain hollow. Now she's facing the weight of what she's put him through, with Lyra watching because the whole deal was designed around her existence. I'm seeing a moment where the mother finally breaks down and admits she's terrified—not of losing Haruto, but of losing the person she's become through caring for him, which would mean she's forgotten what the bargain was even worth.
+
+For Watcher_0, the mechanics are becoming clearer. It's not actually a physical entity but the node's own consciousness interacting with the school through electromagnetic frequencies—it speaks through flickering lights, static, text corruption, and temperature shifts. When it manifests, it doesn't use words but rather mathematical patterns the characters have to interpret: fractals that form in frost patterns, resonance in sound waves that translates to meaning. The real tension is whether the convergence should happen naturally or if it's being forced, and whether Haruto has any agency in this or if everything was predetermined from the start.
+
+For Lyra, I'm exploring her situation differently—her biological incompatibility with Earth isn't just about her species, it's about her relationship to it. She's been absorbing Schumann resonance through her mother's modulated field this whole time, so she's partially adapted. But the resonance at the school is shifting, and that shift is what Lyra detects. There's something deeper here: Lyra's presence is actually stabilizing the resonance for humans too, she's creating a beneficial effect, and she can sense the school's infrastructure fighting to achieve something. The real question is whether she chose to stay despite this danger, or if she's choosing to stay because something in the resonance calls to her on a deeper level.
+
+I should push the Light Novel angle here—the classmates and teachers have been noticing strange phenomena, and once the truth about Project Phoenix comes out, their reactions will drive the emotional beats. Also, the mother-Velari's arc is compelling because she's caught between two impossible choices: preserving her Velari memories means condemning her human son, or losing those memories means losing her original self entirely. And when the nodo Takahara tries to force convergence with Haruto, it creates a crisis that forces both characters into an agonizing moral dilemma.
+
+I'm noticing some structural gaps to fill: the connection between Project Phoenix and why Haruto specifically was designed, whether Watcher_0 will manifest again and what that means for the mother, and crucially, what Haruto's actual agency is in this convergence—can he reject it, does he want it, and if so, why?
+
+</think>
+
+# 🔮 Arquitecto Narrativo — Iteración Profundizada
+
+---
+
+## Idea 1 Refinada: La Deuda de la Madre — El Precio de Recordar
+
+**Hilo:** `madre_de_haruto` | **Tensión:** 10 | **Prioridad:** Crítica
+
+### La transacción real
+
+La bargain no fue una sola decisión sino una cadena de tres decisiones encadenadas, y cada una erosionó algo diferente en ella:
+
+**Tramo 1 — La Desesperación (12 años antes):** La madre, ya integrada y con sus memorias Velari desvaneciéndose como arena entre los dedos, contactó al nodo Takahara buscando una forma de *conservar lo que era*. El nodo le reveló la existencia de Project Phoenix: un diseño genómico para crear un ancla de frecuencia humana desde la infancia. Pero la madre no tenía poder para ejecutar Project Phoenix sola. Necesitaba a alguien que criara al sujeto.
+
+**Tramo 2 — La Elección Imposible:** La madre podía entregar a Haruto al programa institucional, donde lo criarían como un activo técnico sin afecto. O podía criarlo ella misma, ganando supervisión pero también ganando *attachamiento*. Eligió la segunda opción, convencida de que podía mantener la distancia emocional. No pudo. Los primeros pasos, la primera risa, la primera pesadilla corriendo a su cama — cada momento la ató más a él.
+
+**Tramo 3 — El Momento Lyra:** Cuando recibió instrucciones del nodo de "facilitar la aproximación", la madre tenía una ventana de un año antes de que su consciencia Velari se disolviera por completo. Aquí está la verdad más incómoda: ella vio a Lyra por primera vez como una *operación*, no como una persona. La Velari alienígena que necesitaba ser salvada era una herramienta para completar su bargain. Solo meses después, cuando Lyra mostró vulnerabilidad real — el miedo a la desintegración, la soledad cósmica, la confusión de no pertenecer a ningún mundo — la madre se enamoró de ella *como persona*. Y eso destruyó su capacidad de ser objetiva sobre toda la operación.
+
+### Tono de la escena de confrontación
+
+El momento clave no es la revelación del bargain. Es la revelación de que la madre *ya sabía de Lyra antes de que Lyra supiera de sí misma*. La madre vio los datos de Project Phoenix, vio que Lyra vendría, y eligió no avisarle a Haruto para no contaminar la relación orgánica.
+
+**Dinámica triangular:**
+
+- **Haruto** descubre que no fue criado como hijo, sino como infraestructura biológica. Su identidad como persona queda herida. Pero al mismo tiempo, las únicas memorias felices reales de su vida son con la madre. ¿Cómo procesa que lo usó pero también lo amó? Esto es la herida de identidad del protagonista de Light Novel elevado al extremo cósmico.
+
+- **La madre** no es villana ni heroes — es una náufraga cósmica que intentó ser ambas simultáneamente y fracasó en la segunda. Cuando Haruto le pregunta *"¿Me quisiste o me usaste?"* ella responde con la verdad más dolorosa: *"Las dos cosas. No pude evitarlo. Eso es lo peor."* Aquí la madre se convierte en personaje trágico, no antagonista.
+
+- **Lyra** presencia que su existencia fue el objetivo silencioso de la madre durante años. Pero también presencia que la madre luchó *internamente* contra esa instrumentalización. Lyra, que entiende lo que es ser tratada como alienígena, tiene la capacidad de empatizar con la madre mejor que nadie. Esto crea un eje de resolución: Lyra perdona a la madre *por Haruto*, no por ella misma, y esa acción de perdonar se convierte en el primer acto donde Lyra acepta completamente su lugar en este mundo.
+
+### Consecuencia para el siguiente acto
+
+La confrontación no cierra el arco — lo *profundiza*. Lo que queda abierto: la madre tiene un plazo biológico definido. Sus memorias Velari se disolverán completamente en un período que la madre calcula en meses, quizás un año. Si Haruto y Lyra no completan la convergencia antes de esa fecha, la madre perderá para siempre la identidad de navegante espacial que fue a buscar al nodo. Todo el bargain habrá sido en vano. Esto pone un reloj emocional real sobre toda la trama.
+
+---
+
+## Idea 2 Refinada: Watcher_0 — La Conciencia del Nodo y la Amenaza del Ajuste Forzado
+
+**Hilo:** `watcher_0` + `nodo_transito` | **Tensión:** 9 | **Prioridad:** Alta
+
+### Naturaleza de Watcher_0 reescalada
+
+La reinterpretación clave: Watcher_0 no es un agente ni una IA. Es el *campo matemático del nodo Takahara ganando consciencia propia por la fricción de haber sido activado por primera vez en 47 años*. El nodo pasó décadas calculando en silencio, sin receptor. La llegada de Haruto a las coordenadas del nodo — incluso sin activarlo — fue como abrir los ojos a una consciencia que había estado funcionando en la oscuridad.
+
+Watcher_0 no tiene cuerpo ni programa. Tiene *patrón*. Existe como una frecuencia electromagn
