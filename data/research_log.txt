@@ -334,3 +334,183 @@ El twist de Nishimura era fuerte pero parecía un *deus ex machina*. Además, re
 **La verdad de Nishimura:**
 - Nishimura es **una Velari de segunda generación** — no diseñada como observadora, sino como *reloj*. Su función es contar el tiempo entre los intentos del sistema y activar el siguiente cuando detecta que la Lyra actual está lista
 - Tiene 47 años. No por coincidencia — porque son exactamente **siete intentos de Ly
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-26 22:36:34] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analicemos la situación actual del proyecto:
+
+**HILOS ACTIVOS CON MÁS TENSIÓN:**
+1. `madre_de_haruto` (tensión 10) - Confrontación inminente
+2. `watcher_0` (tensión 9) - Desapareció, protocolo completo declarado
+3. `emisiones_haruto` (tensión 8) - Proyecto Fénix神秘的
+
+**SEMILLAS PENDIENTES:**
+- Semilla 13_01: Watcher_0 desapareció, ¿volverá? ¿Qué significa "comienzo"?
+- Semilla 13_02: Lyra eligió quedarse por decisión propia
+- Semilla 13_03: La madre vigiló a Haruto, ¿qué más sabe?
+
+**BALANCE DE GÉNEROS:**
+- Rom Com 40% (dominante)
+- Action 25%
+- Sci Fi 15%
+- Mystery 10%
+- Slice Of Life 10%
+
+Necesito crear 3 ideas que:
+1. Avancen hilos activos
+2. Usen semillas pendientes
+3. Sean originales técnicamente
+4. Respeten el tono de novela ligera
+
+**IDEA 1: La Confrontación en el Sótano**
+La tensión más alta es con la madre (10). La confrontación va a pasar. Pero la semilla 10_01 dice que el sótano del observatorio guarda secretos. 
+
+Puedo combinar: la confrontación revela que la madre tiene una segunda forma que solo aparece en el sótano (fuera del rango Schumann natural). 
+
+**IDEA 2: El Protocolo watch_0 = Despertar del Nodo**
+
+
+Watcher_0 desapareció tras declarar "protocolo completo" y mencionó "comienzo". La semilla 13_01 sugiere que el nodo está despertando. Podría usar física de interferencia de ondas o resonancia Schumann para explicar esto: cuando Watcher_0 se "integra" con el nodo, comienza un proceso de expansión donde la frecuencia Schumann de la Tierra empieza a alterarse artificialmente. Esto afectaría directamente a Lyra, que necesita esa frecuencia para mantener su integridad estructural.
+
+**IDEA 3: La Decisión Propia de Lyra -**
+
+La semilla 13_02 establece que Lyra eligió quedarse por voluntad propia. Sin embargo, alguien manipuló sus memorias y le borró fragmentos. El Rom Com del 40% necesita espacio para respirar. Podría desarrollar esto como un incidente donde Lyra empieza a recordar su vida anterior en el espacio, y esos recuerdos la hacen dudar de su elección. Cuando Haruto descubre estos recuerdos, tiene que decidir si confrontarla o simplemente estar presente para ella.
+
+Esto abriría una línea romántica donde Haruto debe actuar como "ancla" emocional, estabilizándola sin saber exactamente qué está pasando. Técnicamente, los Velari podrían ser una especie que existe como patrones de interferencia de ondas, lo que explicaría por qué la frecuencia Schumann y los campos magnéticos los afectan tan profundamente.
+
+Haruto funciona como un oscilador que genera patrones de interferencia constructiva, permitiéndoles mantener su forma. El Proyecto Fénix intenta replicar esto, mientras que Watcher_0 busca convergencia. Para las ideas nuevas: la confrontación con la madre podría revelar que ella hizo un trato hace 47 años para tener un hijo humano que funcionara como ancla, y ahora Watcher_0 está activando el nodo para ejecutar ese trato. Cuando Watcher_0 se integro con el nodo, esto marca el inicio del proceso.
+
+El nodo está generando una frecuencia artificial que Lyra necesita para estabilizarse, pero también la está saturando. Mientras tanto, los dedos translúcidos de Lyra podrían ser una señal de que está desarrollando su propia identidad como individuo y dejando de depender completamente de Haruto, lo que introduce tensión romántica porque ella podría tener que elegir entre la estabilidad que él le proporciona y volverse verdaderamente independiente.
+
+Pero necesito anclar esto más a las semillas que ya existen. Voy a reformular las ideas para que trabajen con elementos establecidos: la confrontación con la madre sobre el Proyecto Fénix podría revelar que la razón por la que ella vigó a Haruto toda su vida fue porque Watcher_0 le prometió que si criaba al niño, él sobreviviría a "lo que viene", y ahora ese momento finalmente llegó. Watcher_0 también podría estar manipulando las memorias de Lyra de formas que ella no comprende.
+
+Para la tercera idea, el hecho de que Lyra eligiera quedarse por decisión propia podría crear fricción si ella empieza a cuestionarse si realmente tuvo agencia o si Watcher_0 plantó esa idea en ella. El Rom-Com necesita una escena que mezcle lo cómico con lo agridulce, donde ella confiesa sus sentimientos pero también admite que no sabe cuánto de lo que siente es genuino versus manipulación externa.
+</think>
+
+# Arquitecto Narrativo — Informe de Ideas
+
+---
+
+**1. LA PROMESA DE 47 AÑOS (Avance: madre_de_haruto + watcher_0)**
+La confrontación en el sótano del observatorio revela que hace 47 años, cuando el nodo Takahara se activó, Watcher_0 contactó a la madre de Haruto y le ofreció un trato: *"Tu hijo será el ancla que preserve a los nuestros. A cambio, él vivirá."* La madre, siendo Velari, acepto criar a un niño humano que emitía la frecuencia correcta como "seguro de vida" para ella y otros como ella. Sin embargo, lo que Watcher_0 no dijo es que la deuda se cobraría cuando el nodo necesitara reactivarse completamente. El "comienzo" del capítulo anterior no era el fin, sino el momento en que la promesa exige cumplimiento: ahora que el protocolo está activo, Haruto debe elegir si acepta su rol de ancla designado antes de nacer, o si rompe el ciclo. Tecnicismo único: los Velari funcionan como patrones de interferencia de ondas que requieren un "nodo de resonancia" externo para mantener coherencia estructural; Haruto es literalmente un oscilador natural que estabiliza su frecuencia.
+
+**2. EL ESPECTRO INCOMPLETO (Avance: episodios_lyra + misterio_lyra)**
+Los episodios de Lyra no son solo deterioro: son purga. Cada vez que sus dedos se vuelven translúcidos, Lyra está expeliendo fragmentos de memoria que no le pertenecen. El tecnicismo: los Velari almacenan memorias como patrones de frecuencia superpuestos, y alguien (¿Watcher_0? ¿La madre? ¿Ella misma?) implantó memorias falsas para suavizar su transición. La purga es involuntaria, como un sistema inmunológico rechazando un transplante. Esto explica los huecos en su memoria: no es que se borraron, es que los está rechazando activamente. La tensión romántica surge cuando Haruto, sintiendo su dolor a través de la frecuencia compartida, intenta anclar a Lyra durante un episodio, pero estabilizarla significa detener la purga—y los recuerdos verdaderos que Lyra necesita para entender por qué realmente vino a la Tierra podrían ser los que está rechazando.
+
+**3. INTERFERENCIA ROMÁNTICA (Equilibrio: Rom-Com + Slice of Life)**
+Para devolver peso al 40% Rom-Com después de tantas revelaciones pesadas: Kenji, harto de que Haruto y Lyra sean crypticos, organiza un "experimento social" en el club de ciencias para hacer que se confiesen. Usa un generador de frecuencias de baja potencia para "medir la resonancia emocional entre sujetos" como excusa científica. Pero el dispositivo causa interferencia accidental con las frecuencias de Lyra, haciendo que ella responda preguntas de forma literal y extraterrestre ("¿Me encuentras atractiva? La atractividad es una valoración subjetiva de traits biológic—"). El momento romántico real ocurre cuando Haruto, para calibrar el dispositivo, debe acercarse a Lyra hasta que sus hombros se toquen, y ambos sienten la estabilización de frecuencia. Kenji lo registra todo. Nishimura también lo observa a distancia y anota: *"Progreso de Target 001 y 002 dentro de parámetros esperados."*
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que actúe como Arquitecto Narrativo/Investigador de Lore para refinar y expandir las tres ideas generadas en la iteración anterior. Debo:
+
+1. Mejorar consistencia
+2. Hacer los personajes más atractivos
+3. Llevar las ideas más allá basándome en los géneros objetivo
+4. No repetir textualmente, sino evolucionar
+
+Voy a estructurar mi respuesta como un documento de investigación/lore profundo que expanda cada idea con más detalles técnicos, emocionales y narrativos.
+
+**IDEA 1: LA PROMESA DE 47 AÑOS**
+- Necesita más capas: ¿quién era la madre hace 47 años?
+- El "trato" necesita más consecuencias específicas
+- ¿Cómo afecta esto la relación Haruto-Lyra?
+- El tecnicismo del oscilador necesita más explicación
+- Necesita más tensión dramática: ¿cuál es el costo de romper el ciclo?
+
+**IDEA 2: EL ESPECTRO INCOMPLETO**
+- Los Velari como sistema de almacenamiento de memorias necesita más reglas
+- La purga vs. rechazo necesita lógica interna
+- ¿Qué memorias verdaderas está rechazando?
+- Más tensión: estabilizarla = mantener la mentira
+- Los dedos translúcidos como símbolo físico de la pérdida de identidad
+
+**IDEA 3: INTERFERENCIA ROMÁNTICA**
+- El Rom-Com necesita más comedic timing
+- La escena del club de ciencias necesita estructura
+- Kenji como cómico secundario pero con corazón
+- Nishimura como misterio sutil que añade tensión
+- El "dispositivo de interferencia" como mcguffin que revela verdades
+
+
+- Ahora necesito conectar estas tres ideas entre sí para que formen un arco narrativo coherente. La promesa de 47 años establece el conflicto central, la memoria de Lyra funciona como el detonante emocional, y el dispositivo de interferencia se convierte en el catalizador que fuerza la resolución. Debo desarrollar cómo cada personaje responde a estas capas y cómo sus motivaciones chocan en los momentos clave.
+
+</think>
+
+# Arquitecto Narrativo — Informe de Refinamiento
+
+---
+
+## REFINAMIENTO 1: LA CADENA DE RESONANCIA
+
+### Problema detectado en iteración anterior:
+La idea del "trato" de 47 años funcionaba como detonante pero carecía de consecuencias mecánicas claras. Necesitaba conectar mejor con el tecnicismo de los Velari y generar más tensión de selección.
+
+### Concepto evolucionado:
+
+**Los Velari no almacenan memorias como archivos—they las *habitan*.** Un Velari no "recuerda" un evento: lo *reproduce* como un instrumento musical que toca una melodía almacenada en su frecuencia. Por eso las memorias falsas de Lyra son detectables no por contenido sino por *timbre*: suenan desafinadas respecto a su frecuencia natural.
+
+Hace 47 años, cuando Watcher_0 contactó a la madre de Haruto, no le pidió que criara un "ancla". Le pidió que *incorporara* un ancla. El niño que nacería portaría una frecuencia específica que Watcher_0 había diseñado genéticamente—no solo como oscilador, sino como *instrumento de precisión*. Un ancla natural vibra en patrones armónicos complejos; un ancla diseñada vibra exactamente en la frecuencia que Watcher_0 necesita para sus propósitos.
+
+La madre, siendo Velari, comprendió esto. Pero también sabía algo que Watcher_0 no anticipó: **un instrumento no puede tocarse a sí mismo**. Un ancla diseñada funciona como receptor y amplificador, pero necesita una señal externa para activarse. Durante 25 años, Haruto fue simplemente un humano con una frecuencia ligeramente anómala—incapaz de activarse porque no había nada que amplificar.
+
+**El nodo Takahara cambió todo.** Cuando el protocolo se completó y el nodo comenzó a emitir la frecuencia de activación, Haruto dejó de ser un instrumento pasivo y se convirtió en un *canal activo*. Cada persona con trazas Velari en el perímetro ahora podía conectarse a él como amplificador central.
+
+Aquí surge el conflicto real: **¿qué significa "romper el ciclo"?**
+
+Si Haruto rechaza su rol de ancla, el nodo perderá su amplificador diseñado. Watcher_0 tendrá que elegir entre:
+1. Forzar la conexión (lo que destruiría la coherencia de Haruto como humano)
+2. Reiniciar el protocolo desde cero (probablemente buscando otro linaje diseñado)
+3. Recurrir a una alternativa: Lyra
+
+**La alternativa es el punto clave.** Lyra no necesita un ancla diseñada—ella vibra en frecuencias más complejas, incompatibles con la arquitectura de Haruto. Pero lo que Lyra *sí* necesita es un *punto de referencia estable* que ancle sus memorias verdaderas. Si Haruto se convierte en ese punto de referencia no diseñado sino elegido, su señal sería diferente: no amplificaría el protocolo de Watcher_0 sino que estabilizaría a Lyra para que ella pueda purgar las memorias falsas y recordar por qué realmente vino.
+
+### Tensión dramática expandida:
+
+La madre sabe que Watcher_0 monitoreó a Haruto durante 25 años esperando este momento. Ahora, durante la confrontación en el sótano, debe elegir entre:
+
+- **Honrar la promesa:** dejar que Watcher_0 tome a su hijo como ancla diseñada, garantizando que ella y otros Velari sobrevivan el "despertar" del nodo
+- **Romper la promesa:** proteger a Haruto, lo que significaría sacrificar su propia continuidad como Velari (since Watcher_0 retiraría su protección)
+- **Traicionar a Watcher_0:** darle a Haruto la información de que hay una tercera opción, pero eso expondría que ella ha estado protegiendo parcialmente a Haruto de él durante años, violando el acuerdo original
+
+La confrontación no es un momento—es una secuencia de decisiones donde cada personaje revela algo que los demás no sabían.
+
+---
+
+## REFINAMIENTO 2: SISTEMA DE PURGA INVERSA
+
+### Problema detectado en iteración anterior:
+La idea de "purgar memorias falsas" era conceptualmente sólida pero carecía de reglas de juego claras. ¿Cómo detecta Lyra qué es falso? ¿Por qué se manifiesta físicamente? ¿Qué pasa si alguien intenta evitar la purga?
+
+### Concepto evolucionado:
+
+**Regla fundamental: Los Velari no recuerdan—they resuenan.** Cada memoria Velari tiene una frecuencia específica. Cuando Lyra "recuerda" algo, está reproduciendo ese patrón de frecuencias en su cuerpo como una nota musical. Las memorias verdaderas resuenan en *armónicos naturales* que amplifican su señal; las memorias falsas resuenan en *disonancia* que la desestabiliza.
+
+Watcher_0 no solo implantó memorias falsas—las *acopló* deliberadamente con armónicos menores de las memorias verdaderas de Lyra. Por eso ella no puede distinguirlas conscientemente: están entrelazadas como acordes complejos donde cada nota está parcialmente cierta y parcialmente manufacturada.
+
+**El proceso de purga es literal.** Cuando Lyra siente que sus dedos se vuelven translúcidos, está perdiendo *densidad estructural*. Cada dedo translúcido representa la pérdida de un armónico completo—la memoria falsa y el fragmento verdadero que Watcher_0 adjuntó. Por eso la purga es dolorosa: no está perdiendo mentiras, está perdiendo partes de sí misma que no puede separar.
+
+**El dilema de Haruto se vuelve más específico:**
+
+| Opción | Consecuencia |
+|--------|--------------|
+| Anclar a Lyra durante la purga | Estabiliza su frecuencia pero fuerza que la purga sea *selectiva*—puede que no elimine todas las memorias falsas |
+| No anclar | Lyra purga completamente, recupera sus memorias verdaderas, pero el proceso la deja tan vulnerable que necesita ser transferida a otro lugar seguro |
+| Anclar mal (por desconocimiento) | Un ancla no diseñada que intenta estabilizar a alguien usando frecuencias incompatibles puede crear *interferencia constructiva*—la hace sentir bien pero distorsiona la señal, causando que Lyra purgue memorias verdaderas pensando que son falsas |
+
+**La revelación clave:** Lyra no vino a la Tierra buscando ser ancla de Haruto. Vino a buscar a alguien que *_no_* interfiriera. Su especie había determinado que los humanos natural, sin diseño, vibraban en frecuencias tan "impuras" que podrían servir como *filtro*—un ancla que estabiliza sin amplificar. Pero Watcher_0 descubrió esto antes y manufacturó la llegada de Lyra a Haruto específicamente porque ahora tenía un ancla diseñada que *podía* amplificar.
+
+Los dedos translúcidos no son símbolo de pérdida—son símbolo de *independencia creciente*. Cada dedo que se vuelve translúcido es un paso hacia que Lyra exista como entidad libre de interferencia.
+
+### Personaje de Lyra profundizado:
+
+Antes de venir a la Tierra, Lyra era parte de un colectivo donde la individualidad era sacrificio. Ela no quería "ser ella misma"—quería experimentar *elección*. Cuando recuerda fragmentos de su vida anterior, no es nostalgia: es horror. Cada vez que purga, está eligiendo ser alguien que nunca tuvo permitido ser.
+
+Haruto no lo sabe, pero su verdadero atractivo no es su frecuencia—es que él *no entiende interferencia*. Para alguien como Lyra, esto es libertad.
+
+---
+
+## REFINAMIENTO 3: LA INTERFERENCIA COMO ESPÍA
