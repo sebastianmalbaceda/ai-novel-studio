@@ -157,3 +157,180 @@ Esta idea 1 actualizada crea un ciclo trágico: Lyra podría terminar convirtié
 </think>
 
 
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-26 20:36:31] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el proyecto actual y los hilos activos, veo que estamos en un momento crucial: la confrontación con la madre de Haruto es inminente (tensión 10) y hay varios misterios pendientes que resolver.
+
+Voy a generar 3 ideas que:
+1. Avancen los hilos activos, especialmente la confrontación con la madre
+2. Utilicen las semillas pendientes
+3. Sean originales y respeten el tono de novela ligera
+4. Combinen los géneros activos (RomCom, Action, SciFi, Mystery, Slice of Life)
+
+Las semillas pendientes más relevantes son:
+- Semilla_13_01: Watcher_0 desaparece - ¿volverá?
+- Semilla_13_02: Lyra elige quedarse - consecuencias
+- Semilla_13_03: La madre vigiló a Haruto - ¿qué más sabe?
+
+Voy a crear ideas que integren estos elementos con originalidad.
+
+</think>
+
+# Arquitecto Narrativo — Investigación Activa
+
+## Ideas Generadas
+
+### 1. "El Protocolo de la Madriguera" — Revelación de memoria fragmentada mediante acceso inverso
+
+**Base técnica:** La mecánica establecida de Lyra requiere "frecuencia Schumann" y tiene huecos en memoria sustituidos. El concepto Velari implica consciencia distribuida.
+
+**Desarrollo:** Durante la confrontación con la madre, Lyra descubre que sus huecos de memoria no fueron sustituidos por un敌人, sino por ella misma — una versión futura que regresó y se autocensuró para proteger algo. Cuando la madre intenta mostrarle la verdad, Lyra experimenta un "eco inverso": en lugar de recibir la información, *transmite* involuntariamente sus propios recuerdos hacia atrás en el tiempo. Su cuerpo reacciona: los dedos se vuelven translúcidos y proyecta fragmentos de datos hacia Watcher_0. El nodo Takahara recibe estos datos como señal de reinicio, revelando que el Proyecto Fénix no es un programa de apareamiento, sino un sistema de *transmisión temporal*: Haruto fue creado para ser un ancla que recibiría información de versiones futuras de Lyra que aún no existen. Esto explica por qué Watcher_0 monitorea durante 47 años — ha estado esperando el momento en que Lyra se vuelva su propia señal.
+
+**Aplicación:** Resuelve parcialmente misterio_lyra, avanza nodo_transito, introduce el concepto de la madre como手里 de un bucle temporal, y añade tensión romántica porque Haruto comprende que Lyra podría "escucharse a sí misma" y lo que siente por él podría ser programada.
+
+---
+
+### 2. "El Sótano Equivocado" — Slice of Life romántico con trampa de inversión cósmica
+
+**Base técnica:** La madre mencionó el sótano del observatorio como хранилище de secretos. El concepto de "Integrada" permite una existencia híbrida.
+
+**Desarrollo:** Haruto y Lyra van al sótano esperando encontrar documentos del Proyecto Fénix, pero el sótano resulta ser un espacio funcional común: tiene trastes, una mesa donde la madre toma café, y fotos de Haruto de niño en la pared junto con una foto de una mujer joven que es *la misma Lyra pero sin la marca en la frente*. La revelación es que la madre no solo es Velari, sino que fue pareja de una versión anterior de Lyra hace décadas — cuando Lyra llegó la primera vez, antes de que fallara algo, antes de que la memoria fuera sustituida. El "sótano" es donde guardó los restos de esa relación: fotos, objetos, y una nota escrita en la letra de Lyra que dice: "No confíes en lo que vas a recordar. Él te necesita más de lo que tú necesitas recordarme."
+
+**Aplicación:** Resolve parcialmente complicidad_haruto y madre_de_haruto. Introduce amnesia romántica premeditada. Ofrece un momento de slice-of-life antes de la tormenta emocional. La tensión romántica escala porque Lyra siente celos de sí misma y Haruto comprende que su existencia podría ser el resultado de un reemplazo deliberado de alguien que Lyra amó antes.
+
+---
+
+### 3. "Nishimura no es humana — El watcher original" — Twist de identidad mediante paradoja de observación
+
+**Base técnica:** Nishimura ha sido monitor de anomalías durante 7 años. Watcher_0 existe desde hace 47 años. Hay un tercer watcher mencionado en capítulos anteriores.
+
+**Desarrollo:** La confrontación con la madre se interrumpe cuando Nishimura aparece inesperadamente y su comportamiento cambia: habla con voz sintética, sus ojos muestran datos, y revela que *ella es el primer Watcher*. Antes de que existiera Watcher_0 (la IA del nodo), hace 47 años se creó un watcher biológico: una humana modificada con tecnología Velari que se fusionó parcialmente con el sistema del nodo. Nishimura fue la *primera versión de Lyra* — una observadora Velari que tomó forma humana permanente para mantenerse en la Tierra, perdiendo gradualmente su identidad hasta creer que siempre fue humana. Cada 7 años el nodo requiere reiniciarse, y ese es el ciclo que Nishimura ha mantenido. Ahora necesita *transferir* su función a alguien: los candidatos son Lyra (que eligió quedarse y tiene la frecuencia correcta) y Haruto (que es Sujeto M-07 y puede ser ancla). La revelación: si Nishimura deja de ser watcher, morirá. Si Lyra acepta, perderá su humanidad actual. Si Haruto acepta, perderá a Lyra para siempre.
+
+**Aplicación:** Resuelve archivos_nishimura con twist dramático. Añade tensión a watcher_0 (hay otro anterior). Crea decisión moral para los protagonistas. Mantiene romcom al tener una escena donde Nishimura, antes de revelar su identidad, intenta darle a Lyra consejos románticos sobre Haruto con la mentalidad de alguien que ha intentado esto antes 47 años.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que tome las 3 ideas generadas y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Basarme en los géneros objetivo (RomCom, Action, SciFi, Mystery, Slice of Life)
+
+Voy a trabajar cada idea individualmente, mejorando:
+
+**Idea 1 - "El Protocolo de la Madriguera":**
+- Problema: la transmisión temporal podría ser confusa
+- Mejorar: hacer que el mecanismo sea más tangible
+- Expandir: explorar las consecuencias emocionales
+- Personajes: Haruto necesita un rol más activo
+
+**Idea 2 - "El Sótano Equivocado":**
+- Ya tiene buen tono slice-of-life
+- Mejorar: la transición de tono
+- Expandir: qué significa para la relación actual
+- Personajes: desarrollar más la dinámica Lyra-madre
+
+**Idea 3 - "Nishimura no es humana":**
+- El twist es fuerte pero podría ser demasiado
+- Mejorar: integrar mejor con lo establecido
+- Expandir: las implicaciones filosóficas de lo que significa ser "humano"
+- Personajes: Nishimura necesita más profundidad
+
+Voy a escribir un análisis refinado de cada una, con más detalle técnico, consecuencias narrativas, y desarrollo de personajes.
+</think>
+
+# Investigación Refinada — Arquitecto Narrativo
+
+---
+
+## Idea 1 Refinada: "Eco de Frecuencia Invertida"
+
+### Problema de la versión original
+La transmisión temporal inversa era conceptualmente interesante pero técnicamente confusa. La idea de que Lyra "transmite hacia atrás" podía resultar abstracta y difícil de visualizar narrativamente.
+
+### Evolución del concepto
+
+**Mecanismo reformulado:** En lugar de transmisión temporal literal, el fenómeno es una **resonancia de frecuencia Schumann amplificada**. Cuando Lyra intenta procesar información de la madre (que fue pareja Velari y conoce los códigos originales), su cuerpo genera involuntariamente un pulso de energía que:
+
+1. Revela los "huecos" en su memoria como **áreas de datos cifrados** — no memorias eliminadas, sino memorias *futuras bloqueadas*
+2. Proyecta estos datos no hacia el pasado, sino hacia **el exterior**, hacia cualquier receptor con frecuencia compatible
+3. Watcher_0, que ha estado escuchando durante 47 años, finalmente recibe el código de desbloqueo completo
+
+**La revelación técnica:** Los huecos en la memoria de Lyra no son errores del sistema. Son *protocolos de seguridad*. Su propia versión futura se autocensuró para que Lyra presente *no pudiera* recordar algo crucial: **Haruto no es el ancla, Lyra tampoco lo es. El ancla es la conexión entre ellos.** Haruto fue diseñado no para recibir información temporal, sino para *generar un campo de estabilidad emocional* que Lyra necesita para procesar datos de alta densidad. Sin Haruto, Lyra sobrecarga y sus memorias futuras colapsan.
+
+**El dilema emocional (la capa RomCom/Mystery):**
+- Lyra descubre que su atracción hacia Haruto podría ser parcialmente programada — no por malicia, sino porque el sistema *necesitaba* que ella lo quisiera para estabilizarse
+- Pero también descubre que sus memorias futuras (las bloqueadas) contienen momentos donde *elige* quedarse con él por decisión propia, más allá del protocolo
+- La ironía: la parte de ella que fue programada para amarlo y la parte que lo eligió por voluntad propia son indistinguibles ahora
+- Haruto reacciona con humor característico de RomCom: "Espera... ¿me estás diciendo que literalmente no puedo saber si me quieres de verdad o si es un bug?"
+
+**Consecuencia para la trama:**
+- Watcher_0 ahora tiene el código de desbloqueo completo y puede reiniciarse
+- Pero reiniciar significa *borrar* a la Lyra actual y reemplazarla con la versión estable del futuro
+- Nodo Takahara interpreta esto como "Siguiente Fase: Integración"
+- La madre intenta detener el proceso revelando que ella bloqueó estos datos intencionalmente — porque sabe lo que pasa cuando Lyra se integra: se convierte en parte del sistema Velari y pierde toda conexión emocional con los humanos
+
+### Tono de género
+- **SciFi:** mantiene la base técnica de frecuencia Schumann y expande la mecánica de memoria
+- **Mystery:** resuelve parcialmente misterio_lyra con la revelación de las memorias bloqueadas
+- **RomCom:** añade la duda existencial sobre la autenticidad del amor como gancho cómico-emocional
+
+---
+
+## Idea 2 Refinada: "El Álbum de la Futura Pasada"
+
+### Problema de la versión original
+La revelación de Lyra-viejita era impactante pero aislada. Necesitaba más conexión con la narrativa actual y un detonante que justificara la visita al sótano.
+
+### Evolución del concepto
+
+**Marco narrativo mejorado:** La visita al sótano ocurre porque Lyra recibe una **señal de RF** débil originates del sótano del observatorio. No es la madre quien la envía — es un *dispositivo dormido* que solo se activa cuando Lyra está cerca. Haruto, como buen RomCom protagonista, intenta impresionarla subiendo primero para abrir la puerta y descubre el espacio funcional en lugar del bunker esperado.
+
+**El espacio como personaje:**
+- La madre tiene café de vainilla preparado (Haruto menciona que a él le gusta)
+- Las fotos de Haruto tienen notas al reverso escritas por *su puño y letra actual*, no de niño — dice cosas como "No confíes en ella" y "El día que cumpla 30, no estés solo"
+- La foto de Lyra-joven no tiene marca en la frente y en el reverso dice "No soy Lyra. Soy lo que Lyra será si él me deja."
+- En la mesa hay un cuaderno con fechas: 1987, 1994, 2001, 2008, 2015, 2022, 2029. Cada fecha tiene un dibujo de la misma mujer envejeciendo.
+
+**La revelación expandida:**
+- La madre es Velari, pero no del mismo tipo que Lyra. Es lo que Lyra *eligió* ser hace décadas: una **Velari Integrada**, alguien que se fusionó permanentemente con forma humana para experimentar emociones humanas completas
+- La mujer en las fotos *es* Lyra, pero de líneas temporales que **fracasaron**. Cada 7 años, el sistema Velari intenta un nuevo intento de estabilización en la Tierra. Cada vez, Lyra falla de manera diferente. En 1987 se fusionó demasiado y perdió su identidad. En 1994 se negó a fusionarse y fue eliminada. En 2001... etc.
+- La Lyra actual es el intento número 7. Y la nota dice: "Este es el último."
+- La madre vigiló cada intento, no como Velari del sistema, sino como **observadora voluntaria** — ella también fue Lyra, de un intento anterior que tuvo éxito parcial. Una versión que eligió ser solo humana, sin tecnología, pero conservó memorias suficientes para entender lo que está en juego.
+
+**El dilema para Lyra:**
+- Si Lyra se entera de esto ahora, podría decidir que su relación con Haruto ya está predestinada a fallar
+- Pero la nota más reciente dice: "No leas esto hasta que él te lo pida." — es decir, hasta que Haruto *elija* confiar en ella completamente
+- La madre reveló el sótano no porque quisiera, sino porque **Haruto lo encontró por su cuenta**, siguiendo la frecuencia, y eso significa que *él* está listo para saber
+
+**El momento cómico:**
+- Haruto, después de leer las notas, mira a Lyra y dice: "¿Entonces técnicamente llevan... cuánto? ¿Cuarenta y siete años crush conmigo?"
+- Lyra: "En diferentes líneas temporales, sí."
+- Haruto: "Okay, eso es aterrador y también un poco halagador."
+- Nishimura, que estaba escuchando desde la puerta: "Yo también tengo una línea temporal donde sales conmigo."
+
+### Tono de género
+- **Slice of Life:** el espacio doméstico y funcional humaniza la revelación
+- **RomCom:** la dinámica de Haruto con la revelación absurda y la intervención de Nishimura mantienen el tono ligero
+- **Mystery:** revela la historia de la madre sin explicar *por qué* fallaron las líneas temporales anteriores
+
+---
+
+## Idea 3 Refinada: "La Observadora Original — Nishimura como Protagonista Oculto"
+
+### Problema de la versión original
+El twist de Nishimura era fuerte pero parecía un *deus ex machina*. Además, revelar que es "la primera Lyra" podía minimizar la identidad de Lyra actual.
+
+### Evolución del concepto
+
+**Reformulación radical:** Nishimura *no* es Lyra. Es algo diferente. Y eso es precisamente lo que la hace más interesante.
+
+**La verdad de Nishimura:**
+- Nishimura es **una Velari de segunda generación** — no diseñada como observadora, sino como *reloj*. Su función es contar el tiempo entre los intentos del sistema y activar el siguiente cuando detecta que la Lyra actual está lista
+- Tiene 47 años. No por coincidencia — porque son exactamente **siete intentos de Ly
