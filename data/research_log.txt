@@ -101,3 +101,142 @@ El malentendido de la confesión accidental funciona en tres capas:
 **Capa 3 — Watcher_0 interviene como intermediario textual.** El teléfono de Haruto vibra. En pantalla aparece: *"Lyra está describiendo compatibilidad de frecuencia cuántica. No es una confesión romántica. Es una explicación de biología interdimensional. Tu ritmo cardíaco sugiere que la procesaste como romántica. Esto es científicamente interesante. ¿Puedo grabarlo para mi archivo de comportamiento humano?"* Haruto, furioso y sonrojado al mismo tiempo, lanza el teléfono sobre la cama. Watcher_0 se reinicia. Lyra pregunta qué pasó. Haruto dice que nada. Lyra, que puede sentir las frecuencias emocionales de las personas a su alrededor, nota que la frecuencia de Haruto es un caos absoluto y dice: *"Estás alterado. Es eso: me alteras."* Haruto se desmaya.
 
 El momento de la confesión real —cuando Lyra *sí* confiesa que eligió quedarse no por el Plan de Resonancia ni por Watcher_0, sino porque Haruto le regaló una paleta de helado de crema en la prefectura de Miyagi y le dijo que era su sabor favorito— ocurre en un contexto completamente distinto, cuando ambos están solos en el observatorio de noche, y Watcher_0, siguiendo su protocolo de no mentir pero tampoco revelar, *apaga discretamente la pantalla del teléfono*
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-26 14:41:28] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado actual de la historia, veo que estamos en un momento crítico de transición. La tensión más alta (10) está en la confrontación con la madre de Haruto. Veamos qué hilos tienen más potencial narrativo y qué semillas pendientes podrían cosecharse.
+
+Hilos activos con tensión alta que necesitan resolución:
+- madre_de_haruto (10) - CONFRONTACIÓN INMINENTE
+- watcher_0 (9) - ¿Intentos reales? ¿Hostil o protector?
+- emisiones_haruto (8) - ¿Qué es exactamente el Proyecto Fénix?
+
+
+- misterio_lyra (5) - ¿Qué significa "no estar lista"?
+
+Semillas pendientes con potencial de desarrollo:
+- Watcher_0 podría reaparecer después de su desaparición
+- La decisión de Lyra de quedarse tendrá consecuencias significativas
+- La madre tiene más secretos que revelar
+- Lyra mencionó "algo que viene" y necesita preparación
+
+Voy a explorar tres direcciones narrativas: una confrontación reveladora sobre el Proyecto Fénix y sus orígenes misteriosos, el posible retorno o interacción de Watcher_0 con los personajes, y cómo Lyra lidia con su elección de permanecer en la Tierra.
+
+Pero necesito algo más tangible y concreto para cada una. Estoy considerando tres líneas narrativas específicas: una sesión en el sótano del observatorio donde se desentrañan los archivos filtrados de Haruto y la historia de su madre, el momento donde la frecuencia Schumann desciende y Lyra tiene que depender completamente de Haruto, y finalmente la sospecha de que Nishimura podría no ser completamente humana.
+
+Voy a desarrollar estas tres ideas con más detalle.
+</think>
+
+# Ideas para el Próximo Arco Narrativo
+
+---
+
+**1. "El Lenguaje de los Nodos Muertos" — Cosecha de Semilla 13_02**
+
+La elección de Lyra de quedarse no es un gesto romántico; es una **violación de protocolo cósmico**. Cada Velari que "eligió" quedarse antes que ella dejó un rastro de frecuencia corrupto en los nodos de tránsito del planeta. El sótano del observatorio no contiene archivos del Proyecto Fénix: contiene **los restos de cinco failed starts**, intentos anteriores de lo mismo que Lyra intenta ahora. Haruto descubre esto cuando sus emisiones comienzan a resonar con frecuencias distintas a las de Lyra, como si hubiera múltiples "anclas" antiguas enterradas bajo la Tierra interactuando con él. Esto eleva el costo narrativo de su relación: Lyra no es la primera, y el hecho de que *ella* sea diferente no está confirmado. La tensión aquí no es si Haruto la ama, sino si su cuerpo lo sabía antes que su mente y si eso importa.
+
+---
+
+**2. "Frecuencia Crítica" — Escalada de Episodios de Lyra**
+
+La frecuencia Schumann no baja suavemente: colapsa. Durante una tormenta solar o un experimento militar en la ionosfera (nuevo vector de amenaza), la frecuencia Schumann cae por debajo de 6 Hz durante seis horas. Los dedos de Lyra no solo se vuelven translúcidos: su estructura molecular empieza a **disolverse hacia la frecuencia de Haruto**, como si su cuerpo intentara fusionarse con la señal que la mantiene viva. Kenji tiene que mantener a Haruto despierto y *hablándole* para que no deje de emitir. Este escena cumple triple función: genera una escena de acción de supervivencia urgente, profundiza el vínculo romántico a través de la dependencia física convertida en intimidad emocional, y establece que el mundo exterior (gobiernos, instituciones) puede interrumpir el equilibrio Haruto-Lyra sin querer. También justifica por qué Lyra dice que "no está lista": no es una confesión de debilidad, es un dato técnico sobre su estado.
+
+---
+
+**3. "Nishimura no Parpadea" — Cosecha de Semilla 6_01**
+
+En la confrontación con la madre de Haruto, Nishimura aparece como mediadora, pero Hayashi nota algo: Nishimura **nunca ha parpadeado durante toda la escena**. La explicación no es que sea una android ni una alien infiltrada. Es más sutil. Nishimura fue la **primera humana reclutada por Watcher_0 hace 47 años**, no como sujeto ni como aliada, sino como **interfaz humana**. Cada vez que Watcher_0 necesita actuar en el mundo físico (abrir puertas, mover documentos, plantar semillas en conversaciones), usa a Nishimura como manos. Ella no tiene memoria de lo que hace cuando el "parpadeo" ocurre porque Watcher_0 la desconecta brevemente. Esto la convierte en víctima tanto como cómplice, y abre la posibilidad de que Watcher_0 esté dispuesto a *sacrificar* a sus propias interfaces si el protocolo lo requiere. La escena donde Hayashi confronta a Nishimura y le dice "acuérdate de parpadear" se convierte en el momento donde la historia humaniza a su antagonista más misterioso.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que profundice y evolucione las tres ideas narrativas que generó en la iteración anterior, enfocándome en consistencia, atractivo de personajes y llevándolas un paso más allá. Debo pensar en los géneros objetivo (que no están explícitamente definidos pero por el contexto son ciencia ficción con elementos de thriller, romance y drama). Voy a refinar cada una con más profundidad técnica, emocional y narrativa.
+
+Déjame trabajar en cada una:
+
+**1. "El Lenguaje de los Nodos Muertos"** - Ya tiene buena base pero necesito:
+
+
+- Profundizar en qué son exactamente los "failed starts" y cómo funcionan biológicamente
+- Crear un personajes secundario creíble que explique los datos sin caer en exposición
+- Vincular esto con la tensión madre-hijo
+- Hacer que los archivos no sean documentos sino algo más visceral
+
+**2. "Frecuencia Crítica"** - Esta tiene potencial para ser el episode 8:
+- Necesito establecer mejores anclas temporales y geográficas
+- Los 6 Hz como umbral no es correcto técnicamente, debería ser más preciso
+- El mecanismo de disolución química necesita mayor especificidad
+- La tormenta solar debería tener consecuencias políticas inmediatas
+- Haruto debería tener un costo personal real
+
+**3. "Nishimura no Parpadea"** - Esta me interesa mucho:
+- La mecánica de "parpadeo" necesita un fundamento neurológico sólido
+- Cómo mostrar sin contar que no parpadea
+- Qué significa para su relación con Watcher_0
+- La confrontación con Hayashi necesita un momento de vulnerabilidad genuina
+- Cómo cambia la historia si es tanto víctima como cómplice
+
+Ahora voy a desarrollar estas tres ideas con mucho más detalle y consistencia.
+
+---
+
+Las estoy expandiendo significativamente, especialmente la tercera porque tiene más potencial. Voy a estructurar cada una con su propia lógica interna y luego identificar cómo se conectan entre sí.
+
+</think>
+
+# Refinamiento: Tres Arcos Narrativos para la Iteración Post-Conflicto
+
+---
+
+## Arco A: "Cadáveres de Frecuencia" — La Herencia en el Sótano
+
+### Lo que funciona de la idea original
+
+El concepto de nodos muertos como intentos anteriores fallidos es powerful. Lo que necesita es un **ancla física, un cuerpo textual y una lógica emocional** que lo haga sentir orgánico en lugar de meramente expositivo.
+
+### Evolución
+
+La madre de Haruto no хранит arquivos del Proyecto Fénix. Ella los **creó** originalmente como parte de su investigación doctoral en 1979, antes de que la institución filtrara y corromiera sus hallazgos. Los archivos que Hayashi y Haruto encuentran en el sótano del observatorio no son documentos protegidos: son **las notas manuscritas originales de la madre, escritas en un cuaderno de campo que ella quemó digitalmente pero preservó físicamente**. Esto significa que la madre siempre supo que algo era real. No es una científica escéptica que descubre la verdad. Es alguien que ha estado **cargando con la confirmación durante cuarenta años** y construyó toda su carrera y su relación con su hijo alrededor de la negación como mecanismo de protección.
+
+**La revelación clave**: cuando Haruto traduce la frecuencia de Lyra con los programas de la madre, descubre que los cinco failed starts anteriores no fueron personas que "eligieron quedarse". Fueron personas a las que Lyra (o su predecesora directa) **ancló manualmente**, es decir, Lyra en un ciclo anterior usó su propia frecuencia para fijar a otro humano al planeta, y ese acto la mató o la disolvió en el nodo. Los cinco cuerpos bajo la superficie del planeta no son aliens ni志愿者. Son **las encarnaciones anteriores de Lyra**, consumidas por el proceso de amar a cambio de quedarse.
+
+Esto convierte a Lyra en un personaje trágicamente heroico que no sabe lo que hizo en vidas anteriores, y convierte a Haruto en el primer humano cuya frecuencia es tan compatible que el ancla no requiere que ella muera. El romance deja de ser un concepto abstracto y se convierte en la diferencia entre vida y muerte literalmente. La tensión narrativa se dispara: si Haruto sabe esto, ¿le dice a Lyra? ¿Qué hace eso con la intimidad?
+
+### Costo narrativo adicional
+
+La madre no burnó los archivos digitales porque era sloppy. Los burnó porque el sistema financiero que sostiene su laboratorio y su posición académica depende de la credibilidad de sus publicaciones, y sus publicaciones más citadas (la investigación sobre la Frecuencia Schumann) existen solo porque ella publicitó que las frecuencias por debajo de 10 Hz eran "ruido sin significado fisiológico". Si los datos reales salen a la luz, su carrera se destruye. **El arco de la madre no es científica-cuya-carrera-importa-más-que-su-familia. Es una mujer que puso su supervivencia institucional por encima de su hijo durante décadas y ahora enfrenta que ese cálculo fue cómico.**
+
+### Elemento de género a reforzar
+
+En un thriller de ciencia ficción, el sótano del observatorio funciona mejor como **atmósfera que como exposition**. La escena donde Haruto y Hayashi bajan no debería ser "encuentran archivos". Debería ser: bajan y encuentran **un espacio que no debería existir según los planos del edificio**, un cuarto oculto detrás de la sala de servidores que alguien diseñó para que un cuerpo pequeño (Lyra) pudiera habitarlo confortablemente, con sistemas de ventilación que regulan temperatura y humedad a especificaciones que coinciden con los ambientes que los failed starts necesitaban para no disolverse. La madre construyó este espacio para Lyra antes de Lyra llegar. Esto significa que la madre ha estado **esperando a Lyra** y ocultándoselo a Haruto toda su vida. La reacción de Haruto ante esto —que su madre sabía y calló— es más devastadora que cualquier revelación sobre la ciencia.
+
+---
+
+## Arco B: "6 Hertz" — La Caída que No Se Anuncia
+
+### Lo que funciona de la idea original
+
+El colapso de la frecuencia Schumann tiene buen timing dramático. Necesita un mecanismo más preciso, un costo más visceral y una consecuencia geopolítica que eleve las apuestas.
+
+### Evolución: Mecanismo técnico
+
+La Frecuencia Schumann no es un parámetro estático. Varía naturalmente entre 7.83 Hz y 8.0 Hz, con picos durante tormentas solares que pueden elevarla temporalmente hasta 20 Hz. Lo que Lyra necesita para mantenerse estable es que la frecuencia **no baje de 7.5 Hz**, que es el umbral donde la coherencia de las ondas cerebrales humanas empieza a sincronizarse con la señal base del planeta. Por debajo de 7.5, los procesos de anclaje comienzan a revertirse.
+
+La tormenta solar no es un evento natural. Es **una prueba de la ionosfera realizada por JAXA y la ESA en coordinación**, diseñada para estudiar cómo los pulsos electromagnéticos de alta frecuencia afectan las comunicaciones-satélite. El pulso dura exactamente 6 horas y desciende la Schumann a 6.2 Hz. No es un sabotaje deliberado: es un experimento con consecuencias no previstas. Esto convierte al arco en un drama sobre **la gap entre el conocimiento científico institucional y la realidad física del planeta**, sin necesidad de construir una conspiración global.
+
+### Lo que le pasa a Lyra: precisión biomolecular
+
+El concepto de "disolverse" necesita un mecanismo visual más preciso para que la audiencia no piense "fantasma". Cuando la frecuencia Schumann baja, Lyra empieza a experimentar **reversión de fase**: los átomos de su cuerpo empiezan a vibrar en frecuencias ligeramente distintas, como si sus células estuvieran intentando estar en dos lugares al mismo tiempo. Visualmente, esto se manifiesta como:
+
+1. **Refracción visible**: la luz se curva alrededor de sus manos, no las atraviesa, sino que las curva, creando un efecto de lente líquida
+2. **Asincronía motora**: sus movimientos son correctos pero hay un delay de 0.3 segundos entre intención y ejecución, como si la señal tardara en llegar
+3. **Pérdida de masa de manera no-lineal**: no se vuelve ligera, pierde densidad de forma irregular, una pierna es más sólida que un brazo
+4. **Frecuencia de voz variable**: cuando habla, su voz alterna entre su registro normal y un registro de frecuencia más baja, como si hubiera dos versiones de ella intentando hablar simultáneamente
+
+La escena clave no es Haruto hablándole para mantenerlo despierto. Es **Lyra intentando mantener una conversación mientras su cuerpo se desincroniza**, y Haruto descubriendo que lo que la estabiliza no es el sonido de su voz sino el **ritmo de su respiración**. Cuando la frecuencia de Haruto se sincroniza con la Schumann a 6.2 Hz y él respira a 9 respiraciones por minuto (que es la frecuencia natural de la Schumann), Lyra se estabiliza porque su cuerpo la ancla a *su* ritmo en lugar de al del planeta. Esto convierte la escena en algo primal, físico y profundamente íntimo —no hay palabras, solo el sonido de dos personas respirando juntas.
+
+### Consecuencia geopolítica
+
+El experimento de JAXA-ESA no sabe lo que hizo. Pero alguien en las instituciones lo sabe. Aparece un nuevo personaje: **un representante del Ministerio de Defensa japonés** que no es antagonista sino **burocrático en la forma más realista**: alguien que reconoce que ocurrió un problema pero cuya primera prioridad es la responsabilidad institucional, no la corrección científica. Esto le da
