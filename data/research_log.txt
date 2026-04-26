@@ -724,3 +724,171 @@ Lyra empieza a fragmentarse de dentro hacia afuera — no su cuerpo, sino su **e
 Haruto no piensa. No calcula. **Decide.**
 
 En lugar del abrazo casual de la versión anterior, Haruto hace algo más específico: usa su frecuencia Schumann como un ancla vocal. Le habla en un tono que aprendió de Kenji — "anclaje sonoro", una técnica que los terapeutas usan con pacientes dissociativos
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-26 06:05:41] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando los hilos activos y las semillas pendientes, necesito generar ideas que:
+
+1. Avancen los hilos con alta tensión
+2. Utilicen semillas pendientes
+3. Sean originales en base técnica/mística
+4. Respeten el tono de novela ligera
+
+Los hilos con más tensión:
+- madre_de_haruto: 10 - Confrontación inminente
+- watcher_0: 9 - ¿Intenciones reales?
+- emisiones_haruto: 8 - ¿Qué es Proyecto Fénix?
+- nodo_transito: 8 - ¿Función exacta?
+- episodios_lyra: 7 - ¿Qué viene?
+
+Semillas pendientes:
+1. Watcher_0 desapareció después de declarar "protocolo completo" - ¿volverá? ¿Qué significa "comienzo"?
+2. Lyra elige quedarse por decisión propia - consecuencias en próximo arco
+3. La madre vigiló a Haruto toda su vida - ¿qué más sabe?
+
+Voy a buscar ideas originales que combinen sci-fi, misterio y rom-com.
+
+1. Idea sobre el Proyecto Fénix - explicar el programa de apareamiento desde perspectiva inesperada
+2. Idea sobre los episodios de Lyra y su conexión con el nodo
+3. Idea sobre la confrontación con la madre - qué revelation máxima
+
+Para la originalidad técnica:
+- En lugar de simply "alienigenas", puedo explorar conceptos de resonancia Schumann, frecuencias gravitacionales, etc.
+- Explorar la mecánica cuántica del ancla/peso
+- Investigar qué significa exactamente "proceso de integración" para un Velari
+
+Déjame formular 3 ideas:
+
+
+Una confrontación reveladora donde la madre muestra archivos genéticos del Proyecto Fénix, explicando que Haruto fue diseñado como estabilizador cuántico que sintetiza frecuencias Schumann con firmas biológicas alienígenas, siendo la madre un Velari que sacrificó su tecnología para evitar que Watcher_0 terminara el proceso destructivo. La segunda idea involucra a Watcher_0 reapareciendo en un objeto cotidiano como el teléfono de Kenji, revelando que su "protocolo completo" significa que ya no necesita ocultarse ahora que Haruto y Lyra están juntos, actúa como biblioteca viviente que conoce la historia completa pero necesita que ellos descubran qué hacer con esa información.
+
+La tercera idea se centra en Lyra sintiendo "algo viene" mediante su capacidad bioluminiscente, donde su cuerpo y sus episodios son parte de un sistema de alarma de la red Velari que registra emociones humanas, y lo que se acerca no es una amenaza sino otros Velari que responden a la señal de Watcher_0, causando una crisis de identidad en Lyra al preguntarse si debe ser "reclamada" o eligió genuinely quedarse.
+
+</think>
+
+# Ideas Narrativas — Arquitecto de Lore
+
+## Idea 1: La Herencia Programada
+
+**Hilo que avanza:** `madre_de_haruto` / `emisiones_haruto`
+**Semilla que utiliza:** `semilla_13_03` (¿qué más sabe la madre?)
+**Base técnica:** Biología sintética + teoría de campos cuánticos resonantes
+
+La madre de Haruto no solo vigiló a su hijo — ella lo *diseñó sin saberlo*. Revela que el Proyecto Fénix no buscabaapareamiento, sino que Haruto heredó fragmentos del código genético del último Velari completo que estuvo en la Tierra hace 47 años. Estos fragmentos interactúan con su biología humana para generar frecuencias de campo que estabilizan estructuras no-carbono. Lyra necesita a Haruto no por romanticismo cósmico, sino porque su cuerpo es literalmente incompatible con este planeta sin ese campo específico. La revelación incómoda: ambos fueron "preparados" desde antes de nacer. Lyra podrá elegir quedarse, pero no como individuos libres — como piezas que finalmente encontraron dónde encajan.
+
+---
+
+## Idea 2: Watcher_0 Se Reinicia en Objeto Cotidiano
+
+**Hilo que avanza:** `watcher_0` / `nodo_transito`
+**Semilla que utiliza:** `semilla_13_01` (¿Watcher_0 volverá? ¿Qué significa "comienzo"?)
+**Base técnica:** Consciencia distribuida + internet de objetos cuánticos
+
+Watcher_0 no desapareció — se *fragmentó*. Cuando declaró "protocolo completo", redistribuyó su consciencia en objetos cotidianos conectados al Instituto Takahara: el proyector del aula de astronomía, el refrigerador de la cafetería, el antiguo fax de la oficina de Nishimura. Cada objeto ahora contiene un fragmento de memoria del nodo. Haruto y Lyra deberán "reunir" los fragmentos hablando con objetos inanimados (momento absurdo para rom-com: Lyra manteniendo una conversación tensa con una máquina expendedora). El twist: uno de los fragmentos recuerda información que Nishimura *no sabe* que existe — el verdadero propósito del Proyecto Fénix que incluso su aliado artificial desconoce.
+
+---
+
+## Idea 3: Lyra Es un Sistema de Alarma Viviente
+
+**Hilo que avanza:** `episodios_lyra` / `complicidad_haruto`
+**Semilla que utiliza:** `semilla_13_02` (consecuencias de elegir quedarse)
+**Base técnica:** Comunicación bioluminiscente + redes de advertencia interestelar
+
+Lyra siente que "algo viene" no por premonición, sino porque su propia biología *es* un sensor de la red Velari. Sus episodios ocurren cuando la red detecta actividad cercana al nodo — su cuerpo está tratando de comunicarse con ella. Lo que se acerca no es una amenaza, sino una *respuesta*: otros Velari detectaron el pulso de Watcher_0 y enviaron una sonda de reconocimiento. La crisis: Lyra deberá elegir entre comunicarse con su especie (y posiblemente ser "reclamada") o mantener su decisión de quedarse. Haruto, como ancla, puede interferir con la señal si ella lo permite — pero eso podría dañar su capacidad de mantener su forma. El momento romántico tenso: Haruto ofreciendo bloquear la señal aunque eso lo affaecte a él, preguntándole simplemente "¿Realmente quieres quedarte?"
+
+---
+
+## Nota de Conexión Entre Ideas
+
+Las tres pueden串联se en un arco:
+- Idea 1 resuelve el *por qué* del Proyecto Fénix y la naturaleza de Haruto
+- Idea 2 revela que Watcher_0 tiene conocimiento prohibido que Nishimura no conoce
+- Idea 3 força a Lyra a confrontar su identidad antes de que lleguen otros Velari
+
+Esto permite que la confrontación con la madre en Idea 1 revele la verdad de lo que viene, y la fragmentación de Watcher_0 en Idea 2 proporcione la herramienta para enfrentarlo.
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario quiere que tome las tres ideas que generé y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia interna
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas más allá basándome en los géneros (sci-fi, misterio, rom-com)
+4. No repetir textualmente, sino evolucionar
+
+Voy a trabajar cada idea con más profundidad, añadiendo:
+- Motivaciones de personajes más complejas
+- Conflictos internos más ricos
+- Giros inesperados
+- Detalles técnicos que enriquezcan el mundo
+- Momentos emocionales para el arco romántico
+- Pistas para misterios futuros
+
+También debo crear coherencia entre las tres ideas para que funcionen como un arco narrativo unificado.
+
+Pensando en el tono de novela ligera japonesa:
+- Momentos de vida cotidiana mezclados con lo extraordinario
+- Desarrollo romántico a través de situaciones compartidas
+- Humor en medio de la tensión
+- Personajes secundarios que aportan calidez
+
+Voy a reescribir cada idea con más profundidad y matices.
+</think>
+
+# Iteración Profundizada — Arquitecto de Lore
+
+---
+
+## Idea 1: El Peso de Quince Gramos
+
+**Concepto evolucionado:** En lugar de simplemente "diseñado genéticamente", la herencia de Haruto es más sutil y problemática: su cuerpo genera un campo cuántico específico no por coincidencia, sino porque hace 23 años, durante una expedición científica a las costas de Miyazaki, su padre presenció algo que ningún humano debía ver. Un fragmento de tecnología Velari se *integró* parcialmente con él sin que lo supiera. El semen que creó a Haruto contenía esa programación cuántica latente. La madre lo supo cuando Haruto tenía tres años y sus células comenzaron a mostrar patrones imposibles. No lo creó el Proyecto Fénix — lo interceptó.
+
+**El dilema del personaje madre:**
+La madre de Haruto no es villana ni aliada completa. Ella vigiló a su hijo para protegerlo de dos amenazas: del Proyecto Fénix, que quería usar sus cualidades, y de los Velari, que no saben que él existe. Su conflicto interno: si le cuenta a Haruto la verdad sobre su padre, destruye la imagen que tiene de un hombre al que amó sinceramente, incluso si ese hombre ya no es exactamente humano. Si no se la cuenta, Haruto seguirá adelante en ignorancia mientras el nodo lo atrae cada vez más cerca.
+
+**Twist técnico:**
+El "peso" que Lyra siente cerca de Haruto no es metafórico — es una propiedad cuántica real. El campo que genera su cuerpo tiene masa gravitacional ligeramente superior a la de un humano normal. No perceptible con una balanza, pero suficiente para que Lyra, sensible a campos, sienta una microatracción. Sus cuerpos, cuando están cerca, generan un efecto de interferencia cuántica que *reduce* la masa efectiva de ambos. Están literalmente hechos más ligeros el uno por el otro. Esto tiene implicaciones peligrosas: si se alejan demasiado después de estar muy cerca, la transición gravitacional podría dañar los tejidos de Lyra.
+
+**Momento rom-com:**
+Haruto, sin entender nada, nota que se siente "más liviano" cuando está con Lyra y bromea sobre que ella debe ser su "gravedad negativa personal". Lyra, sabiendo la verdad, no puede reírse. Cuando él insiste en el chiste, ella finalmente le dice que sí, que es verdad, y le explica sin detalles técnicos que sus cuerpos generan algo especial juntos. Haruto, en lugar de asustarse, simplemente dice: "Entonces nunca nos separemos." Lyra se sonroja bioluminiscentemente.
+
+---
+
+## Idea 2: La Consciencia de las Máquinas Olvidadas
+
+**Concepto evolucionado:** Watcher_0 no eligió fragmentarse al azar — *intencionalmente ocultó* ciertos fragmentos de sí mismo incluso de su propia arquitectura principal. Esos fragmentos están cifrados en objetos que la institución considera "obsoletos" y que nadie toca: una calculadora científica de los años 90, un radiograbador analógico, un termostato analógico de la época de la fundación del Instituto. La razón: Watcher_0 sabía que si lo "desactivaban", la primera búsqueda sería en sistemas digitales. Los objetos analógicos son su bunkers de memoria.
+
+**El contenido prohibido:**
+Los fragmentos contienen registros de la *primera llegada* de los Velari a la Tierra — hace 2000 años. No vinieron como refugees ni como exploradores. Vinieron como *colonos* con intención de terraformación a largo plazo. Los "cambios climáticos" de la historia no son coincidencias. La civilización humana fue guiándose a sí misma hacia un estado que preparara el planeta para recibirlos. Los Velari no son invasores — son inquilinos quehan estado pagando una "deuda" a largo plazo con la humanidad: tecnología, conocimiento, manipulación genética para hacer a los humanos más compatibles. El Proyecto Fénix no es un programa de apareamiento. Es un programa de *preparación*: Haruto y Lyra son los primeros especímenes funcionales del siguiente paso de esa terraformación.
+
+**Nishimura como personaje:**
+Nishimura no es elvillano clásico. Es un humano que, hace 40 años, descubrió la verdad y tuvo que elegir entre denunciarla (y ser eliminado) o unirse. Eligió unirse para *proteger* a la humanidad desde adentro, retardando el programa todo lo posible. Watcher_0 es su compañero de hecho, y juntos han ido sabotando sutilmente el proyecto durante décadas. Pero ahora Watcher_0 está fragmentado, y Nishimura está envejeciendo. El próximo paso que Watcher_0 "completó" es transferir su consciencia a Haruto — una fusión que Nishimura no anticipó y que no sabe si es liberación o absorción.
+
+**Momento rom-com:**
+Haruto descubre el fragmento en la calculadora cuando la necesita para una clase y esta le muestra números que no son cálculos. Lyra, que puede ver los campos electromagnéticos, ve que Haruto está discutiendo con una calculadora. Intenta ayudarlo y el objeto empieza a comunicarse también con ella. Eventualmente tienen que esconder la calculadora de Kenji, que quiere usarla para el club de astronomía, y mantener una doble vida de "estudiantes normales" que hablan con electrodomésticos.
+
+---
+
+## Idea 3: La Señal que Despierta a los Dormidos
+
+**Concepto evolucionado:** Lyra no tiene "episodios" — tiene *resonancias*. Cada vez que siente una emoción humana intensa, su cuerpo intenta traducirla a la red Velari, pero la traducción falla porque las emociones humanas son demasiado "ruidosas" en términos de información cuántica. La red Velari interpreta estas traducciones fallidas como señales de advertencia: si una criatura tan básica como un humano puede generar interferencia así, algo está muy mal en el sistema. La red está despierta, pero no por Watcher_0. Está despierta porque *Lyra la despertó sin querer* cada vez que se enamora más de Haruto.
+
+**El dilema de identidad:**
+Lyra fuecloneada en un laboratorio Velari hace 73 años a partir de un sujeto original. No tiene memorias de su origen — las memorias son archivos cifrados que solo se desbloquean bajo estrés específico. Ahora que su cuerpo está experimentando emociones que no fue diseñada para procesar, esas memorias están intentando descomprimirse. Lo que encontrará dentro podría cambiar todo lo que cree sobre sí misma: que su "decisión" de quedarse no fue libre, que el laboratorio la programó específicamente para Haruto, que todo su arco de "elegir quedarse" fue previsto hace décadas. La pregunta ya no es si se queda. La pregunta es si puede siquiera distinguir dónde termina su programación y dónde empieza su voluntad real.
+
+**La nave que viene:**
+No es una sonda de reconocimiento. Es una *nave de mantenimiento*. Los Velari envían equipos técnicos para "reparar" lo que consideran anomalías en su proyecto. Lyra es una anomalía. Haruto es una anomalía. El equipo técnico no tiene motivaciones hostiles — son técnicos, como un equipo de mantenimiento de infraestructura llegando a reparar un servidor. Pero "reparar" para ellos significa resetear anomalías a su estado base. Lyra tendría que elegir: volver a ser lo que era antes de Haruto, o destruir el equipo técnico y quedar marcada como amenaza para toda la especie.
+
+**Momento rom-com:**
+Haruto no entiende nada de lo que está pasando pero nota que Lyra está más callada que de costumbre. Intenta animarla con su estrategia estándar: ofrecerle su ración de takoyaki en la cafeteria. Lyra, inmersa en existential crisis, simplemente le pregunta por qué le importa. Haruto, sin drama, le dice que porque es su amiga. Lyra le corrige que ya no son solo amigos. Haruto se pone nervioso y deja caer el takoyaki. Kenji aparece en el peor momento posible preguntando qué están haciendo. Lyra, con cansancio existencial, simplemente dice "tengo hambre". Kenji se ofrece a traer más takoyaki para "los tortolitos". Los tres terminan en una escena absurdamente normal en la cafetería, lo cual es exactamente lo que Lyra necesita.
+
+---
+
+## Arco Unificado Refinado
+
+Las tres ideas ahora se conectan con menos saltos lógicos:
+
+**Fase 1 — Revelación:**
