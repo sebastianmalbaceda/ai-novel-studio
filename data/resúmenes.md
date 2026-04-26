@@ -176,3 +176,9 @@ El silencio tras la declaración de Watcher_0 resulta absoluto, y Lyra palidece 
 El protagonista confronta a Lyra sobre el misterioso "protocolo completo" que Watcher_0 ha activado. Ella le revela que cuando pronunció su nombre durante el abrazo del día anterior, su "señal bioeléctrica" generó una anomalía que la inteligencia artificial alienígena subterránea interpretó como la frecuencia correcta para dar por completado el protocolo. El nodo de tránsito bajo el instituto ahora opera de manera estable, aunque Lyra desconoce cuáles serán los siguientes pasos, ya que sus archivos no incluyen ese nivel de información. Su admisión de incertidumbre resulta significativa porque demuestra que, a pesar de su naturaleza alienígena, ella también enfrenta misterios más allá de su comprensión. El capítulo deja abierto qué significa esta "próxima fase" que Watcher_0 está por iniciar, generando tensión sobre el destino del protagonista dentro de un plan que él no pidió cumplir y que incluso su compañera no comprende completamente.
 
 ---
+
+### Capítulo 30
+
+Haruto se dirige a la oficina de su madre en el ala administrativa, procesando la revelación de que ella ha mentido durante treinta años, no solo sobre Watcher_0 sino sobre toda su infancia: visitas médicas sospechosas, excusas para evitar psicólogos y un cariño que siempre tuvo tono de observación clínica. Descubre que es el Sujeto M-07 del Proyecto Fénix. Al llegar, encuentra a su madre esperándolo sentada tras su escritorio con un folder negro que él reconocía de su infancia, siempre cerrado bajo llave. Cuando la confronta, ella no muestra sorpresa y corrige con precisión académica que fueron diecisiete años, tres meses y once días de silencio, dejando claro que esperaba esta conversación y que tiene mucho más que revelar sobre su pasado y su verdadera naturaleza.
+
+---
