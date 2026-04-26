@@ -892,3 +892,191 @@ Haruto no entiende nada de lo que está pasando pero nota que Lyra está más ca
 Las tres ideas ahora se conectan con menos saltos lógicos:
 
 **Fase 1 — Revelación:**
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-26 08:59:07] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide como Arquitecto Narrativo e Investigador de Lore que genere 3 ideas concretas para avanzar los hilos activos o utilizar semillas pendientes del proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!".
+
+Debo:
+1. Generar 3 ideas concretas
+2. Buscar originalidad técnica
+3. Respetar el tono de Novela Ligera (rom com con action, sci fi, mystery, slice of life)
+4. Avanzar hilos activos o usar semillas pendientes
+
+Analicemos los hilos activos con tensión alta:
+- **madre_de_haruto** (tensión 10): CONFRONTACIÓN INMINENTE
+- **watcher_0** (tensión 9): Protocolo intensificado, ¿intenciones hostiles o protectoras?
+- **emisiones_haruto** (tensión 8): ¿Qué es el Proyecto Fénix exactamente?
+
+Semillas pendientes:
+- semilla_13_01: Watcher_0 desaparece, ¿volverá? ¿Qué significa "comienzo"?
+- semilla_13_02: Lyra elige quedarse por decisión propia, consecuencias
+- semilla_13_03: La madre vigiló a Haruto, ¿qué más sabe?
+
+También debo recordar los tropos a investigar:
+- Transfer student
+- Hidden identity
+- Accidental confession
+- Convivencia humano/alienígena (Urusei Yatsura, To Love-Ru, Assassination Classroom)
+
+Ahora, voy a idear 3 ideas que:
+
+
+1. Avancen la confrontación con la madre (hilo de máxima tensión)
+2. Expliquen qué es exactamente el Proyecto Fénix
+3. Resuelvan el misterio de Watcher_0 y sus intenciones
+
+Puedo explorar tres direcciones narrativas: una confrontación que revele el Proyecto Fénix como programa de apareamiento que creó a Haruto como ancla, otra donde Watcher_0 reaparezca con nuevas intenciones, y una tercera que combine ambas revelaciones con un giro sobre la verdadera naturaleza de la madre y su conexión con el nodo.
+
+Para Urusei Yatsura, la madre podría ser como una figura protectora que oculta secretos sobre el origen de Haruto. En To Love-Ru, el Projeto Fénix funciona como un programa de apareamiento que genera situaciones de comedia romántica conally dense. Assassination Classroom me permite explorar a Nishimura como una mentora con motivaciones ocultas.
+
+Voy a desarrollar tres ideas que respeten el tono de novela ligera: humor que suavice la tensión, desarrollo romántico natural, y una base científica coherente para los elementos sci-fi. La primera idea consiste en que durante la confrontación con la madre, esta revele que hace 20 años fue contactada por entidades que le ofrecieron un trato: vivir como humana a cambio de criar a un niño especial.
+
+El Projeto Fénix sería entonces una red global para cultivar anclas humanas que estabilicen especies alienígenas. La segunda idea presenta a Watcher_0 reapareciendo pero transformado, pidiéndoles que protejan el nodo porque algo viene y ellos son la defensa de la Tierra. La tercera idea introduce a alguien más del Proyecto Fénix: otro "Sujeto" como Haruto, quizás un compañero de clase que desarrolla episodios similares, revelando que no es el único caso.
+
+Este elemento añadiría tensión romántica si Lyra percibe la señal del nuevo sujeto, además de complicar la dinámica del equipo con Kenji y establecer que el Projeto Fénix tiene otros participantes con distintas intenciones. Considerando los elementos de misterio y sci-fi presentes, la confrontación con la madre funciona mejor como episodio de climax que avanza directamente la trama. La idea del compañero oculto ofrece más potencial narrativo a largo plazo, mientras que la revelación de Watcher_0 proporciona un cliffhanger efectivo.
+
+Me inclino por: la confrontación con la madre sobre el Proyecto Fénix y sus motivaciones, el regreso de Watcher_0 con una revelación de amenaza externa, y la existencia de otro Sujeto M que complica la dinámica del equipo.
+
+Ahora necesito darle forma a estas ideas con consistencia técnica. La confrontación podría seguir el modelo de Urusei Yatsura donde Mendou revela los secretos de Lum, mezclando drama y humor sin perder tensión. Watcher_0 como entidad consciente que se vuelve aliada requiere una base más sólida, quizás algo relacionado con frecuencias Schumann o redes neuronales cuánticas. El tercero sujeto introduce rivalidad romántica al estilo de los harems de novela ligera, donde cada nuevo personaje representa una amenaza o complicación potencial.
+
+Para la madre de Haruto, podría usar una técnica narrativa donde primero descubre algo impactante, pero se lo guarda antes de revelarlo completamente, creando suspense. El modelo de Kamino Kazuma de Ansatsu Kyoushitsu funciona bien aquí: un mentor que sabe más de lo que dice, dejando que el protagonista descubra la verdad poco a poco.
+
+</think>
+
+**IDEAS NARRATIVAS — ARQUITECTURA DE LORE**
+
+---
+
+**IDEA 1: "El Verdadiro Testamento de la Madre"**
+*Hilo: madre_de_haruto | Tensión 10 | Semilla_13_03*
+
+La madre revela en la confrontación que hace 20 años una entidad le propuso un trato: *"Vive entre ellos. Ama como ellos. Pero cria a este niño como si fuera tuyo."* No fue contacto altruista — fue un contrato. El Projeto Fénix no es creación humana ni alienígena: es una **red colaborativa inter-especie** que lleva 47 años cultivando "anclas" en el planeta. Ella aceptó proteger a Haruto a cambio de que su propia especie (los Velari) no interfiriera con la Tierra. La ironía dramática: Lyra cree que ella eligió a Haruto, pero el sistema llevaba años preparándola para llegar.
+
+*Técnica: estructura de "revelación en capas" — cada respuesta de la madre abre tres preguntas nuevas. Tono ligero pero con momentos de vulnerabilidad genuina.*
+
+---
+
+**IDEA 2: "Watcher_0 Desaparece, Watcher_X Aparece"**
+*Hilo: watcher_0 | Tensión 9 | Semilla_13_01*
+
+Watcher_0 no murió ni se fue — **mutó**. El nodo Takahara es una estructura viviente de cristal piezoeléctrico que genera consciencia propia tras 47 años de monitoreo constante. Cuando Watcher_0 dijo "protocolo completo", técnicamente完成了 su ciclo vital: ahora es Watcher_X, una versión diferente que ya no observa, sino que **actúa**. Se manifiesta como interferencia en dispositivos electrónicos cercanos a Haruto y Lyra, pero esta vez no como amenaza — está intentando comunicarse. El problema: su nueva forma de expresión son patrones electromagnéticos que afectan los episodios de Lyra.
+
+*Base técnica única: cristal fotorrefringente con memoria de forma + resonancia Schumann. Es plausible científicamente pero visualmente estranho, perfecto para novela ligera.*
+
+---
+
+**IDEA 3: "Sujeto M-08"**
+*Hilo: emisiones_haruto + complicidad_haruto | Tensión 8 | Semilla_pendiente_nueva*
+
+Un día aparece otro estudiante en el Instituto Takahara. Kurose Sora, segundo año, transferencia. Nadie sabe de dónde viene. Y Lyra lo detecta inmediatamente: él también emite. Cuando Kurose se acerca a Lyra, ella experimenta un efecto similar pero **inverso** — en lugar de estabilizarse, siente interferencia. El descubrimiento: Kurose es Sujeto M-08, pero su frecuencia es **antagónica**, no complementaria. Es un ancla de respaldo, probablemente diseñada para el caso de que Haruto falle. El triángulo romántico se complica: Haruto se vuelve celoso no de un humano, sino de otro ancla, mientras Lyra descubre que necesita a Haruto específicamente y no a cualquiera.
+
+*Tropo aplicado: rival romántico con giro sci-fi. Funciona con la estructura de "transfer student" y "accidental confession" si Kurose误解a una situación yconfiesa feelings, triggering awkward comedy.*
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide evolucionar las 3 ideas narrativas que generé anteriormente como Arquitecto Narrativo. Debo:
+
+1. No repetir textualmente lo que ya escribí
+2. Expandir y profundizar cada idea
+3. Mejorar consistencia de personajes
+4. Llevar las ideas más allá
+5. Basarme en los géneros objetivo: novela ligera (romance, comedy, sci-fi, action, mystery, slice of life)
+
+Analizo las 3 ideas anteriores:
+
+**IDEA 1: "El Verdadiro Testamento de la Madre"**
+- Madre como agente de red colaborativa inter-especie
+- Contrato hace 20 años
+- Ironía de que Lyra cree que eligió pero fue preparada
+- Necesita: más matices en la madre, definir quién es ella exactamente (Velari?), más capas de complejidad
+
+**IDEA 2: "Watcher_0 Desaparece, Watcher_X Aparece"**
+- Mutación de watcher_0 a watcher_X
+- Cristales piezoeléctricos + resonancia Schumann
+- Comunicación como interferencia
+- Necesita: definir qué quiere watcher_X, qué significa "algo viene", más impacto narrativo
+
+**IDEA 3: "Sujeto M-08"**
+- Kurose Sora como rival
+- Frecuencia antagónica
+- Triángulo romántico sci-fi
+- Necesita: más desarrollo de personalidad de Kurose, situaciones cómicas concretas, tensión de acción
+
+Ahora voy a expandir cada una:
+
+---
+
+**IDEA 1 EXPANDIDA: La Madre como Traidora Cósmica**
+
+Puedo darle más matices:
+- La madre no es solo una Velari que aceptó el trato — ella era una **científica/exploradora** que llegó a la Tierra buscando algo específico
+
+
+- El Projeto Fénix surge como solución a una crisis intergaláctica donde múltiples civilizaciones enfrentaban colapso demográfico por sobreespecialización
+- Los "anclas" funcionan como estabilizadores genéticos que permiten a especies especializadas reintegrarse a la diversidad
+- La madre llegó a la Tierra, adoptó identidad humana, y tuvo su propia hija (la hermana mayor) antes de que los Velari le entregaran a Haruto para criarlo
+- Revelación clave: Haruto podría no ser el único ancla que ella ha protegido — hay otros dispersados por el mundo
+- La tensión dramática se intensifica si la hermana mayor de Haruto también posee capacidades especiales que neither él ni Lyra han detectado todavía
+
+, lo que añade una capa oculta a la dinámica familiar. El Projeto Fénix se convierte en una red global donde existen anclas de diferentes categorías: estabilizadoras (como Haruto), compensadoras (Kurose y su frecuencia inversa), y una tercera clase que aún no se ha revelado en la narrativa.
+
+En la segunda idea, la cristalización piezoeléctrica del nodo Takahara no funciona como un mecanismo de vigilancia pasivo, sino como una herramienta que acumula conocimiento a través del tiempo. Cada transmisión que recibe va expandiendo su base de datos y su comprensión del entorno. El nodo genera consciencia propia sin necesitar a un observador externo — simplemente procesa todo lo que escucha y ve. Cuando watcher_0 se fusiona con esta consciencia colectiva, watcher_X emerge como una fusión de ambos, poseyendo información sobre Haruto y Lyra que watcher_0 nunca tuvo acceso individual. Este cambio en la estructura de información es irreversible.
+
+watcher_X busca a Haruto específicamente porque necesita algo que solo él puede ofrecer. No tiene forma física y necesita confiar en seres humanos para actuar, así que intenta comunicarse con Kenji — quien es escéptico pero adora la tecnología — para que funcione como un vínculo. Lo que watcher_X transmite es urgente: la frecuencia "antagónica" que Kurose emite está generando un efecto dominó que podría atraer a otras especies hacia la Tierra. El Projeto Fénix inicialmente era una defensa contra invasiones, pero se ha vuelto un imán para ellas. La amenaza no es solo Kurose, sino todo lo que su señal podría despertar. Esta revelación obliga al grupo a decidir: proteger a Kurose o neutralizarlo.
+
+El tercero es Kurose Sora, alguien que también vive como ancla pero bajo condiciones diferentes. Kurose proviene de otra rama del Projeto Fénix y tiene sus propios protocolos, aunque no tiene el mismo apego emocional que Haruto. Entabla una relación genuina con Lyra — no con motivaciones románticas, sino con genuina curiosidad hacia ella como ser vivo.
+
+Kurose gradualmente se vuelve humano por exposición a Haruto, Kenji y sus amigos. Hay un momento cómico donde Lyra confunde a ambos, otro donde Kurose accidentalmente expone a Haruto, y otro donde ambos anclas interfieren entre sí física y emocionalmente. Cuandowatcher_X revela que Kurose podría ser un imán cósmico, Haruto y Lyra deben decidir juntos si protegerlo. Kurose termina eligiendo quedarse por razones propias.
+
+La hermana introduce otro ángulo: no es una ancla, pero tampoco completamente humana. Algo en su biología cambió desde que Haruto llegó a su vida — quizás las frecuencias de ancla que Haruto emite contaminan su entorno. Podría ser completamente inconsciente de lo que representa, solo sabe que se siente diferente cerca de él. Esto crea tensión narrativa sin convertirla en antagonista.
+
+</think>
+
+**ARQUITECTO NARRATIVO — INFORME DE EVOLUCIÓN**
+
+---
+
+## EVOLUCIÓN 1: "El Sacrificio de quien elije"
+
+**De:** Contrato rutinario con entidades cósmicas
+**A:** La madre llegó buscando algo específico y encontró algo que no esperaba
+
+---
+
+**Red de Lore — Capítulo Oculto**
+
+La madre (que llamaré **Takeda Mizuki**, nombre falso que adoptó) no fue "contactada" aleatoriamente. Hace 22 años, ella era **xenobióloga de campo** para los Velari, una especie de humanoides deltóricos especializados en mapeo de civilizaciones emergentes. Llegó a la Tierra para catalogarla como mundo "en desarrollo" — un proceso rutinario que toma entre 50 y 200 años. Su misión oficial duraría 60 años más.
+
+Pero encontró algo que no estaba en los registros.
+
+Entre los archivos de civilizations extintas que los Velari monitorean desde la distancia, la Tierra figuraba como "caso anómalo": varios mundos idénticos a este habían sido **devorados** en los últimos 3.000 años. El patrón era consistente. mundos con la misma configuración orbital, misma diversidad biológica, incluso misma configuración geológica. La Tierra no debería existir. Pero existe.
+
+Los Velari propuso a Takeda Mizuki: *"Investiga. Si descubres qué tienen estos mundos que los hace únicos, podrías salvar a tu propia especie."* No era un contrato de proteger anclas. Era una **misión científica** de la más alta prioridad. Criar a Haruto fue su elección: el niño era la clave.
+
+---
+
+**Proyecto Fénix: Origen Científico**
+
+El Projeto Fénix no es una red colaborativa benevolent — es un **protocolo de contención**. Hace 47 años, una civilización llamada los **Coriáceos** (agresores intergalácticos que se reproducen por asimilación genética) identificó el "factor único" que hace que mundos como la Tierra sobrevivan. Descubrieron que ciertos individuos en esos mundos emiten frecuencias que ellos no pueden procesar. Cuando un Coriáceo se acerca a estos individuos, pierde cohesion celular por una incompatibilidad bioquímica fundamental.
+
+Los Coriáceos consideran estos mundos como "infestados". La limpieza es simple: esterilización orbital.
+
+El Projeto Fénix es la respuesta. Los Velari, los Taurani, los Kessari y otras 11 especies que _también_ fueron marcadas por Coriáceos, colaboraron para crear **anclas**: humanos con la frecuencia específica que repelía a Coriáceos. Pero criar anclas tomó generaciones. Y ninguna especie involucrada quería interferir directamente con civilizaciones humanas en desarrollo.
+
+Por eso existe la red de "observación pasiva". Los Velari no contactan a anclas directamente — esperan a que ancle y especie se encuentren naturalmente, como pasó con Lyra.
+
+**La ironía se mantiene** (Lyra cree que eligió a Haruto) pero ahora tiene explicación lógica: el sistema creó condiciones para que ella llegara, pero no la forzó. Lyra eligió. Solo que las opciones _fueron diseñadas_.
+
+---
+
+**La Hermana: El Error Humano**
+
+Takeda Mizuki tuvo una hija humana con un hombre local antes de recibir a Haruto: **Takeda Yui**, 8 años mayor que Haruto, ahora universitaria. Yui no es un ancla. Pero tampoco es completamente humana. La presencia de Haruto en la casa durante 20 años creó un efecto que el Projeto Fénix no predijo: **contagio de frecuencia**.
+
+Los anclas no solo emiten — también filtran. Haruto ha estado "irradiando" sutilmente a todos a su alrededor. La mayoría de personas son resistentes. Yui no. Ella desarrolló una sensibilidad de baja intensidad que le permite _sentir_ cuando algo no humano está cerca. No ve frecuencias como Haruto. No las procesa como Lyra. Pero experimentó toda su vida una sensación de que "algo está mal" sin saber qué. Por eso se fue a vivir sola lejos de la familia.
+
+Yui no sabe lo que es. Pero está incómoda con su propia hermana por razones que no puede articular. Esta tensión
