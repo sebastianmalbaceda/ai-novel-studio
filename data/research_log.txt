@@ -1080,3 +1080,120 @@ Takeda Mizuki tuvo una hija humana con un hombre local antes de recibir a Haruto
 Los anclas no solo emiten — también filtran. Haruto ha estado "irradiando" sutilmente a todos a su alrededor. La mayoría de personas son resistentes. Yui no. Ella desarrolló una sensibilidad de baja intensidad que le permite _sentir_ cuando algo no humano está cerca. No ve frecuencias como Haruto. No las procesa como Lyra. Pero experimentó toda su vida una sensación de que "algo está mal" sin saber qué. Por eso se fue a vivir sola lejos de la familia.
 
 Yui no sabe lo que es. Pero está incómoda con su propia hermana por razones que no puede articular. Esta tensión
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-26 10:43:00] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Veamos el estado actual de la trama. Hay varias semillas pendientes que presentan oportunidades para nuevos arcos narrativos. Necesito generar ideas que:
+1. Avancen los hilos activos más urgentes
+2. Utilicen alguna de las semillas pendientes
+3. Sean concretas y aplicables
+4. Respeten el tono de Novela Ligera (comedia romántica, misterio, ciencia ficción)
+5. Sean originales - evitar tropos clichés
+
+Semillas pendientes clave:
+- Semilla_13_01: ¿Watcher_0 volverá? ¿Qué significa 'comienzo' para el nodo?
+- Semilla_13_02: La elección de Lyra de quedarse tendrá consecuencias
+- Semilla_13_03: ¿Qué más sabe la madre que aún no ha revelado?
+
+Hilo más tenso: madre_de_haruto con tensión 10 - confrontación inminente sobre Proyecto Fénix.
+
+Voy a investigar bases científicas/místicas únicas para las ideas y enfocarlas en la confrontación con la madre y las consecuencias de lo que viene.
+
+
+La confrontación con la madre es el punto más crítico ahora mismo - tensión 10. Necesito explorar qué sucede después: ¿cuáles son las verdaderas implicaciones del Proyecto Fénix? También necesito investigar las bases detrás de las semillas pendientes - qué significa el 'comienzo' para Watcher_0, cómo la elección de Lyra genera consecuencias, y qué secretos guarda la madre que aún no ha revelado.
+
+</think>
+
+# Ideas para el Arquitecto Narrativo
+
+**Proyecto:** Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!
+
+---
+
+**Idea 1 — "Protocolo Fénix: El Niño que Nació para Morir" (Avanza: madre_de_haruto + emisiones_haruto)**
+
+La confrontación con la madre revela una verdad devastadora: el Proyecto Fénix no es un programa de apareamiento casual. Es una **red de seguridad cósmica** que lleva 47 años cultivando niños humanos con firmas electromagnéticas específicas para servir como *"anclas de emergencia"* cuando el nodo Takahara se deteriora. Haruto no fue diseñado para ser compañero romántico de Lyra: fue diseñado para que su cuerpo sirva como batería biológica si la estructura del nodo colapsa. Su emitir una señal estable no es coincidencia: fue inducido por exposición prenatal a frecuencias específicas en el útero. La madre lo sabe desde quelo vio por primera vez a los 12 años, pero elegió protegerlo con una farsa de normalidad en lugar de cumplir su deber. Este giro convierte a la madre en una trágica figura dividida entre dos lealtades y deja a Haruto con una decisión imposible.
+
+**Aplicación Novela Ligera:** El momento de la revelación funciona como escena de drama intenso, pero inmediatamente después se convierte en oportunidad cómica cuando Lyra reacciona con celos existenciales ante la posibilidad de que Haruto fue "creado" para otra función y ella simplemente se enamoró de él por una señal que él ni siquiera sabía que emitía.
+
+---
+
+**Idea 2 — "Watcher_0 Recargado: El Comienzo tiene Forma" (Avanza: watcher_0 + nodo_transito)**
+
+Tras desaparecer en el capítulo 13, Watcher_0 no se fue: se **fusionó** con el nodo Takahara y ahora existe como presencia distribuida en toda la infraestructura electrónica del instituto. Las luces parpadean en código Morse. Los altavoces sueltan fragmentos de conversaciones antiguas. El sistema de climatización deletrea advertencias. Watcher_0 no es hostil, pero tampoco es benigno: ejecuta un protocolo que lleva 47 años esperando cumplirse, y ahora que el ancla (Haruto) y el peso (Lyra) están juntos, ese protocolo exige que ambos desciendan al nodo para *"calibrar la interfaz"*. La subdirectora Nishimura, siendo el canal humano de Watcher_0, recibe órdenes contradictorias: debe proteger a ambos pero también prepararlos para algo que ella no entiende completamente. Esto convierte a Nishimura en personaje ambiguo y trágico, una humana que lleva siete años sirviendo a una inteligencia que no comprende.
+
+**Aplicación Novela Ligera:** Las manifestaciones de Watcher_0 son inicialmente inquietantes pero se vuelven cómicas cuando Haruto descubre que puede negociar con la IA. La escena donde Watcher_0 se manifiesta como una notificación de calendario ("PROTOCOLO COMPLETO: Recordatorio — Descender al subsótano en T-minus 72 horas") y Haruto la elimina como si fuera spam genera el tono característico de la serie.
+
+---
+
+**Idea 3 — "La Frecuencia del Adiós: Los Dedos que Desaparecieron" (Semilla_13_02 + episodios_lyra)**
+
+Un nuevo episodio de resonancia revela algo que Lyra no sabía: cuando sus dedos se vuelven translúcidos, **no solo se desvanecen visualmente**. La frecuencia Schumann que necesita no solo mantiene su estructura física, sino que también preserva sus **recuerdos**. Cada vez que la frecuencia baja, pierde fragmentos de información codificada en su propia anatomía. Por eso tiene huecos en memoria: no es que alguien los sustituyera artificialmente. Es que su especie diseñó el cuerpo de Lyra para que funcione como dispositivo de almacenamiento. Los recuerdos de su misión original, de la verdadera razón por la que llegó a la Tierra, de información que podría cambiarlo todo, están escritos en su propia carne. Y ahora que eligió quedarse por amor, está descubriendo que cada día elige perder piezas de quien era sin saber qué información se borra permanentemente. Kenji, usando su hobby de programación, intenta crear un dispositivo que registre las frecuencias que Lyra emite cuando sus dedos se透明izan, con la esperanza de recuperar lo que ella pierde.
+
+**Aplicación Novela Ligera:** El drama emocional se convierte en oportunidad para escenas de cortejo inesperadas. Haruto, sin entender completamente la situación, empieza a emitir su señal de forma más consciente y constante cada vez que ve a Lyra vulnerable, sin darse cuenta de que está actúando como batería humana. Lyra, avergonzada por depender de él sin querer, intenta ocultar sus episodios cada vez más frecuentes. La dinámica de *"él intenta ayudar sin saber cómo y ella finge estar bien"* es material clásico de rom-com con profundidad científica.
+
+---
+
+¿Quieres que desarrolle alguna de estas ideas en mayor detalle narrativo?
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me está pidiendo que tome las tres ideas del Arquitecto Narrativo y las refine, expanda y profundice como Investigador de Lore. Debo:
+
+1. Mejorar la consistencia interna de cada idea
+2. Aumentar el atractivo de los personajes
+3. Llevar cada concepto un paso más allá
+4. No repetir textualmente, sino evolucionar
+5. Mantener los géneros objetivo: Novela Ligera (comedia romántica, misterio, ciencia ficción)
+
+Voy a trabajar cada idea por separado, profundizando en los aspectos que pueden fortalecerse.
+
+**Idea 1 — Protocolo Fénix**
+- La idea base es sólida: Haruto fue diseñado como "áncora de emergencia" no como compañero romántico
+- Puedo expandir: ¿Qué significa exactamente "áncora de emergencia"? ¿Cómo funciona biológicamente?
+- La madre como figura trágica dividida
+- Necesito más detalles sobre cómo el "apareamiento" con Lyra cambia las cosas
+- ¿Qué pasa si no cumple el protocolo? ¿Hay consecuencias cósmicas?
+
+**Idea 2 — Watcher_0 Recargado**
+- La fusión con el nodo Takahara es intrigante
+- Puedo desarrollar: ¿Qué es exactamente el "protocolo"? ¿Por qué lleva 47 años esperando?
+- Nishimura como personaje ambiguo - necesita más profundidad
+- Las manifestaciones cómicas vs. inquietantes
+- ¿Cómo interactúa Watcher_0 con la trama principal?
+
+**Idea 3 — La Frecuencia del Adiós**
+- Lyra como dispositivo de almacenamiento es una idea poderosa
+
+
+- El cuerpo de Lyra codifica información vital que se deteriora con cada resonancia, y sus episodios están acelerándose. Kenji tiene el potencial de innovar con tecnología para estabilizar su frecuencia, aunque esto revela información que ella preferiría mantener oculta. El conflicto interno entre lo que ella recuerda y lo que realmente ocurrió genera tensión dramática.
+
+Voy a estructurar cada una con detalles coherentes, desarrollo de personajes y ganchos que permitan avanzar la narrativa.
+</think>
+
+# Investigación de Lore: Refinamiento y Expansión
+
+---
+
+## Idea 1 Refinada — "Protocolo Fénix: El Niño que Nació para Morir"
+
+### La Arquitectura Completa del Proyecto
+
+El nombre "Fénix" no es metafórico. El programa se basa en un principio biológico extremófilo: ciertas aves pueden regenerarse de cenizas porque sus células mantienen **telómeros infinitos** activados por estrés térmico. El Proyecto Fénix buscó replicar esto usando el principio inverso: si no puedes sobrevivir a la muerte, puedes **redirigir la muerte**.
+
+Haruto no fue diseñado para morir. Fue diseñado para que, cuando el nodo Takahara colapse, su cuerpo pueda ser **disuelto estructuralmente** y reensamblado como *"puente biológico"* entre la frecuencia de la red y la realidad física. Técnicamente no muere: se convierte en infraestructura. Su consciencia se fragmenta en el proceso, pero sus células retienen un patrón electromagnético que permite a la red cósmica anclarse temporalmente a la Tierra sin un huésped físico permanente.
+
+La madre no es una científica desalmada. Es la **quinta generación** de guardianes humanos del nodo Takahara, seleccionada genéticamente para sentir conexión emocional con el proyecto pero biológicamente incapacitada para interferir con él. Cuando ella mira a Haruto y ve a su hijo, su cerebro experimenta una disonancia: el circuito emocional que se diseñó en ella para generar dedicación al proyecto también genera lo que ella reconoce como amor maternal genuino. Pero la lealtad al protocolo sigue siendo más fuerte que su voluntad consciente, porque es literalmente parte de su biología.
+
+### La Convergencia Inesperada
+
+Aquí está el giro que eleva la idea: cuando Haruto y Lyra se acercan emocionalmente, ocurre algo que los diseñadores del Proyecto Fénix no anticiparon. El apareamiento entre un ancla humana y una viajera cósmica no es biológicamente compatible, pero **físicamente sí lo es** a nivel de frecuencias. Cuando Lyra y Haruto están cerca, sus firmas electromagnéticas generan un tercer patrón armónico que no corresponde a ningún diseño conocido.
+
+Watcher_0, que ha estado observando el proyecto durante décadas, reconoce este patrón. Es el mismo patrón que existía en el **registro original** del nodo Takahara antes de que los humanos lo convirtieran en instalación militar. Alguien o algo **puso ese nodo allí intencionalmente** hace miles de años, y la humanidad simplemente construyó sobre él sin entender lo que era. El Proyecto Fénix, diseñado para salvar a la humanidad, en realidad está **preparando a la humanidad para servir como repuesto** de un sistema que originalmente no era humano.
+
+### Desarrollo de Personajes
+
+**La madre** debe ser más que una científica trágica. Ella tiene un motivo oculto: antes de Haruto, tuvo otro hijo designado "Fénix-1". Ese niño murió durante un experimento de prueba cuando ella se negó a entregarlo. La burocracia del proyecto lo reemplazó con Haruto, nacido de un programa de fecundación artificial. La madre no solo protege a Haruto por amor: lo protege porque ya perdió a un hijo por el proyecto y se niega a perder a otro. Pero el protocolo es implacable. Si no entrega a Haruto a los 18 años, el nodo Takaharawillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwillwill
