@@ -182,3 +182,9 @@ El protagonista confronta a Lyra sobre el misterioso "protocolo completo" que Wa
 Haruto se dirige a la oficina de su madre en el ala administrativa, procesando la revelación de que ella ha mentido durante treinta años, no solo sobre Watcher_0 sino sobre toda su infancia: visitas médicas sospechosas, excusas para evitar psicólogos y un cariño que siempre tuvo tono de observación clínica. Descubre que es el Sujeto M-07 del Proyecto Fénix. Al llegar, encuentra a su madre esperándolo sentada tras su escritorio con un folder negro que él reconocía de su infancia, siempre cerrado bajo llave. Cuando la confronta, ella no muestra sorpresa y corrige con precisión académica que fueron diecisiete años, tres meses y once días de silencio, dejando claro que esperaba esta conversación y que tiene mucho más que revelar sobre su pasado y su verdadera naturaleza.
 
 ---
+
+### Capítulo 31
+
+En este capítulo revelador, la madre del protagonista le confiesa una verdad ocultada durante toda su vida: él fue detectado antes de nacer mediante sensores bajo el instituto, y desde los doce años ha sido monitoreado por su frecuencia, que se volvía cada vez más compleja y adaptable. Hace cuarenta y siete años, el nodo emitió una predicción sobre alguien compatible con los Velari, y él resultó ser esa persona profetizada, lo que significa que su conexión con Lyra no fue una elección casual sino un destino. A los doce años recibió la visita de Watcher_0 para evaluarlo y confirmar sus capacidades. Cuando pregunta si es lo que esperan, su madre responde que es más de lo esperado, lo cual complica todo. El capítulo cierra con Lyra apareciendo en la puerta, captando la tensión y la historia no dicha que flota en el aire. Quedan abiertos múltiples hilos: el alcance real de las capacidades del protagonista, el verdadero propósito de Watcher_0, y la reacción de Lyra ante esta revelacion que podría cambiar su relación para siempre.
+
+---
