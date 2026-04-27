@@ -514,3 +514,192 @@ Haruto no lo sabe, pero su verdadero atractivo no es su frecuencia—es que él 
 ---
 
 ## REFINAMIENTO 3: LA INTERFERENCIA COMO ESPÍA
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-27 02:37:48] =============
+
+--- ITERACIÓN 1 ---
+<think>
+Analizando el estado actual del proyecto:
+
+**HILOS ACTIVOS CON ALTA TENSIÓN:**
+- madre_de_haruto (tensión 10): Confrontación inminente
+- watcher_0 (tensión 9): Protocolo intensificado
+- emisiones_haruto (tensión 8): ¿Qué es exactamente el Proyecto Fénix?
+- nodo_transito (tensión 8): ¿Puede reactivarse?
+
+**SEMILLAS PENDIENTES:**
+- semilla_13_01: Watcher_0 desaparece, ¿volverá? ¿Qué significa "comienzo"?
+- semilla_13_02: Lyra eligió quedarse, consecuencias en próximo arco
+- semilla_13_03: Madre vigiló a Haruto, ¿qué más sabe?
+
+**DÉBIL:**
+- complicidad_haruto (tensión 4): Haruto procesando ser Sujeto M-07
+
+**GÉNEROS:**
+- Rom Com 40% → necesita más desarrollo romántico
+- Mystery 10% → bajo, pero hay muchos misterios pendientes
+- Action 25% → podría introducirse más
+
+Voy a crear 3 ideas que:
+1. Avancen la confrontación con la madre (tensión máxima)
+2. Resuelvan/aprovechen alguna semilla pendiente
+3. Incluyan elementos románticos (por el 40% Rom Com)
+4. Ofrezcan originalidad técnica
+
+---
+
+**IDEA 1: LA PRUEBA DEL SÓTANO**
+Basada en semilla_10_01 y la confrontación inminente. 
+
+La revelación del sótano funciona como detonante romántico. Cuando Lyra y Haruto acceden juntos, descubren que la madre diseñó la prueba específicamente para ellos dos. En su interior, encuentran un dispositivo Velari que requiere la frecuencia de Haruto combinada con el código de Lyra para activarse. Este momento los fuerza a colaborar íntimamente, generando tensión romántica mientras resuelven el misterio. El dispositivo no funciona individualmente, sino solo cuando sus energías se sincronizan.
+
+**IDEA 2: EPISODIO PÚBLICO**
+Incorporando episodios_lyra con Rom Com para crear un momento de vulnerabilidad compartida. En un evento escolar como el festival cultural o la ceremonia de apertura, Lyra experimenta un episodio donde sus dedos se vuelven translúcidos frente a toda la clase. Haruto debe mantenerla estable usando su propia frecuencia. La escena mezcla comedia romántica con drama, mientras los compañeros descubren que "algo" está pasando entre ellos. Este incidente acelera la relación al forzar a Haruto a revelar su rol como ancla.
+
+**IDEA 3: EL DILEMA ÉTICO DE NISHIMURA**
+Abordando watcher_0 y archivos_nishimura. Nishimura es revelada como medio Velari, vigilando a Haruto y Lyra no por malicia, sino por proteger a los únicos que pueden sobrevivir lo que viene. Ella tiene información crucial sobre por qué Watcher_0 necesita que estén juntos. Este ángulo oscuro añade profundidad a un personaje potencialmente ambiguo, sugiriendo motivaciones más complejas que la simple supervisión.
+</think>
+
+**IDEAS PARA AVANZAR LA TRAMA:**
+
+**1. "El Sótano de las Frecuencias Gemelas" (Madre de Haruto + Lyra + Emisiones Haruto)**
+En la confrontación, la madre no revela todo inmediatamente. En cambio, guía a Haruto y Lyra al sótano del observatorio donde existe una cámara de resonancia Velari inactiva. El dispositivo requiere dos frecuencias para activarse: la señal estable de Haruto (Sujeto M-07) y la firma única de Lyra como Velari. Intentan activarlo juntos y descubren que el nodo Takahara es en realidad un fragmento de tecnología Velari que necesita un "ancla" (Haruto) y un "peso" (Lyra) funcionando en синхронизированный пара́ (sincronía armónica). La escena avanza la trama y genera un momento íntimo donde deben sincronizar frecuencias, aumentando la tensión romántica.
+
+**2. "Resonancia en el Festival Cultural" (Episodes Lyra + Complicidad Haruto + Slice of Life)**
+El festival escolar interrumpe la investigación. Lyra experimenta un episodio durante la ceremonia de apertura frente a toda la escuela: sus dedos se vuelven translúcidos y su firma estructural se destabiliza. Haruto debe abandonar su rol de estudiante normal y estabilizarla usando su propia frecuencia, pero el método requiere contacto físico sostenido (agarrar sus manos mientras modulate su señal). Los compañeros de clase notan la escena. Este incidente mezcla comedy con drama, revela parcialmente su conexión ante otros personajes (posiblemente Kenji o algún antagonista), y fuerza a Haruto a procesar emocionalmente su rol como ancla mientras avanza la relación romántica.
+
+**3. "El Dilema de Nishimura" (Watcher_0 + Archivos Nishimura)**
+Revelación de que Nishimura es una Integrada de segunda generación (medio Velari, medio humano), no completamente humana. Lleva 7 años monitoreando anomalías porque Watcher_0 le mostró la verdad: existe un evento futuro llamado "El Colapso de Frecuencia" donde la frecuencia Schumann dejará de existir, afectando a todas las especies que dependen de ella (incluyendo a Lyra). Nishimura es aliada de Watcher_0 no por malicia, sino porque cree genuinamente que Haruto y Lyra son "elementos no resueltos" que pueden предотвратить (prevenir) el colapso. Este revelation añade dimensión moral a un personaje secundario y prepara el arco de "algo que viene" sin resolver completamente el misterio.
+
+--- ITERACIÓN 2 ---
+<think>El usuario me pide que tome las 3 ideas generadas en la iteración anterior y las refine, expanda y profundice. Debo:
+
+1. Mejorar la consistencia
+2. Mejorar el atractivo de los personajes
+3. Llevar las ideas un paso más allá
+4. Basarme en los géneros objetivo (Rom Com 40%, Mystery 10%, Action 25%)
+5. No repetir textualmente, sino evolucionar el concepto
+
+Voy a analizar cada idea y expandirla con más detalles narrativos, técnicos y de personajes.
+
+**IDEA 1: "El Sótano de las Frecuencias Gemelas"**
+Esta idea mezcla Confrontación con la madre, Lyra, y las emisiones de Haruto. Tiene potencial para:
+- Crear un momento de revelación técnica
+- Generar tensión romántica
+- Avanzar el misterio del Proyecto Fénix
+- Crear un vínculo físico/emocional entre Haruto y Lyra
+
+Puedo expandirla con:
+- Más detalles sobre qué es exactamente la Cámara de Resonancia
+- Qué significa "sincronía armónica" en términos prácticos
+- Qué descubre exactamente el dispositivo
+- La reacción de la madre y qué planea
+- Más tensión entre Haruto y Lyra sobre el proceso de sincronización
+
+**IDEA 2: "Resonancia en el Festival Cultural"**
+Esta es la más Rom-Com de todas. Tiene potencial para:
+- Crear un momento de vulnerabilidad pública
+- Mezclar comedy con drama
+- Avanzar la relación romántica
+- Revelar parcialmente la situación a otros personajes
+- Crear un momento de acción/tensión
+
+Puedo expandirla con:
+- Más detalles sobre qué es exactamente el festival
+
+
+- El impacto específico del contacto físico sostenido y cómo se desarrolla
+- Qué percibe exactamente el público y cómo reacciona
+- Un antagonista que observa y aprovecha la situación
+- Consecuencias inmediatas que generan nuevas complicaciones
+
+**IDEA 3: "El Dilema de Nishimura"**
+Esta idea introduce la complejidad moral y expande el worldbuilding. Puedo desarrollo más el concepto de Nishimura como personaje ambiguo, explorar qué significa ser Integrada de segunda generación, profundizar en el "Colapso de Frecuencia" como amenaza, y revelar qué son los "elementos no resueltos". También necesito definir cómo se relaciona esto con la vigilancia que ejerce Watcher_0.
+
+Voy a crear una estructura que sea más útil para la narrativa: una ficha técnica de la idea con concepto base, elementos clave de characters y worldbuilding, arcos y consecuencias, oportunidades para cada género, y ganchos narrativos. Mi respuesta debe ser extensa y detallada.
+</think>
+
+# Iteración Narrativa: Profundización y Evolución
+
+---
+
+## IDEA 1: "SÓTANO RESONANTE — EL DISPOSITIVO GEMELO"
+
+### Concepto Refinado
+
+El sótano no es simplemente una habitación: es un **nódulo de tecnología Velari abandonada** que la madre de Haruto ha estado protegiendo durante años. El dispositivo se llama **"Caja de Síncronos"** (同期ボックス, Dōkī Bokkusu) y fue diseñado originalmente para crear un vínculo de frecuencia estable entre dos seres: un Ancla y un Portador. La madre no reveló esto antes porque sabía que el dispositivo solo funciona cuando existe **confianza mutua genuina** entre los usuarios. Si se fuerza la activación, el dispositivo se destruye.
+
+> ** twist narrativo:** Lyra no es solo un Velari. Es la *última Portadora funcional* de una línea genética que alguna vez fue necesaria para estabilizar los campos de frecuencia de la Tierra. Haruto como Ancla M-07 no es un accidente: es parte de un diseño de reproducción selectiva que la madre ha estado orquestando durante generaciones.
+
+### Elementos de Personaje Expandidos
+
+**Madre de Haruto (Midori Kazama):**
+- Revelación: Lleva 23 años estudiando las frecuencias Velari después de que su propio padre desapareciera durante un experimento fallido en los años 90
+- Motivación oculta: No quiere destruir a Lyra ni usar a Haruto como herramienta. Quiere *salvar a ambos* porque comprende que el Colapso de Frecuencia destruirá a toda la especie humana, no solo a los Velari
+- Debilidad: Ha sido tan obsessiva con el plan que ha descuidado la conexión emocional con Haruto. Su confrontación no es antagonist, sino una madre que intentó protegerlo desde la ignorancia
+
+**Lyra:**
+- Momento de vulnerabilidad: Cuando intenta activar el dispositivo sola, experimenta un flash de memoria genética: ve a una mujer Vestral (ancestral Velari) usando el mismo dispositivo con un hombre que fue probablemente un Ancla
+- Decisión interna: Debe elegir si confía en el plan de Midori o si huye con Haruto. Elige la confianza, pero establece condiciones: "Si esto sale mal, nos vamos. Los dos."
+
+**Haruto:**
+- El momento de sincronización lo fuerza a confrontar sus sentimientos por Lyra de manera física y emocional. No puede hiding behind lógica cuando su frecuencia se entrelaza con la de ella
+- Conexión con Project Fénix: El dispositivo revela que "Fénix" no es un proyecto militar, sino el nombre en clave de un protocolo de emergencia que se activa cuando los Veleri están en peligro de extinción
+
+### Arco Técnico Expandido
+
+```
+Sincronización de Frecuencias:
+├── Fase 1: Contacto físico (manos unidas)
+├── Fase 2: Resonancia inicial (frecuencias se tocan)
+├── Fase 3: Interferencia constructiva (frecuencias se amplifican)
+├── Fase 4: Sincronía completa (una sola señal armónica)
+└── Fase 5: Activación del dispositivo (requiere Fase 4 estable)
+```
+
+- La sincronización es dolorosa al principio (interferencia deconstructiva)
+- Solo funciona cuando ambos *quieren* que funcione, no por obligación
+- La madre observa pero no interviene, respetando el proceso
+
+### Oportunidad por Género
+
+| Género | Aplicación |
+|--------|------------|
+| **Mystery** | ¿Por qué los Velari desarrollaron este dispositivo? ¿Qué evento lo hizo necesario originalmente? |
+| **Rom Com** | El momento de sincronización es inherentemente íntimo: deben mirarse a los ojos, mantener contacto físico, y "sentir" la frecuencia del otro |
+| **Action** | Cuando el dispositivo se activa, genera un pulso que es detectable por Watcher_0 y potencialmente por otras facciones |
+
+### Consecuencias Narrativas
+
+1. **Watcher_0 detecta la activación** desde su ubicación actual, intensificando su protocolo
+2. **La madre revela la existencia de otros tres nodos** (además de Takahara) en diferentes ubicaciones del mundo
+3. **Lyra descubre que es genéticamente "diseñada"** para esta función, lo cual afecta su identidad
+4. **Se establece el vínculo de frecuencia** entre Haruto y Lyra, creando una conexión permanente pero no explícita todavía
+
+---
+
+## IDEA 2: "FESTIVAL SHIFT — LA INTERRUPCIÓN DEL DESTINO"
+
+### Concepto Refinado
+
+El **Festival Cultural Anual de la Preparatoria Kazama** no es un evento random. Tiene lugar durante el **Solsticio de Verano**, cuando según los registros de Project Fénix, la frecuencia Schumann experimenta su punto más bajo del año. Esto no es coincidencia: el festival fue establecido hace 40 años por una facción escolar predecesora que conocía las frecuencias y elegía deliberadamente este momento para sus rituales de "celebración de la luz" (una referencia codificada a la estabilización de frecuencia).
+
+> ** twist narrativo:** El festival tiene lugar en la **gimnasia de la escuela**, que está construida directamente sobre un **punto de anclaje natural** (un lugar donde la frecuencia de la Tierra es intrínsecamente más estable). Por esto la madre de Haruto siempre lo inscribió en esta escuela. La geografía del lugar es un arma potencial.
+
+### Elementos de Personaje Expandidos
+
+**Lyra:**
+- Momento de crisis pública: Sus dedos se vuelven translúcidos, pero también empieza a *resonar* con el espacio a su alrededor: las ventanas tintinan, las luces fluctúan, los otros estudiantes sienten un escalofrío colectivo
+- Decisión interna: ¿Debería huir y exponer su condición, o quedarse y arriesgar un episodio mayor?
+- Desarrollo: Eligе stay porque ve a Haruto en la multitud, y su frequency *llama* a su ancla instintivamente
+
+**Haruto:**
+- Debe actuar público sin preparación, lo cual revela su rol como ancla no solo a los estudiantes, sino a un **observador específico**: Takeda, el capitán del club de ciencias, quien ha estado investigando "anomalías electromagnéticas" en la escuela
+- Momento de crisis: Al estabilizar a Lyra, experimenta un *feedback* que causa que su sangre nasal (efecto secundario conocido) se intensifique visiblemente
+- Arco emocional: El contacto físico prolongado lo obliga a confrontar sentimientos que había estado ignorando
+
+**Takeda Sora (NUEVO PERSONAJE):**
+- Estudiante de tercer año, brillante pero socialmente incómodo
+- Ha documentado 47 "eventos electromagnéticos inexplicables" en la escuela durante los últimos dos años
+- No es antagonista, sino un **curioso neutral** que podría convertirse en
