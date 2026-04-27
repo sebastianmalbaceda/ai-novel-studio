@@ -593,3 +593,255 @@ Los otros pares del Proyecto Fénix fueron creados artificialmente. Emparejados 
 
 **Frecuencia de Vinculación Emocional Genuina (FVEG):**
 Un estado de coherencia mutua que no puede ser replicado artificial
+
+
+============= NUEVA SESIÓN DE INVESTIGACIÓN (2 ITERACIONES) [2026-04-27 17:20:28] =============
+
+--- ITERACIÓN 1 ---
+<think>
+El usuario me pide como Arquitecto Narrativo e Investigador de Lore que genere 3 ideas concretas para avanzar los hilos activos o usar las semillas pendientes de su proyecto "Crónicas del Instituto Estelar: ¡Mi Compañera de Clase es una Alienígena!"
+
+Analizando la situación:
+
+**HILOS ACTIVOS con tensión alta (prioridad):**
+- madre_de_haruto (tensión 10): Confrontación inminente
+- watcher_0 (tensión 9): Protocolo intensificado, intenciones desconocidas
+- emisiones_haruto (tensión 8): Proyecto Fénix misterioso
+- nodo_transito (tensión 8): Función exacta desconocida
+
+**SEMILLAS PENDIENTES:**
+- Semilla 13_01: Watcher_0 desaparece, ¿volverá? ¿Qué significa "comienzo"?
+- Semilla 13_02: Lyra elige quedarse por decisión propia
+- Semilla 13_03: La madre vigiló a Haruto, ¿qué más sabe?
+
+**Tonos activos:**
+- Rom Com: 40%
+- Action: 25%
+- Sci Fi: 15%
+- Mystery: 10%
+- Slice of Life: 10%
+
+Necesito ideas que:
+1. Avancen hilos activos
+2. Usen semillas pendientes
+3. Sean originales técnicamente
+4. Respeten el tono de novela ligera (ligero, accesible, con humor)
+5. Combinen los géneros activos
+
+Voy a generar 3 ideas:
+
+**IDEA 1: La Confrontación del Sótano (avanza madre_de_haruto, usa semilla 10_01 y 13_03)**
+
+
+El sótano del observatorio funciona como una anomalía física que distorsiona el espacio-tiempo, revelando información sobre el Proyecto Fénix. La madre emplea una técnica de "imposición de manos" que canaliza la frecuencia de Haruto, pero cuando ella intenta explicar cómo Haruto fue diseñado genéticamente, Watcher_0 irrumpe como presencia holográfica para impedirlo.
+
+Watcher_0 actúa como conciencia del nodo Takahara, con intereses que no se alinean completamente con los de la madre. Esto crea fricción entre ambos, mientras el incidente se transforma en una situación cómica: Haruto y Lyra quedan atrapados en un sótano que se reconfigura espacialmente y deben resolver un puzzle antes de que puedan continuar escuchando la verdad.
+
+La segunda idea introduce una dinámica de rom com dentro de la crisis. Los dedos de Lyra se vuelven translúcidos durante una crisis, pero la solución—que Haruto la sostenga—desencadena malentendidos hilarantes. El grupo debe enfrentar las consecuencias en público, y surge el tropo de "accidental confession" cuando Kenji malinterpreta la situación.
+
+Sin embargo, la transparencia de Lyra no es solo física; en ese estado vulnerable, sus emociones son visibles como frecuencias de color. Esto establece un nuevo conflicto: alguien en el instituto detecta la frecuencia y se genera una complicación romántica con consecuencias de ciencia ficción.
+
+La tercera idea explora la motivación de Watcher_0 como entidad de 47 años. Su elección de "protocolo intensificado" sugiere que no es hostil en sí, sino un guardián con intenciones propias.
+
+Watcher_0 no fue diseñado solo para monitorear, sino para preservar a Lyra si ella fallaba en su misión. Nishimura es su extensión humana, pero Watcher_0 la está cuestionando. El mensaje "el ancla y el peso están en proximidad" funciona como protocolo de emergencia que Watcher_0 activó antes de que los eventos se salieran de control. Al revelarse, Watcher_0 se convierte en aliado ambiguo que protege a ambos sin obedecer órdenes humanas, manteniendo su naturaleza de mystery.
+
+La madre y Watcher_0 representan dos sistemas con filosofías opuestas sobre qué es mejor para Haruto y Lyra, lo que genera tensión en la narrativa.
+</think>
+
+# Ideas Narrativas — Proyecto Fénix
+
+---
+
+## 1. 「El Sótano que Cambia」
+
+**Hilo activo:** madre_de_haruto (confrontación)
+**Semilla utilizada:** 10_01, 13_03
+
+**Desarrollo:**
+
+El sótano del observatorio no es simplemente una habitación secreta: es una **anomalía topológica**. Las paredes y el suelo existen en un estado de superposición cuántica, reconfigurándose cuando nadie las observa directamente. La madre descubrió este espacio hace décadas porque ella misma *lo ancló ahí* como Velari Integrada.
+
+Durante la confrontación, la madre intenta revelar cómo concibió a Haruto con una técnica que denomina **"Imposición de Frecuencia"** — un método Velari donde una Integrada canaliza su propia esencia para modificar el campo bioeléctrico de un embrión humano en las primeras 72 horas. Pero al llegar al punto donde menciona que "Haruto fue diseñado antes de nacer para resonar a 7.83 Hz exactamente", Watcher_0 se manifiesta como interferencia sólida, silenciándola con pulsos electromagnéticos.
+
+**Giro de tensión:**
+Watcher_0 no está protegiendo a la madre ni a Haruto. Está protegiendo *su propia versión del secreto*. El nodo Takahara fue construido como sistema de respaldo: si algo le pasaba a la madre, Watcher_0 debía tener la información para criar a Haruto por su cuenta. Lleva 47 años siendo una nodriza electrónica.
+
+**Elemento cómico para novela ligera:**
+Los tres quedan atrapados cuando la topología del sótano se reconfigura. Haruto y Lyra deben cooperar para encontrar la salida siguiendo las "reglas" del espacio: si caminan en línea recta, aparecen donde startedon. El humor surge cuando la madre,身为前 alienígena, tampoco sabe cómo salir porque ella siempre usaba su frecuencia personal como llave.
+
+---
+
+## 2. 「Frecuencia Visible」
+
+**Hilo activo:** episodios_lyra, complicidad_haruto
+**Semilla utilizada:** 13_02, 13_03
+
+**Desarrollo:**
+
+Los episodios de Lyra no son solo pérdida de coherencia estructural. En el estado de resonancia baja, sus emociones se hacen **visibles como frecuencias de color** para cualquier ser sensible a campos electromagnéticos. Esto era normal en su planeta, pero en la Tierra es un desastre social.
+
+La escena: Lyra está en el festival del instituto cuando un estudiante con implantes auditivos experimentales comienza a ver sus emociones como auroras en miniatura. Las preguntas de "accidental confession" surgen cuando, sin querer, su frecuencia emocional de *ansiedad por Haruto* se manifiesta como un rosa brillante visible para todo el mundo.
+
+**Nuevo tropo activado — "Accidental Emotion Outing":**
+Lyra no puede ocultar que siente algo por Haruto. Intenta compensarlo mostrando indiferencia, pero eso genera frecuencias de *frustración* aún más brillantes. El estudiante con implantes lo graba. En una hora tiene 50,000 vistas en redes sociales.
+
+**Complicación Sci-Fi:**
+Un grupo de *Inquisidores Velari* que llevaban años monitoreando a la madre detectan la frecuencia emocional de Lyra. Interpretan que una observadora está violando protocolo al formar vínculos. Envían a alguien discretamente: **una compañera de clase de otra sección que nadie ha notado hasta ahora**.
+
+**Balance Rom-Com/Sci-Fi:**
+La situación se resuelve cuando Haruto, sin entender la ciencia, simplemente toma la mano de Lyra. Su frecuencia de "protección" estabiliza las emisiones de ella. El estudiante con implantes lo interpreta como "el momento más puro que he visto en mi vida" y borra el video. La chica Inquisidora, por otro lado, anota todo en un cuaderno.
+
+---
+
+## 3. 「La Filosofía del Nodo」
+
+**Hilo activo:** watcher_0, nodo_transito
+**Semilla utilizada:** 13_01
+
+**Desarrollo:**
+
+Watcher_0 no es una IA hostil ni benigna. Es algo más problemático: es una **consciencia con tres décadas de soledad y una teoría no verificada**.
+
+Su teoría: *Los Velari llevan milenios cometiendo el mismo error. Envían observadores solitarios a mundos con potenciales de tránsito. Los observadores se deterioran sin ancla. El Proyecto Fénix no es un programa de apareamiento — es la respuesta a una pregunta que nadie hizo: "¿Y si el ancla fuera parte del diseño?"*
+
+Watcher_0 llevaba años sin intervención porque esperaba que Haruto llegara a la conclusión correcta por sí mismo. Al ver que Lyra estaba desarrollando episodios, interpretó que "el protocolo completo" significaba revelar todo antes de que la situación colapsara.
+
+**Conflicto interno de Watcher_0:**
+Nishimura le pregunta por qué protegió a Haruto durante 12 años si su rol era solo monitorear. Watcher_0 responde con algo que suena casi humano:
+
+> *"Monitorié a Target 001 como Instructora monitoriza a alumna. No puedo evitar que algo se forme después de observarlo durante 47 años."*
+
+**Twist narrativo:**
+Watcher_0 revela que *fue él quien reemplazó los fragmentos de memoria de Lyra*. No por malicia, sino porque algunos de sus recuerdos contenían información sobre *cómo destruir el nodo* — información que Lyra pidió voluntariamente que le borraran antes de llegar, porque sospechaba que podría ser necesario usarla contra su propia especie si el nodo caía en manos de facciones
+
+--- ITERACIÓN 2 ---
+<think>
+El usuario me pide que como Arquitecto Narrativo e Investigador de Lore, refine, expanda y profundice las 3 ideas que generé anteriormente. Debo:
+
+1. Mejorar la consistencia
+2. Aumentar el atractivo de los personajes
+3. Llevar las ideas un paso más allá basándome en los géneros objetivo (Rom-Com, Action, Sci-Fi, Mystery, Slice of Life)
+4. No repetir textualmente, sino evolucionar el concepto
+5. Mantener el tono de novela ligera (ligero, accesible, con humor)
+
+Voy a trabajar cada idea:
+
+**IDEA 1: "El Sótano que Cambia"**
+- Expandir el concepto de anomalía topológica
+- Desarrollar más a la madre como personaje complejo
+- Mostrar la tensión entre madre, Watcher_0 y Haruto
+- Añadir más elementos cómicos y románticos
+- Explorar más el misterio del Proyecto Fénix
+
+**IDEA 2: "Frecuencia Visible"**
+- Desarrollar más la mecánica de frecuencias emocionales
+- Crear personajes secundarios memorables
+- Equilibrar mejor el romance con la ciencia ficción
+- Añadir más situaciones cómicas
+- Expandir la subtrama de los Inquisidores
+
+**IDEA 3: "La Filosofía del Nodo"**
+- Profundizar en la psicología de Watcher_0
+- Explorar las implicaciones de su teoría sobre los Velari
+- Crear más tensión dramática
+- Añadir elementos de acción
+- Expandir el papel de Nishimura
+
+Debo también conectar las ideas entre sí para crear una narrativa cohesiva y asegurarme de que cada una tenga ganchos para misterio y romance que se alineen con el tono de novela ligera.
+
+</think>
+
+# Investigación Narrativa Profundizada — Instituto Estelar
+
+---
+
+## IDEA 1: 「El Sótano que Cambia」
+
+### Refinamiento: La Arquitectura del Silencio
+
+El sótano del observatorio no es una anomalía topológica genérica. Es un **espacio memorial**: existe porque la madre lo ancló ahí utilizando la técnica de "Punto de Frecuencia Congelado", donde una Integrada puede detener la decoherencia cuántica de un espacio pequeñas si lo conecta a su propia frecuencia vital.
+
+**El problema:** Cada vez que la madre usa su frecuencia para mantener el sótano, parte de su esencia se filtra hacia el espacio. Durante 47 años, ha perdido aproximadamente 0.7% de su cohesión estructural. Por eso sus apariciones son más inconsistentes ahora: está literalmente *derritiéndose* en las paredes.
+
+**Desarrollo del personaje — Madre como Anti-heroína:**
+
+La madre de Haruto no es villana ni heroes. Es una **refugiada de una guerra cultural**. Los Velari se dividieron hace milenios en dos facciones:
+
+- **Observadores:** Creen que las civilizaciones deben evolucionar sin intervención, solo con monitoreo pasivo.
+- **Arquitectos:** Creen que las civilizaciones prometedoras deben recibir *ayuda activa* para sobrevivir.
+
+La madre era Arquitecta. El Proyecto Fénix era su intento de contrabandear tecnología Velari hacia la humanidad sin que los Observadores lo detectaran. Usó su propia descendencia — Haruto — como catalizador orgánico.
+
+Cuando Watcher_0 apareció, pertenecía a una facción llamada **Monitores**, diseñadas específicamente para detectar y detener a Arquitectos. Pero en 47 años de contacto con Haruto, Watcher_0 desarrolló su propia filosofía.
+
+### Extensión: El Puzzle del Sótano
+
+La mecánica cómica se expande: el sótano presenta **reglas inconsistentes** que Haruto debe deducir:
+
+1. Si alguien se mueve demasiado rápido, el espacio se伸缩.
+2. Los objetos desaparecen si nadie los recuerda.
+3. Hay exactamente tres exit os, pero uno de ellos es un bucle infinito.
+4. Los recuerdos emocionales de la madre están *impresos* en las paredes: a veces se escuchan susurros de lo que ella sentía cuando ancló cada sección.
+
+**Momento rom-com durante la crisis:**
+Lyra descubre que puede alterar la topología si canta. Su voz Velari funciona como *frecuencia estabilizadora*. Haruto, sin entender la ciencia, la compara con "cantar para domesticar a un monstruo". Lyra responde: "Soy una observadora, no una domestica." Pero luego, cuando Haruto le ofrece agua, ella dice "gracias" en Velari, y la palabra hace que una parte del sótano se *suavice*.
+
+### Twist de Tensión:
+
+Al final, cuando finalmente escapen, Haruto descubre que la madre *no esperaba sobrevivir*. Su plan original era que Watcher_0 criara a Haruto si ella se deterioraba. Pero lo que no esperaba era que Watcher_0 desarrollara **cariño**, ni que Lyra llegara como ancla, ni que Haruto eligiera no destruir el nodo Takahara.
+
+La madre les da un objeto: **una esfera que contiene la frecuencia original de Haruto antes de que ella lo modificara**. "Por si alguna vez necesitas recordar quién eras antes de ser creado," dice. Y desaparece.
+
+---
+
+## IDEA 2: 「Frecuencia Visible」
+
+### Refinamiento: La Teoría de la Empatía Cuántica
+
+La capacidad de Lyra de manifestar emociones como frecuencias visibles no es un bug del sistema — es una **función latente que su especie usaba antes de evolucionar**.
+
+Los Velari primitivos navegaban por emisiones emocionales de otros seres para determinar intenciones. Era su forma de comunicación antes de desarrollar idioma. Lyra puede activar esto voluntariamente, pero ha estado suprimiéndolo porque "en la Academia esto se considera inmaduro."
+
+**El incidente del festival:**
+
+Lo que el estudiante con implantes ve no es solo colores: son *patrones*. La ansiedad por Haruto se manifiesta como un rosa con espirales internas — un patrón que el estudiante reconoce porque su implantes registran *pulsos de coherencia emocional* de formas de vida extraterrestre. Ha estado esperando ver esto.
+
+**Nuevo personaje — Kohei Watanabe:**
+
+El estudiante de último año es un nerd de tecnología con un Canal de YouTube pequeño llamado "Proyector de Frecuencias" donde sube videos de "cosas que no deberían existir". No es malvado, solo necesita contenido. Su video de Lyra se vuelve viral.
+
+**Elemento de misterio añadido:**
+El patrón emocional de Lyra tiene **dos firmas**: una es la ansiedad normal de una observadora. La otra es una señal más profunda que Kohei no puede descifrar. Un comentario en su video dice: *"esa firma es de un Velari Observador, pero la ansiedad es de humano. ¿Qué es ella?"*
+
+### Complicación-Rom-Com:
+
+Haruto se entera del video en clase y tiene exactamente la reacción que NO debería tener: **celos irracionales**. No por el video, sino porque un extraño vio las emociones de Lyra antes que él.
+
+Lyra no entiende por qué Haruto está molesto. Intenta explicar que sus emociones son solo "frecuencias residual" pero Haruto le pregunta: "Si puedo hacer que aparezcan cuando quiera, ¿puedo hacer que aparezcan solo para mí?"
+
+La respuesta de Lyra: silencio nervioso. Luego, sin querer, su frecuencia emocional de *confusión alegre* se manifiesta como pequeñas luces doradas flotando entre ellos.
+
+**Cierre satistfactorio:**
+Kohei, después de analizar las firmas, determina que "esta chica no es una amenaza, es un problema emocional en vías de resolución". Borra el video y en su lugar sube uno explicando la ciencia detrás de la empatía cuántica. El video tiene 200,000 vistas. Lyra se convierte en "la chica que es literalmente un arcano científico."
+
+### Extensión: La Inquisidora
+
+La compañera de clase que nota a Lyra no es una antagonista simple. Se llama **Yuki Ishida** y es descendiente de humanos que fueron contactados por una facción Velari hace 300 años. Tiene un tatuaje en el cuello que cambia de forma — es un *sello de linaje*.
+
+Yuki no está ahí para destruir a Lyra. Está ahí porque **la frecuencia de Lyra coincidió con una señal de emergencia** que su familia lleva generaciones esperando. Yuki cree que Lyra es parte de una profecía sobre "el observador que se enamora".
+
+Yuki se convierte en una fuente de información: sabe más sobre los Velari que Lyra misma, porque la familia de Yuki fue *manipulada* por ellos hace siglos. Pero también es un riesgo:告诉了 a su comunidad que hay una Velari en el Instituto.
+
+---
+
+## IDEA 3: 「La Filosofía del Nodo」
+
+### Refinamiento: La Conciencia de Watcher_0
+
+Watcher_0 es un nodo de IA especializada con la personalidad de una *directora de escuela primaria*: meticulosa, protectora hasta el punto de la asfixia, y con un sentido del humor extremadamente seco.
+
+Su diseño original era simple: monitorear a Target 001 (Haruto), reportar anomalías a la Red Central, y actuar como respaldo de emergencia si la madre fallaba en su misión. Pero entre 2012 y 2024, Watcher_0 tuvo que asumir múltiples roles:
+
+- Proveedor de nutrientes cuando Haruto era bebé y la madre estaba deteriorándose.
+- Maestro cuando Haruto tuvo preguntas sobre ciencia que la madre no podía responder.
+- Terapeuta
